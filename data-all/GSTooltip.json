@@ -1,0 +1,890 @@
+{
+  "BuffEffect": {
+    "quantityText": "2",
+    "image": "BuffEffect",
+    "onlyShowOnce": false,
+    "id": "BuffEffect"
+  },
+  "NerfEffect": {
+    "quantityText": "3",
+    "image": "NerfEffect",
+    "onlyShowOnce": false,
+    "id": "NerfEffect"
+  },
+  "teamselect.proficiency.command": {
+    "headerText": "Data_Tooltip_TeamSelect_Proficiency_Command_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_Proficiency_Command_infoText",
+    "image": "Class_Command",
+    "onlyShowOnce": false,
+    "id": "teamselect.proficiency.command"
+  },
+  "teamselect.proficiency.medical": {
+    "headerText": "Data_Tooltip_TeamSelect_Proficiency_Medical_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_Proficiency_Medical_infoText",
+    "image": "Class_Medical",
+    "onlyShowOnce": false,
+    "id": "teamselect.proficiency.medical"
+  },
+  "teamselect.proficiency.science": {
+    "headerText": "Data_Tooltip_TeamSelect_Proficiency_Science_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_Proficiency_Science_infoText",
+    "image": "Class_Science",
+    "onlyShowOnce": false,
+    "id": "teamselect.proficiency.science"
+  },
+  "teamselect.proficiency.engineering": {
+    "headerText": "Data_Tooltip_TeamSelect_Proficiency_Engineering_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_Proficiency_Engineering_infoText",
+    "image": "Class_Engineering",
+    "onlyShowOnce": false,
+    "id": "teamselect.proficiency.engineering"
+  },
+  "teamselect.proficiency.security": {
+    "headerText": "Data_Tooltip_TeamSelect_Proficiency_Security_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_Proficiency_Security_infoText",
+    "image": "Class_Security",
+    "onlyShowOnce": false,
+    "id": "teamselect.proficiency.security"
+  },
+  "morale 1": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_1_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_1_infoText",
+    "image": "Morale_+1",
+    "onlyShowOnce": false,
+    "id": "morale 1"
+  },
+  "morale 2": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_2_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_2_infoText",
+    "image": "Morale_+2",
+    "onlyShowOnce": false,
+    "id": "morale 2"
+  },
+  "morale 3": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_3_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_3_infoText",
+    "image": "Morale_+3",
+    "onlyShowOnce": false,
+    "id": "morale 3"
+  },
+  "Morale_0": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_0_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_0_infoText",
+    "image": "Morale_0",
+    "onlyShowOnce": false,
+    "id": "Morale_0"
+  },
+  "morale -1": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_-1_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_-1_infoText",
+    "image": "Morale_-1",
+    "onlyShowOnce": false,
+    "id": "morale -1"
+  },
+  "morale -2": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_-2_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_-2_infoText",
+    "image": "Morale_-2",
+    "onlyShowOnce": false,
+    "id": "morale -2"
+  },
+  "morale -3": {
+    "headerText": "Data_Tooltip_Morale_headerText",
+    "subHeaderText": "Data_Tooltip_Morale_-3_subHeaderText",
+    "infoText": "Data_Tooltip_Morale_-3_infoText",
+    "image": "Morale_-3",
+    "onlyShowOnce": false,
+    "id": "morale -3"
+  },
+  "League0": {
+    "headerText": "Data_Tooltip_PVP_League0_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League0_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League0_infoText",
+    "image": "League1",
+    "onlyShowOnce": false,
+    "id": "League0"
+  },
+  "League1": {
+    "headerText": "Data_Tooltip_PVP_League1_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League1_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League1_infoText",
+    "image": "League2",
+    "onlyShowOnce": false,
+    "id": "League1"
+  },
+  "League2": {
+    "headerText": "Data_Tooltip_PVP_League2_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League2_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League2_infoText",
+    "image": "League3",
+    "onlyShowOnce": false,
+    "id": "League2"
+  },
+  "League3": {
+    "headerText": "Data_Tooltip_PVP_League3_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League3_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League3_infoText",
+    "image": "League4",
+    "onlyShowOnce": false,
+    "id": "League3"
+  },
+  "League4": {
+    "headerText": "Data_Tooltip_PVP_League4_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League4_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League4_infoText",
+    "image": "League5",
+    "onlyShowOnce": false,
+    "id": "League4"
+  },
+  "League5": {
+    "headerText": "Data_Tooltip_PVP_League5_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League5_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League5_infoText",
+    "image": "League6",
+    "onlyShowOnce": false,
+    "id": "League5"
+  },
+  "League6": {
+    "headerText": "Data_Tooltip_PVP_League6_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League6_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League6_infoText",
+    "image": "League7",
+    "onlyShowOnce": false,
+    "id": "League6"
+  },
+  "League7": {
+    "headerText": "Data_Tooltip_PVP_League7_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League7_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League7_infoText",
+    "image": "League8",
+    "onlyShowOnce": false,
+    "id": "League7"
+  },
+  "League8": {
+    "headerText": "Data_Tooltip_PVP_League8_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League8_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League8_infoText",
+    "image": "League9",
+    "onlyShowOnce": false,
+    "id": "League8"
+  },
+  "League9": {
+    "headerText": "Data_Tooltip_PVP_League9_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League9_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League9_infoText",
+    "image": "League10",
+    "onlyShowOnce": false,
+    "id": "League9"
+  },
+  "League10": {
+    "headerText": "Data_Tooltip_PVP_League10_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League10_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League10_infoText",
+    "image": "League11",
+    "onlyShowOnce": false,
+    "id": "League10"
+  },
+  "League11": {
+    "headerText": "Data_Tooltip_PVP_League11_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League11_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League11_infoText",
+    "image": "League12",
+    "onlyShowOnce": false,
+    "id": "League11"
+  },
+  "League12": {
+    "headerText": "Data_Tooltip_PVP_League12_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League12_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League12_infoText",
+    "image": "League13",
+    "onlyShowOnce": false,
+    "id": "League12"
+  },
+  "League13": {
+    "headerText": "Data_Tooltip_PVP_League13_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League13_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League13_infoText",
+    "image": "League14",
+    "onlyShowOnce": false,
+    "id": "League13"
+  },
+  "League14": {
+    "headerText": "Data_Tooltip_PVP_League14_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League14_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League14_infoText",
+    "image": "League15",
+    "onlyShowOnce": false,
+    "id": "League14"
+  },
+  "League15": {
+    "headerText": "Data_Tooltip_PVP_League15_headerText",
+    "subHeaderText": "Data_Tooltip_PVP_League15_subHeaderText",
+    "infoText": "Data_Tooltip_PVP_League15_infoText",
+    "image": "League16",
+    "onlyShowOnce": false,
+    "id": "League15"
+  },
+  "accessory.stat.health": {
+    "headerText": "Common_Stat_Health",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Health_infoText",
+    "image": "IconCharStat_Health",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.health"
+  },
+  "accessory.stat.attack": {
+    "headerText": "Common_Stat_Attack",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Attack_infoText",
+    "image": "IconCharStat_Attack",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.attack"
+  },
+  "accessory.stat.defence": {
+    "headerText": "Common_Stat_Defense",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Defense_infoText",
+    "image": "IconCharStat_Defense",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.defence"
+  },
+  "accessory.stat.tech": {
+    "headerText": "Common_Stat_Tech",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Tech_infoText",
+    "image": "IconCharStat_Tech",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.tech"
+  },
+  "accessory.stat.speed": {
+    "headerText": "Common_Stat_Speed",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Speed_infoText",
+    "image": "IconCharStat_Speed",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.speed"
+  },
+  "accessory.stat.critchance": {
+    "headerText": "Common_Stat_CritChance",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_CritChance_infoText",
+    "image": "Icon_Crit",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.critchance"
+  },
+  "accessory.stat.critdamage": {
+    "headerText": "Common_Stat_CritDamage",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_CritDamage_infoText",
+    "image": "Icon_CritPercent",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.critdamage"
+  },
+  "accessory.stat.glancingchance": {
+    "headerText": "Common_Stat_GlancingChance",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_GlancingChance_infoText",
+    "image": "Icon_Glance",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.glancingchance"
+  },
+  "accessory.stat.glancingdamage": {
+    "headerText": "Common_Stat_GlancingDamage",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_GlancingDamage_infoText",
+    "image": "Icon_GlancePercent",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.glancingdamage"
+  },
+  "accessory.stat.resolve": {
+    "headerText": "Common_Stat_Resolve",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Resolve_infoText",
+    "image": "Icon_Resolve",
+    "onlyShowOnce": false,
+    "id": "accessory.stat.resolve"
+  },
+  "CoverSlot": {
+    "headerText": "CoverSlot_Head",
+    "subHeaderText": "CoverSlot_SubHead",
+    "infoText": "CoverSlot_Desc",
+    "image": "Icon_CoverSlot",
+    "onlyShowOnce": false,
+    "id": "CoverSlot"
+  },
+  "NotEnoughPvPStamina": {
+    "headerText": "NotEnoughPvPStamina_Head",
+    "subHeaderText": "NotEnoughPvPStamina_SubHead",
+    "infoText": "NotEnoughPvPStamina_Desc",
+    "image": "PvPStamina",
+    "onlyShowOnce": false,
+    "id": "NotEnoughPvPStamina"
+  },
+  "exploration_attackUp": {
+    "headerText": "Data_Tooltip_Exploration_AttackUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_AttackUp_infoText",
+    "image": "Exploration_AttackUp",
+    "onlyShowOnce": false,
+    "id": "exploration_attackUp"
+  },
+  "exploration_defenseUp": {
+    "headerText": "Data_Tooltip_Exploration_DefenseUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_DefenseUp_infoText",
+    "image": "Exploration_DefenseUp",
+    "onlyShowOnce": false,
+    "id": "exploration_defenseUp"
+  },
+  "exploration_speedUp": {
+    "headerText": "Data_Tooltip_Exploration_SpeedUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_SpeedUp_infoText",
+    "image": "Exploration_SpeedUp",
+    "onlyShowOnce": false,
+    "id": "exploration_speedUp"
+  },
+  "exploration_techUp": {
+    "headerText": "Data_Tooltip_Exploration_TechUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_TechUp_infoText",
+    "image": "Exploration_TechUp",
+    "onlyShowOnce": false,
+    "id": "exploration_techUp"
+  },
+  "exploration_critUp": {
+    "headerText": "Data_Tooltip_Exploration_CritUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_CritUp_infoText",
+    "image": "Exploration_CritUp",
+    "onlyShowOnce": false,
+    "id": "exploration_critUp"
+  },
+  "exploration_critDamageUp": {
+    "headerText": "Data_Tooltip_Exploration_CritDamageUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_CritDamageUp_infoText",
+    "image": "Exploration_CritDamageUp",
+    "onlyShowOnce": false,
+    "id": "exploration_critDamageUp"
+  },
+  "exploration_glancingUp": {
+    "headerText": "Data_Tooltip_Exploration_GlancingUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_GlancingUp_infoText",
+    "image": "Exploration_GlancingUp",
+    "onlyShowOnce": false,
+    "id": "exploration_glancingUp"
+  },
+  "exploration_glancingDamageUp": {
+    "headerText": "Data_Tooltip_Exploration_GlancingDamageUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_GlancingDamageUp_infoText",
+    "image": "Exploration_GlancingDamageUp",
+    "onlyShowOnce": false,
+    "id": "exploration_glancingDamageUp"
+  },
+  "exploration_moraleUp": {
+    "headerText": "Data_Tooltip_Exploration_MoraleUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_MoraleUp_infoText",
+    "image": "Exploration_MoraleUp",
+    "onlyShowOnce": false,
+    "id": "exploration_moraleUp"
+  },
+  "exploration_attackDown": {
+    "headerText": "Data_Tooltip_Exploration_AttackDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_AttackDown_infoText",
+    "image": "Exploration_AttackDown",
+    "onlyShowOnce": false,
+    "id": "exploration_attackDown"
+  },
+  "exploration_defenseDown": {
+    "headerText": "Data_Tooltip_Exploration_DefenseDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_DefenseDown_infoText",
+    "image": "Exploration_DefenseDown",
+    "onlyShowOnce": false,
+    "id": "exploration_defenseDown"
+  },
+  "exploration_speedDown": {
+    "headerText": "Data_Tooltip_Exploration_SpeedDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_SpeedDown_infoText",
+    "image": "Exploration_SpeedDown",
+    "onlyShowOnce": false,
+    "id": "exploration_speedDown"
+  },
+  "exploration_techDown": {
+    "headerText": "Data_Tooltip_Exploration_TechDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_TechDown_infoText",
+    "image": "Exploration_TechDown",
+    "onlyShowOnce": false,
+    "id": "exploration_techDown"
+  },
+  "exploration_critDown": {
+    "headerText": "Data_Tooltip_Exploration_CritDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_CritDown_infoText",
+    "image": "Exploration_CritDown",
+    "onlyShowOnce": false,
+    "id": "exploration_critDown"
+  },
+  "exploration_critDamageDown": {
+    "headerText": "Data_Tooltip_Exploration_CritDamageDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_CritDamageDown_infoText",
+    "image": "Exploration_CritDamageDown",
+    "onlyShowOnce": false,
+    "id": "exploration_critDamageDown"
+  },
+  "exploration_glancingDown": {
+    "headerText": "Data_Tooltip_Exploration_GlancingDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_GlancingDown_infoText",
+    "image": "Exploration_GlancingDown",
+    "onlyShowOnce": false,
+    "id": "exploration_glancingDown"
+  },
+  "exploration_glancingDamageDown": {
+    "headerText": "Data_Tooltip_Exploration_GlancingDamageDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_GlancingDamageDown_infoText",
+    "image": "Exploration_GlancingDamageDown",
+    "onlyShowOnce": false,
+    "id": "exploration_glancingDamageDown"
+  },
+  "exploration_moraleDown": {
+    "headerText": "Data_Tooltip_Exploration_MoraleDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_MoraleDown_infoText",
+    "image": "Exploration_MoraleDown",
+    "onlyShowOnce": false,
+    "id": "exploration_moraleDown"
+  },
+  "exploration_resolveUp": {
+    "headerText": "Data_Tooltip_Exploration_ResolveUp_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_ResolveUp_infoText",
+    "image": "Exploration_ResolveUp",
+    "onlyShowOnce": false,
+    "id": "exploration_resolveUp"
+  },
+  "exploration_resolveDown": {
+    "headerText": "Data_Tooltip_Exploration_ResolveDown_headerText",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Data_Tooltip_Exploration_ResolveDown_infoText",
+    "image": "Exploration_ResolveDown",
+    "onlyShowOnce": false,
+    "id": "exploration_resolveDown"
+  },
+  "BattleLog_Attack_Win": {
+    "headerText": "UI_BattleLog_Attack_Win_Title",
+    "infoText": "UI_BattleLog_Attack_Win_Desc",
+    "image": "Ico_Phaser",
+    "onlyShowOnce": false,
+    "id": "BattleLog_Attack_Win"
+  },
+  "BattleLog_Attack_Defeat": {
+    "headerText": "UI_BattleLog_Attack_Defeat_Title",
+    "infoText": "UI_BattleLog_Attack_Defeat_Desc",
+    "image": "Ico_Phaser",
+    "onlyShowOnce": false,
+    "id": "BattleLog_Attack_Defeat"
+  },
+  "BattleLog_Defense_Win": {
+    "headerText": "UI_BattleLog_Defense_Win_Title",
+    "infoText": "UI_BattleLog_Defense_Win_Desc",
+    "image": "Ico_Shields",
+    "onlyShowOnce": false,
+    "id": "BattleLog_Defense_Win"
+  },
+  "BattleLog_Defense_Defeat": {
+    "headerText": "UI_BattleLog_Defense_Defeat_Title",
+    "infoText": "UI_BattleLog_Defense_Defeat_Desc",
+    "image": "Ico_Shields",
+    "onlyShowOnce": false,
+    "id": "BattleLog_Defense_Defeat"
+  },
+  "HeroInfo_Stats_Health": {
+    "headerText": "Common_Stat_Health",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Health_infoText",
+    "image": "Ico_Health",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Health"
+  },
+  "HeroInfo_Stats_Attack": {
+    "headerText": "Common_Stat_Attack",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Attack_infoText",
+    "image": "Ico_Attack",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Attack"
+  },
+  "HeroInfo_Stats_Defense": {
+    "headerText": "Common_Stat_Defense",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Defense_infoText",
+    "image": "Ico_Shields",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Defense"
+  },
+  "HeroInfo_Stats_Tech": {
+    "headerText": "Common_Stat_Tech",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Tech_infoText",
+    "image": "IconCharStat_Tech",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Tech"
+  },
+  "HeroInfo_Stats_Speed": {
+    "headerText": "Common_Stat_Speed",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Speed_infoText",
+    "image": "Ico_Speed",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Speed"
+  },
+  "HeroInfo_Stats_GlancingChance": {
+    "headerText": "Common_Stat_GlancingChance",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_GlancingChance_infoText",
+    "image": "Icon_GlancePercent",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_GlancingChance"
+  },
+  "HeroInfo_Stats_GlancingDamage": {
+    "headerText": "Common_Stat_GlancingDamage",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_GlancingDamage_infoText",
+    "image": "Icon_Glance",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_GlancingDamage"
+  },
+  "HeroInfo_Stats_CritChance": {
+    "headerText": "Common_Stat_CritChance",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_CritChance_infoText",
+    "image": "Icon_CritPercent",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_CritChance"
+  },
+  "HeroInfo_Stats_CritDamage": {
+    "headerText": "Common_Stat_CritDamage",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_CritDamage_infoText",
+    "image": "Icon_Crit",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_CritDamage"
+  },
+  "HeroInfo_Stats_Resolve": {
+    "headerText": "Common_Stat_Resolve",
+    "infoText": "Data_Tooltip_HeroInfo_Stats_Resolve_infoText",
+    "image": "Icon_Resolve",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Stats_Resolve"
+  },
+  "HeroInfo_Level": {
+    "headerText": "Data_Tooltip_HeroInfo_Level_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Level_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Level"
+  },
+  "HeroInfo_NoXP": {
+    "headerText": "Data_Tooltip_HeroInfo_NoXP_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_NoXP_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_NoXP"
+  },
+  "HeroInfo_Power": {
+    "headerText": "Data_Tooltip_HeroInfo_Power_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Power_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Power"
+  },
+  "HeroInfo_Role": {
+    "headerText": "Data_Tooltip_HeroInfo_Role_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Role_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Role"
+  },
+  "HeroInfo_Rank": {
+    "headerText": "Data_Tooltip_HeroInfo_Rank_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Rank_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Rank"
+  },
+  "HeroInfo_Rarity": {
+    "headerText": "Data_Tooltip_HeroInfo_Rarity_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Rarity_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Rarity"
+  },
+  "HeroInfo_NotEnoughTokens": {
+    "headerText": "Data_Tooltip_HeroInfo_NotEnoughTokens_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_NotEnoughTokens_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_NotEnoughTokens"
+  },
+  "HeroInfo_Tags": {
+    "headerText": "Data_Tooltip_HeroInfo_Tags_headerText",
+    "infoText": "Data_Tooltip_HeroInfo_Tags_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroInfo_Tags"
+  },
+  "HeroCollection_Locked": {
+    "headerText": "Data_Tooltip_HeroCollection_Locked_headerText",
+    "infoText": "Data_Tooltip_HeroCollection_Locked_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroCollection_Locked"
+  },
+  "HeroCollection_Locate": {
+    "headerText": "Data_Tooltip_HeroCollection_Locate_headerText",
+    "infoText": "Data_Tooltip_HeroCollection_Locate_infoText",
+    "onlyShowOnce": false,
+    "id": "HeroCollection_Locate"
+  },
+  "NexusParticle_Rarity": {
+    "headerText": "Data_Tooltip_NexusParticle_Rarity_headerText",
+    "infoText": "Data_Tooltip_NexusParticle_Rarity_infoText",
+    "onlyShowOnce": false,
+    "id": "NexusParticle_Rarity"
+  },
+  "NexusParticle_Tags": {
+    "headerText": "Data_Tooltip_NexusParticle_Tags_headerText",
+    "infoText": "Data_Tooltip_NexusParticle_Tags_infoText",
+    "onlyShowOnce": false,
+    "id": "NexusParticle_Tags"
+  },
+  "NexusParticle_Level": {
+    "headerText": "Data_Tooltip_NexusParticle_Level_headerText",
+    "infoText": "Data_Tooltip_NexusParticle_Level_infoText",
+    "onlyShowOnce": false,
+    "id": "NexusParticle_Level"
+  },
+  "PVP_NoRewards": {
+    "headerText": "Data_Tooltip_PVP_NoRewards_headerText",
+    "infoText": "Data_Tooltip_PVP_NoRewards_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_NoRewards"
+  },
+  "PVP_LeagueLeaderboardLocked": {
+    "headerText": "Data_Tooltip_PVP_LeagueLeaderboardLocked_headerText",
+    "infoText": "Data_Tooltip_PVP_LeagueLeaderboardLocked_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_LeagueLeaderboardLocked"
+  },
+  "PVP_AllianceLeaderboardLocked": {
+    "headerText": "Data_Tooltip_PVP_AllianceLeaderboardLocked_headerText",
+    "infoText": "Data_Tooltip_PVP_AllianceLeaderboardLocked_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_AllianceLeaderboardLocked"
+  },
+  "PVP_DailyChest": {
+    "headerText": "Data_Tooltip_PVP_DailyChest_headerText",
+    "infoText": "Data_Tooltip_PVP_DailyChest_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_DailyChest"
+  },
+  "PVP_PlayerLeague": {
+    "headerText": "Data_Tooltip_PVP_PlayerLeague_headerText",
+    "infoText": "Data_Tooltip_PVP_PlayerLeague_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_PlayerLeague"
+  },
+  "PVP_Matchmaking": {
+    "headerText": "Data_Tooltip_PVP_Matchmaking_headerText",
+    "infoText": "Data_Tooltip_PVP_Matchmaking_infoText",
+    "onlyShowOnce": false,
+    "id": "PVP_Matchmaking"
+  },
+  "PlayerProfile_Level": {
+    "headerText": "Data_Tooltip_PlayerProfile_Level_headerText",
+    "infoText": "Data_Tooltip_PlayerProfile_Level_infoText",
+    "onlyShowOnce": false,
+    "id": "PlayerProfile_Level"
+  },
+  "PlayerProfile_Guild": {
+    "headerText": "Data_Tooltip_PlayerProfile_Guild_headerText",
+    "infoText": "Data_Tooltip_PlayerProfile_Guild_infoText",
+    "onlyShowOnce": false,
+    "id": "PlayerProfile_Guild"
+  },
+  "PlayerProfile_TeamPower": {
+    "headerText": "Data_Tooltip_PlayerProfile_TeamPower_headerText",
+    "infoText": "Data_Tooltip_PlayerProfile_TeamPower_infoText",
+    "onlyShowOnce": false,
+    "id": "PlayerProfile_TeamPower"
+  },
+  "PlayerProfile_PlayerID": {
+    "headerText": "Data_Tooltip_PlayerProfile_PlayerID_headerText",
+    "infoText": "Data_Tooltip_PlayerProfile_PlayerID_infoText",
+    "onlyShowOnce": false,
+    "id": "PlayerProfile_PlayerID"
+  },
+  "PlayerProfile_PVPLeague": {
+    "headerText": "Data_Tooltip_PlayerProfile_PVPLeague_headerText",
+    "infoText": "Data_Tooltip_PlayerProfile_PVPLeague_infoText",
+    "onlyShowOnce": false,
+    "id": "PlayerProfile_PVPLeague"
+  },
+  "TeamSelect_TeamPower": {
+    "headerText": "Data_Tooltip_TeamSelect_TeamPower_headerText",
+    "infoText": "Data_Tooltip_TeamSelect_TeamPower_infoText",
+    "onlyShowOnce": false,
+    "id": "TeamSelect_TeamPower"
+  },
+  "SkillCooldown": {
+    "headerText": "Data_Tooltip_Battle_SkillCooldown_headerText",
+    "infoText": "Data_Tooltip_Battle_SkillCooldown_infoText",
+    "onlyShowOnce": false,
+    "id": "SkillCooldown"
+  },
+  "Error_DailyToken_Limit": {
+    "headerText": "UI_Tooltip_Error_DailyToken_Limit_Head",
+    "infoText": "UI_Tooltip_Error_DailyToken_Limit_Desc",
+    "onlyShowOnce": false,
+    "id": "Error_DailyToken_Limit"
+  },
+  "Error_DailyToken_NotVIP": {
+    "headerText": "UI_Tooltip_Error_DailyToken_NotVIP_Head",
+    "infoText": "UI_Tooltip_Error_DailyToken_NotVIP_Desc",
+    "onlyShowOnce": false,
+    "id": "Error_DailyToken_NotVIP"
+  },
+  "Error_DailyToken_InvalidData": {
+    "headerText": "UI_Tooltip_Error_DailyToken_InvalidData_Head",
+    "infoText": "UI_Tooltip_Error_DailyToken_InvalidData_Desc",
+    "onlyShowOnce": false,
+    "id": "Error_DailyToken_InvalidData"
+  },
+  "Mission_Cost": {
+    "headerText": "UI_Tooltip_Mission_Cost_Head",
+    "infoText": "UI_Tooltip_Mission_Cost_Desc",
+    "onlyShowOnce": false,
+    "id": "Mission_Cost"
+  },
+  "Lootbox_Mysterious_Reward": {
+    "headerText": "UI_Lootbox_Mysterious_reward_tooltip_header",
+    "infoText": "UI_Lootbox_Mysterious_reward_tooltip_body",
+    "onlyShowOnce": false,
+    "id": "Lootbox_Mysterious_Reward"
+  },
+  "Goals_FinalReward": {
+    "headerText": "Data_Tooltip_headerText_Goals_FinalReward",
+    "infoText": "Data_Tooltip_infoText_Goals_FinalReward",
+    "onlyShowOnce": false,
+    "id": "Goals_FinalReward"
+  },
+  "Operations_Stars": {
+    "headerText": "Operations_Tooltip_StarTooltip_Title",
+    "infoText": "Operations_Tooltip_StarTooltip_Desc",
+    "onlyShowOnce": false,
+    "id": "Operations_Stars"
+  },
+  "Operations_GeneralInfo": {
+    "headerText": "Operations_Tooltip_Title",
+    "infoText": "Operations_Tooltip_Desc",
+    "onlyShowOnce": false,
+    "id": "Operations_GeneralInfo"
+  },
+  "Operations_QuickLoot_Disabled": {
+    "headerText": "_QUICK LOOK",
+    "infoText": "_In order to Quick Loot this Operation battle needs to be active and completed with 3 stars.",
+    "onlyShowOnce": false,
+    "id": "Operations_QuickLoot_Disabled"
+  },
+  "Shuttlecraft_Unavailable": {
+    "headerText": "UI_Tooltip_Shuttlecraft_Unavailable_Header",
+    "infoText": "UI_Tooltip_Shuttlecraft_Unavailable_Body",
+    "onlyShowOnce": false,
+    "id": "Shuttlecraft_Unavailable"
+  },
+  "Shuttlecraft_CharacterDeployed": {
+    "headerText": "UI_Tooltip_Shuttlecraft_CharacterDeployed_Header",
+    "infoText": "UI_Tooltip_Shuttlecraft_CharacterDeployed_Body",
+    "onlyShowOnce": false,
+    "id": "Shuttlecraft_CharacterDeployed"
+  },
+  "Events_Hub": {
+    "headerText": "UI_Events_Tooltip",
+    "infoText": "UI_Events_Tooltip_Desc",
+    "onlyShowOnce": false,
+    "id": "Events_Hub"
+  },
+  "Events_Factions_FederationKlingon": {
+    "headerText": "UI_FactionEvents",
+    "infoText": "UI_FactionEvents_Tooltip",
+    "quantityText": "50",
+    "onlyShowOnce": false,
+    "id": "Events_Factions_FederationKlingon"
+  },
+  "Missions_CharacterDeployed": {
+    "headerText": "UI_Tooltip_Missions_CharacterDeployed_Header",
+    "infoText": "UI_Tooltip_Missions_CharacterDeployed_Body",
+    "onlyShowOnce": false,
+    "id": "Missions_CharacterDeployed"
+  },
+  "Gear_LevelUp_NotEnoughResources": {
+    "headerText": "UI_Gear_Tooltip_Upgrade_NotEnoughResources_Header",
+    "infoText": "UI_Gear_Tooltip_LevelUp_NotEnoughResources_Body",
+    "onlyShowOnce": false,
+    "id": "Gear_LevelUp_NotEnoughResources"
+  },
+  "Gear_RankUp_NotEnoughResources": {
+    "headerText": "UI_Gear_Tooltip_Upgrade_NotEnoughResources_Header",
+    "infoText": "UI_Gear_Tooltip_RankUp_NotEnoughResources_Body",
+    "onlyShowOnce": false,
+    "id": "Gear_RankUp_NotEnoughResources"
+  },
+  "Gear_RankUp_NotMaxLevel": {
+    "headerText": "UI_Gear_Tooltip_Upgrade_NotMaxLevel_Header",
+    "infoText": "UI_Gear_Tooltip_RankUp_NotMaxLevel_Body",
+    "onlyShowOnce": false,
+    "id": "Gear_RankUp_NotMaxLevel"
+  },
+  "Events_Solo": {
+    "headerText": "UI_Events_SoloEvent_Tooltip_Title",
+    "infoText": "UI_Events_SoloEvent_Tooltip_Desc",
+    "onlyShowOnce": false,
+    "id": "Events_Solo"
+  },
+  "UI_MainMenu_ControllerSupport": {
+    "headerText": "UI_MainMenu_ControllerSupport_Title",
+    "infoText": "UI_MainMenu_ControllerSupport_Desc",
+    "onlyShowOnce": false,
+    "id": "UI_MainMenu_ControllerSupport"
+  },
+  "AllianceMissingName": {
+    "headerText": "UI_Menu_Alliance_CreateNameErrorTitle",
+    "infoText": "UI_Menu_Alliance_CreateNameErrorBody",
+    "onlyShowOnce": false,
+    "id": "AllianceMissingName"
+  },
+  "AllianceFull": {
+    "headerText": "UI_Menu_Alliance_FullErrorTitle",
+    "infoText": "UI_Menu_Alliance_FullErrorBody",
+    "onlyShowOnce": false,
+    "id": "AllianceFull"
+  },
+  "AlliancePendingJoinRequest": {
+    "headerText": "UI_Menu_Alliance_PendingRequestErrorTitle",
+    "infoText": "UI_Menu_Alliance_PendingRequestErrorBody",
+    "onlyShowOnce": false,
+    "id": "AlliancePendingJoinRequest"
+  },
+  "AllianceBelowRequiredLevel": {
+    "headerText": "UI_Menu_Alliance_LowLevelErrorTitle",
+    "infoText": "UI_Menu_Alliance_LowLevelErrorBody",
+    "onlyShowOnce": false,
+    "id": "AllianceBelowRequiredLevel"
+  },
+  "EpisodeLocked_ComingSoon": {
+    "headerText": "UI_Mission_Popup_NotAvailable_Title",
+    "infoText": "UI_Mission_Popup_ComingSoon_Body",
+    "onlyShowOnce": false,
+    "id": "EpisodeLocked_ComingSoon"
+  },
+  "AllianceRaidInfo": {
+    "headerText": "UI_Menu_Alliance_AllianceRaids",
+    "infoText": "Tutorial_Alliance_Raid_Tooltip",
+    "onlyShowOnce": false,
+    "id": "AllianceRaidInfo"
+  },
+  "FakeEpisode7": {
+    "headerText": "UI_Mission_Popup_ComingSoon_Header",
+    "infoText": "UI_Mission_Popup_ComingSoon_Body",
+    "onlyShowOnce": false,
+    "id": "FakeEpisode7"
+  }
+}

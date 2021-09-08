@@ -1,0 +1,266 @@
+{
+  "1": {
+    "Name": "Borg Queen",
+    "id": "1"
+  },
+  "2": {
+    "Name": "Michael Burnham",
+    "id": "2"
+  },
+  "3": {
+    "Name": "Beverly Crusher",
+    "id": "3"
+  },
+  "4": {
+    "Name": "Hugh Culber",
+    "id": "4"
+  },
+  "5": {
+    "Name": "Data",
+    "id": "5"
+  },
+  "6": {
+    "Name": "The Doctor",
+    "id": "6"
+  },
+  "7": {
+    "Name": "Gul Dukat",
+    "id": "7"
+  },
+  "8": {
+    "Name": "Borg Maintenance Drone",
+    "id": "8"
+  },
+  "9": {
+    "Name": "Borg Medical Drone",
+    "id": "9"
+  },
+  "10": {
+    "Name": "Borg Assimilation Drone",
+    "id": "10"
+  },
+  "11": {
+    "Name": "Borg Tactical Drone",
+    "id": "11"
+  },
+  "12": {
+    "Name": "Cardassian Commander",
+    "id": "12"
+  },
+  "13": {
+    "Name": "Cardassian Engineer",
+    "id": "13"
+  },
+  "14": {
+    "Name": "Cardassian Medic",
+    "id": "14"
+  },
+  "15": {
+    "Name": "Cardassian Scientist",
+    "id": "15"
+  },
+  "16": {
+    "Name": "Cardassian Security",
+    "id": "16"
+  },
+  "17": {
+    "Name": "Starfleet Commander",
+    "id": "17"
+  },
+  "18": {
+    "Name": "Starfleet Engineer",
+    "id": "18"
+  },
+  "19": {
+    "Name": "Starfleet Medic",
+    "id": "19"
+  },
+  "20": {
+    "Name": "Starfleet Scientist",
+    "id": "20"
+  },
+  "21": {
+    "Name": "Starfleet Security",
+    "id": "21"
+  },
+  "22": {
+    "Name": "Klingon Commander",
+    "id": "22"
+  },
+  "23": {
+    "Name": "Klingon Engineer",
+    "id": "23"
+  },
+  "24": {
+    "Name": "Klingon Medic",
+    "id": "24"
+  },
+  "25": {
+    "Name": "Klingon Scientist",
+    "id": "25"
+  },
+  "26": {
+    "Name": "Klingon Security",
+    "id": "26"
+  },
+  "27": {
+    "Name": "Romulan Commander",
+    "id": "27"
+  },
+  "28": {
+    "Name": "Romulan Engineer",
+    "id": "28"
+  },
+  "29": {
+    "Name": "Romulan Medic",
+    "id": "29"
+  },
+  "30": {
+    "Name": "Romulan Scientist",
+    "id": "30"
+  },
+  "31": {
+    "Name": "Romulan Security",
+    "id": "31"
+  },
+  "32": {
+    "Name": "Geordi La Forge",
+    "id": "32"
+  },
+  "33": {
+    "Name": "Philippa Georgiou",
+    "id": "33"
+  },
+  "34": {
+    "Name": "The Gorn",
+    "id": "34"
+  },
+  "35": {
+    "Name": "Captain Janeway",
+    "id": "35"
+  },
+  "36": {
+    "Name": "Khan",
+    "id": "36"
+  },
+  "37": {
+    "Name": "Captain Kirk",
+    "id": "37"
+  },
+  "38": {
+    "Name": "Locutus of Borg",
+    "id": "38"
+  },
+  "39": {
+    "Name": "Martok",
+    "id": "39"
+  },
+  "40": {
+    "Name": "Leonard McCoy",
+    "id": "40"
+  },
+  "41": {
+    "Name": "Kira Nerys",
+    "id": "41"
+  },
+  "42": {
+    "Name": "Seven of Nine",
+    "id": "42"
+  },
+  "43": {
+    "Name": "Odo",
+    "id": "43"
+  },
+  "44": {
+    "Name": "Phlox",
+    "id": "44"
+  },
+  "45": {
+    "Name": "Captain Picard",
+    "id": "45"
+  },
+  "46": {
+    "Name": "Picard",
+    "id": "46"
+  },
+  "47": {
+    "Name": "Captain Pike",
+    "id": "47"
+  },
+  "48": {
+    "Name": "Quark",
+    "id": "48"
+  },
+  "49": {
+    "Name": "William Riker",
+    "id": "49"
+  },
+  "50": {
+    "Name": "Saru",
+    "id": "50"
+  },
+  "51": {
+    "Name": "Montgomery Scott",
+    "id": "51"
+  },
+  "52": {
+    "Name": "Sela",
+    "id": "52"
+  },
+  "53": {
+    "Name": "Captain Sisko",
+    "id": "53"
+  },
+  "54": {
+    "Name": "Soji Asha",
+    "id": "54"
+  },
+  "55": {
+    "Name": "Spock",
+    "id": "55"
+  },
+  "56": {
+    "Name": "Hikaru Sulu",
+    "id": "56"
+  },
+  "57": {
+    "Name": "Sutra",
+    "id": "57"
+  },
+  "58": {
+    "Name": "Tomalak",
+    "id": "58"
+  },
+  "59": {
+    "Name": "B'Elanna Torres",
+    "id": "59"
+  },
+  "60": {
+    "Name": "T'Pol",
+    "id": "60"
+  },
+  "61": {
+    "Name": "Nyota Uhura",
+    "id": "61"
+  },
+  "62": {
+    "Name": "Worf",
+    "id": "62"
+  },
+  "63": {
+    "Name": "Red Star",
+    "id": "63"
+  },
+  "64": {
+    "Name": "Morlo",
+    "id": "64"
+  },
+  "65": {
+    "Name": "Molen",
+    "id": "65"
+  },
+  "66": {
+    "Name": "Dawn Forever",
+    "id": "66"
+  }
+}

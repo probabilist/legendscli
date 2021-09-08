@@ -1,0 +1,1550 @@
+{
+  "solo_reward_0": {
+    "pointsRequirement": 100,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [
+        "Kirk"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Kirk": 1,
+        "Shards Basic": 1
+      },
+      "FirstAmount": 1,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_0"
+  },
+  "solo_reward_1": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 100
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_1"
+  },
+  "solo_reward_2": {
+    "pointsRequirement": 2500,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 100
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_2"
+  },
+  "solo_reward_3": {
+    "pointsRequirement": 5000,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 100
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_3"
+  },
+  "solo_reward_NPE_ms1": {
+    "pointsRequirement": 50,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 25
+      },
+      "FirstAmount": 25,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_NPE_ms1"
+  },
+  "solo_reward_NPE_ms2": {
+    "pointsRequirement": 100,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_NPE_ms2"
+  },
+  "solo_reward_NPE_ms3": {
+    "pointsRequirement": 150,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_NPE_ms3"
+  },
+  "solo_reward_NPE_ms4": {
+    "pointsRequirement": 200,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Engineer 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_NPE_ms4"
+  },
+  "solo_reward_NPE_ms5": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Factions_FederationKlingon",
+    "reward": {
+      "Characters": [
+        "Geordi"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_NPE_ms5"
+  },
+  "solo_reward_ms1": {
+    "pointsRequirement": 50,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_ms1"
+  },
+  "solo_reward_ms2": {
+    "pointsRequirement": 100,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_ms2"
+  },
+  "solo_reward_ms3": {
+    "pointsRequirement": 200,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_ms3"
+  },
+  "solo_reward_ms4": {
+    "pointsRequirement": 300,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_ms4"
+  },
+  "solo_reward_ms5": {
+    "pointsRequirement": 400,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_ms5"
+  },
+  "solo_reward_command_ms1": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_ms1"
+  },
+  "solo_reward_command_ms2": {
+    "pointsRequirement": 500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Command 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_ms2"
+  },
+  "solo_reward_command_ms3": {
+    "pointsRequirement": 750,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_ms3"
+  },
+  "solo_reward_command_ms4": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Command 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_ms4"
+  },
+  "solo_reward_command_ms5": {
+    "pointsRequirement": 1250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_ms5"
+  },
+  "solo_reward_command_easy_ms1": {
+    "pointsRequirement": 150,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_easy_ms1"
+  },
+  "solo_reward_command_easy_ms2": {
+    "pointsRequirement": 300,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Command 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_easy_ms2"
+  },
+  "solo_reward_command_easy_ms3": {
+    "pointsRequirement": 450,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_easy_ms3"
+  },
+  "solo_reward_command_easy_ms4": {
+    "pointsRequirement": 600,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Command 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_easy_ms4"
+  },
+  "solo_reward_command_easy_ms5": {
+    "pointsRequirement": 850,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_command_easy_ms5"
+  },
+  "solo_reward_science_ms1": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_ms1"
+  },
+  "solo_reward_science_ms2": {
+    "pointsRequirement": 500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Science 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_ms2"
+  },
+  "solo_reward_science_ms3": {
+    "pointsRequirement": 750,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_ms3"
+  },
+  "solo_reward_science_ms4": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Science 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_ms4"
+  },
+  "solo_reward_science_ms5": {
+    "pointsRequirement": 1250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_ms5"
+  },
+  "solo_reward_engineering_ms1": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_engineering_ms1"
+  },
+  "solo_reward_engineering_ms2": {
+    "pointsRequirement": 500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Engineer 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_engineering_ms2"
+  },
+  "solo_reward_engineering_ms3": {
+    "pointsRequirement": 750,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_engineering_ms3"
+  },
+  "solo_reward_engineering_ms4": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Engineer 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_engineering_ms4"
+  },
+  "solo_reward_engineering_ms5": {
+    "pointsRequirement": 1250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_engineering_ms5"
+  },
+  "solo_reward_security_ms1": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_ms1"
+  },
+  "solo_reward_security_ms2": {
+    "pointsRequirement": 500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Security 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_ms2"
+  },
+  "solo_reward_security_ms3": {
+    "pointsRequirement": 750,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_ms3"
+  },
+  "solo_reward_security_ms4": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Security 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_ms4"
+  },
+  "solo_reward_security_ms5": {
+    "pointsRequirement": 1250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_ms5"
+  },
+  "solo_reward_medical_ms1": {
+    "pointsRequirement": 250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_medical_ms1"
+  },
+  "solo_reward_medical_ms2": {
+    "pointsRequirement": 500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Medical 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_medical_ms2"
+  },
+  "solo_reward_medical_ms3": {
+    "pointsRequirement": 750,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_medical_ms3"
+  },
+  "solo_reward_medical_ms4": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Medical 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_medical_ms4"
+  },
+  "solo_reward_medical_ms5": {
+    "pointsRequirement": 1250,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_medical_ms5"
+  },
+  "solo_reward_security_easy_ms1": {
+    "pointsRequirement": 150,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_easy_ms1"
+  },
+  "solo_reward_security_easy_ms2": {
+    "pointsRequirement": 300,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Security 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_easy_ms2"
+  },
+  "solo_reward_security_easy_ms3": {
+    "pointsRequirement": 450,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_easy_ms3"
+  },
+  "solo_reward_security_easy_ms4": {
+    "pointsRequirement": 600,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Security 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_easy_ms4"
+  },
+  "solo_reward_security_easy_ms5": {
+    "pointsRequirement": 850,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_security_easy_ms5"
+  },
+  "solo_reward_science_easy_ms1": {
+    "pointsRequirement": 150,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_easy_ms1"
+  },
+  "solo_reward_science_easy_ms2": {
+    "pointsRequirement": 300,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Science 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_easy_ms2"
+  },
+  "solo_reward_science_easy_ms3": {
+    "pointsRequirement": 450,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_easy_ms3"
+  },
+  "solo_reward_science_easy_ms4": {
+    "pointsRequirement": 600,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Proto Science 01": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_easy_ms4"
+  },
+  "solo_reward_science_easy_ms5": {
+    "pointsRequirement": 850,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 75
+      },
+      "FirstAmount": 75,
+      "IsEmpty": false
+    },
+    "id": "solo_reward_science_easy_ms5"
+  },
+  "solo_reward_BorgQueen": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "BorgQueen"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_BorgQueen"
+  },
+  "solo_reward_Burnham": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Burnham"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Burnham"
+  },
+  "solo_reward_Crusher": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Crusher"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Crusher"
+  },
+  "solo_reward_Culber": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Culber"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Culber"
+  },
+  "solo_reward_Data": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Data"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Data"
+  },
+  "solo_reward_Doctor": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Doctor"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Doctor"
+  },
+  "solo_reward_Dukat": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Dukat"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Dukat"
+  },
+  "solo_reward_Geordi": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Geordi"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Geordi"
+  },
+  "solo_reward_Georgiou": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Georgiou"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Georgiou"
+  },
+  "solo_reward_Gorn": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Gorn"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Gorn"
+  },
+  "solo_reward_Janeway": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Janeway"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Janeway"
+  },
+  "solo_reward_Khan": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Khan"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Khan"
+  },
+  "solo_reward_Kirk": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Kirk"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Kirk"
+  },
+  "solo_reward_Locutus": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Locutus"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Locutus"
+  },
+  "solo_reward_Martok": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Martok"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Martok"
+  },
+  "solo_reward_McCoy": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "McCoy"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_McCoy"
+  },
+  "solo_reward_Nerys": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Nerys"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Nerys"
+  },
+  "solo_reward_Nine": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Nine"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Nine"
+  },
+  "solo_reward_Odo_easy": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Odo"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Odo_easy"
+  },
+  "solo_reward_Odo": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Odo"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Odo"
+  },
+  "solo_reward_Phlox": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Phlox"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Phlox"
+  },
+  "solo_reward_Picard": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Picard"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Picard"
+  },
+  "solo_reward_PicardOld": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "PicardOld"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_PicardOld"
+  },
+  "solo_reward_Pike": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Pike"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Pike"
+  },
+  "solo_reward_Quark": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Quark"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Quark"
+  },
+  "solo_reward_Riker": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Riker"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Riker"
+  },
+  "solo_reward_Saru": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Saru"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Saru"
+  },
+  "solo_reward_Scott": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Scott"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Scott"
+  },
+  "solo_reward_Sela": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Sela"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Sela"
+  },
+  "solo_reward_Sisko": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Sisko"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Sisko"
+  },
+  "solo_reward_Soji": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Soji"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Soji"
+  },
+  "solo_reward_Spock": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Spock"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Spock"
+  },
+  "solo_reward_Sulu": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Sulu"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Sulu"
+  },
+  "solo_reward_Sutra": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Sutra"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Sutra"
+  },
+  "solo_reward_Tomalak": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Tomalak"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Tomalak"
+  },
+  "solo_reward_Torres": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Torres"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Torres"
+  },
+  "solo_reward_TPol": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "TPol"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_TPol"
+  },
+  "solo_reward_Uhura_easy": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Uhura"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Uhura_easy"
+  },
+  "solo_reward_Uhura": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Uhura"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Uhura"
+  },
+  "solo_reward_Worf": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Worf"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Worf"
+  },
+  "solo_reward_BorgQueen_easy": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "BorgQueen"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_BorgQueen_easy"
+  },
+  "solo_reward_Picard_easy": {
+    "pointsRequirement": 1000,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Picard"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Picard_easy"
+  },
+  "solo_reward_PicardDixon": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "PicardDixon"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_PicardDixon"
+  },
+  "solo_reward_Stamets": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Stamets"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Stamets"
+  },
+  "solo_reward_Tilly": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Tilly"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Tilly"
+  },
+  "solo_reward_Chang": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Chang"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Chang"
+  },
+  "solo_reward_Elnor": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Elnor"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Elnor"
+  },
+  "solo_reward_Chekov": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Chekov"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Chekov"
+  },
+  "solo_reward_Troi": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Troi"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Troi"
+  }
+}

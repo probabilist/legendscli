@@ -1,0 +1,602 @@
+{
+  "1": {
+    "localizationKey": "Alliance_Name_First_01",
+    "componentPlacement": "First",
+    "id": "1"
+  },
+  "2": {
+    "localizationKey": "Alliance_Name_First_02",
+    "componentPlacement": "First",
+    "id": "2"
+  },
+  "3": {
+    "localizationKey": "Alliance_Name_First_03",
+    "componentPlacement": "First",
+    "id": "3"
+  },
+  "4": {
+    "localizationKey": "Alliance_Name_First_04",
+    "componentPlacement": "First",
+    "id": "4"
+  },
+  "5": {
+    "localizationKey": "Alliance_Name_First_05",
+    "componentPlacement": "First",
+    "id": "5"
+  },
+  "6": {
+    "localizationKey": "Alliance_Name_First_06",
+    "componentPlacement": "First",
+    "id": "6"
+  },
+  "7": {
+    "localizationKey": "Alliance_Name_First_07",
+    "componentPlacement": "First",
+    "id": "7"
+  },
+  "8": {
+    "localizationKey": "Alliance_Name_First_08",
+    "componentPlacement": "First",
+    "id": "8"
+  },
+  "9": {
+    "localizationKey": "Alliance_Name_First_09",
+    "componentPlacement": "First",
+    "id": "9"
+  },
+  "10": {
+    "localizationKey": "Alliance_Name_First_10",
+    "componentPlacement": "First",
+    "id": "10"
+  },
+  "11": {
+    "localizationKey": "Alliance_Name_First_11",
+    "componentPlacement": "First",
+    "id": "11"
+  },
+  "12": {
+    "localizationKey": "Alliance_Name_First_12",
+    "componentPlacement": "First",
+    "id": "12"
+  },
+  "13": {
+    "localizationKey": "Alliance_Name_First_13",
+    "componentPlacement": "First",
+    "id": "13"
+  },
+  "14": {
+    "localizationKey": "Alliance_Name_First_14",
+    "componentPlacement": "First",
+    "id": "14"
+  },
+  "15": {
+    "localizationKey": "Alliance_Name_First_15",
+    "componentPlacement": "First",
+    "id": "15"
+  },
+  "16": {
+    "localizationKey": "Alliance_Name_First_16",
+    "componentPlacement": "First",
+    "id": "16"
+  },
+  "17": {
+    "localizationKey": "Alliance_Name_First_17",
+    "componentPlacement": "First",
+    "id": "17"
+  },
+  "18": {
+    "localizationKey": "Alliance_Name_First_18",
+    "componentPlacement": "First",
+    "id": "18"
+  },
+  "19": {
+    "localizationKey": "Alliance_Name_First_19",
+    "componentPlacement": "First",
+    "id": "19"
+  },
+  "20": {
+    "localizationKey": "Alliance_Name_First_20",
+    "componentPlacement": "First",
+    "id": "20"
+  },
+  "21": {
+    "localizationKey": "Alliance_Name_First_21",
+    "componentPlacement": "First",
+    "id": "21"
+  },
+  "22": {
+    "localizationKey": "Alliance_Name_First_22",
+    "componentPlacement": "First",
+    "id": "22"
+  },
+  "23": {
+    "localizationKey": "Alliance_Name_First_23",
+    "componentPlacement": "First",
+    "id": "23"
+  },
+  "24": {
+    "localizationKey": "Alliance_Name_First_24",
+    "componentPlacement": "First",
+    "id": "24"
+  },
+  "25": {
+    "localizationKey": "Alliance_Name_First_25",
+    "componentPlacement": "First",
+    "id": "25"
+  },
+  "26": {
+    "localizationKey": "Alliance_Name_First_26",
+    "componentPlacement": "First",
+    "id": "26"
+  },
+  "27": {
+    "localizationKey": "Alliance_Name_First_27",
+    "componentPlacement": "First",
+    "id": "27"
+  },
+  "28": {
+    "localizationKey": "Alliance_Name_First_28",
+    "componentPlacement": "First",
+    "id": "28"
+  },
+  "29": {
+    "localizationKey": "Alliance_Name_First_29",
+    "componentPlacement": "First",
+    "id": "29"
+  },
+  "30": {
+    "localizationKey": "Alliance_Name_First_30",
+    "componentPlacement": "First",
+    "id": "30"
+  },
+  "31": {
+    "localizationKey": "Alliance_Name_First_31",
+    "componentPlacement": "First",
+    "id": "31"
+  },
+  "32": {
+    "localizationKey": "Alliance_Name_First_32",
+    "componentPlacement": "First",
+    "id": "32"
+  },
+  "33": {
+    "localizationKey": "Alliance_Name_First_33",
+    "componentPlacement": "First",
+    "id": "33"
+  },
+  "34": {
+    "localizationKey": "Alliance_Name_First_34",
+    "componentPlacement": "First",
+    "id": "34"
+  },
+  "35": {
+    "localizationKey": "Alliance_Name_First_35",
+    "componentPlacement": "First",
+    "id": "35"
+  },
+  "36": {
+    "localizationKey": "Alliance_Name_First_36",
+    "componentPlacement": "First",
+    "id": "36"
+  },
+  "37": {
+    "localizationKey": "Alliance_Name_First_37",
+    "componentPlacement": "First",
+    "id": "37"
+  },
+  "38": {
+    "localizationKey": "Alliance_Name_First_38",
+    "componentPlacement": "First",
+    "id": "38"
+  },
+  "39": {
+    "localizationKey": "Alliance_Name_First_39",
+    "componentPlacement": "First",
+    "id": "39"
+  },
+  "40": {
+    "localizationKey": "Alliance_Name_First_40",
+    "componentPlacement": "First",
+    "id": "40"
+  },
+  "41": {
+    "localizationKey": "Alliance_Name_First_41",
+    "componentPlacement": "First",
+    "id": "41"
+  },
+  "42": {
+    "localizationKey": "Alliance_Name_First_42",
+    "componentPlacement": "First",
+    "id": "42"
+  },
+  "43": {
+    "localizationKey": "Alliance_Name_First_43",
+    "componentPlacement": "First",
+    "id": "43"
+  },
+  "44": {
+    "localizationKey": "Alliance_Name_First_44",
+    "componentPlacement": "First",
+    "id": "44"
+  },
+  "45": {
+    "localizationKey": "Alliance_Name_First_45",
+    "componentPlacement": "First",
+    "id": "45"
+  },
+  "46": {
+    "localizationKey": "Alliance_Name_First_46",
+    "componentPlacement": "First",
+    "id": "46"
+  },
+  "47": {
+    "localizationKey": "Alliance_Name_First_47",
+    "componentPlacement": "First",
+    "id": "47"
+  },
+  "48": {
+    "localizationKey": "Alliance_Name_First_48",
+    "componentPlacement": "First",
+    "id": "48"
+  },
+  "49": {
+    "localizationKey": "Alliance_Name_First_49",
+    "componentPlacement": "First",
+    "id": "49"
+  },
+  "50": {
+    "localizationKey": "Alliance_Name_First_50",
+    "componentPlacement": "First",
+    "id": "50"
+  },
+  "51": {
+    "localizationKey": "Alliance_Name_First_51",
+    "componentPlacement": "First",
+    "id": "51"
+  },
+  "52": {
+    "localizationKey": "Alliance_Name_First_52",
+    "componentPlacement": "First",
+    "id": "52"
+  },
+  "53": {
+    "localizationKey": "Alliance_Name_First_53",
+    "componentPlacement": "First",
+    "id": "53"
+  },
+  "54": {
+    "localizationKey": "Alliance_Name_First_54",
+    "componentPlacement": "First",
+    "id": "54"
+  },
+  "55": {
+    "localizationKey": "Alliance_Name_First_55",
+    "componentPlacement": "First",
+    "id": "55"
+  },
+  "56": {
+    "localizationKey": "Alliance_Name_First_56",
+    "componentPlacement": "First",
+    "id": "56"
+  },
+  "57": {
+    "localizationKey": "Alliance_Name_First_57",
+    "componentPlacement": "First",
+    "id": "57"
+  },
+  "58": {
+    "localizationKey": "Alliance_Name_First_58",
+    "componentPlacement": "First",
+    "id": "58"
+  },
+  "59": {
+    "localizationKey": "Alliance_Name_First_59",
+    "componentPlacement": "First",
+    "id": "59"
+  },
+  "60": {
+    "localizationKey": "Alliance_Name_First_60",
+    "componentPlacement": "First",
+    "id": "60"
+  },
+  "61": {
+    "localizationKey": "Alliance_Name_First_61",
+    "componentPlacement": "First",
+    "id": "61"
+  },
+  "62": {
+    "localizationKey": "Alliance_Name_First_62",
+    "componentPlacement": "First",
+    "id": "62"
+  },
+  "63": {
+    "localizationKey": "Alliance_Name_First_63",
+    "componentPlacement": "First",
+    "id": "63"
+  },
+  "64": {
+    "localizationKey": "Alliance_Name_First_64",
+    "componentPlacement": "First",
+    "id": "64"
+  },
+  "65": {
+    "localizationKey": "Alliance_Name_First_65",
+    "componentPlacement": "First",
+    "id": "65"
+  },
+  "66": {
+    "localizationKey": "Alliance_Name_First_66",
+    "componentPlacement": "First",
+    "id": "66"
+  },
+  "67": {
+    "localizationKey": "Alliance_Name_First_67",
+    "componentPlacement": "First",
+    "id": "67"
+  },
+  "68": {
+    "localizationKey": "Alliance_Name_First_68",
+    "componentPlacement": "First",
+    "id": "68"
+  },
+  "69": {
+    "localizationKey": "Alliance_Name_First_69",
+    "componentPlacement": "First",
+    "id": "69"
+  },
+  "70": {
+    "localizationKey": "Alliance_Name_First_70",
+    "componentPlacement": "First",
+    "id": "70"
+  },
+  "71": {
+    "localizationKey": "Alliance_Name_First_71",
+    "componentPlacement": "First",
+    "id": "71"
+  },
+  "72": {
+    "localizationKey": "Alliance_Name_First_72",
+    "componentPlacement": "First",
+    "id": "72"
+  },
+  "73": {
+    "localizationKey": "Alliance_Name_First_73",
+    "componentPlacement": "First",
+    "id": "73"
+  },
+  "74": {
+    "localizationKey": "Alliance_Name_First_74",
+    "componentPlacement": "First",
+    "id": "74"
+  },
+  "75": {
+    "localizationKey": "Alliance_Name_First_75",
+    "componentPlacement": "First",
+    "id": "75"
+  },
+  "76": {
+    "localizationKey": "Alliance_Name_First_76",
+    "componentPlacement": "First",
+    "id": "76"
+  },
+  "77": {
+    "localizationKey": "Alliance_Name_First_77",
+    "componentPlacement": "First",
+    "id": "77"
+  },
+  "78": {
+    "localizationKey": "Alliance_Name_First_78",
+    "componentPlacement": "First",
+    "id": "78"
+  },
+  "79": {
+    "localizationKey": "Alliance_Name_Second_01",
+    "componentPlacement": "Second",
+    "id": "79"
+  },
+  "80": {
+    "localizationKey": "Alliance_Name_Second_02",
+    "componentPlacement": "Second",
+    "id": "80"
+  },
+  "81": {
+    "localizationKey": "Alliance_Name_Second_03",
+    "componentPlacement": "Second",
+    "id": "81"
+  },
+  "82": {
+    "localizationKey": "Alliance_Name_Second_04",
+    "componentPlacement": "Second",
+    "id": "82"
+  },
+  "83": {
+    "localizationKey": "Alliance_Name_Second_05",
+    "componentPlacement": "Second",
+    "id": "83"
+  },
+  "84": {
+    "localizationKey": "Alliance_Name_Second_06",
+    "componentPlacement": "Second",
+    "id": "84"
+  },
+  "85": {
+    "localizationKey": "Alliance_Name_Second_07",
+    "componentPlacement": "Second",
+    "id": "85"
+  },
+  "86": {
+    "localizationKey": "Alliance_Name_Second_08",
+    "componentPlacement": "Second",
+    "id": "86"
+  },
+  "87": {
+    "localizationKey": "Alliance_Name_Second_09",
+    "componentPlacement": "Second",
+    "id": "87"
+  },
+  "88": {
+    "localizationKey": "Alliance_Name_Second_10",
+    "componentPlacement": "Second",
+    "id": "88"
+  },
+  "89": {
+    "localizationKey": "Alliance_Name_Second_11",
+    "componentPlacement": "Second",
+    "id": "89"
+  },
+  "90": {
+    "localizationKey": "Alliance_Name_Second_12",
+    "componentPlacement": "Second",
+    "id": "90"
+  },
+  "91": {
+    "localizationKey": "Alliance_Name_Second_13",
+    "componentPlacement": "Second",
+    "id": "91"
+  },
+  "92": {
+    "localizationKey": "Alliance_Name_Second_14",
+    "componentPlacement": "Second",
+    "id": "92"
+  },
+  "93": {
+    "localizationKey": "Alliance_Name_Second_15",
+    "componentPlacement": "Second",
+    "id": "93"
+  },
+  "94": {
+    "localizationKey": "Alliance_Name_Second_16",
+    "componentPlacement": "Second",
+    "id": "94"
+  },
+  "95": {
+    "localizationKey": "Alliance_Name_Second_17",
+    "componentPlacement": "Second",
+    "id": "95"
+  },
+  "96": {
+    "localizationKey": "Alliance_Name_Second_18",
+    "componentPlacement": "Second",
+    "id": "96"
+  },
+  "97": {
+    "localizationKey": "Alliance_Name_Second_19",
+    "componentPlacement": "Second",
+    "id": "97"
+  },
+  "98": {
+    "localizationKey": "Alliance_Name_Second_20",
+    "componentPlacement": "Second",
+    "id": "98"
+  },
+  "99": {
+    "localizationKey": "Alliance_Name_Second_21",
+    "componentPlacement": "Second",
+    "id": "99"
+  },
+  "100": {
+    "localizationKey": "Alliance_Name_Second_22",
+    "componentPlacement": "Second",
+    "id": "100"
+  },
+  "101": {
+    "localizationKey": "Alliance_Name_Second_23",
+    "componentPlacement": "Second",
+    "id": "101"
+  },
+  "102": {
+    "localizationKey": "Alliance_Name_Second_24",
+    "componentPlacement": "Second",
+    "id": "102"
+  },
+  "103": {
+    "localizationKey": "Alliance_Name_Second_25",
+    "componentPlacement": "Second",
+    "id": "103"
+  },
+  "104": {
+    "localizationKey": "Alliance_Name_Second_26",
+    "componentPlacement": "Second",
+    "id": "104"
+  },
+  "105": {
+    "localizationKey": "Alliance_Name_Second_27",
+    "componentPlacement": "Second",
+    "id": "105"
+  },
+  "106": {
+    "localizationKey": "Alliance_Name_Second_28",
+    "componentPlacement": "Second",
+    "id": "106"
+  },
+  "107": {
+    "localizationKey": "Alliance_Name_Second_29",
+    "componentPlacement": "Second",
+    "id": "107"
+  },
+  "108": {
+    "localizationKey": "Alliance_Name_Second_30",
+    "componentPlacement": "Second",
+    "id": "108"
+  },
+  "109": {
+    "localizationKey": "Alliance_Name_Second_31",
+    "componentPlacement": "Second",
+    "id": "109"
+  },
+  "110": {
+    "localizationKey": "Alliance_Name_Second_32",
+    "componentPlacement": "Second",
+    "id": "110"
+  },
+  "111": {
+    "localizationKey": "Alliance_Name_Second_33",
+    "componentPlacement": "Second",
+    "id": "111"
+  },
+  "112": {
+    "localizationKey": "Alliance_Name_Second_34",
+    "componentPlacement": "Second",
+    "id": "112"
+  },
+  "113": {
+    "localizationKey": "Alliance_Name_Second_35",
+    "componentPlacement": "Second",
+    "id": "113"
+  },
+  "114": {
+    "localizationKey": "Alliance_Name_Second_36",
+    "componentPlacement": "Second",
+    "id": "114"
+  },
+  "115": {
+    "localizationKey": "Alliance_Name_Second_37",
+    "componentPlacement": "Second",
+    "id": "115"
+  },
+  "116": {
+    "localizationKey": "Alliance_Name_Second_38",
+    "componentPlacement": "Second",
+    "id": "116"
+  },
+  "117": {
+    "localizationKey": "Alliance_Name_Second_39",
+    "componentPlacement": "Second",
+    "id": "117"
+  },
+  "118": {
+    "localizationKey": "Alliance_Name_Second_40",
+    "componentPlacement": "Second",
+    "id": "118"
+  },
+  "119": {
+    "localizationKey": "Alliance_Name_Second_41",
+    "componentPlacement": "Second",
+    "id": "119"
+  },
+  "120": {
+    "localizationKey": "Alliance_Name_Second_42",
+    "componentPlacement": "Second",
+    "id": "120"
+  }
+}

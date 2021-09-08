@@ -1,0 +1,322 @@
+{
+  "Powerup01": {
+    "groupId": "BirdofPrey_Bridge",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup01"
+  },
+  "Powerup02": {
+    "groupId": "BirdofPrey_Bridge",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup02"
+  },
+  "Powerup03": {
+    "groupId": "BirdofPrey_Bridge",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup03"
+  },
+  "Powerup04": {
+    "groupId": "BirdofPrey_Engineering",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup04"
+  },
+  "Powerup05": {
+    "groupId": "BirdofPrey_Engineering",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup05"
+  },
+  "Powerup06": {
+    "groupId": "BirdofPrey_Weapons",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup06"
+  },
+  "Powerup07": {
+    "groupId": "BirdofPrey_Weapons",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup07"
+  },
+  "Powerup08": {
+    "groupId": "BirdofPrey_Medbay",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup08"
+  },
+  "Powerup09": {
+    "groupId": "BirdofPrey_Medbay",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup09"
+  },
+  "Powerup10": {
+    "groupId": "BirdofPrey_LifeSupport",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "Class_Command",
+    "uiName": "Common_CharacterRole_Engineering",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup10"
+  },
+  "Powerup11": {
+    "groupId": "Command",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "Class_Command",
+    "uiName": "Alliance_Node_Command",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup11"
+  },
+  "Powerup12": {
+    "groupId": "Medical",
+    "battleModifierId": "exploration_defenseUp",
+    "uiIcon": "Class_Medical",
+    "uiName": "Alliance_Node_Medical",
+    "uiDescription": "Data_Tooltip_Exploration_DefenseUp_infoText",
+    "id": "Powerup12"
+  },
+  "Powerup13": {
+    "groupId": "Bridge",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "Class_Command",
+    "uiName": "Alliance_Node_Bridge",
+    "uiDescription": "Data_Tooltip_Exploration_MoraleUp_infoText",
+    "id": "Powerup13"
+  },
+  "Powerup14": {
+    "groupId": "SensorControl",
+    "battleModifierId": "exploration_glancingUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_SensorControl",
+    "uiDescription": "Data_Tooltip_Exploration_GlancingUp_infoText",
+    "id": "Powerup14"
+  },
+  "Powerup15": {
+    "groupId": "Engineering",
+    "battleModifierId": "exploration_techUp",
+    "uiIcon": "Class_Engineering",
+    "uiName": "Alliance_Node_Engineering",
+    "uiDescription": "Data_Tooltip_Exploration_TechUp_infoText",
+    "id": "Powerup15"
+  },
+  "Powerup16": {
+    "groupId": "WarpDrive",
+    "battleModifierId": "exploration_speedUp",
+    "uiIcon": "IconCharStat_Speed",
+    "uiName": "Alliance_Node_WarpDrive",
+    "uiDescription": "Data_Tooltip_Exploration_SpeedUp_infoText",
+    "id": "Powerup16"
+  },
+  "Powerup17": {
+    "groupId": "ImpulseDrive",
+    "battleModifierId": "exploration_speedDown",
+    "uiIcon": "IconCharStat_Speed",
+    "uiName": "Alliance_Node_ImpulseDrive",
+    "uiDescription": "Data_Tooltip_Exploration_SpeedDown_infoText",
+    "id": "Powerup17"
+  },
+  "Powerup18": {
+    "groupId": "WeaponsControl",
+    "battleModifierId": "exploration_attackUp",
+    "uiIcon": "IconCharStat_Attack",
+    "uiName": "Alliance_Node_WeaponsControl",
+    "uiDescription": "Data_Tooltip_Exploration_AttackUp_infoText",
+    "id": "Powerup18"
+  },
+  "Powerup19": {
+    "groupId": "Security",
+    "battleModifierId": "exploration_attackDown",
+    "uiIcon": "Class_Security",
+    "uiName": "Alliance_Node_Security",
+    "uiDescription": "Data_Tooltip_Exploration_AttackDown_infoText",
+    "id": "Powerup19"
+  },
+  "Powerup20": {
+    "groupId": "Federation1",
+    "battleModifierId": "exploration_techUp",
+    "uiIcon": "IconCharStat_Tech",
+    "uiName": "Alliance_Node_Federation_01",
+    "uiDescription": "Data_Tooltip_Exploration_TechUp_infoText",
+    "id": "Powerup20"
+  },
+  "Powerup21": {
+    "groupId": "Klingon1",
+    "battleModifierId": "exploration_critUp",
+    "uiIcon": "IconCharStat_Attack",
+    "uiName": "Alliance_Node_Klingon_01",
+    "uiDescription": "Data_Tooltip_Exploration_CritUp_infoText",
+    "id": "Powerup21"
+  },
+  "Powerup22": {
+    "groupId": "Cardassian1",
+    "battleModifierId": "exploration_moraleDown",
+    "uiIcon": "IconCharStat_Health",
+    "uiName": "Alliance_Node_Cardassian_01",
+    "uiDescription": "Data_Tooltip_Exploration_MoraleDown_infoText",
+    "id": "Powerup22"
+  },
+  "Powerup23": {
+    "groupId": "Science",
+    "battleModifierId": "exploration_glancingDown",
+    "uiIcon": "Class_Science",
+    "uiName": "Alliance_Node_Science",
+    "uiDescription": "Data_Tooltip_Exploration_GlancingDown_infoText",
+    "id": "Powerup23"
+  },
+  "Powerup24": {
+    "groupId": "LifeSupport",
+    "battleModifierId": "exploration_defenseDown",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_LifeSupport",
+    "uiDescription": "Data_Tooltip_Exploration_DefenseDown_infoText",
+    "id": "Powerup24"
+  },
+  "Powerup25": {
+    "groupId": "ShuttleBay",
+    "battleModifierId": "exploration_techDown",
+    "uiIcon": "IconCharStat_Tech",
+    "uiName": "Alliance_Node_ShuttleBay",
+    "uiDescription": "Data_Tooltip_Exploration_TechDown_infoText",
+    "id": "Powerup25"
+  },
+  "Powerup26": {
+    "groupId": "DeflectorControl",
+    "battleModifierId": "exploration_glancingDamageUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_DeflectorControl",
+    "uiDescription": "Data_Tooltip_Exploration_GlancingDamageUp_infoText",
+    "id": "Powerup26"
+  },
+  "Powerup27": {
+    "groupId": "Federation2",
+    "battleModifierId": "exploration_glancingDamageDown",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_Federation_02",
+    "uiDescription": "Data_Tooltip_Exploration_GlancingDamageDown_infoText",
+    "id": "Powerup27"
+  },
+  "Powerup28": {
+    "groupId": "Klingon2",
+    "battleModifierId": "exploration_critDamageUp",
+    "uiIcon": "IconCharStat_Attack",
+    "uiName": "Alliance_Node_Klingon_02",
+    "uiDescription": "Data_Tooltip_Exploration_CritDamageUp_infoText",
+    "id": "Powerup28"
+  },
+  "Powerup29": {
+    "groupId": "Cardassian2",
+    "battleModifierId": "exploration_defenseUp",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_Cardassian_02",
+    "uiDescription": "Data_Tooltip_Exploration_DefenseUp_infoText",
+    "id": "Powerup29"
+  },
+  "Powerup30": {
+    "groupId": "Command_Borg",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "Class_Command",
+    "uiName": "Alliance_Node_Command_Borg",
+    "uiDescription": "Data_Skill_Stamets_Skill1_description_level1",
+    "id": "Powerup30"
+  },
+  "Powerup31": {
+    "groupId": "Medical_Borg",
+    "battleModifierId": "exploration_defenseUp",
+    "uiIcon": "Class_Medical",
+    "uiName": "Alliance_Node_Medical_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_DefenseUp_infoText",
+    "id": "Powerup31"
+  },
+  "Powerup32": {
+    "groupId": "Bridge_Borg",
+    "battleModifierId": "exploration_moraleUp",
+    "uiIcon": "Class_Command",
+    "uiName": "Alliance_Node_Bridge_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_MoraleUp_infoText",
+    "id": "Powerup32"
+  },
+  "Powerup34": {
+    "groupId": "Engineering_Borg",
+    "battleModifierId": "exploration_techUp",
+    "uiIcon": "Class_Engineering",
+    "uiName": "Alliance_Node_Engineering_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_TechUp_infoText",
+    "id": "Powerup34"
+  },
+  "Powerup35": {
+    "groupId": "WarpDrive_Borg",
+    "battleModifierId": "exploration_speedUp",
+    "uiIcon": "IconCharStat_Speed",
+    "uiName": "Alliance_Node_WarpDrive_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_SpeedUp_infoText",
+    "id": "Powerup35"
+  },
+  "Powerup36": {
+    "groupId": "ImpulseDrive_Borg",
+    "battleModifierId": "exploration_speedDown",
+    "uiIcon": "IconCharStat_Speed",
+    "uiName": "Alliance_Node_ImpulseDrive_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_SpeedDown_infoText",
+    "id": "Powerup36"
+  },
+  "Powerup37": {
+    "groupId": "WeaponsControl_Borg",
+    "battleModifierId": "exploration_attackUp",
+    "uiIcon": "IconCharStat_Attack",
+    "uiName": "Alliance_Node_WeaponsControl_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_AttackUp_infoText",
+    "id": "Powerup37"
+  },
+  "Powerup38": {
+    "groupId": "Security_Borg",
+    "battleModifierId": "exploration_attackDown",
+    "uiIcon": "Class_Security",
+    "uiName": "Alliance_Node_Security_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_AttackDown_infoText",
+    "id": "Powerup38"
+  },
+  "Powerup42": {
+    "groupId": "Science_Borg",
+    "battleModifierId": "exploration_glancingDown",
+    "uiIcon": "Class_Science",
+    "uiName": "Alliance_Node_Science_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_GlancingDown_infoText",
+    "id": "Powerup42"
+  },
+  "Powerup43": {
+    "groupId": "LifeSupport_Borg",
+    "battleModifierId": "exploration_defenseDown",
+    "uiIcon": "IconCharStat_Defense",
+    "uiName": "Alliance_Node_LifeSupport_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_DefenseDown_infoText",
+    "id": "Powerup43"
+  },
+  "Powerup44": {
+    "groupId": "ShuttleBay_Borg",
+    "battleModifierId": "exploration_techDown",
+    "uiIcon": "IconCharStat_Tech",
+    "uiName": "Alliance_Node_ShuttleBay_Borg",
+    "uiDescription": "Data_Tooltip_Exploration_TechDown_infoText",
+    "id": "Powerup44"
+  }
+}

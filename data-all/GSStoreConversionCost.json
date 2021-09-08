@@ -1,0 +1,54 @@
+{
+  "Dilithium": {
+    "latinumPerItem": 0.2,
+    "overrideLocalDescKey": "UI_Popup_ConvertResource_Desc_Dilithium",
+    "overrideImage": "SHOP_Dilithium",
+    "displayOnce": false,
+    "id": "Dilithium"
+  },
+  "Credits": {
+    "latinumPerItem": 0.1,
+    "overrideImage": "SHOP_Credits",
+    "displayOnce": false,
+    "id": "Credits"
+  },
+  "Power Cell": {
+    "latinumPerItem": 0.1,
+    "overrideLocalDescKey": "UI_Popup_ConvertResource_Desc_PowerCells",
+    "displayOnce": false,
+    "id": "Power Cell"
+  },
+  "Shards Basic": {
+    "latinumPerItem": 0.1,
+    "overrideImage": "SHOP_Summon_Basic",
+    "displayOnce": false,
+    "id": "Shards Basic"
+  },
+  "Shards Advanced": {
+    "latinumPerItem": 0.5,
+    "overrideImage": "SHOP_Summon_Advanced",
+    "displayOnce": false,
+    "id": "Shards Advanced"
+  },
+  "Shards Elite": {
+    "latinumPerItem": 1.0,
+    "overrideImage": "SHOP_Summon_Elite",
+    "displayOnce": false,
+    "id": "Shards Elite"
+  },
+  "Shards Credit": {
+    "latinumPerItem": 100.0,
+    "displayOnce": false,
+    "id": "Shards Credit"
+  },
+  "Shards Biomimetic": {
+    "latinumPerItem": 100.0,
+    "displayOnce": false,
+    "id": "Shards Biomimetic"
+  },
+  "Shards Protomatter": {
+    "latinumPerItem": 100.0,
+    "displayOnce": false,
+    "id": "Shards Protomatter"
+  }
+}

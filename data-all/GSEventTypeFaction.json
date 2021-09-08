@@ -1,0 +1,65 @@
+{
+  "FactionEvent_FedKling_RikerMartok": {
+    "factionIds": [
+      "Faction_FedKling_Riker",
+      "Faction_FedKling_Martok"
+    ],
+    "id": "FactionEvent_FedKling_RikerMartok"
+  },
+  "Event_Faction_FedRomu_PicardTomalak": {
+    "factionIds": [
+      "Faction_FedRomu_Picard",
+      "Faction_FedRomu_Tomalak"
+    ],
+    "id": "Event_Faction_FedRomu_PicardTomalak"
+  },
+  "Event_Faction_FedCard_SiskoDukat": {
+    "factionIds": [
+      "Faction_FedCard_Sisko",
+      "Faction_FedCard_Dukat"
+    ],
+    "id": "Event_Faction_FedCard_SiskoDukat"
+  },
+  "FactionEvent_FederationKlingons": {
+    "factionIds": [
+      "Faction_Klingon",
+      "Faction_Federation"
+    ],
+    "id": "FactionEvent_FederationKlingons"
+  },
+  "FactionEvent_FederationRomulan": {
+    "factionIds": [
+      "Faction_Federation_Picard",
+      "Faction_Romulan_Tomalak"
+    ],
+    "id": "FactionEvent_FederationRomulan"
+  },
+  "FactionEvent_FederationCardassian": {
+    "factionIds": [
+      "Faction_Federation_Picard",
+      "Faction_Cardassian_Dukat"
+    ],
+    "id": "FactionEvent_FederationCardassian"
+  },
+  "FactionEvent_FederationBorg": {
+    "factionIds": [
+      "Faction_Federation_Riker",
+      "Faction_Borg_Locutus"
+    ],
+    "id": "FactionEvent_FederationBorg"
+  },
+  "FactionEvent_FederationBorg_02": {
+    "factionIds": [
+      "Faction_Federation_Picard",
+      "Faction_Borg_Queen"
+    ],
+    "id": "FactionEvent_FederationBorg_02"
+  },
+  "FactionEvent_RomulanBorg": {
+    "factionIds": [
+      "Faction_Romulan_Tomalak",
+      "Faction_Borg_Queen"
+    ],
+    "id": "FactionEvent_RomulanBorg"
+  }
+}

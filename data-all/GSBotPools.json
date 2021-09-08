@@ -1,0 +1,114 @@
+{
+  "Healer_G1P1_Common": {
+    "id": "Healer_G1P1_Common"
+  },
+  "Healer_G2P2_Common": {
+    "id": "Healer_G2P2_Common"
+  },
+  "Healer_G3P2_Rare": {
+    "id": "Healer_G3P2_Rare"
+  },
+  "Healer_G4P2_Rare": {
+    "id": "Healer_G4P2_Rare"
+  },
+  "Healer_G4P2_VeryRare": {
+    "id": "Healer_G4P2_VeryRare"
+  },
+  "Healer_G4P2_Epic": {
+    "id": "Healer_G4P2_Epic"
+  },
+  "Healer_G4P2_Legendary": {
+    "id": "Healer_G4P2_Legendary"
+  },
+  "Damage_G1P1_Common": {
+    "id": "Damage_G1P1_Common"
+  },
+  "Damage_G2P2_Common": {
+    "id": "Damage_G2P2_Common"
+  },
+  "Damage_G3P2_Rare": {
+    "id": "Damage_G3P2_Rare"
+  },
+  "Damage_G4P2_Rare": {
+    "id": "Damage_G4P2_Rare"
+  },
+  "Damage_G4P2_VeryRare": {
+    "id": "Damage_G4P2_VeryRare"
+  },
+  "Damage_G4P2_Epic": {
+    "id": "Damage_G4P2_Epic"
+  },
+  "Damage_G4P2_Legendary": {
+    "id": "Damage_G4P2_Legendary"
+  },
+  "Support_G1P1_Common": {
+    "id": "Support_G1P1_Common"
+  },
+  "Support_G2P2_Common": {
+    "id": "Support_G2P2_Common"
+  },
+  "Support_G3P2_Rare": {
+    "id": "Support_G3P2_Rare"
+  },
+  "Support_G4P2_Rare": {
+    "id": "Support_G4P2_Rare"
+  },
+  "Support_G4P2_VeryRare": {
+    "id": "Support_G4P2_VeryRare"
+  },
+  "Support_G4P2_Epic": {
+    "id": "Support_G4P2_Epic"
+  },
+  "Support_G4P2_Legendary": {
+    "id": "Support_G4P2_Legendary"
+  },
+  "DmgSup_G1P1_Common": {
+    "subpools": {
+      "Damage_G1P1_Common": 1,
+      "Support_G1P1_Common": 1
+    },
+    "id": "DmgSup_G1P1_Common"
+  },
+  "DmgSup_G2P2_Common": {
+    "subpools": {
+      "Damage_G2P2_Common": 1,
+      "Support_G2P2_Common": 1
+    },
+    "id": "DmgSup_G2P2_Common"
+  },
+  "DmgSup_G3P2_Rare": {
+    "subpools": {
+      "Damage_G3P2_Rare": 1,
+      "Support_G3P2_Rare": 1
+    },
+    "id": "DmgSup_G3P2_Rare"
+  },
+  "DmgSup_G4P2_Rare": {
+    "subpools": {
+      "Damage_G4P2_Rare": 1,
+      "Support_G4P2_Rare": 1
+    },
+    "id": "DmgSup_G4P2_Rare"
+  },
+  "DmgSup_G4P2_VeryRare": {
+    "subpools": {
+      "Damage_G4P2_VeryRare": 1,
+      "Support_G4P2_VeryRare": 1
+    },
+    "id": "DmgSup_G4P2_VeryRare"
+  },
+  "DmgSup_G4P2_Epic": {
+    "subpools": {
+      "Damage_G4P2_Epic": 1,
+      "Support_G4P2_Epic": 1
+    },
+    "id": "DmgSup_G4P2_Epic"
+  },
+  "DmgSup_G4P2_Legendary": {
+    "subpools": {
+      "Damage_G4P2_Legendary": 1,
+      "Support_G4P2_Legendary": 1
+    },
+    "id": "DmgSup_G4P2_Legendary"
+  }
+}

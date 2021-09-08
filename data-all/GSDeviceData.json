@@ -1,0 +1,699 @@
+{
+  "Adreno 680": {
+    "quality": "High",
+    "gpuName": "Adreno (TM) 680",
+    "id": "Adreno 680"
+  },
+  "Adreno 640": {
+    "quality": "High",
+    "gpuName": "Adreno (TM) 640",
+    "id": "Adreno 640"
+  },
+  "Adreno 630": {
+    "quality": "High",
+    "gpuName": "Adreno (TM) 630",
+    "id": "Adreno 630"
+  },
+  "Adreno 620": {
+    "quality": "Medium",
+    "gpuName": "Adreno (TM) 620",
+    "id": "Adreno 620"
+  },
+  "Adreno 618": {
+    "quality": "Medium",
+    "gpuName": "Adreno (TM) 618",
+    "id": "Adreno 618"
+  },
+  "Adreno 616": {
+    "quality": "Medium",
+    "gpuName": "Adreno (TM) 616",
+    "id": "Adreno 616"
+  },
+  "Adreno 615": {
+    "quality": "Low",
+    "gpuName": "Adreno (TM) 615",
+    "id": "Adreno 615"
+  },
+  "Adreno 612": {
+    "quality": "Low",
+    "gpuName": "Adreno (TM) 612",
+    "id": "Adreno 612"
+  },
+  "Adreno 610": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 610",
+    "id": "Adreno 610"
+  },
+  "Adreno 605": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 605",
+    "id": "Adreno 605"
+  },
+  "Adreno 540": {
+    "quality": "High",
+    "gpuName": "Adreno (TM) 540",
+    "id": "Adreno 540"
+  },
+  "Adreno 530": {
+    "quality": "Medium",
+    "gpuName": "Adreno (TM) 530",
+    "id": "Adreno 530"
+  },
+  "Adreno 512": {
+    "quality": "Low",
+    "gpuName": "Adreno (TM) 512",
+    "id": "Adreno 512"
+  },
+  "Adreno 510": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 510",
+    "id": "Adreno 510"
+  },
+  "Adreno 509": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 509",
+    "id": "Adreno 509"
+  },
+  "Adreno 508": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 508",
+    "id": "Adreno 508"
+  },
+  "Adreno 506": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 506",
+    "id": "Adreno 506"
+  },
+  "Adreno 505": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 505",
+    "id": "Adreno 505"
+  },
+  "Adreno 504": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 504",
+    "id": "Adreno 504"
+  },
+  "Adreno 430": {
+    "quality": "Medium",
+    "gpuName": "Adreno (TM) 430",
+    "id": "Adreno 430"
+  },
+  "Adreno 420": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 420",
+    "id": "Adreno 420"
+  },
+  "Adreno 418": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 418",
+    "id": "Adreno 418"
+  },
+  "Adreno 405": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 405",
+    "id": "Adreno 405"
+  },
+  "Adreno 330": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 330",
+    "id": "Adreno 330"
+  },
+  "Adreno 320": {
+    "quality": "VeryLow",
+    "gpuName": "Adreno (TM) 320",
+    "id": "Adreno 320"
+  },
+  "Mali-G77": {
+    "quality": "High",
+    "gpuName": "Mali-G77",
+    "id": "Mali-G77"
+  },
+  "Mali-G76 MP12": {
+    "quality": "High",
+    "gpuName": "Mali-G76",
+    "modelName": "samsung SM-G97",
+    "id": "Mali-G76 MP12"
+  },
+  "Mali-G76 MP10": {
+    "quality": "High",
+    "gpuName": "Mali-G76",
+    "id": "Mali-G76 MP10"
+  },
+  "Mali-G72 MP18 G": {
+    "quality": "High",
+    "gpuName": "Mali-G72",
+    "modelName": "samsung SM-G96",
+    "id": "Mali-G72 MP18 G"
+  },
+  "Mali-G72 MP18 N": {
+    "quality": "High",
+    "gpuName": "Mali-G72",
+    "modelName": "samsung SM-N96",
+    "id": "Mali-G72 MP18 N"
+  },
+  "Mali-G72 MP12": {
+    "quality": "Low",
+    "gpuName": "Mali-G72",
+    "id": "Mali-G72 MP12"
+  },
+  "Mali-G72 MP3": {
+    "quality": "Low",
+    "gpuName": "Mali-G72",
+    "id": "Mali-G72 MP3"
+  },
+  "Mali-G71 MP20 G": {
+    "quality": "High",
+    "gpuName": "Mali-G71",
+    "modelName": "samsung SM-G95",
+    "id": "Mali-G71 MP20 G"
+  },
+  "Mali-G71 MP20 N": {
+    "quality": "High",
+    "gpuName": "Mali-G71",
+    "modelName": "samsung N95",
+    "id": "Mali-G71 MP20 N"
+  },
+  "Mali-G71 MP8": {
+    "quality": "Low",
+    "gpuName": "Mali-G71",
+    "id": "Mali-G71 MP8"
+  },
+  "Mali-G71 MP2": {
+    "quality": "Low",
+    "gpuName": "Mali-G71",
+    "id": "Mali-G71 MP2"
+  },
+  "Mali-G52": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-G52",
+    "id": "Mali-G52"
+  },
+  "Mali-G51 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-G51",
+    "id": "Mali-G51 MP4"
+  },
+  "Mali-G31": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-G31",
+    "id": "Mali-G31"
+  },
+  "Mali-T880 MP12 G": {
+    "quality": "Medium",
+    "gpuName": "Mali-T880",
+    "modelName": "samsung SM-G93",
+    "id": "Mali-T880 MP12 G"
+  },
+  "Mali-T880 MP12 N": {
+    "quality": "Medium",
+    "gpuName": "Mali-T880",
+    "modelName": "samsung N93",
+    "id": "Mali-T880 MP12 N"
+  },
+  "Mali-T880 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T880",
+    "id": "Mali-T880 MP4"
+  },
+  "Mali-T880 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T880",
+    "id": "Mali-T880 MP2"
+  },
+  "Mali-T860 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T860",
+    "id": "Mali-T860 MP2"
+  },
+  "Mali-T830 MP3": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T830",
+    "id": "Mali-T830 MP3"
+  },
+  "Mali-T830 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T830",
+    "id": "Mali-T830 MP2"
+  },
+  "Mali-T820": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T820",
+    "id": "Mali-T820"
+  },
+  "Mali-T760 MP8": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T760",
+    "id": "Mali-T760 MP8"
+  },
+  "Mali-T760 MP6": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T760",
+    "id": "Mali-T760 MP6"
+  },
+  "Mali-T760 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T760",
+    "id": "Mali-T760 MP4"
+  },
+  "Mali-T760 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T760",
+    "id": "Mali-T760 MP2"
+  },
+  "Mali-T720 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T720",
+    "id": "Mali-T720 MP4"
+  },
+  "Mali-T720 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T720",
+    "id": "Mali-T720 MP2"
+  },
+  "Mali-T720": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T720",
+    "id": "Mali-T720"
+  },
+  "Mali-T678": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T678",
+    "id": "Mali-T678"
+  },
+  "Mali-T628 MP6": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T628",
+    "id": "Mali-T628 MP6"
+  },
+  "Mali-T628 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "Mali-T628",
+    "id": "Mali-T628 MP4"
+  },
+  "Tegra X1": {
+    "quality": "High",
+    "gpuName": "Tegra X1",
+    "id": "Tegra X1"
+  },
+  "Tegra K1": {
+    "quality": "High",
+    "gpuName": "Tegra K1",
+    "id": "Tegra K1"
+  },
+  "PowerVR Apple A14": {
+    "quality": "High",
+    "gpuName": "Apple A14 GPU",
+    "id": "PowerVR Apple A14"
+  },
+  "PowerVR Apple A13": {
+    "quality": "High",
+    "gpuName": "Apple A13 GPU",
+    "id": "PowerVR Apple A13"
+  },
+  "PowerVR Apple A12": {
+    "quality": "High",
+    "gpuName": "Apple A12 GPU",
+    "id": "PowerVR Apple A12"
+  },
+  "PowerVR Apple A12X": {
+    "quality": "High",
+    "gpuName": "Apple A12X GPU",
+    "id": "PowerVR Apple A12X"
+  },
+  "PowerVR Apple A10X Fusion": {
+    "quality": "High",
+    "gpuName": "Apple A10X GPU",
+    "id": "PowerVR Apple A10X Fusion"
+  },
+  "PowerVR Apple A11": {
+    "quality": "High",
+    "gpuName": "Apple A11 GPU",
+    "id": "PowerVR Apple A11"
+  },
+  "PowerVR Apple A10 Fusion": {
+    "quality": "Medium",
+    "gpuName": "Apple A10 GPU",
+    "id": "PowerVR Apple A10 Fusion"
+  },
+  "PowerVR Series 7XT": {
+    "quality": "Medium",
+    "gpuName": "Apple A9X GPU",
+    "id": "PowerVR Series 7XT"
+  },
+  "PowerVR GT7600": {
+    "quality": "VeryLow",
+    "gpuName": "Apple A9 GPU",
+    "id": "PowerVR GT7600"
+  },
+  "PowerVR GXA6850": {
+    "quality": "VeryLow",
+    "gpuName": "Apple A8X GPU",
+    "id": "PowerVR GXA6850"
+  },
+  "PowerVR GX6450": {
+    "quality": "VeryLow",
+    "gpuName": "Apple A8 GPU",
+    "id": "PowerVR GX6450"
+  },
+  "PowerVR GX6250": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR GX6250",
+    "id": "PowerVR GX6250"
+  },
+  "PowerVR G6430": {
+    "quality": "VeryLow",
+    "gpuName": "Apple A7 GPU",
+    "id": "PowerVR G6430"
+  },
+  "PowerVR G6400": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR G6400",
+    "id": "PowerVR G6400"
+  },
+  "PowerVR G6200": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR G6200",
+    "id": "PowerVR G6200"
+  },
+  "PowerVR SGX 554 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR SGX 554",
+    "id": "PowerVR SGX 554 MP4"
+  },
+  "PowerVR SGX 543 MP3": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR SGX 543",
+    "id": "PowerVR SGX 543 MP3"
+  },
+  "PowerVR SGX 543 MP4": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR SGX 543",
+    "id": "PowerVR SGX 543 MP4"
+  },
+  "PowerVR SGX 543 MP2": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR SGX 543",
+    "id": "PowerVR SGX 543 MP2"
+  },
+  "PowerVR SGX 535": {
+    "quality": "VeryLow",
+    "gpuName": "PowerVR SGX 535",
+    "id": "PowerVR SGX 535"
+  },
+  "Intel Iris Graphics 5100": {
+    "quality": "VeryLow",
+    "gpuName": "Intel Iris Graphics 5100",
+    "id": "Intel Iris Graphics 5100"
+  },
+  "Intel Iris Graphics 6100": {
+    "quality": "VeryLow",
+    "gpuName": "Intel Iris Graphics 6100",
+    "id": "Intel Iris Graphics 6100"
+  },
+  "Intel Iris Pro Graphics 5200": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Pro Graphics 5200",
+    "id": "Intel Iris Pro Graphics 5200"
+  },
+  "Intel Iris Pro Graphics 6200": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Pro Graphics 6200",
+    "id": "Intel Iris Pro Graphics 6200"
+  },
+  "Intel Iris Graphics 540": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Graphics 540",
+    "id": "Intel Iris Graphics 540"
+  },
+  "Intel Iris Graphics 550": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Graphics 550",
+    "id": "Intel Iris Graphics 550"
+  },
+  "Intel Iris Plus Graphics 640": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics 640",
+    "id": "Intel Iris Plus Graphics 640"
+  },
+  "Intel Iris Plus Graphics 650": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics 650",
+    "id": "Intel Iris Plus Graphics 650"
+  },
+  "Intel Iris Plus Graphics 655": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics 655",
+    "id": "Intel Iris Plus Graphics 655"
+  },
+  "Intel Iris Plus Graphics 645": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics 645",
+    "id": "Intel Iris Plus Graphics 645"
+  },
+  "Intel Iris Plus Graphics G4": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics G4",
+    "id": "Intel Iris Plus Graphics G4"
+  },
+  "Intel Iris Plus Graphics G7": {
+    "quality": "Low",
+    "gpuName": "Intel Iris Plus Graphics G7",
+    "id": "Intel Iris Plus Graphics G7"
+  },
+  "Intel HD Graphics 530": {
+    "quality": "Low",
+    "gpuName": "Intel HD Graphics 530",
+    "id": "Intel HD Graphics 530"
+  },
+  "Intel HD Graphics 630": {
+    "quality": "Low",
+    "gpuName": "Intel HD Graphics 630",
+    "id": "Intel HD Graphics 630"
+  },
+  "Intel HD Graphics 515": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 515",
+    "id": "Intel HD Graphics 515"
+  },
+  "Intel HD Graphics 615": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 615",
+    "id": "Intel HD Graphics 615"
+  },
+  "Intel HD Graphics 4000": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 4000",
+    "id": "Intel HD Graphics 4000"
+  },
+  "Intel HD Graphics 5000": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 5000",
+    "id": "Intel HD Graphics 5000"
+  },
+  "Intel HD Graphics 5300": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 5300",
+    "id": "Intel HD Graphics 5300"
+  },
+  "Intel HD Graphics 6000": {
+    "quality": "VeryLow",
+    "gpuName": "Intel HD Graphics 6000",
+    "id": "Intel HD Graphics 6000"
+  },
+  "Intel UHD Graphics 617": {
+    "quality": "VeryLow",
+    "gpuName": "Intel UHD Graphics 617",
+    "id": "Intel UHD Graphics 617"
+  },
+  "Intel UHD Graphics 630": {
+    "quality": "Low",
+    "gpuName": "Intel UHD Graphics 630",
+    "id": "Intel UHD Graphics 630"
+  },
+  "NVIDIA GeForce GT 650M": {
+    "quality": "Low",
+    "gpuName": "NVIDIA GeForce GT 650M",
+    "id": "NVIDIA GeForce GT 650M"
+  },
+  "NVIDIA GeForce GT 750M": {
+    "quality": "Low",
+    "gpuName": "NVIDIA GeForce GT 750M",
+    "id": "NVIDIA GeForce GT 750M"
+  },
+  "AMD Radeon R9 M370X": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon R9 M370X",
+    "id": "AMD Radeon R9 M370X"
+  },
+  "AMD Radeon R9 M290X": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon R9 M290X",
+    "id": "AMD Radeon R9 M290X"
+  },
+  "AMD Radeon R9 M295X": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon R9 M295X",
+    "id": "AMD Radeon R9 M295X"
+  },
+  "AMD Radeon R9 M290": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon R9 M290",
+    "id": "AMD Radeon R9 M290"
+  },
+  "AMD Radeon R9 M380": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon R9 M380",
+    "id": "AMD Radeon R9 M380"
+  },
+  "AMD Radeon R9 M390": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon R9 M390",
+    "id": "AMD Radeon R9 M390"
+  },
+  "AMD Radeon R9 M395": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon R9 M395",
+    "id": "AMD Radeon R9 M395"
+  },
+  "AMD Radeon R9 M395X": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon R9 M395X",
+    "id": "AMD Radeon R9 M395X"
+  },
+  "AMD Radeon Pro 455": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon Pro 455",
+    "id": "AMD Radeon Pro 455"
+  },
+  "AMD Radeon Pro 450": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon Pro 450",
+    "id": "AMD Radeon Pro 450"
+  },
+  "AMD Radeon Pro 555": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon Pro 555",
+    "id": "AMD Radeon Pro 555"
+  },
+  "AMD Radeon Pro 560": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 560",
+    "id": "AMD Radeon Pro 560"
+  },
+  "AMD Radeon Pro 555X": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon Pro 555X",
+    "id": "AMD Radeon Pro 555X"
+  },
+  "AMD Radeon Pro 560X": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 560X",
+    "id": "AMD Radeon Pro 560X"
+  },
+  "AMD Radeon Pro 5300M": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 5300M",
+    "id": "AMD Radeon Pro 5300M"
+  },
+  "AMD Radeon Pro 5500M": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 5500M",
+    "id": "AMD Radeon Pro 5500M"
+  },
+  "AMD Radeon Pro 580X": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro 580X",
+    "id": "AMD Radeon Pro 580X"
+  },
+  "AMD Radeon Pro W5500X": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro W5500X",
+    "id": "AMD Radeon Pro W5500X"
+  },
+  "AMD Radeon Pro W5700X": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro W5700X",
+    "id": "AMD Radeon Pro W5700X"
+  },
+  "AMD Radeon Pro Vega II": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro Vega II",
+    "id": "AMD Radeon Pro Vega II"
+  },
+  "AMD Radeon Pro Vega II Duo": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro Vega II Duo",
+    "id": "AMD Radeon Pro Vega II Duo"
+  },
+  "AMD Radeon Pro 570": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 570",
+    "id": "AMD Radeon Pro 570"
+  },
+  "AMD Radeon Pro Vega 56": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro Vega 56",
+    "id": "AMD Radeon Pro Vega 56"
+  },
+  "AMD Radeon Pro 570X": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 570X",
+    "id": "AMD Radeon Pro 570X"
+  },
+  "AMD Radeon Pro 5300": {
+    "quality": "Low",
+    "gpuName": "AMD Radeon Pro 5300",
+    "id": "AMD Radeon Pro 5300"
+  },
+  "AMD Radeon Pro 575": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 575",
+    "id": "AMD Radeon Pro 575"
+  },
+  "AMD Radeon Pro 580": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 580",
+    "id": "AMD Radeon Pro 580"
+  },
+  "AMD Radeon Pro Vega 64": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro Vega 64",
+    "id": "AMD Radeon Pro Vega 64"
+  },
+  "AMD Radeon Pro Vega 64X": {
+    "quality": "High",
+    "gpuName": "AMD Radeon Pro Vega 64X",
+    "id": "AMD Radeon Pro Vega 64X"
+  },
+  "AMD Radeon Pro 575X": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 575X",
+    "id": "AMD Radeon Pro 575X"
+  },
+  "AMD Radeon Pro 5500 XT": {
+    "quality": "Medium",
+    "gpuName": "AMD Radeon Pro 5500 XT",
+    "id": "AMD Radeon Pro 5500 XT"
+  },
+  "AMD FirePro D300": {
+    "quality": "Low",
+    "gpuName": "AMD FirePro D300",
+    "id": "AMD FirePro D300"
+  },
+  "AMD FirePro D500": {
+    "quality": "Low",
+    "gpuName": "AMD FirePro D500",
+    "id": "AMD FirePro D500"
+  },
+  "AMD FirePro D700": {
+    "quality": "Medium",
+    "gpuName": "AMD FirePro D700",
+    "id": "AMD FirePro D700"
+  },
+  "Apple M1": {
+    "quality": "High",
+    "gpuName": "Apple M1",
+    "id": "Apple M1"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "2": {
+    "order": 1,
+    "taskId": "DoBattle_10",
+    "eventTaskSetId": "EventTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "2"
+  },
+  "3": {
+    "order": 2,
+    "taskId": "DoMission_10",
+    "eventTaskSetId": "EventTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "3"
+  },
+  "4": {
+    "order": 4,
+    "taskId": "UpgradeLevel_10",
+    "eventTaskSetId": "EventTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "4"
+  },
+  "5": {
+    "order": 1,
+    "taskId": "DoBattle_10",
+    "eventTaskSetId": "EventTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "5"
+  },
+  "6": {
+    "order": 2,
+    "taskId": "DoMission_10",
+    "eventTaskSetId": "EventTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "6"
+  },
+  "7": {
+    "order": 4,
+    "taskId": "UpgradeLevel_10",
+    "eventTaskSetId": "EventTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "7"
+  },
+  "8": {
+    "order": 5,
+    "taskId": "Summon_10",
+    "eventTaskSetId": "EventTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10,
+        "EventPoint": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "8"
+  }
+}

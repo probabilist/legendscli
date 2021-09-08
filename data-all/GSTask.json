@@ -1,0 +1,3142 @@
+{
+  "DoBattle_01": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 1,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_01"
+  },
+  "DoBattle_03": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 3,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_03"
+  },
+  "DoBattle_05": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 5,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_05"
+  },
+  "DoBattle_10": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 10,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_10"
+  },
+  "DoBattle_50": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 50,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_50"
+  },
+  "DoBattle_100": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 100,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_100"
+  },
+  "DoBattle_150": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 150,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_150"
+  },
+  "DoBattle_250": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 250,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_250"
+  },
+  "DoBattle_500": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 500,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_500"
+  },
+  "DoBattle_1000": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 1000,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "DoBattle_1000"
+  },
+  "BattleNode_3": {
+    "type": "BattleNode",
+    "name": "Data_Tasks_Task_Name_BattleComplete",
+    "description": "Data_Tasks_Task_Desc_BattleComplete",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "BattleNode_3"
+  },
+  "ExplorationNode_3": {
+    "type": "ExplorationNode",
+    "name": "Data_Tasks_Task_Name_ExplorationComplete",
+    "description": "Data_Tasks_Task_Desc_ExplorationComplete",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "ExplorationNode_3"
+  },
+  "ExplorationNode_50": {
+    "type": "ExplorationNode",
+    "name": "Data_Tasks_Task_Name_ExplorationComplete",
+    "description": "Data_Tasks_Task_Desc_ExplorationComplete",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "ExplorationNode_50"
+  },
+  "ExplorationChoicesCommand_10": {
+    "type": "ExplorationChoice",
+    "name": "Data_Tasks_Task_Name_ExplorationChoices_01",
+    "description": "Data_Tasks_Task_Desc_ExplorationChoices_01",
+    "requirementValue": 10,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Command",
+    "id": "ExplorationChoicesCommand_10"
+  },
+  "ExplorationChoicesScience_10": {
+    "type": "ExplorationChoice",
+    "name": "Data_Tasks_Task_Name_ExplorationChoices_02",
+    "description": "Data_Tasks_Task_Desc_ExplorationChoices_02",
+    "requirementValue": 10,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Science",
+    "id": "ExplorationChoicesScience_10"
+  },
+  "ExplorationChoicesSecurity_10": {
+    "type": "ExplorationChoice",
+    "name": "Data_Tasks_Task_Name_ExplorationChoices_03",
+    "description": "Data_Tasks_Task_Desc_ExplorationChoices_03",
+    "requirementValue": 10,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Security",
+    "id": "ExplorationChoicesSecurity_10"
+  },
+  "ExplorationChoicesMedical_10": {
+    "type": "ExplorationChoice",
+    "name": "Data_Tasks_Task_Name_ExplorationChoices_04",
+    "description": "Data_Tasks_Task_Desc_ExplorationChoices_04",
+    "requirementValue": 10,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Medical",
+    "id": "ExplorationChoicesMedical_10"
+  },
+  "ExplorationChoicesEngineering_10": {
+    "type": "ExplorationChoice",
+    "name": "Data_Tasks_Task_Name_ExplorationChoices_05",
+    "description": "Data_Tasks_Task_Desc_ExplorationChoices_05",
+    "requirementValue": 10,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Engineering",
+    "id": "ExplorationChoicesEngineering_10"
+  },
+  "UpgradeLevel_01": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_01"
+  },
+  "UpgradeLevel_02": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 2,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_02"
+  },
+  "UpgradeLevel_03": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_03"
+  },
+  "UpgradeLevel_05": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 5,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_05"
+  },
+  "UpgradeLevel_10": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_10"
+  },
+  "UpgradeLevel_25": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 25,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_25"
+  },
+  "UpgradeLevel_50": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_50"
+  },
+  "UpgradeLevel_100": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_100"
+  },
+  "UpgradeLevel_200": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 200,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_200"
+  },
+  "UpgradeLevel_300": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 300,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_300"
+  },
+  "UpgradeLevel_400": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Task_Name_CrewLevelUp",
+    "description": "Data_Tasks_Task_Desc_CrewLevelUp",
+    "requirementValue": 400,
+    "restrictionType01": "None",
+    "id": "UpgradeLevel_400"
+  },
+  "SkillUp_01": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "SkillUp_01"
+  },
+  "SkillUp_02": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 2,
+    "restrictionType01": "None",
+    "id": "SkillUp_02"
+  },
+  "SkillUp_03": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "SkillUp_03"
+  },
+  "SkillUp_10": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "SkillUp_10"
+  },
+  "SkillUp_25": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 25,
+    "restrictionType01": "None",
+    "id": "SkillUp_25"
+  },
+  "SkillUp_50": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "SkillUp_50"
+  },
+  "SkillUp_75": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 75,
+    "restrictionType01": "None",
+    "id": "SkillUp_75"
+  },
+  "SkillUp_100": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "SkillUp_100"
+  },
+  "SkillUp_250": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Task_Name_SkillUp",
+    "description": "Data_Tasks_Task_Desc_SkillUp",
+    "requirementValue": 250,
+    "restrictionType01": "None",
+    "id": "SkillUp_250"
+  },
+  "Episode_01": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_01",
+    "description": "Data_Tasks_Task_Desc_Episode_01",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 6",
+    "id": "Episode_01"
+  },
+  "Episode_02": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_02",
+    "description": "Data_Tasks_Task_Desc_Episode_02",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 6",
+    "id": "Episode_02"
+  },
+  "Episode_03": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_03",
+    "description": "Data_Tasks_Task_Desc_Episode_03",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 6",
+    "id": "Episode_03"
+  },
+  "Episode_04": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_04",
+    "description": "Data_Tasks_Task_Desc_Episode_04",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 4 mission 6",
+    "id": "Episode_04"
+  },
+  "Episode_05": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_05",
+    "description": "Data_Tasks_Task_Desc_Episode_05",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 5 mission 6",
+    "id": "Episode_05"
+  },
+  "Episode_06": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_06",
+    "description": "Data_Tasks_Task_Desc_Episode_06",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 6 mission 6",
+    "id": "Episode_06"
+  },
+  "Episode_07": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_07",
+    "description": "Data_Tasks_Task_Desc_Episode_07",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 6",
+    "id": "Episode_07"
+  },
+  "Episode_08": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_08",
+    "description": "Data_Tasks_Task_Desc_Episode_08",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 6",
+    "id": "Episode_08"
+  },
+  "Episode_09": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_09",
+    "description": "Data_Tasks_Task_Desc_Episode_09",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 6",
+    "id": "Episode_09"
+  },
+  "Episode_10": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_10",
+    "description": "Data_Tasks_Task_Desc_Episode_10",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 4 mission 6",
+    "id": "Episode_10"
+  },
+  "Episode_11": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_11",
+    "description": "Data_Tasks_Task_Desc_Episode_11",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 5 mission 6",
+    "id": "Episode_11"
+  },
+  "Episode_12": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_12",
+    "description": "Data_Tasks_Task_Desc_Episode_12",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 6 mission 6",
+    "id": "Episode_12"
+  },
+  "Episode_13": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_13",
+    "description": "Data_Tasks_Task_Desc_Episode_13",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 6",
+    "id": "Episode_13"
+  },
+  "Episode_14": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_14",
+    "description": "Data_Tasks_Task_Desc_Episode_14",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 6",
+    "id": "Episode_14"
+  },
+  "Episode_15": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_15",
+    "description": "Data_Tasks_Task_Desc_Episode_15",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 6",
+    "id": "Episode_15"
+  },
+  "Episode_16": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_16",
+    "description": "Data_Tasks_Task_Desc_Episode_16",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 4 mission 6",
+    "id": "Episode_16"
+  },
+  "Episode_17": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_17",
+    "description": "Data_Tasks_Task_Desc_Episode_17",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 5 mission 6",
+    "id": "Episode_17"
+  },
+  "Episode_18": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_Episode_18",
+    "description": "Data_Tasks_Task_Desc_Episode_18",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 6 mission 6",
+    "id": "Episode_18"
+  },
+  "Summon_01": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Summon_01"
+  },
+  "Summon_02": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 2,
+    "restrictionType01": "None",
+    "id": "Summon_02"
+  },
+  "Summon_03": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "Summon_03"
+  },
+  "Summon_10": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "Summon_10"
+  },
+  "Summon_25": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 25,
+    "restrictionType01": "None",
+    "id": "Summon_25"
+  },
+  "Summon_50": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "Summon_50"
+  },
+  "Summon_75": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "Summon_75"
+  },
+  "Summon_100": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "Summon_100"
+  },
+  "Summon_500": {
+    "type": "Summon",
+    "name": "Data_Tasks_Task_Name_Summon",
+    "description": "Data_Tasks_Task_Desc_Summon",
+    "requirementValue": 500,
+    "restrictionType01": "None",
+    "id": "Summon_500"
+  },
+  "CollectCharacters_Common_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_01",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_01",
+    "requirementValue": 5,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "Common",
+    "id": "CollectCharacters_Common_05"
+  },
+  "CollectCharacters_Rare_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_02",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_02",
+    "requirementValue": 5,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "Rare",
+    "id": "CollectCharacters_Rare_05"
+  },
+  "CollectCharacters_VeryRare_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_03",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_03",
+    "requirementValue": 5,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "VeryRare",
+    "id": "CollectCharacters_VeryRare_05"
+  },
+  "CollectCharacters_Epic_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_04",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_04",
+    "requirementValue": 5,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "Epic",
+    "id": "CollectCharacters_Epic_05"
+  },
+  "CollectCharacters_Legendary_01": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_05",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_05",
+    "requirementValue": 1,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "Legendary",
+    "id": "CollectCharacters_Legendary_01"
+  },
+  "CollectCharacters_Legendary_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_05",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_05",
+    "requirementValue": 5,
+    "restrictionType01": "Rarity",
+    "restrictionValue01": "Legendary",
+    "id": "CollectCharacters_Legendary_05"
+  },
+  "ReachLeague_01": {
+    "type": "ReachLeague",
+    "name": "Data_Tasks_Task_Name_ReachLeague_01",
+    "description": "Data_Tasks_Task_Desc_ReachLeague_01",
+    "requirementValue": 1,
+    "restrictionType01": "League",
+    "restrictionValue01": "1",
+    "id": "ReachLeague_01"
+  },
+  "ReachLeague_02": {
+    "type": "ReachLeague",
+    "name": "Data_Tasks_Task_Name_ReachLeague_02",
+    "description": "Data_Tasks_Task_Desc_ReachLeague_02",
+    "requirementValue": 1,
+    "restrictionType01": "League",
+    "restrictionValue01": "4",
+    "id": "ReachLeague_02"
+  },
+  "ReachLeague_03": {
+    "type": "ReachLeague",
+    "name": "Data_Tasks_Task_Name_ReachLeague_03",
+    "description": "Data_Tasks_Task_Desc_ReachLeague_03",
+    "requirementValue": 1,
+    "restrictionType01": "League",
+    "restrictionValue01": "9",
+    "id": "ReachLeague_03"
+  },
+  "ReachLeague_04": {
+    "type": "ReachLeague",
+    "name": "Data_Tasks_Task_Name_ReachLeague_04",
+    "description": "Data_Tasks_Task_Desc_ReachLeague_04",
+    "requirementValue": 1,
+    "restrictionType01": "League",
+    "restrictionValue01": "14",
+    "id": "ReachLeague_04"
+  },
+  "ReachLeague_05": {
+    "type": "ReachLeague",
+    "name": "Data_Tasks_Task_Name_ReachLeague_05",
+    "description": "Data_Tasks_Task_Desc_ReachLeague_05",
+    "requirementValue": 1,
+    "restrictionType01": "League",
+    "restrictionValue01": "15",
+    "id": "ReachLeague_05"
+  },
+  "DoMission_01": {
+    "type": "DoMission",
+    "name": "Achievements_GameCenter_Title_17",
+    "description": "Achievements_GameCenter_Desc_17",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "DoMission_01"
+  },
+  "DoMission_02": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_DoMission_01",
+    "description": "Data_Tasks_Task_Desc_DoMission_01",
+    "requirementValue": 2,
+    "restrictionType01": "None",
+    "id": "DoMission_02"
+  },
+  "DoMission_03": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_DoMission_01",
+    "description": "Data_Tasks_Task_Desc_DoMission_01",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "DoMission_03"
+  },
+  "DoMission_10": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_DoMission_01",
+    "description": "Data_Tasks_Task_Desc_DoMission_01",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "DoMission_10"
+  },
+  "DoMission_50": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_DoMission_01",
+    "description": "Data_Tasks_Task_Desc_DoMission_01",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "DoMission_50"
+  },
+  "DoMission_100": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Task_Name_DoMission_01",
+    "description": "Data_Tasks_Task_Desc_DoMission_01",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "DoMission_100"
+  },
+  "DoPvP_03": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 3,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_03"
+  },
+  "DoPvP_05": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 5,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_05"
+  },
+  "DoPvP_10": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 10,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_10"
+  },
+  "DoPvP_50": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 50,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_50"
+  },
+  "DoPvP_100": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 100,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_100"
+  },
+  "DoPvP_150": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_Name_PvPBattles",
+    "description": "Data_Tasks_Task_Desc_PvPBattles",
+    "requirementValue": 150,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "DoPvP_150"
+  },
+  "CollectPvPChest_02": {
+    "type": "CollectPvPChest",
+    "name": "Data_Tasks_Task_Name_PvPDailyRewards_01",
+    "description": "Data_Tasks_Task_Desc_PvPDailyRewards_01",
+    "requirementValue": 2,
+    "restrictionType01": "None",
+    "id": "CollectPvPChest_02"
+  },
+  "CollectPvPChest_04": {
+    "type": "CollectPvPChest",
+    "name": "Data_Tasks_Task_Name_PvPDailyRewards_01",
+    "description": "Data_Tasks_Task_Desc_PvPDailyRewards_01",
+    "requirementValue": 4,
+    "restrictionType01": "None",
+    "id": "CollectPvPChest_04"
+  },
+  "CollectPvPChest_10": {
+    "type": "CollectPvPChest",
+    "name": "Data_Tasks_Task_Name_PvPDailyRewards_01",
+    "description": "Data_Tasks_Task_Desc_PvPDailyRewards_01",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "CollectPvPChest_10"
+  },
+  "CollectPvPChest_50": {
+    "type": "CollectPvPChest",
+    "name": "Data_Tasks_Task_Name_PvPDailyRewards_01",
+    "description": "Data_Tasks_Task_Desc_PvPDailyRewards_01",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "CollectPvPChest_50"
+  },
+  "CollectPvPChest_100": {
+    "type": "CollectPvPChest",
+    "name": "Data_Tasks_Task_Name_PvPDailyRewards_01",
+    "description": "Data_Tasks_Task_Desc_PvPDailyRewards_01",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "CollectPvPChest_100"
+  },
+  "UpgradeRank_10": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Task_Name_RankUp",
+    "description": "Data_Tasks_Task_Desc_RankUp",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "UpgradeRank_10"
+  },
+  "UpgradeRank_30": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Task_Name_RankUp",
+    "description": "Data_Tasks_Task_Desc_RankUp",
+    "requirementValue": 30,
+    "restrictionType01": "None",
+    "id": "UpgradeRank_30"
+  },
+  "UpgradeRank_50": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Task_Name_RankUp",
+    "description": "Data_Tasks_Task_Desc_RankUp",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "UpgradeRank_50"
+  },
+  "UpgradeRank_70": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Task_Name_RankUp",
+    "description": "Data_Tasks_Task_Desc_RankUp",
+    "requirementValue": 70,
+    "restrictionType01": "None",
+    "id": "UpgradeRank_70"
+  },
+  "UpgradeRank_90": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Task_Name_RankUp",
+    "description": "Data_Tasks_Task_Desc_RankUp",
+    "requirementValue": 90,
+    "restrictionType01": "None",
+    "id": "UpgradeRank_90"
+  },
+  "CollectCharacters_10": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharactersAllType",
+    "description": "Data_Tasks_Task_Desc_CollectCharactersAllType",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "CollectCharacters_10"
+  },
+  "CollectCharacters_20": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharactersAllType",
+    "description": "Data_Tasks_Task_Desc_CollectCharactersAllType",
+    "requirementValue": 20,
+    "restrictionType01": "None",
+    "id": "CollectCharacters_20"
+  },
+  "CollectCharacters_30": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharactersAllType",
+    "description": "Data_Tasks_Task_Desc_CollectCharactersAllType",
+    "requirementValue": 30,
+    "restrictionType01": "None",
+    "id": "CollectCharacters_30"
+  },
+  "CollectCharacters_60": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharactersAllType",
+    "description": "Data_Tasks_Task_Desc_CollectCharactersAllType",
+    "requirementValue": 60,
+    "restrictionType01": "None",
+    "id": "CollectCharacters_60"
+  },
+  "CollectCharacters_Command_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_06",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_06",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Command",
+    "id": "CollectCharacters_Command_05"
+  },
+  "CollectCharacters_Science_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_07",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_07",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Science",
+    "id": "CollectCharacters_Science_05"
+  },
+  "CollectCharacters_Security_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_08",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_08",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Security",
+    "id": "CollectCharacters_Security_05"
+  },
+  "CollectCharacters_Medical_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_09",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_09",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Medical",
+    "id": "CollectCharacters_Medical_05"
+  },
+  "CollectCharacters_Engineer_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_10",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_10",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterRole",
+    "restrictionValue01": "Engineering",
+    "id": "CollectCharacters_Engineer_05"
+  },
+  "CollectCharacters_Borg_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_11",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_11",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Borg",
+    "id": "CollectCharacters_Borg_05"
+  },
+  "CollectCharacters_Starfleet_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_12",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_12",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Starfleet",
+    "id": "CollectCharacters_Starfleet_05"
+  },
+  "CollectCharacters_Human_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_13",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_13",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Human",
+    "id": "CollectCharacters_Human_05"
+  },
+  "CollectCharacters_Cardassian_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_16",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_16",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Cardassian",
+    "id": "CollectCharacters_Cardassian_05"
+  },
+  "CollectCharacters_Klingon_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_17",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_17",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Klingon",
+    "id": "CollectCharacters_Klingon_05"
+  },
+  "CollectCharacters_Romulan_05": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_CollectCharacters_18",
+    "description": "Data_Tasks_Task_Desc_CollectCharacters_18",
+    "requirementValue": 5,
+    "restrictionType01": "CharacterTag",
+    "restrictionValue01": "Romulan",
+    "id": "CollectCharacters_Romulan_05"
+  },
+  "GearLevelUp_01": {
+    "type": "GearLevelUp",
+    "name": "Data_Tasks_Task_Name_GearLevelUp",
+    "description": "Data_Tasks_Task_Desc_GearLevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "GearLevelUp_01"
+  },
+  "GearLevelUp_03": {
+    "type": "GearLevelUp",
+    "name": "Data_Tasks_Task_Name_GearLevelUp",
+    "description": "Data_Tasks_Task_Desc_GearLevelUp",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "GearLevelUp_03"
+  },
+  "GearLevelUp_05": {
+    "type": "GearLevelUp",
+    "name": "Data_Tasks_Task_Name_GearLevelUp",
+    "description": "Data_Tasks_Task_Desc_GearLevelUp",
+    "requirementValue": 5,
+    "restrictionType01": "None",
+    "id": "GearLevelUp_05"
+  },
+  "GearLevelUp_200": {
+    "type": "GearLevelUp",
+    "name": "Data_Tasks_Task_Name_GearLevelUp",
+    "description": "Data_Tasks_Task_Desc_GearLevelUp",
+    "requirementValue": 200,
+    "restrictionType01": "None",
+    "id": "GearLevelUp_200"
+  },
+  "GearRankUp_10": {
+    "type": "GearRankUp",
+    "name": "Data_Tasks_Task_Name_GearRankUp",
+    "description": "Data_Tasks_Task_Desc_GearRankUp",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "GearRankUp_10"
+  },
+  "GearRankUp_50": {
+    "type": "GearRankUp",
+    "name": "Data_Tasks_Task_Name_GearRankUp",
+    "description": "Data_Tasks_Task_Desc_GearRankUp",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "GearRankUp_50"
+  },
+  "EquipGear_01": {
+    "type": "EquipGears",
+    "name": "Data_Tasks_Task_Name_GearEquip_01",
+    "description": "Data_Tasks_Task_Desc_GearEquip_01",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "EquipGear_01"
+  },
+  "EquipGear_10": {
+    "type": "EquipGears",
+    "name": "Data_Tasks_Task_Name_GearEquip_01",
+    "description": "Data_Tasks_Task_Desc_GearEquip_01",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "EquipGear_10"
+  },
+  "EquipGear_50": {
+    "type": "EquipGears",
+    "name": "Data_Tasks_Task_Name_GearEquip_01",
+    "description": "Data_Tasks_Task_Desc_GearEquip_01",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "EquipGear_50"
+  },
+  "CollectGears_Full_10": {
+    "type": "CollectCharacters",
+    "name": "Data_Tasks_Task_Name_GearFullUpgrade",
+    "description": "Data_Tasks_Task_Desc_GearFullUpgrade",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "CollectGears_Full_10"
+  },
+  "EquipUniqueGears_05": {
+    "type": "EquipUniqueGears",
+    "name": "Data_Tasks_Task_Name_GearUniqueEquip",
+    "description": "Data_Tasks_Task_Desc_GearUniqueEquip",
+    "requirementValue": 5,
+    "restrictionType01": "None",
+    "id": "EquipUniqueGears_05"
+  },
+  "EquipParticles_05": {
+    "type": "EquipParticles",
+    "name": "Data_Tasks_Task_Name_ParticleEquip",
+    "description": "Data_Tasks_Task_Desc_ParticleEquip",
+    "requirementValue": 5,
+    "restrictionType01": "None",
+    "id": "EquipParticles_05"
+  },
+  "ParticleLevelUp_01": {
+    "type": "ParticleLevelUp",
+    "name": "Data_Tasks_Task_Name_ParticleLevelUp",
+    "description": "Data_Tasks_Task_Desc_ParticleLevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "ParticleLevelUp_01"
+  },
+  "ParticleLevelUp_30": {
+    "type": "ParticleLevelUp",
+    "name": "Data_Tasks_Task_Name_ParticleLevelUp",
+    "description": "Data_Tasks_Task_Desc_ParticleLevelUp",
+    "requirementValue": 30,
+    "restrictionType01": "None",
+    "id": "ParticleLevelUp_30"
+  },
+  "ParticleLevelUp_50": {
+    "type": "ParticleLevelUp",
+    "name": "Data_Tasks_Task_Name_ParticleLevelUp",
+    "description": "Data_Tasks_Task_Desc_ParticleLevelUp",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "ParticleLevelUp_50"
+  },
+  "ShuttlecraftComplete_01": {
+    "type": "ShuttlecraftComplete",
+    "name": "Data_Tasks_Task_Name_ShuttlecraftComplete",
+    "description": "Data_Tasks_Task_Desc_ShuttlecraftComplete",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "ShuttlecraftComplete_01"
+  },
+  "ShuttlecraftComplete_10": {
+    "type": "ShuttlecraftComplete",
+    "name": "Data_Tasks_Task_Name_ShuttlecraftComplete",
+    "description": "Data_Tasks_Task_Desc_ShuttlecraftComplete",
+    "requirementValue": 10,
+    "restrictionType01": "None",
+    "id": "ShuttlecraftComplete_10"
+  },
+  "ShuttlecraftComplete_50": {
+    "type": "ShuttlecraftComplete",
+    "name": "Data_Tasks_Task_Name_ShuttlecraftComplete",
+    "description": "Data_Tasks_Task_Desc_ShuttlecraftComplete",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "ShuttlecraftComplete_50"
+  },
+  "ShuttlecraftComplete_200": {
+    "type": "ShuttlecraftComplete",
+    "name": "Data_Tasks_Task_Name_ShuttlecraftComplete",
+    "description": "Data_Tasks_Task_Desc_ShuttlecraftComplete",
+    "requirementValue": 200,
+    "restrictionType01": "None",
+    "id": "ShuttlecraftComplete_200"
+  },
+  "ShuttlecraftComplete_500": {
+    "type": "ShuttlecraftComplete",
+    "name": "Data_Tasks_Task_Name_ShuttlecraftComplete",
+    "description": "Data_Tasks_Task_Desc_ShuttlecraftComplete",
+    "requirementValue": 500,
+    "restrictionType01": "None",
+    "id": "ShuttlecraftComplete_500"
+  },
+  "OperationComplete_01": {
+    "type": "OperationComplete",
+    "name": "Data_Tasks_Task_Name_OperationComplete",
+    "description": "Data_Tasks_Task_Desc_OperationComplete",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "OperationComplete_01"
+  },
+  "OperationComplete_03": {
+    "type": "OperationComplete",
+    "name": "Data_Tasks_Task_Name_OperationComplete",
+    "description": "Data_Tasks_Task_Desc_OperationComplete",
+    "requirementValue": 3,
+    "restrictionType01": "None",
+    "id": "OperationComplete_03"
+  },
+  "OperationComplete_50": {
+    "type": "OperationComplete",
+    "name": "Data_Tasks_Task_Name_OperationComplete",
+    "description": "Data_Tasks_Task_Desc_OperationComplete",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "OperationComplete_50"
+  },
+  "OperationComplete_100": {
+    "type": "OperationComplete",
+    "name": "Data_Tasks_Task_Name_OperationComplete",
+    "description": "Data_Tasks_Task_Desc_OperationComplete",
+    "requirementValue": 100,
+    "restrictionType01": "None",
+    "id": "OperationComplete_100"
+  },
+  "OperationComplete_500": {
+    "type": "OperationComplete",
+    "name": "Data_Tasks_Task_Name_OperationComplete",
+    "description": "Data_Tasks_Task_Desc_OperationComplete",
+    "requirementValue": 500,
+    "restrictionType01": "None",
+    "id": "OperationComplete_500"
+  },
+  "PlayerLevel_50": {
+    "type": "PlayerLevel",
+    "name": "Achievements_GameCenter_Title_36",
+    "description": "Achievements_GameCenter_Desc_36",
+    "requirementValue": 50,
+    "restrictionType01": "None",
+    "id": "PlayerLevel_50"
+  },
+  "PlayerLevel_99": {
+    "type": "PlayerLevel",
+    "name": "Achievements_GameCenter_Title_41",
+    "description": "Achievements_GameCenter_Desc_41",
+    "requirementValue": 99,
+    "restrictionType01": "None",
+    "id": "PlayerLevel_99"
+  },
+  "TutorialComplete": {
+    "type": "TutorialComplete",
+    "name": "Achievements_GameCenter_Title_01",
+    "description": "Achievements_GameCenter_Desc_01",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "TutorialComplete"
+  },
+  "Task_NexusDirective_QuickLoot": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_QuickLoot",
+    "description": "Data_Tasks_Directives_description_QuickLoot",
+    "requirementValue": 0,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_QuickLoot"
+  },
+  "Task_NexusDirective_LevelUp_Kirk": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Kirk",
+    "id": "Task_NexusDirective_LevelUp_Kirk"
+  },
+  "Task_NexusDirective_LevelUp_Burnham": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Burnham",
+    "id": "Task_NexusDirective_LevelUp_Burnham"
+  },
+  "Task_NexusDirective_LevelUp_Khan": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Khan",
+    "id": "Task_NexusDirective_LevelUp_Khan"
+  },
+  "Task_NexusDirective_LevelUp_Riker": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Riker",
+    "id": "Task_NexusDirective_LevelUp_Riker"
+  },
+  "Task_NexusDirective_LevelUp_Saru": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Saru",
+    "id": "Task_NexusDirective_LevelUp_Saru"
+  },
+  "Task_NexusDirective_LevelUp_Dukat": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Dukat",
+    "id": "Task_NexusDirective_LevelUp_Dukat"
+  },
+  "Task_NexusDirective_LevelUp_Spock": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Spock",
+    "id": "Task_NexusDirective_LevelUp_Spock"
+  },
+  "Task_NexusDirective_LevelUp_Worf": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Worf",
+    "id": "Task_NexusDirective_LevelUp_Worf"
+  },
+  "Task_NexusDirective_LevelUp_Geordi": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Geordi",
+    "id": "Task_NexusDirective_LevelUp_Geordi"
+  },
+  "Task_NexusDirective_LevelUp_Janeway": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Janeway",
+    "id": "Task_NexusDirective_LevelUp_Janeway"
+  },
+  "Task_NexusDirective_LevelUp_Locutus": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Locutus",
+    "id": "Task_NexusDirective_LevelUp_Locutus"
+  },
+  "Task_NexusDirective_LevelUp_Picard": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Picard",
+    "id": "Task_NexusDirective_LevelUp_Picard"
+  },
+  "Task_NexusDirective_LevelUp_Data": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Data",
+    "id": "Task_NexusDirective_LevelUp_Data"
+  },
+  "Task_NexusDirective_LevelUp_Crusher": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Crusher",
+    "id": "Task_NexusDirective_LevelUp_Crusher"
+  },
+  "Task_NexusDirective_LevelUp_Doctor": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Doctor",
+    "id": "Task_NexusDirective_LevelUp_Doctor"
+  },
+  "Task_NexusDirective_LevelUp_Sisko": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sisko",
+    "id": "Task_NexusDirective_LevelUp_Sisko"
+  },
+  "Task_NexusDirective_LevelUp_Nerys": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nerys",
+    "id": "Task_NexusDirective_LevelUp_Nerys"
+  },
+  "Task_NexusDirective_LevelUp_BorgQueen": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "BorgQueen",
+    "id": "Task_NexusDirective_LevelUp_BorgQueen"
+  },
+  "Task_NexusDirective_LevelUp_Sela": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sela",
+    "id": "Task_NexusDirective_LevelUp_Sela"
+  },
+  "Task_NexusDirective_LevelUp_Tomalak": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Tomalak",
+    "id": "Task_NexusDirective_LevelUp_Tomalak"
+  },
+  "Task_NexusDirective_LevelUp_Gorn": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Gorn",
+    "id": "Task_NexusDirective_LevelUp_Gorn"
+  },
+  "Task_NexusDirective_LevelUp_Uhura": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Uhura",
+    "id": "Task_NexusDirective_LevelUp_Uhura"
+  },
+  "Task_NexusDirective_LevelUp_Pike": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Pike",
+    "id": "Task_NexusDirective_LevelUp_Pike"
+  },
+  "Task_NexusDirective_LevelUp_Tilly": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Tilly"
+  },
+  "Task_NexusDirective_LevelUp_Sulu": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sulu",
+    "id": "Task_NexusDirective_LevelUp_Sulu"
+  },
+  "Task_NexusDirective_LevelUp_Scott": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Scott",
+    "id": "Task_NexusDirective_LevelUp_Scott"
+  },
+  "Task_NexusDirective_LevelUp_Torres": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Torres",
+    "id": "Task_NexusDirective_LevelUp_Torres"
+  },
+  "Task_NexusDirective_LevelUp_Stamets": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Stamets"
+  },
+  "Task_NexusDirective_LevelUp_Culber": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Culber",
+    "id": "Task_NexusDirective_LevelUp_Culber"
+  },
+  "Task_NexusDirective_LevelUp_Phlox": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Phlox",
+    "id": "Task_NexusDirective_LevelUp_Phlox"
+  },
+  "Task_NexusDirective_LevelUp_McCoy": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "McCoy",
+    "id": "Task_NexusDirective_LevelUp_McCoy"
+  },
+  "Task_NexusDirective_LevelUp_TPol": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "TPol",
+    "id": "Task_NexusDirective_LevelUp_TPol"
+  },
+  "Task_NexusDirective_LevelUp_Nine": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nine",
+    "id": "Task_NexusDirective_LevelUp_Nine"
+  },
+  "Task_NexusDirective_LevelUp_Odo": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Odo",
+    "id": "Task_NexusDirective_LevelUp_Odo"
+  },
+  "Task_NexusDirective_LevelUp_Georgiou": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Georgiou"
+  },
+  "Task_NexusDirective_LevelUp_Martok": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Martok",
+    "id": "Task_NexusDirective_LevelUp_Martok"
+  },
+  "Task_NexusDirective_LevelUp_Chekov": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Chekov"
+  },
+  "Task_NexusDirective_LevelUp_Quark": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Quark"
+  },
+  "Task_NexusDirective_LevelUp_GenCardSec01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSec01M",
+    "id": "Task_NexusDirective_LevelUp_GenCardSec01M"
+  },
+  "Task_NexusDirective_LevelUp_GenCardMed01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardMed01M",
+    "id": "Task_NexusDirective_LevelUp_GenCardMed01M"
+  },
+  "Task_NexusDirective_LevelUp_GenCardSci01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSci01F",
+    "id": "Task_NexusDirective_LevelUp_GenCardSci01F"
+  },
+  "Task_NexusDirective_LevelUp_GenCardEng01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardEng01F",
+    "id": "Task_NexusDirective_LevelUp_GenCardEng01F"
+  },
+  "Task_NexusDirective_LevelUp_GenCardCom01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardCom01M",
+    "id": "Task_NexusDirective_LevelUp_GenCardCom01M"
+  },
+  "Task_NexusDirective_LevelUp_GenHumanSec01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSec01M",
+    "id": "Task_NexusDirective_LevelUp_GenHumanSec01M"
+  },
+  "Task_NexusDirective_LevelUp_GenHumanMed01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanMed01M",
+    "id": "Task_NexusDirective_LevelUp_GenHumanMed01M"
+  },
+  "Task_NexusDirective_LevelUp_GenHumanSci01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSci01F",
+    "id": "Task_NexusDirective_LevelUp_GenHumanSci01F"
+  },
+  "Task_NexusDirective_LevelUp_GenHumanEng01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanEng01F",
+    "id": "Task_NexusDirective_LevelUp_GenHumanEng01F"
+  },
+  "Task_NexusDirective_LevelUp_GenHumanCom01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanCom01M",
+    "id": "Task_NexusDirective_LevelUp_GenHumanCom01M"
+  },
+  "Task_NexusDirective_LevelUp_GenKlingSec01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSec01M",
+    "id": "Task_NexusDirective_LevelUp_GenKlingSec01M"
+  },
+  "Task_NexusDirective_LevelUp_GenKlingMed01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingMed01M",
+    "id": "Task_NexusDirective_LevelUp_GenKlingMed01M"
+  },
+  "Task_NexusDirective_LevelUp_GenKlingSci01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSci01F",
+    "id": "Task_NexusDirective_LevelUp_GenKlingSci01F"
+  },
+  "Task_NexusDirective_LevelUp_GenKlingEng01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingEng01F",
+    "id": "Task_NexusDirective_LevelUp_GenKlingEng01F"
+  },
+  "Task_NexusDirective_LevelUp_GenKlingCom01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingCom01M",
+    "id": "Task_NexusDirective_LevelUp_GenKlingCom01M"
+  },
+  "Task_NexusDirective_LevelUp_GenRomuSec01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSec01M",
+    "id": "Task_NexusDirective_LevelUp_GenRomuSec01M"
+  },
+  "Task_NexusDirective_LevelUp_GenRomuMed01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuMed01M",
+    "id": "Task_NexusDirective_LevelUp_GenRomuMed01M"
+  },
+  "Task_NexusDirective_LevelUp_GenRomuSci01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSci01F",
+    "id": "Task_NexusDirective_LevelUp_GenRomuSci01F"
+  },
+  "Task_NexusDirective_LevelUp_GenRomuEng01F": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuEng01F",
+    "id": "Task_NexusDirective_LevelUp_GenRomuEng01F"
+  },
+  "Task_NexusDirective_LevelUp_GenRomuCom01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuCom01M",
+    "id": "Task_NexusDirective_LevelUp_GenRomuCom01M"
+  },
+  "Task_NexusDirective_LevelUp_GenBorgMed01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgMed01M",
+    "id": "Task_NexusDirective_LevelUp_GenBorgMed01M"
+  },
+  "Task_NexusDirective_LevelUp_GenBorgSec01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSec01M",
+    "id": "Task_NexusDirective_LevelUp_GenBorgSec01M"
+  },
+  "Task_NexusDirective_LevelUp_GenBorgEng01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgEng01M",
+    "id": "Task_NexusDirective_LevelUp_GenBorgEng01M"
+  },
+  "Task_NexusDirective_LevelUp_GenBorgSci01M": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSci01M",
+    "id": "Task_NexusDirective_LevelUp_GenBorgSci01M"
+  },
+  "Task_NexusDirective_RankUp_Kirk": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Kirk",
+    "id": "Task_NexusDirective_RankUp_Kirk"
+  },
+  "Task_NexusDirective_RankUp_Burnham": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Burnham",
+    "id": "Task_NexusDirective_RankUp_Burnham"
+  },
+  "Task_NexusDirective_RankUp_Khan": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Khan",
+    "id": "Task_NexusDirective_RankUp_Khan"
+  },
+  "Task_NexusDirective_RankUp_Riker": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Riker",
+    "id": "Task_NexusDirective_RankUp_Riker"
+  },
+  "Task_NexusDirective_RankUp_Saru": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Saru",
+    "id": "Task_NexusDirective_RankUp_Saru"
+  },
+  "Task_NexusDirective_RankUp_Dukat": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Dukat",
+    "id": "Task_NexusDirective_RankUp_Dukat"
+  },
+  "Task_NexusDirective_RankUp_Spock": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Spock",
+    "id": "Task_NexusDirective_RankUp_Spock"
+  },
+  "Task_NexusDirective_RankUp_Worf": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Worf",
+    "id": "Task_NexusDirective_RankUp_Worf"
+  },
+  "Task_NexusDirective_RankUp_Geordi": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Geordi",
+    "id": "Task_NexusDirective_RankUp_Geordi"
+  },
+  "Task_NexusDirective_RankUp_Janeway": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Janeway",
+    "id": "Task_NexusDirective_RankUp_Janeway"
+  },
+  "Task_NexusDirective_RankUp_Locutus": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Locutus",
+    "id": "Task_NexusDirective_RankUp_Locutus"
+  },
+  "Task_NexusDirective_RankUp_Picard": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Picard",
+    "id": "Task_NexusDirective_RankUp_Picard"
+  },
+  "Task_NexusDirective_RankUp_Data": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Data",
+    "id": "Task_NexusDirective_RankUp_Data"
+  },
+  "Task_NexusDirective_RankUp_Crusher": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Crusher",
+    "id": "Task_NexusDirective_RankUp_Crusher"
+  },
+  "Task_NexusDirective_RankUp_Doctor": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Doctor",
+    "id": "Task_NexusDirective_RankUp_Doctor"
+  },
+  "Task_NexusDirective_RankUp_Sisko": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sisko",
+    "id": "Task_NexusDirective_RankUp_Sisko"
+  },
+  "Task_NexusDirective_RankUp_Nerys": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nerys",
+    "id": "Task_NexusDirective_RankUp_Nerys"
+  },
+  "Task_NexusDirective_RankUp_BorgQueen": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "BorgQueen",
+    "id": "Task_NexusDirective_RankUp_BorgQueen"
+  },
+  "Task_NexusDirective_RankUp_Sela": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sela",
+    "id": "Task_NexusDirective_RankUp_Sela"
+  },
+  "Task_NexusDirective_RankUp_Tomalak": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Tomalak",
+    "id": "Task_NexusDirective_RankUp_Tomalak"
+  },
+  "Task_NexusDirective_RankUp_Gorn": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Gorn",
+    "id": "Task_NexusDirective_RankUp_Gorn"
+  },
+  "Task_NexusDirective_RankUp_Uhura": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Uhura",
+    "id": "Task_NexusDirective_RankUp_Uhura"
+  },
+  "Task_NexusDirective_RankUp_Pike": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Pike",
+    "id": "Task_NexusDirective_RankUp_Pike"
+  },
+  "Task_NexusDirective_RankUp_Tilly": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Tilly"
+  },
+  "Task_NexusDirective_RankUp_Sulu": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sulu",
+    "id": "Task_NexusDirective_RankUp_Sulu"
+  },
+  "Task_NexusDirective_RankUp_Scott": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Scott",
+    "id": "Task_NexusDirective_RankUp_Scott"
+  },
+  "Task_NexusDirective_RankUp_Torres": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Torres",
+    "id": "Task_NexusDirective_RankUp_Torres"
+  },
+  "Task_NexusDirective_RankUp_Stamets": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Stamets"
+  },
+  "Task_NexusDirective_RankUp_Culber": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Culber",
+    "id": "Task_NexusDirective_RankUp_Culber"
+  },
+  "Task_NexusDirective_RankUp_Phlox": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Phlox",
+    "id": "Task_NexusDirective_RankUp_Phlox"
+  },
+  "Task_NexusDirective_RankUp_McCoy": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "McCoy",
+    "id": "Task_NexusDirective_RankUp_McCoy"
+  },
+  "Task_NexusDirective_RankUp_TPol": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "TPol",
+    "id": "Task_NexusDirective_RankUp_TPol"
+  },
+  "Task_NexusDirective_RankUp_Nine": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nine",
+    "id": "Task_NexusDirective_RankUp_Nine"
+  },
+  "Task_NexusDirective_RankUp_Odo": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Odo",
+    "id": "Task_NexusDirective_RankUp_Odo"
+  },
+  "Task_NexusDirective_RankUp_Georgiou": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Georgiou"
+  },
+  "Task_NexusDirective_RankUp_Martok": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Martok",
+    "id": "Task_NexusDirective_RankUp_Martok"
+  },
+  "Task_NexusDirective_RankUp_Chekov": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Chekov"
+  },
+  "Task_NexusDirective_RankUp_Quark": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Quark"
+  },
+  "Task_NexusDirective_RankUp_GenCardSec01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSec01M",
+    "id": "Task_NexusDirective_RankUp_GenCardSec01M"
+  },
+  "Task_NexusDirective_RankUp_GenCardMed01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardMed01M",
+    "id": "Task_NexusDirective_RankUp_GenCardMed01M"
+  },
+  "Task_NexusDirective_RankUp_GenCardSci01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSci01F",
+    "id": "Task_NexusDirective_RankUp_GenCardSci01F"
+  },
+  "Task_NexusDirective_RankUp_GenCardEng01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardEng01F",
+    "id": "Task_NexusDirective_RankUp_GenCardEng01F"
+  },
+  "Task_NexusDirective_RankUp_GenCardCom01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardCom01M",
+    "id": "Task_NexusDirective_RankUp_GenCardCom01M"
+  },
+  "Task_NexusDirective_RankUp_GenHumanSec01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSec01M",
+    "id": "Task_NexusDirective_RankUp_GenHumanSec01M"
+  },
+  "Task_NexusDirective_RankUp_GenHumanMed01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanMed01M",
+    "id": "Task_NexusDirective_RankUp_GenHumanMed01M"
+  },
+  "Task_NexusDirective_RankUp_GenHumanSci01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSci01F",
+    "id": "Task_NexusDirective_RankUp_GenHumanSci01F"
+  },
+  "Task_NexusDirective_RankUp_GenHumanEng01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanEng01F",
+    "id": "Task_NexusDirective_RankUp_GenHumanEng01F"
+  },
+  "Task_NexusDirective_RankUp_GenHumanCom01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanCom01M",
+    "id": "Task_NexusDirective_RankUp_GenHumanCom01M"
+  },
+  "Task_NexusDirective_RankUp_GenKlingSec01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSec01M",
+    "id": "Task_NexusDirective_RankUp_GenKlingSec01M"
+  },
+  "Task_NexusDirective_RankUp_GenKlingMed01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingMed01M",
+    "id": "Task_NexusDirective_RankUp_GenKlingMed01M"
+  },
+  "Task_NexusDirective_RankUp_GenKlingSci01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSci01F",
+    "id": "Task_NexusDirective_RankUp_GenKlingSci01F"
+  },
+  "Task_NexusDirective_RankUp_GenKlingEng01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingEng01F",
+    "id": "Task_NexusDirective_RankUp_GenKlingEng01F"
+  },
+  "Task_NexusDirective_RankUp_GenKlingCom01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingCom01M",
+    "id": "Task_NexusDirective_RankUp_GenKlingCom01M"
+  },
+  "Task_NexusDirective_RankUp_GenRomuSec01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSec01M",
+    "id": "Task_NexusDirective_RankUp_GenRomuSec01M"
+  },
+  "Task_NexusDirective_RankUp_GenRomuMed01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuMed01M",
+    "id": "Task_NexusDirective_RankUp_GenRomuMed01M"
+  },
+  "Task_NexusDirective_RankUp_GenRomuSci01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSci01F",
+    "id": "Task_NexusDirective_RankUp_GenRomuSci01F"
+  },
+  "Task_NexusDirective_RankUp_GenRomuEng01F": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuEng01F",
+    "id": "Task_NexusDirective_RankUp_GenRomuEng01F"
+  },
+  "Task_NexusDirective_RankUp_GenRomuCom01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuCom01M",
+    "id": "Task_NexusDirective_RankUp_GenRomuCom01M"
+  },
+  "Task_NexusDirective_RankUp_GenBorgMed01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgMed01M",
+    "id": "Task_NexusDirective_RankUp_GenBorgMed01M"
+  },
+  "Task_NexusDirective_RankUp_GenBorgSec01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSec01M",
+    "id": "Task_NexusDirective_RankUp_GenBorgSec01M"
+  },
+  "Task_NexusDirective_RankUp_GenBorgEng01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgEng01M",
+    "id": "Task_NexusDirective_RankUp_GenBorgEng01M"
+  },
+  "Task_NexusDirective_RankUp_GenBorgSci01M": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSci01M",
+    "id": "Task_NexusDirective_RankUp_GenBorgSci01M"
+  },
+  "Task_NexusDirective_SkillUp_Kirk": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Kirk",
+    "id": "Task_NexusDirective_SkillUp_Kirk"
+  },
+  "Task_NexusDirective_SkillUp_Burnham": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Burnham",
+    "id": "Task_NexusDirective_SkillUp_Burnham"
+  },
+  "Task_NexusDirective_SkillUp_Khan": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Khan",
+    "id": "Task_NexusDirective_SkillUp_Khan"
+  },
+  "Task_NexusDirective_SkillUp_Riker": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Riker",
+    "id": "Task_NexusDirective_SkillUp_Riker"
+  },
+  "Task_NexusDirective_SkillUp_Saru": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Saru",
+    "id": "Task_NexusDirective_SkillUp_Saru"
+  },
+  "Task_NexusDirective_SkillUp_Dukat": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Dukat",
+    "id": "Task_NexusDirective_SkillUp_Dukat"
+  },
+  "Task_NexusDirective_SkillUp_Spock": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Spock",
+    "id": "Task_NexusDirective_SkillUp_Spock"
+  },
+  "Task_NexusDirective_SkillUp_Worf": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Worf",
+    "id": "Task_NexusDirective_SkillUp_Worf"
+  },
+  "Task_NexusDirective_SkillUp_Geordi": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Geordi",
+    "id": "Task_NexusDirective_SkillUp_Geordi"
+  },
+  "Task_NexusDirective_SkillUp_Janeway": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Janeway",
+    "id": "Task_NexusDirective_SkillUp_Janeway"
+  },
+  "Task_NexusDirective_SkillUp_Locutus": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Locutus",
+    "id": "Task_NexusDirective_SkillUp_Locutus"
+  },
+  "Task_NexusDirective_SkillUp_Picard": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Picard",
+    "id": "Task_NexusDirective_SkillUp_Picard"
+  },
+  "Task_NexusDirective_SkillUp_Data": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Data",
+    "id": "Task_NexusDirective_SkillUp_Data"
+  },
+  "Task_NexusDirective_SkillUp_Crusher": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Crusher",
+    "id": "Task_NexusDirective_SkillUp_Crusher"
+  },
+  "Task_NexusDirective_SkillUp_Doctor": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Doctor",
+    "id": "Task_NexusDirective_SkillUp_Doctor"
+  },
+  "Task_NexusDirective_SkillUp_Sisko": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sisko",
+    "id": "Task_NexusDirective_SkillUp_Sisko"
+  },
+  "Task_NexusDirective_SkillUp_Nerys": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nerys",
+    "id": "Task_NexusDirective_SkillUp_Nerys"
+  },
+  "Task_NexusDirective_SkillUp_BorgQueen": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "BorgQueen",
+    "id": "Task_NexusDirective_SkillUp_BorgQueen"
+  },
+  "Task_NexusDirective_SkillUp_Sela": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sela",
+    "id": "Task_NexusDirective_SkillUp_Sela"
+  },
+  "Task_NexusDirective_SkillUp_Tomalak": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Tomalak",
+    "id": "Task_NexusDirective_SkillUp_Tomalak"
+  },
+  "Task_NexusDirective_SkillUp_Gorn": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Gorn",
+    "id": "Task_NexusDirective_SkillUp_Gorn"
+  },
+  "Task_NexusDirective_SkillUp_Uhura": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Uhura",
+    "id": "Task_NexusDirective_SkillUp_Uhura"
+  },
+  "Task_NexusDirective_SkillUp_Pike": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Pike",
+    "id": "Task_NexusDirective_SkillUp_Pike"
+  },
+  "Task_NexusDirective_SkillUp_Tilly": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Tilly"
+  },
+  "Task_NexusDirective_SkillUp_Sulu": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Sulu",
+    "id": "Task_NexusDirective_SkillUp_Sulu"
+  },
+  "Task_NexusDirective_SkillUp_Scott": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Scott",
+    "id": "Task_NexusDirective_SkillUp_Scott"
+  },
+  "Task_NexusDirective_SkillUp_Torres": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Torres",
+    "id": "Task_NexusDirective_SkillUp_Torres"
+  },
+  "Task_NexusDirective_SkillUp_Stamets": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Stamets"
+  },
+  "Task_NexusDirective_SkillUp_Culber": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Culber",
+    "id": "Task_NexusDirective_SkillUp_Culber"
+  },
+  "Task_NexusDirective_SkillUp_Phlox": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Phlox",
+    "id": "Task_NexusDirective_SkillUp_Phlox"
+  },
+  "Task_NexusDirective_SkillUp_McCoy": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "McCoy",
+    "id": "Task_NexusDirective_SkillUp_McCoy"
+  },
+  "Task_NexusDirective_SkillUp_TPol": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "TPol",
+    "id": "Task_NexusDirective_SkillUp_TPol"
+  },
+  "Task_NexusDirective_SkillUp_Nine": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Nine",
+    "id": "Task_NexusDirective_SkillUp_Nine"
+  },
+  "Task_NexusDirective_SkillUp_Odo": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Odo",
+    "id": "Task_NexusDirective_SkillUp_Odo"
+  },
+  "Task_NexusDirective_SkillUp_Georgiou": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Georgiou"
+  },
+  "Task_NexusDirective_SkillUp_Martok": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "Martok",
+    "id": "Task_NexusDirective_SkillUp_Martok"
+  },
+  "Task_NexusDirective_SkillUp_Chekov": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Chekov"
+  },
+  "Task_NexusDirective_SkillUp_Quark": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Quark"
+  },
+  "Task_NexusDirective_SkillUp_GenCardSec01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSec01M",
+    "id": "Task_NexusDirective_SkillUp_GenCardSec01M"
+  },
+  "Task_NexusDirective_SkillUp_GenCardMed01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardMed01M",
+    "id": "Task_NexusDirective_SkillUp_GenCardMed01M"
+  },
+  "Task_NexusDirective_SkillUp_GenCardSci01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardSci01F",
+    "id": "Task_NexusDirective_SkillUp_GenCardSci01F"
+  },
+  "Task_NexusDirective_SkillUp_GenCardEng01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardEng01F",
+    "id": "Task_NexusDirective_SkillUp_GenCardEng01F"
+  },
+  "Task_NexusDirective_SkillUp_GenCardCom01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenCardCom01M",
+    "id": "Task_NexusDirective_SkillUp_GenCardCom01M"
+  },
+  "Task_NexusDirective_SkillUp_GenHumanSec01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSec01M",
+    "id": "Task_NexusDirective_SkillUp_GenHumanSec01M"
+  },
+  "Task_NexusDirective_SkillUp_GenHumanMed01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanMed01M",
+    "id": "Task_NexusDirective_SkillUp_GenHumanMed01M"
+  },
+  "Task_NexusDirective_SkillUp_GenHumanSci01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanSci01F",
+    "id": "Task_NexusDirective_SkillUp_GenHumanSci01F"
+  },
+  "Task_NexusDirective_SkillUp_GenHumanEng01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanEng01F",
+    "id": "Task_NexusDirective_SkillUp_GenHumanEng01F"
+  },
+  "Task_NexusDirective_SkillUp_GenHumanCom01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenHumanCom01M",
+    "id": "Task_NexusDirective_SkillUp_GenHumanCom01M"
+  },
+  "Task_NexusDirective_SkillUp_GenKlingSec01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSec01M",
+    "id": "Task_NexusDirective_SkillUp_GenKlingSec01M"
+  },
+  "Task_NexusDirective_SkillUp_GenKlingMed01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingMed01M",
+    "id": "Task_NexusDirective_SkillUp_GenKlingMed01M"
+  },
+  "Task_NexusDirective_SkillUp_GenKlingSci01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingSci01F",
+    "id": "Task_NexusDirective_SkillUp_GenKlingSci01F"
+  },
+  "Task_NexusDirective_SkillUp_GenKlingEng01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingEng01F",
+    "id": "Task_NexusDirective_SkillUp_GenKlingEng01F"
+  },
+  "Task_NexusDirective_SkillUp_GenKlingCom01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenKlingCom01M",
+    "id": "Task_NexusDirective_SkillUp_GenKlingCom01M"
+  },
+  "Task_NexusDirective_SkillUp_GenRomuSec01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSec01M",
+    "id": "Task_NexusDirective_SkillUp_GenRomuSec01M"
+  },
+  "Task_NexusDirective_SkillUp_GenRomuMed01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuMed01M",
+    "id": "Task_NexusDirective_SkillUp_GenRomuMed01M"
+  },
+  "Task_NexusDirective_SkillUp_GenRomuSci01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuSci01F",
+    "id": "Task_NexusDirective_SkillUp_GenRomuSci01F"
+  },
+  "Task_NexusDirective_SkillUp_GenRomuEng01F": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuEng01F",
+    "id": "Task_NexusDirective_SkillUp_GenRomuEng01F"
+  },
+  "Task_NexusDirective_SkillUp_GenRomuCom01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenRomuCom01M",
+    "id": "Task_NexusDirective_SkillUp_GenRomuCom01M"
+  },
+  "Task_NexusDirective_SkillUp_GenBorgMed01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgMed01M",
+    "id": "Task_NexusDirective_SkillUp_GenBorgMed01M"
+  },
+  "Task_NexusDirective_SkillUp_GenBorgSec01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSec01M",
+    "id": "Task_NexusDirective_SkillUp_GenBorgSec01M"
+  },
+  "Task_NexusDirective_SkillUp_GenBorgEng01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgEng01M",
+    "id": "Task_NexusDirective_SkillUp_GenBorgEng01M"
+  },
+  "Task_NexusDirective_SkillUp_GenBorgSci01M": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp",
+    "requirementValue": 1,
+    "restrictionType01": "CharacterId",
+    "restrictionValue01": "GenBorgSci01M",
+    "id": "Task_NexusDirective_SkillUp_GenBorgSci01M"
+  },
+  "Task_NexusDirective_DoMission_E1M1": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 1",
+    "id": "Task_NexusDirective_DoMission_E1M1"
+  },
+  "Task_NexusDirective_DoMission_E1M2": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 2",
+    "id": "Task_NexusDirective_DoMission_E1M2"
+  },
+  "Task_NexusDirective_DoMission_E1M3": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 3",
+    "id": "Task_NexusDirective_DoMission_E1M3"
+  },
+  "Task_NexusDirective_DoMission_E1M4": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 4",
+    "id": "Task_NexusDirective_DoMission_E1M4"
+  },
+  "Task_NexusDirective_DoMission_E1M5": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 5",
+    "id": "Task_NexusDirective_DoMission_E1M5"
+  },
+  "Task_NexusDirective_DoMission_E1M6": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 1 mission 6",
+    "id": "Task_NexusDirective_DoMission_E1M6"
+  },
+  "Task_NexusDirective_DoMission_E2M1": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 1",
+    "id": "Task_NexusDirective_DoMission_E2M1"
+  },
+  "Task_NexusDirective_DoMission_E2M2": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 2",
+    "id": "Task_NexusDirective_DoMission_E2M2"
+  },
+  "Task_NexusDirective_DoMission_E2M3": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 3",
+    "id": "Task_NexusDirective_DoMission_E2M3"
+  },
+  "Task_NexusDirective_DoMission_E2M4": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 4",
+    "id": "Task_NexusDirective_DoMission_E2M4"
+  },
+  "Task_NexusDirective_DoMission_E2M5": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 5",
+    "id": "Task_NexusDirective_DoMission_E2M5"
+  },
+  "Task_NexusDirective_DoMission_E2M6": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 2 mission 6",
+    "id": "Task_NexusDirective_DoMission_E2M6"
+  },
+  "Task_NexusDirective_DoMission_E3M1": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 1",
+    "id": "Task_NexusDirective_DoMission_E3M1"
+  },
+  "Task_NexusDirective_DoMission_E3M2": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 2",
+    "id": "Task_NexusDirective_DoMission_E3M2"
+  },
+  "Task_NexusDirective_DoMission_E3M3": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 3",
+    "id": "Task_NexusDirective_DoMission_E3M3"
+  },
+  "Task_NexusDirective_DoMission_E3M4": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 4",
+    "id": "Task_NexusDirective_DoMission_E3M4"
+  },
+  "Task_NexusDirective_DoMission_E3M5": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 5",
+    "id": "Task_NexusDirective_DoMission_E3M5"
+  },
+  "Task_NexusDirective_DoMission_E3M6": {
+    "type": "DoMission",
+    "name": "Data_Tasks_Directives_name_DoMission",
+    "description": "Data_Tasks_Directives_description_DoMission",
+    "requirementValue": 1,
+    "restrictionType01": "MissionId",
+    "restrictionValue01": "episode 3 mission 6",
+    "id": "Task_NexusDirective_DoMission_E3M6"
+  },
+  "Task_NexusDirective_DoBattle_PVP": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Directives_name_DoBattle_PVP",
+    "description": "Data_Tasks_Directives_description_DoBattle_PVP",
+    "requirementValue": 1,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVP",
+    "id": "Task_NexusDirective_DoBattle_PVP"
+  },
+  "Task_NexusDirective_DoBattle_PVE": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Directives_name_DoBattle_PVE",
+    "description": "Data_Tasks_Directives_description_DoBattle_PVE",
+    "requirementValue": 1,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "Task_NexusDirective_DoBattle_PVE"
+  },
+  "Task_NexusDirective_Summon_Basic": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Basic",
+    "id": "Task_NexusDirective_Summon_Basic"
+  },
+  "Task_NexusDirective_Summon_Advanced": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Advanced",
+    "id": "Task_NexusDirective_Summon_Advanced"
+  },
+  "Task_NexusDirective_Summon_Elite": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Elite",
+    "id": "Task_NexusDirective_Summon_Elite"
+  },
+  "Task_NexusDirective_Summon_Credit": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Credit",
+    "id": "Task_NexusDirective_Summon_Credit"
+  },
+  "Task_NexusDirective_Summon_Biomimetic": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Biomimetic",
+    "id": "Task_NexusDirective_Summon_Biomimetic"
+  },
+  "Task_NexusDirective_Summon_Protomatter": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon",
+    "requirementValue": 1,
+    "restrictionType01": "SummonType",
+    "restrictionValue01": "Protomatter",
+    "id": "Task_NexusDirective_Summon_Protomatter"
+  },
+  "Task_NexusDirective_LevelUp_Any": {
+    "type": "LevelUp",
+    "name": "Data_Tasks_Directives_name_LevelUp",
+    "description": "Data_Tasks_Directives_description_LevelUp_Any",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_LevelUp_Any"
+  },
+  "Task_NexusDirective_RankUp_Any": {
+    "type": "RankUp",
+    "name": "Data_Tasks_Directives_name_RankUp",
+    "description": "Data_Tasks_Directives_description_RankUp_Any",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_RankUp_Any"
+  },
+  "Task_NexusDirective_SkillUp_Any": {
+    "type": "SkillUp",
+    "name": "Data_Tasks_Directives_name_SkillUp",
+    "description": "Data_Tasks_Directives_description_SkillUp_Any",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_SkillUp_Any"
+  },
+  "Task_NexusDirective_Summon_Any": {
+    "type": "Summon",
+    "name": "Data_Tasks_Directives_name_Summon",
+    "description": "Data_Tasks_Directives_description_Summon_Any",
+    "requirementValue": 1,
+    "restrictionType01": "None",
+    "id": "Task_NexusDirective_Summon_Any"
+  },
+  "Task_NexusDirective_DoBattle_PVE_Growth": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Directives_name_DoBattle_PVE",
+    "description": "Data_Tasks_Directives_description_DoBattle_PVE",
+    "requirementValue": 1,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "Task_NexusDirective_DoBattle_PVE_Growth"
+  },
+  "Task_NexusDirective_DoBattle_01": {
+    "type": "DoBattle",
+    "name": "Data_Tasks_Task_name_DoBattle_01",
+    "description": "Data_Tasks_Task_Desc_DoBattle_01",
+    "requirementValue": 1,
+    "restrictionType01": "GameMode",
+    "restrictionValue01": "PVE",
+    "id": "Task_NexusDirective_DoBattle_01"
+  }
+}

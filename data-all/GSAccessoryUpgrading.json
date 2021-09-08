@@ -1,0 +1,677 @@
+{
+  "GSAccessoryKey0 ": {
+    "stringId": "NexusPower_UpgradeCost_Common_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 50,
+        "Power Cell": 5
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Common",
+      "level": 1
+    }
+  },
+  "GSAccessoryKey1 ": {
+    "stringId": "NexusPower_UpgradeCost_Common_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 100,
+        "Power Cell": 10
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 5
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Common",
+      "level": 2
+    }
+  },
+  "GSAccessoryKey2 ": {
+    "stringId": "NexusPower_UpgradeCost_Common_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 125,
+        "Power Cell": 15
+      },
+      "FirstAmount": 125,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 8
+      },
+      "FirstAmount": 8,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Common",
+      "level": 3
+    }
+  },
+  "GSAccessoryKey3 ": {
+    "stringId": "NexusPower_UpgradeCost_Common_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 150,
+        "Power Cell": 20
+      },
+      "FirstAmount": 150,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Common",
+      "level": 4
+    }
+  },
+  "GSAccessoryKey4 ": {
+    "stringId": "NexusPower_UpgradeCost_Common_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 175,
+        "Power Cell": 25
+      },
+      "FirstAmount": 175,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 13
+      },
+      "FirstAmount": 13,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Common",
+      "level": 5
+    }
+  },
+  "GSAccessoryKey5 ": {
+    "stringId": "NexusPower_UpgradeCost_Rare_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 200,
+        "Power Cell": 30
+      },
+      "FirstAmount": 200,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 15
+      },
+      "FirstAmount": 15,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Rare",
+      "level": 1
+    }
+  },
+  "GSAccessoryKey6 ": {
+    "stringId": "NexusPower_UpgradeCost_Rare_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 250,
+        "Power Cell": 35
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 18
+      },
+      "FirstAmount": 18,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Rare",
+      "level": 2
+    }
+  },
+  "GSAccessoryKey7 ": {
+    "stringId": "NexusPower_UpgradeCost_Rare_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 300,
+        "Power Cell": 40
+      },
+      "FirstAmount": 300,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 20
+      },
+      "FirstAmount": 20,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Rare",
+      "level": 3
+    }
+  },
+  "GSAccessoryKey8 ": {
+    "stringId": "NexusPower_UpgradeCost_Rare_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 350,
+        "Power Cell": 45
+      },
+      "FirstAmount": 350,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 23
+      },
+      "FirstAmount": 23,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Rare",
+      "level": 4
+    }
+  },
+  "GSAccessoryKey9 ": {
+    "stringId": "NexusPower_UpgradeCost_Rare_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 400,
+        "Power Cell": 50
+      },
+      "FirstAmount": 400,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 25
+      },
+      "FirstAmount": 25,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Rare",
+      "level": 5
+    }
+  },
+  "GSAccessoryKey10 ": {
+    "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 450,
+        "Power Cell": 55
+      },
+      "FirstAmount": 450,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 28
+      },
+      "FirstAmount": 28,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1
+    }
+  },
+  "GSAccessoryKey11 ": {
+    "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 500,
+        "Power Cell": 60
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 30
+      },
+      "FirstAmount": 30,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2
+    }
+  },
+  "GSAccessoryKey12 ": {
+    "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 625,
+        "Power Cell": 65
+      },
+      "FirstAmount": 625,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 33
+      },
+      "FirstAmount": 33,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3
+    }
+  },
+  "GSAccessoryKey13 ": {
+    "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 750,
+        "Power Cell": 70
+      },
+      "FirstAmount": 750,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 35
+      },
+      "FirstAmount": 35,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4
+    }
+  },
+  "GSAccessoryKey14 ": {
+    "stringId": "NexusPower_UpgradeCost_VeryRare_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 875,
+        "Power Cell": 75
+      },
+      "FirstAmount": 875,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 38
+      },
+      "FirstAmount": 38,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5
+    }
+  },
+  "GSAccessoryKey15 ": {
+    "stringId": "NexusPower_UpgradeCost_Epic_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 925,
+        "Power Cell": 80
+      },
+      "FirstAmount": 925,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 40
+      },
+      "FirstAmount": 40,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Epic",
+      "level": 1
+    }
+  },
+  "GSAccessoryKey16 ": {
+    "stringId": "NexusPower_UpgradeCost_Epic_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Power Cell": 85
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 43
+      },
+      "FirstAmount": 43,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Epic",
+      "level": 2
+    }
+  },
+  "GSAccessoryKey17 ": {
+    "stringId": "NexusPower_UpgradeCost_Epic_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 1250,
+        "Power Cell": 90
+      },
+      "FirstAmount": 1250,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 45
+      },
+      "FirstAmount": 45,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Epic",
+      "level": 3
+    }
+  },
+  "GSAccessoryKey18 ": {
+    "stringId": "NexusPower_UpgradeCost_Epic_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 1500,
+        "Power Cell": 95
+      },
+      "FirstAmount": 1500,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 48
+      },
+      "FirstAmount": 48,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Epic",
+      "level": 4
+    }
+  },
+  "GSAccessoryKey19 ": {
+    "stringId": "NexusPower_UpgradeCost_Epic_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 1750,
+        "Power Cell": 100
+      },
+      "FirstAmount": 1750,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 50
+      },
+      "FirstAmount": 50,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Epic",
+      "level": 5
+    }
+  },
+  "GSAccessoryKey20 ": {
+    "stringId": "NexusPower_UpgradeCost_Legendary_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 2000,
+        "Power Cell": 105
+      },
+      "FirstAmount": 2000,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 53
+      },
+      "FirstAmount": 53,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Legendary",
+      "level": 1
+    }
+  },
+  "GSAccessoryKey21 ": {
+    "stringId": "NexusPower_UpgradeCost_Legendary_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 2500,
+        "Power Cell": 110
+      },
+      "FirstAmount": 2500,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 55
+      },
+      "FirstAmount": 55,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Legendary",
+      "level": 2
+    }
+  },
+  "GSAccessoryKey22 ": {
+    "stringId": "NexusPower_UpgradeCost_Legendary_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 3000,
+        "Power Cell": 115
+      },
+      "FirstAmount": 3000,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 58
+      },
+      "FirstAmount": 58,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Legendary",
+      "level": 3
+    }
+  },
+  "GSAccessoryKey23 ": {
+    "stringId": "NexusPower_UpgradeCost_Legendary_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 3500,
+        "Power Cell": 120
+      },
+      "FirstAmount": 3500,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 60
+      },
+      "FirstAmount": 60,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Legendary",
+      "level": 4
+    }
+  },
+  "GSAccessoryKey24 ": {
+    "stringId": "NexusPower_UpgradeCost_Legendary_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "PriceUpgrade": {
+      "AllItems": {
+        "Latinum": 4000,
+        "Power Cell": 125
+      },
+      "FirstAmount": 4000,
+      "IsEmpty": false
+    },
+    "RewardSell": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Power Cell": 63
+      },
+      "FirstAmount": 63,
+      "IsEmpty": false
+    },
+    "id": {
+      "rarity": "Legendary",
+      "level": 5
+    }
+  }
+}

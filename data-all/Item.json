@@ -1,0 +1,494 @@
+{
+  "currency_credits": {
+    "category": "Currency",
+    "currencyType": "Credits",
+    "name": "Credits",
+    "description": "Cool things for buying dope stuff.",
+    "icon": "Credits",
+    "rarity": "None",
+    "id": "currency_credits"
+  },
+  "currency_latinum": {
+    "category": "Currency",
+    "currencyType": "Latinum",
+    "name": "Latinum",
+    "description": "Fun things for buying great stuff.",
+    "icon": "Latinum",
+    "rarity": "None",
+    "id": "currency_latinum"
+  },
+  "currency_dilithium": {
+    "category": "Currency",
+    "currencyType": "Dilithium",
+    "name": "Dilithium",
+    "description": "Exciting things for buying awesome stuff.",
+    "icon": "Dilithium",
+    "rarity": "None",
+    "id": "currency_dilithium"
+  },
+  "currency_xp": {
+    "category": "Currency",
+    "currencyType": "Xp",
+    "name": "Xp",
+    "description": "xppppppppppppppppppp",
+    "icon": "Xp",
+    "rarity": "None",
+    "id": "currency_xp"
+  },
+  "resource_collect_dilithium": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "Dilithium",
+    "description": "Exciting things for buying awesome stuff.",
+    "icon": "MapNode_Image_Resource_Dilitium_02",
+    "rarity": "None",
+    "id": "resource_collect_dilithium"
+  },
+  "test item1": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "test1",
+    "description": "",
+    "icon": "Ico_Settings",
+    "rarity": "None",
+    "id": "test item1"
+  },
+  "test item2": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "test2",
+    "description": "",
+    "icon": "Ico_Shields",
+    "rarity": "None",
+    "id": "test item2"
+  },
+  "test item3": {
+    "category": "Item",
+    "currencyType": "None",
+    "name": "test3",
+    "description": "",
+    "icon": "Ico_Power",
+    "rarity": "None",
+    "id": "test item3"
+  },
+  "Kirk": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Kirk Token",
+    "description": "",
+    "icon": "Kirk",
+    "rarity": "None",
+    "id": "Kirk"
+  },
+  "Burnham": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Burnham Token",
+    "description": "",
+    "icon": "Burnham",
+    "rarity": "None",
+    "id": "Burnham"
+  },
+  "Khan": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Khan Token",
+    "description": "",
+    "icon": "Khan",
+    "rarity": "None",
+    "id": "Khan"
+  },
+  "Riker": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Riker Token",
+    "description": "",
+    "icon": "Riker",
+    "rarity": "None",
+    "id": "Riker"
+  },
+  "Saru": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Saru Token",
+    "description": "",
+    "icon": "Saru",
+    "rarity": "None",
+    "id": "Saru"
+  },
+  "Dukat": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Dukat Token",
+    "description": "",
+    "icon": "Dukat",
+    "rarity": "None",
+    "id": "Dukat"
+  },
+  "Spock": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Spock Token",
+    "description": "",
+    "icon": "Spock",
+    "rarity": "None",
+    "id": "Spock"
+  },
+  "Archer": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Archer Token",
+    "description": "",
+    "icon": "Archer",
+    "rarity": "None",
+    "id": "Archer"
+  },
+  "Worf": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Worf Token",
+    "description": "",
+    "icon": "Worf",
+    "rarity": "None",
+    "id": "Worf"
+  },
+  "Geordi": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Geordi Token",
+    "description": "",
+    "icon": "Geordi",
+    "rarity": "None",
+    "id": "Geordi"
+  },
+  "Janeway": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Janeway Token",
+    "description": "",
+    "icon": "Janeway",
+    "rarity": "None",
+    "id": "Janeway"
+  },
+  "Locutus": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Locutus Token",
+    "description": "",
+    "icon": "Locutus",
+    "rarity": "None",
+    "id": "Locutus"
+  },
+  "Picard": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Picard Token",
+    "description": "",
+    "icon": "Picard",
+    "rarity": "None",
+    "id": "Picard"
+  },
+  "Data": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Data Token",
+    "description": "",
+    "icon": "Data",
+    "rarity": "None",
+    "id": "Data"
+  },
+  "Lorca": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Lorca Token",
+    "description": "",
+    "icon": "Lorca",
+    "rarity": "None",
+    "id": "Lorca"
+  },
+  "Crusher": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Crusher Token",
+    "description": "",
+    "icon": "Crusher",
+    "rarity": "None",
+    "id": "Crusher"
+  },
+  "Doctor": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Doctor Token",
+    "description": "",
+    "icon": "Doctor",
+    "rarity": "None",
+    "id": "Doctor"
+  },
+  "Sisko": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Sisko Token",
+    "description": "",
+    "icon": "Sisko",
+    "rarity": "None",
+    "id": "Sisko"
+  },
+  "Nerys": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Nerys Token",
+    "description": "",
+    "icon": "Nerys",
+    "rarity": "None",
+    "id": "Nerys"
+  },
+  "Borg Queen": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Borg Queen Token",
+    "description": "",
+    "icon": "Borg Queen",
+    "rarity": "None",
+    "id": "Borg Queen"
+  },
+  "Sela": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Sela Token",
+    "description": "",
+    "icon": "Sela",
+    "rarity": "None",
+    "id": "Sela"
+  },
+  "Tomalak": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Tomalak Token",
+    "description": "",
+    "icon": "Tomalak",
+    "rarity": "None",
+    "id": "Tomalak"
+  },
+  "Gorn": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Gorn Token",
+    "description": "",
+    "icon": "Gorn",
+    "rarity": "None",
+    "id": "Gorn"
+  },
+  "Uhura": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Uhura Token",
+    "description": "",
+    "icon": "Uhura",
+    "rarity": "None",
+    "id": "Uhura"
+  },
+  "Pike": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Pike Token",
+    "description": "",
+    "icon": "Pike",
+    "rarity": "None",
+    "id": "Pike"
+  },
+  "Tilly": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Tilly Token",
+    "description": "",
+    "icon": "Tilly",
+    "rarity": "None",
+    "id": "Tilly"
+  },
+  "Sulu": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Sulu Token",
+    "description": "",
+    "icon": "Sulu",
+    "rarity": "None",
+    "id": "Sulu"
+  },
+  "Scott": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Scott Token",
+    "description": "",
+    "icon": "Scott",
+    "rarity": "None",
+    "id": "Scott"
+  },
+  "Torres": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Torres Token",
+    "description": "",
+    "icon": "Torres",
+    "rarity": "None",
+    "id": "Torres"
+  },
+  "Stamets": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Stamets Token",
+    "description": "",
+    "icon": "Stamets",
+    "rarity": "None",
+    "id": "Stamets"
+  },
+  "Culber": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Culber Token",
+    "description": "",
+    "icon": "Culber",
+    "rarity": "None",
+    "id": "Culber"
+  },
+  "Phlox": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Phlox Token",
+    "description": "",
+    "icon": "Phlox",
+    "rarity": "None",
+    "id": "Phlox"
+  },
+  "McCoy": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "McCoy Token",
+    "description": "",
+    "icon": "McCoy",
+    "rarity": "None",
+    "id": "McCoy"
+  },
+  "TPol": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "TPol Token",
+    "description": "",
+    "icon": "TPol",
+    "rarity": "None",
+    "id": "TPol"
+  },
+  "Nine": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Nine Token",
+    "description": "",
+    "icon": "Nine",
+    "rarity": "None",
+    "id": "Nine"
+  },
+  "Odo": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Odo Token",
+    "description": "",
+    "icon": "Odo",
+    "rarity": "None",
+    "id": "Odo"
+  },
+  "Georgiou": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Georgiou Token",
+    "description": "",
+    "icon": "Georgiou",
+    "rarity": "None",
+    "id": "Georgiou"
+  },
+  "Martok": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Martok Token",
+    "description": "",
+    "icon": "Martok",
+    "rarity": "None",
+    "id": "Martok"
+  },
+  "Chekov": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Chekov Token",
+    "description": "",
+    "icon": "Chekov",
+    "rarity": "None",
+    "id": "Chekov"
+  },
+  "Quark": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "Quark Token",
+    "description": "",
+    "icon": "Quark",
+    "rarity": "None",
+    "id": "Quark"
+  },
+  "Gel A": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Gel A",
+    "description": "Adds +25 XP",
+    "icon": "Xp",
+    "rarity": "None",
+    "DataBiomimeticGel": {
+      "Xp": 25
+    },
+    "id": "Gel A"
+  },
+  "Gel B": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Gel B",
+    "description": "Adds +100 XP",
+    "icon": "Xp",
+    "rarity": "None",
+    "DataBiomimeticGel": {
+      "Xp": 100
+    },
+    "id": "Gel B"
+  },
+  "Gel C": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Gel C",
+    "description": "Adds +400 XP",
+    "icon": "Xp",
+    "rarity": "None",
+    "DataBiomimeticGel": {
+      "Xp": 400
+    },
+    "id": "Gel C"
+  },
+  "Gel D": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Gel D",
+    "description": "Adds +1600 XP",
+    "icon": "Xp",
+    "rarity": "None",
+    "DataBiomimeticGel": {
+      "Xp": 1600
+    },
+    "id": "Gel D"
+  },
+  "Gel E": {
+    "category": "BiomimeticGel",
+    "currencyType": "None",
+    "name": "Gel E",
+    "description": "Adds +6400 XP",
+    "icon": "Xp",
+    "rarity": "None",
+    "DataBiomimeticGel": {
+      "Xp": 6400
+    },
+    "id": "Gel E"
+  }
+}

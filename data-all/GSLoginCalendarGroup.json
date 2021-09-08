@@ -1,0 +1,17 @@
+{
+  "grpid_weekly_1": {
+    "calendarId": "id_weekly",
+    "minLevel": 1,
+    "id": "grpid_weekly_1"
+  },
+  "grpid_weekly_2": {
+    "calendarId": "id_weekly",
+    "minLevel": 3,
+    "id": "grpid_weekly_2"
+  },
+  "grpid_monthly_1": {
+    "calendarId": "id_monthly",
+    "minLevel": 1,
+    "id": "grpid_monthly_1"
+  }
+}

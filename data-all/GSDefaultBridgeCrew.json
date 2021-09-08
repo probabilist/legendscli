@@ -1,0 +1,58 @@
+{
+  "1": {
+    "bridgeStation": "Operations",
+    "character": "Worf",
+    "unlockedLevel": 0,
+    "icon": "Bridge_Operations",
+    "id": "1"
+  },
+  "2": {
+    "bridgeStation": "Conn",
+    "character": "Burnham",
+    "unlockedLevel": 0,
+    "icon": "Bridge_Conn",
+    "id": "2"
+  },
+  "3": {
+    "bridgeStation": "Medical",
+    "character": "Crusher",
+    "unlockedLevel": 5,
+    "icon": "Class_Medical",
+    "id": "3"
+  },
+  "4": {
+    "bridgeStation": "Science",
+    "character": "Spock",
+    "unlockedLevel": 10,
+    "icon": "Class_Science",
+    "id": "4"
+  },
+  "5": {
+    "bridgeStation": "FirstOfficer",
+    "character": "Riker",
+    "unlockedLevel": 15,
+    "icon": "Bridge_FirstOfficer",
+    "id": "5"
+  },
+  "6": {
+    "bridgeStation": "Engineering",
+    "character": "Data",
+    "unlockedLevel": 20,
+    "icon": "Class_Engineering",
+    "id": "6"
+  },
+  "7": {
+    "bridgeStation": "Tactical",
+    "character": "Kirk",
+    "unlockedLevel": 25,
+    "icon": "Bridge_Tactical",
+    "id": "7"
+  },
+  "8": {
+    "bridgeStation": "Captain",
+    "character": "Picard",
+    "unlockedLevel": 30,
+    "icon": "Bridge_Captain",
+    "id": "8"
+  }
+}

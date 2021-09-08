@@ -1,0 +1,699 @@
+{
+  "1": {
+    "summonID": "worf summon",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "worf summon",
+    "dropRate": 1.0,
+    "ignoreValidation": true,
+    "rarityChances": {
+      "Common": 0.0,
+      "Rare": 0.0,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "1"
+  },
+  "2": {
+    "summonID": "mccoy summon",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "mccoy summon",
+    "dropRate": 1.0,
+    "ignoreValidation": true,
+    "rarityChances": {
+      "Common": 0.0,
+      "Rare": 0.0,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "2"
+  },
+  "3": {
+    "summonID": "Core_00",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_00",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "3"
+  },
+  "4": {
+    "summonID": "Core_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.5,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "4"
+  },
+  "5": {
+    "summonID": "Core_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "5"
+  },
+  "6": {
+    "summonID": "Core_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "6"
+  },
+  "7": {
+    "summonID": "Core_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "7"
+  },
+  "8": {
+    "summonID": "Core_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "8"
+  },
+  "9": {
+    "summonID": "Core_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "9"
+  },
+  "10": {
+    "summonID": "Core_07",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "None",
+    "filterGroup": "Core_07",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "10"
+  },
+  "11": {
+    "summonID": "Summon_Security_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.5,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "11"
+  },
+  "12": {
+    "summonID": "Summon_Security_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.65,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.05
+    },
+    "id": "12"
+  },
+  "13": {
+    "summonID": "Summon_Security_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "13"
+  },
+  "14": {
+    "summonID": "Summon_Security_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "14"
+  },
+  "15": {
+    "summonID": "Summon_Security_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "15"
+  },
+  "16": {
+    "summonID": "Summon_Security_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "16"
+  },
+  "17": {
+    "summonID": "Summon_Security_07",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Security",
+    "filterGroup": "Summon_Security_07",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "17"
+  },
+  "18": {
+    "summonID": "Summon_Command_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.8,
+      "Rare": 0.0,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "18"
+  },
+  "19": {
+    "summonID": "Summon_Command_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.0,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "19"
+  },
+  "20": {
+    "summonID": "Summon_Command_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.65,
+      "Rare": 0.0,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "20"
+  },
+  "21": {
+    "summonID": "Summon_Command_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "21"
+  },
+  "22": {
+    "summonID": "Summon_Command_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "22"
+  },
+  "23": {
+    "summonID": "Summon_Command_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Command",
+    "filterGroup": "Summon_Command_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "23"
+  },
+  "24": {
+    "summonID": "Summon_Science_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "24"
+  },
+  "25": {
+    "summonID": "Summon_Science_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "25"
+  },
+  "26": {
+    "summonID": "Summon_Science_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.6,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "26"
+  },
+  "27": {
+    "summonID": "Summon_Science_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.6,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "27"
+  },
+  "28": {
+    "summonID": "Summon_Science_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.4,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "28"
+  },
+  "29": {
+    "summonID": "Summon_Science_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Science",
+    "filterGroup": "Summon_Science_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.35,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.05
+    },
+    "id": "29"
+  },
+  "30": {
+    "summonID": "Summon_Engineer_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 1.0,
+      "Rare": 0.0,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "30"
+  },
+  "31": {
+    "summonID": "Summon_Engineer_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.8,
+      "Rare": 0.0,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "31"
+  },
+  "32": {
+    "summonID": "Summon_Engineer_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.8,
+      "Rare": 0.0,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "32"
+  },
+  "33": {
+    "summonID": "Summon_Engineer_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.5,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "33"
+  },
+  "34": {
+    "summonID": "Summon_Engineer_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.5,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "34"
+  },
+  "35": {
+    "summonID": "Summon_Engineer_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Engineering",
+    "filterGroup": "Summon_Engineer_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.45,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.05
+    },
+    "id": "35"
+  },
+  "36": {
+    "summonID": "Summon_Medic_01",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_01",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "36"
+  },
+  "37": {
+    "summonID": "Summon_Medic_02",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_02",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "37"
+  },
+  "38": {
+    "summonID": "Summon_Medic_03",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_03",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.7,
+      "Rare": 0.3,
+      "VeryRare": 0.0,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "38"
+  },
+  "39": {
+    "summonID": "Summon_Medic_04",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_04",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.5,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.0,
+      "Legendary": 0.0
+    },
+    "id": "39"
+  },
+  "40": {
+    "summonID": "Summon_Medic_05",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_05",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.4,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "40"
+  },
+  "41": {
+    "summonID": "Summon_Medic_06",
+    "summonItemID": "",
+    "itemType": "Character",
+    "characterType": "Medical",
+    "filterGroup": "Summon_Medic_06",
+    "dropRate": 1.0,
+    "ignoreValidation": false,
+    "rarityChances": {
+      "Common": 0.4,
+      "Rare": 0.3,
+      "VeryRare": 0.2,
+      "Epic": 0.1,
+      "Legendary": 0.0
+    },
+    "id": "41"
+  }
+}

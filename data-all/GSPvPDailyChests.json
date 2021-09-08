@@ -1,0 +1,514 @@
+{
+  "PvPDailyChest00": {
+    "league": 0,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest0",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest00"
+  },
+  "PvPDailyChest01": {
+    "league": 0,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest0",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest01"
+  },
+  "PvPDailyChest02": {
+    "league": 0,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest0",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest02"
+  },
+  "PvPDailyChest03": {
+    "league": 0,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest0",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest03"
+  },
+  "PvPDailyChest10": {
+    "league": 1,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest1",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest10"
+  },
+  "PvPDailyChest11": {
+    "league": 1,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest1",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest11"
+  },
+  "PvPDailyChest12": {
+    "league": 1,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest1",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest12"
+  },
+  "PvPDailyChest13": {
+    "league": 1,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest1",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest13"
+  },
+  "PvPDailyChest20": {
+    "league": 2,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest2",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest20"
+  },
+  "PvPDailyChest21": {
+    "league": 2,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest2",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest21"
+  },
+  "PvPDailyChest22": {
+    "league": 2,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest2",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest22"
+  },
+  "PvPDailyChest23": {
+    "league": 2,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest2",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest23"
+  },
+  "PvPDailyChest30": {
+    "league": 3,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest3",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest30"
+  },
+  "PvPDailyChest31": {
+    "league": 3,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest3",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest31"
+  },
+  "PvPDailyChest32": {
+    "league": 3,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest3",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest32"
+  },
+  "PvPDailyChest33": {
+    "league": 3,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest3",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest33"
+  },
+  "PvPDailyChest40": {
+    "league": 4,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest4",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest40"
+  },
+  "PvPDailyChest41": {
+    "league": 4,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest4",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest41"
+  },
+  "PvPDailyChest42": {
+    "league": 4,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest4",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest42"
+  },
+  "PvPDailyChest43": {
+    "league": 4,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest4",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest43"
+  },
+  "PvPDailyChest50": {
+    "league": 5,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest5",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest50"
+  },
+  "PvPDailyChest51": {
+    "league": 5,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest5",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest51"
+  },
+  "PvPDailyChest52": {
+    "league": 5,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest5",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest52"
+  },
+  "PvPDailyChest53": {
+    "league": 5,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest5",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest53"
+  },
+  "PvPDailyChest60": {
+    "league": 6,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest6",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest60"
+  },
+  "PvPDailyChest61": {
+    "league": 6,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest6",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest61"
+  },
+  "PvPDailyChest62": {
+    "league": 6,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest6",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest62"
+  },
+  "PvPDailyChest63": {
+    "league": 6,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest6",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest63"
+  },
+  "PvPDailyChest70": {
+    "league": 7,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest7",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest70"
+  },
+  "PvPDailyChest71": {
+    "league": 7,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest7",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest71"
+  },
+  "PvPDailyChest72": {
+    "league": 7,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest7",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest72"
+  },
+  "PvPDailyChest73": {
+    "league": 7,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest7",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest73"
+  },
+  "PvPDailyChest80": {
+    "league": 8,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest8",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest80"
+  },
+  "PvPDailyChest81": {
+    "league": 8,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest8",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest81"
+  },
+  "PvPDailyChest82": {
+    "league": 8,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest8",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest82"
+  },
+  "PvPDailyChest83": {
+    "league": 8,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest8",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest83"
+  },
+  "PvPDailyChest90": {
+    "league": 9,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest9",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest90"
+  },
+  "PvPDailyChest91": {
+    "league": 9,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest9",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest91"
+  },
+  "PvPDailyChest92": {
+    "league": 9,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest9",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest92"
+  },
+  "PvPDailyChest93": {
+    "league": 9,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest9",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest93"
+  },
+  "PvPDailyChest100": {
+    "league": 10,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest10",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest100"
+  },
+  "PvPDailyChest101": {
+    "league": 10,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest10",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest101"
+  },
+  "PvPDailyChest102": {
+    "league": 10,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest10",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest102"
+  },
+  "PvPDailyChest103": {
+    "league": 10,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest10",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest103"
+  },
+  "PvPDailyChest110": {
+    "league": 11,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest11",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest110"
+  },
+  "PvPDailyChest111": {
+    "league": 11,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest11",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest111"
+  },
+  "PvPDailyChest112": {
+    "league": 11,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest11",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest112"
+  },
+  "PvPDailyChest113": {
+    "league": 11,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest11",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest113"
+  },
+  "PvPDailyChest120": {
+    "league": 12,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest12",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest120"
+  },
+  "PvPDailyChest121": {
+    "league": 12,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest12",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest121"
+  },
+  "PvPDailyChest122": {
+    "league": 12,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest12",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest122"
+  },
+  "PvPDailyChest123": {
+    "league": 12,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest12",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest123"
+  },
+  "PvPDailyChest130": {
+    "league": 13,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest13",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest130"
+  },
+  "PvPDailyChest131": {
+    "league": 13,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest13",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest131"
+  },
+  "PvPDailyChest132": {
+    "league": 13,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest13",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest132"
+  },
+  "PvPDailyChest133": {
+    "league": 13,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest13",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest133"
+  },
+  "PvPDailyChest140": {
+    "league": 14,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest14",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest140"
+  },
+  "PvPDailyChest141": {
+    "league": 14,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest14",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest141"
+  },
+  "PvPDailyChest142": {
+    "league": 14,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest14",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest142"
+  },
+  "PvPDailyChest143": {
+    "league": 14,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest14",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest143"
+  },
+  "PvPDailyChest150": {
+    "league": 15,
+    "index": 0,
+    "pointsRequired": 10,
+    "itemRewardId": "PvPDailyChest15",
+    "chestPrefab": "DaliyChestReward0",
+    "id": "PvPDailyChest150"
+  },
+  "PvPDailyChest151": {
+    "league": 15,
+    "index": 1,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest15",
+    "chestPrefab": "DaliyChestReward1",
+    "id": "PvPDailyChest151"
+  },
+  "PvPDailyChest152": {
+    "league": 15,
+    "index": 2,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest15",
+    "chestPrefab": "DaliyChestReward2",
+    "id": "PvPDailyChest152"
+  },
+  "PvPDailyChest153": {
+    "league": 15,
+    "index": 3,
+    "pointsRequired": 30,
+    "itemRewardId": "PvPDailyChest15",
+    "chestPrefab": "DaliyChestReward3",
+    "id": "PvPDailyChest153"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "daily rewards": {
+    "category": "Daily",
+    "triggerType": "LoginRewardsReady",
+    "triggerTypeValue": 0,
+    "priority": 130,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_DailyRewardsReady_Header",
+    "textBody": "Data_Notifications_DailyRewardsReady_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "daily rewards"
+  },
+  "shuttlecraft rewards": {
+    "category": "Shuttlecraft",
+    "triggerType": "ShuttlecraftRewardsReady",
+    "triggerTypeValue": 0,
+    "priority": 140,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_ShuttlecraftReward_Header",
+    "textBody": "Data_Notifications_ShuttlecraftReward_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "shuttlecraft rewards"
+  },
+  "pvp chest": {
+    "category": "PvP",
+    "triggerType": "PvPChestUnclaimed",
+    "triggerTypeValue": 0,
+    "priority": 120,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_PvPDailyChest_Header",
+    "textBody": "Data_Notifications_PvPDailyChest_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "pvp chest"
+  },
+  "pvp stamina refilled": {
+    "category": "PvP",
+    "triggerType": "PvPStaminaRefill",
+    "triggerTypeValue": 0,
+    "priority": 110,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_PvPDataChipFull_Header",
+    "textBody": "Data_Notifications_PvPDataChipFull_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "pvp stamina refilled"
+  },
+  "new event begins": {
+    "category": "Event",
+    "triggerType": "NewEvent",
+    "triggerTypeValue": 0,
+    "priority": 150,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_NewEvent_Header",
+    "textBody": "Data_Notifications_NewEvent_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "new event begins"
+  },
+  "inactive call back": {
+    "category": "Updates",
+    "triggerType": "PlayerInactive",
+    "triggerTypeValue": 192,
+    "priority": 100,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_PlayerInactive_Header",
+    "textBody": "Data_Notifications_PlayerInactive_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "inactive call back"
+  },
+  "new updates": {
+    "category": "Updates",
+    "triggerType": "NewUpdates",
+    "triggerTypeValue": 0,
+    "priority": 135,
+    "increaseBadgeCount": true,
+    "textHeader": "Data_Notifications_NewUpdates_Header",
+    "textBody": "Data_Notifications_NewUpdates_Body",
+    "image": "Icon_Health",
+    "imageExpandable": "",
+    "ledColorString": "#2dcaff",
+    "id": "new updates"
+  }
+}

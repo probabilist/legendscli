@@ -1,0 +1,466 @@
+{
+  "1": {
+    "order": 1,
+    "taskId": "DoBattle_03",
+    "dailyTaskSetId": "DailyTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 100
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "id": "1"
+  },
+  "2": {
+    "order": 2,
+    "taskId": "DoMission_01",
+    "dailyTaskSetId": "DailyTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "2"
+  },
+  "3": {
+    "order": 3,
+    "taskId": "Summon_01",
+    "dailyTaskSetId": "DailyTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Biomimetic Gel": 1
+      },
+      "FirstAmount": 1,
+      "IsEmpty": false
+    },
+    "id": "3"
+  },
+  "4": {
+    "order": 4,
+    "taskId": "UpgradeLevel_01",
+    "dailyTaskSetId": "DailyTaskSet01",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 100
+      },
+      "FirstAmount": 100,
+      "IsEmpty": false
+    },
+    "id": "4"
+  },
+  "5": {
+    "order": 1,
+    "taskId": "DoBattle_05",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "5"
+  },
+  "6": {
+    "order": 2,
+    "taskId": "DoMission_01",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15
+      },
+      "FirstAmount": 15,
+      "IsEmpty": false
+    },
+    "id": "6"
+  },
+  "7": {
+    "order": 3,
+    "taskId": "Summon_01",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 1
+      },
+      "FirstAmount": 1,
+      "IsEmpty": false
+    },
+    "id": "7"
+  },
+  "8": {
+    "order": 4,
+    "taskId": "UpgradeLevel_03",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 200
+      },
+      "FirstAmount": 200,
+      "IsEmpty": false
+    },
+    "id": "8"
+  },
+  "9": {
+    "order": 5,
+    "taskId": "ShuttlecraftComplete_01",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 200
+      },
+      "FirstAmount": 200,
+      "IsEmpty": false
+    },
+    "id": "9"
+  },
+  "10": {
+    "order": 6,
+    "taskId": "DoPvP_03",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15
+      },
+      "FirstAmount": 15,
+      "IsEmpty": false
+    },
+    "id": "10"
+  },
+  "11": {
+    "order": 7,
+    "taskId": "OperationComplete_01",
+    "dailyTaskSetId": "DailyTaskSet02",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 15
+      },
+      "FirstAmount": 15,
+      "IsEmpty": false
+    },
+    "id": "11"
+  },
+  "12": {
+    "order": 1,
+    "taskId": "DoBattle_10",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "12"
+  },
+  "13": {
+    "order": 2,
+    "taskId": "DoMission_02",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20
+      },
+      "FirstAmount": 20,
+      "IsEmpty": false
+    },
+    "id": "13"
+  },
+  "14": {
+    "order": 3,
+    "taskId": "Summon_01",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Rare Bio-Gel": 2
+      },
+      "FirstAmount": 2,
+      "IsEmpty": false
+    },
+    "id": "14"
+  },
+  "15": {
+    "order": 4,
+    "taskId": "UpgradeLevel_03",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "15"
+  },
+  "16": {
+    "order": 5,
+    "taskId": "ShuttlecraftComplete_01",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "16"
+  },
+  "17": {
+    "order": 6,
+    "taskId": "DoPvP_05",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20
+      },
+      "FirstAmount": 20,
+      "IsEmpty": false
+    },
+    "id": "17"
+  },
+  "18": {
+    "order": 7,
+    "taskId": "OperationComplete_03",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 20
+      },
+      "FirstAmount": 20,
+      "IsEmpty": false
+    },
+    "id": "18"
+  },
+  "19": {
+    "order": 8,
+    "taskId": "GearLevelUp_01",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "19"
+  },
+  "20": {
+    "order": 9,
+    "taskId": "ParticleLevelUp_01",
+    "dailyTaskSetId": "DailyTaskSet03",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "20"
+  },
+  "21": {
+    "order": 1,
+    "taskId": "DoBattle_10",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "21"
+  },
+  "22": {
+    "order": 2,
+    "taskId": "DoMission_02",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 25
+      },
+      "FirstAmount": 25,
+      "IsEmpty": false
+    },
+    "id": "22"
+  },
+  "23": {
+    "order": 3,
+    "taskId": "Summon_01",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Advanced Bio-Gel": 1
+      },
+      "FirstAmount": 1,
+      "IsEmpty": false
+    },
+    "id": "23"
+  },
+  "24": {
+    "order": 4,
+    "taskId": "UpgradeLevel_03",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "24"
+  },
+  "25": {
+    "order": 5,
+    "taskId": "ShuttlecraftComplete_01",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "25"
+  },
+  "26": {
+    "order": 6,
+    "taskId": "DoPvP_05",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 25
+      },
+      "FirstAmount": 25,
+      "IsEmpty": false
+    },
+    "id": "26"
+  },
+  "27": {
+    "order": 7,
+    "taskId": "OperationComplete_03",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 25
+      },
+      "FirstAmount": 25,
+      "IsEmpty": false
+    },
+    "id": "27"
+  },
+  "28": {
+    "order": 8,
+    "taskId": "GearLevelUp_01",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "28"
+  },
+  "29": {
+    "order": 9,
+    "taskId": "ParticleLevelUp_01",
+    "dailyTaskSetId": "DailyTaskSet04",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "29"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "default-smart": {
+    "m_MaxChoices": 3,
+    "m_ScoreExponent": 1.2,
+    "m_CategoryScales": [
+      0.0,
+      4.0,
+      1.0,
+      3.0,
+      3.0,
+      2.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      20.0,
+      5.0,
+      15.0,
+      20.0,
+      15.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "default-smart"
+  },
+  "default": {
+    "m_MaxChoices": 6,
+    "m_ScoreExponent": 1.0,
+    "m_CategoryScales": [
+      0.0,
+      4.0,
+      1.0,
+      3.0,
+      4.0,
+      3.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      20.0,
+      5.0,
+      15.0,
+      20.0,
+      15.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "default"
+  },
+  "completely random": {
+    "m_MaxChoices": 100,
+    "m_ScoreExponent": 0.0,
+    "m_CategoryScales": [
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "id": "completely random"
+  },
+  "i make bad choices": {
+    "m_MaxChoices": 6,
+    "m_ScoreExponent": -1.0,
+    "m_CategoryScales": [
+      0.0,
+      4.0,
+      1.0,
+      3.0,
+      4.0,
+      3.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      20.0,
+      5.0,
+      15.0,
+      20.0,
+      15.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "i make bad choices"
+  },
+  "test single nuker": {
+    "m_MaxChoices": 6,
+    "m_ScoreExponent": 1.0,
+    "m_CategoryScales": [
+      0.0,
+      8.0,
+      1.0,
+      1.0,
+      8.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      16.0,
+      5.0,
+      5.0,
+      16.0,
+      5.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "test single nuker"
+  },
+  "test aoe nuker": {
+    "m_MaxChoices": 6,
+    "m_ScoreExponent": 1.0,
+    "m_CategoryScales": [
+      0.0,
+      6.0,
+      1.0,
+      1.0,
+      6.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      20.0,
+      5.0,
+      5.0,
+      20.0,
+      5.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "test aoe nuker"
+  },
+  "test healer": {
+    "m_MaxChoices": 5,
+    "m_ScoreExponent": 1.5,
+    "m_CategoryScales": [
+      0.0,
+      1.0,
+      1.0,
+      3.0,
+      1.0,
+      3.0,
+      2.0,
+      1.0,
+      2.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      5.0,
+      5.0,
+      15.0,
+      5.0,
+      15.0,
+      6.0,
+      3.0,
+      6.0,
+      1.0
+    ],
+    "id": "test healer"
+  },
+  "test utility": {
+    "m_MaxChoices": 8,
+    "m_ScoreExponent": 0.75,
+    "m_CategoryScales": [
+      0.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      0.5
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      5.0,
+      5.0,
+      10.0,
+      10.0,
+      10.0,
+      6.0,
+      6.0,
+      6.0,
+      2.0
+    ],
+    "id": "test utility"
+  },
+  "i hate rocks": {
+    "m_MaxChoices": 6,
+    "m_ScoreExponent": 1.0,
+    "m_CategoryScales": [
+      0.0,
+      4.0,
+      4.0,
+      3.0,
+      4.0,
+      3.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3
+    ],
+    "m_CategoryCeilings": [
+      0.0,
+      20.0,
+      20.0,
+      15.0,
+      20.0,
+      15.0,
+      3.0,
+      3.0,
+      3.0,
+      1.0
+    ],
+    "id": "i hate rocks"
+  }
+}

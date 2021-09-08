@@ -1,0 +1,10 @@
+.DS_Store
+*.sublime*
+_archive
+__pycache__
+constants
+pconfigdata.json
+gurudata.json
+_legendsplus.py
+daily.py
+.python-version

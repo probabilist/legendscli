@@ -1,0 +1,152 @@
+{
+  "Accessory_Common_UndoDamage_Common": {
+    "poolId": "Accessory_Common",
+    "equipment": "UndoDamage_Common",
+    "weight": 1,
+    "id": "Accessory_Common_UndoDamage_Common"
+  },
+  "Accessory_Common_NexusField_Common": {
+    "poolId": "Accessory_Common",
+    "equipment": "NexusField_Common",
+    "weight": 1,
+    "id": "Accessory_Common_NexusField_Common"
+  },
+  "Accessory_Common_TemporalFlux_Common": {
+    "poolId": "Accessory_Common",
+    "equipment": "TemporalFlux_Common",
+    "weight": 1,
+    "id": "Accessory_Common_TemporalFlux_Common"
+  },
+  "Accessory_Common_AcceleratedCoagulation_Common": {
+    "poolId": "Accessory_Common",
+    "equipment": "AcceleratedCoagulation_Common",
+    "weight": 1,
+    "id": "Accessory_Common_AcceleratedCoagulation_Common"
+  },
+  "Accessory_Common_AmplifyForce_Common": {
+    "poolId": "Accessory_Common",
+    "equipment": "AmplifyForce_Common",
+    "weight": 1,
+    "id": "Accessory_Common_AmplifyForce_Common"
+  },
+  "Accessory_Rare_UndoDamage_Rare": {
+    "poolId": "Accessory_Rare",
+    "equipment": "UndoDamage_Rare",
+    "weight": 1,
+    "id": "Accessory_Rare_UndoDamage_Rare"
+  },
+  "Accessory_Rare_NexusField_Rare": {
+    "poolId": "Accessory_Rare",
+    "equipment": "NexusField_Rare",
+    "weight": 1,
+    "id": "Accessory_Rare_NexusField_Rare"
+  },
+  "Accessory_Rare_TemporalFlux_Rare": {
+    "poolId": "Accessory_Rare",
+    "equipment": "TemporalFlux_Rare",
+    "weight": 1,
+    "id": "Accessory_Rare_TemporalFlux_Rare"
+  },
+  "Accessory_Rare_AcceleratedCoagulation_Rare": {
+    "poolId": "Accessory_Rare",
+    "equipment": "AcceleratedCoagulation_Rare",
+    "weight": 1,
+    "id": "Accessory_Rare_AcceleratedCoagulation_Rare"
+  },
+  "Accessory_Rare_AmplifyForce_Rare": {
+    "poolId": "Accessory_Rare",
+    "equipment": "AmplifyForce_Rare",
+    "weight": 1,
+    "id": "Accessory_Rare_AmplifyForce_Rare"
+  },
+  "Accessory_VeryRare_UndoDamage_VeryRare": {
+    "poolId": "Accessory_VeryRare",
+    "equipment": "UndoDamage_VeryRare",
+    "weight": 1,
+    "id": "Accessory_VeryRare_UndoDamage_VeryRare"
+  },
+  "Accessory_VeryRare_NexusField_VeryRare": {
+    "poolId": "Accessory_VeryRare",
+    "equipment": "NexusField_VeryRare",
+    "weight": 1,
+    "id": "Accessory_VeryRare_NexusField_VeryRare"
+  },
+  "Accessory_VeryRare_TemporalFlux_VeryRare": {
+    "poolId": "Accessory_VeryRare",
+    "equipment": "TemporalFlux_VeryRare",
+    "weight": 1,
+    "id": "Accessory_VeryRare_TemporalFlux_VeryRare"
+  },
+  "Accessory_VeryRare_AcceleratedCoagulation_VeryRare": {
+    "poolId": "Accessory_VeryRare",
+    "equipment": "AcceleratedCoagulation_VeryRare",
+    "weight": 1,
+    "id": "Accessory_VeryRare_AcceleratedCoagulation_VeryRare"
+  },
+  "Accessory_VeryRare_AmplifyForce_VeryRare": {
+    "poolId": "Accessory_VeryRare",
+    "equipment": "AmplifyForce_VeryRare",
+    "weight": 1,
+    "id": "Accessory_VeryRare_AmplifyForce_VeryRare"
+  },
+  "Accessory_Epic_UndoDamage_Epic": {
+    "poolId": "Accessory_Epic",
+    "equipment": "UndoDamage_Epic",
+    "weight": 1,
+    "id": "Accessory_Epic_UndoDamage_Epic"
+  },
+  "Accessory_Epic_NexusField_Epic": {
+    "poolId": "Accessory_Epic",
+    "equipment": "NexusField_Epic",
+    "weight": 1,
+    "id": "Accessory_Epic_NexusField_Epic"
+  },
+  "Accessory_Epic_TemporalFlux_Epic": {
+    "poolId": "Accessory_Epic",
+    "equipment": "TemporalFlux_Epic",
+    "weight": 1,
+    "id": "Accessory_Epic_TemporalFlux_Epic"
+  },
+  "Accessory_Epic_AcceleratedCoagulation_Epic": {
+    "poolId": "Accessory_Epic",
+    "equipment": "AcceleratedCoagulation_Epic",
+    "weight": 1,
+    "id": "Accessory_Epic_AcceleratedCoagulation_Epic"
+  },
+  "Accessory_Epic_AmplifyForce_Epic": {
+    "poolId": "Accessory_Epic",
+    "equipment": "AmplifyForce_Epic",
+    "weight": 1,
+    "id": "Accessory_Epic_AmplifyForce_Epic"
+  },
+  "Accessory_Legendary_UndoDamage_Legendary": {
+    "poolId": "Accessory_Legendary",
+    "equipment": "UndoDamage_Legendary",
+    "weight": 1,
+    "id": "Accessory_Legendary_UndoDamage_Legendary"
+  },
+  "Accessory_Legendary_NexusField_Legendary": {
+    "poolId": "Accessory_Legendary",
+    "equipment": "NexusField_Legendary",
+    "weight": 1,
+    "id": "Accessory_Legendary_NexusField_Legendary"
+  },
+  "Accessory_Legendary_TemporalFlux_Legendary": {
+    "poolId": "Accessory_Legendary",
+    "equipment": "TemporalFlux_Legendary",
+    "weight": 1,
+    "id": "Accessory_Legendary_TemporalFlux_Legendary"
+  },
+  "Accessory_Legendary_AcceleratedCoagulation_Legendary": {
+    "poolId": "Accessory_Legendary",
+    "equipment": "AcceleratedCoagulation_Legendary",
+    "weight": 1,
+    "id": "Accessory_Legendary_AcceleratedCoagulation_Legendary"
+  },
+  "Accessory_Legendary_AmplifyForce_Legendary": {
+    "poolId": "Accessory_Legendary",
+    "equipment": "AmplifyForce_Legendary",
+    "weight": 1,
+    "id": "Accessory_Legendary_AmplifyForce_Legendary"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id_weekly": {
+    "isStrikeType": true,
+    "id": "id_weekly"
+  },
+  "id_monthly": {
+    "isStrikeType": false,
+    "id": "id_monthly"
+  }
+}

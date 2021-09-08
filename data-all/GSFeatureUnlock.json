@@ -1,0 +1,65 @@
+{
+  "LoginRewards": {
+    "Feature": "LoginRewards",
+    "Level": 3,
+    "Icon": "Icon_News",
+    "Name": "_DAILY",
+    "id": "LoginRewards"
+  },
+  "DailySummon": {
+    "Feature": "DailySummon",
+    "Level": 4,
+    "Icon": "NexusOrb_Lengendary",
+    "Name": "_DAILY",
+    "id": "DailySummon"
+  },
+  "Pvp": {
+    "Feature": "Pvp",
+    "Level": 8,
+    "Icon": "Medal",
+    "Name": "_PvP",
+    "id": "Pvp"
+  },
+  "Crew": {
+    "Feature": "Crew",
+    "Level": 999,
+    "Icon": "MainHUD_Heroes",
+    "Name": "_Crew",
+    "id": "Crew"
+  },
+  "Bridge": {
+    "Feature": "Bridge",
+    "Level": 999,
+    "Icon": "Icon_BridgeCrew",
+    "Name": "_Bridge",
+    "id": "Bridge"
+  },
+  "Operations": {
+    "Feature": "Operations",
+    "Level": 6,
+    "Icon": "",
+    "Name": "_Operations",
+    "id": "Operations"
+  },
+  "Events": {
+    "Feature": "Events",
+    "Level": 7,
+    "Icon": "",
+    "Name": "_Events",
+    "id": "Events"
+  },
+  "Alliance": {
+    "Feature": "Alliance",
+    "Level": 10,
+    "Icon": "",
+    "Name": "",
+    "id": "Alliance"
+  },
+  "News": {
+    "Feature": "News",
+    "Level": 7,
+    "Icon": "",
+    "Name": "_News",
+    "id": "News"
+  }
+}

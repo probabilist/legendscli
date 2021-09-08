@@ -1,0 +1,709 @@
+{
+  "Operation_Event_NPE": {
+    "operationType": "Hidden",
+    "name": "UI_Events_NPE_Title",
+    "description": "UI_Events_NPE_Desc",
+    "icon": "Geordi",
+    "uiIndex": 0,
+    "dailyLimit": 3,
+    "schedule": [],
+    "id": "Operation_Event_NPE"
+  },
+  "Operation_Daily_Latinum": {
+    "operationType": "Normal",
+    "name": "Operations_Currency_Latinum",
+    "description": "Operations_Desc",
+    "icon": "Latinum",
+    "uiIndex": 11,
+    "dailyLimit": 3,
+    "schedule": [
+      "Mon",
+      "Thu",
+      "Sat"
+    ],
+    "id": "Operation_Daily_Latinum"
+  },
+  "Operation_Daily_BioGel": {
+    "operationType": "Normal",
+    "name": "Operations_Currency_BioGel",
+    "description": "Operations_Desc",
+    "icon": "BiomimeticGel_Legendary",
+    "uiIndex": 12,
+    "dailyLimit": 3,
+    "schedule": [
+      "Tue",
+      "Fri",
+      "Sun"
+    ],
+    "id": "Operation_Daily_BioGel"
+  },
+  "Operation_Daily_Ore": {
+    "operationType": "Normal",
+    "name": "Operations_Material_Ore",
+    "description": "Operations_Desc",
+    "icon": "Gearupgrade_Ore_Duranium",
+    "uiIndex": 13,
+    "dailyLimit": 3,
+    "schedule": [
+      "Mon",
+      "Thu"
+    ],
+    "id": "Operation_Daily_Ore"
+  },
+  "Operation_Daily_Cloth": {
+    "operationType": "Normal",
+    "name": "Operations_Material_Cloth",
+    "description": "Operations_Desc",
+    "icon": "Gearupgrade_Cloth_AndorianSilk",
+    "uiIndex": 14,
+    "dailyLimit": 3,
+    "schedule": [
+      "Tue",
+      "Fri"
+    ],
+    "id": "Operation_Daily_Cloth"
+  },
+  "Operation_Daily_Antimatter": {
+    "operationType": "Normal",
+    "name": "Operations_Material_Antimatter",
+    "description": "Operations_Desc",
+    "icon": "Gearupgrade_Antimatter_Neutron",
+    "uiIndex": 15,
+    "dailyLimit": 3,
+    "schedule": [
+      "Wed",
+      "Sat"
+    ],
+    "id": "Operation_Daily_Antimatter"
+  },
+  "Operation_Event_Solo_BorgQueen": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "BorgQueen",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_BorgQueen"
+  },
+  "Operation_Event_Solo_Burnham": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Burnham"
+  },
+  "Operation_Event_Solo_Crusher": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Crusher",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Crusher"
+  },
+  "Operation_Event_Solo_Culber": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Culber",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Culber"
+  },
+  "Operation_Event_Solo_Data": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Data",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Data"
+  },
+  "Operation_Event_Solo_Doctor": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Doctor"
+  },
+  "Operation_Event_Solo_Dukat": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Dukat",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Dukat"
+  },
+  "Operation_Event_Solo_Geordi": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Geordi",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Geordi"
+  },
+  "Operation_Event_Solo_Georgiou": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Georgiou"
+  },
+  "Operation_Event_Solo_Gorn": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Gorn",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Gorn"
+  },
+  "Operation_Event_Solo_Janeway": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Janeway"
+  },
+  "Operation_Event_Solo_Khan": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Khan",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Khan"
+  },
+  "Operation_Event_Solo_Kirk": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Kirk"
+  },
+  "Operation_Event_Solo_Martok": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Martok",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Martok"
+  },
+  "Operation_Event_Solo_McCoy": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "McCoy",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_McCoy"
+  },
+  "Operation_Event_Solo_Nerys": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Nerys"
+  },
+  "Operation_Event_Solo_Nine": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Nine",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Nine"
+  },
+  "Operation_Event_Solo_Odo": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "odo",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Odo"
+  },
+  "Operation_Event_Solo_Phlox": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Phlox",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Phlox"
+  },
+  "Operation_Event_Solo_Picard": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Picard",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Picard"
+  },
+  "Operation_Event_Solo_PicardOld": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_PicardOld"
+  },
+  "Operation_Event_Solo_Pike": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Pike"
+  },
+  "Operation_Event_Solo_Quark": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Quark"
+  },
+  "Operation_Event_Solo_Riker": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Riker",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Riker"
+  },
+  "Operation_Event_Solo_Saru": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "saru",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Saru"
+  },
+  "Operation_Event_Solo_Scott": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Scott"
+  },
+  "Operation_Event_Solo_Sela": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Sela"
+  },
+  "Operation_Event_Solo_Sisko": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Sisko"
+  },
+  "Operation_Event_Solo_Spock": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Spock",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Spock"
+  },
+  "Operation_Event_Solo_Sulu": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Sulu"
+  },
+  "Operation_Event_Solo_Sutra": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Sutra"
+  },
+  "Operation_Event_Solo_Tomalak": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Tomalak",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Tomalak"
+  },
+  "Operation_Event_Solo_Torres": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Torres"
+  },
+  "Operation_Event_Solo_TPol": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_TPol"
+  },
+  "Operation_Event_Solo_Uhura": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Uhura",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Uhura"
+  },
+  "Operation_Event_Solo_Worf": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Worf",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Worf"
+  },
+  "Operation_Event_Solo_PicardDixon": {
+    "operationType": "Hidden",
+    "name": "UI_Events_PicardWeek_Title",
+    "description": "UI_Events_PicardWeek_Desc",
+    "icon": "DixonHill",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_PicardDixon"
+  },
+  "Operation_Event_Solo_Stamets": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Stamets",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Stamets"
+  },
+  "Operation_Event_Faction_Picard_Borg": {
+    "operationType": "Hidden",
+    "name": "UI_Events_FactionEvent_Generic_02",
+    "description": "Events_Faction_FedVsBorg_Desc",
+    "icon": "Picard",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Faction_Picard_Borg"
+  },
+  "Operation_Event_Faction_BorgQueen_Federation": {
+    "operationType": "Hidden",
+    "name": "UI_Events_FactionEvent_Generic_02",
+    "description": "Events_Faction_FedVsBorg_Desc",
+    "icon": "BorgQueen",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Faction_BorgQueen_Federation"
+  },
+  "Operations_Event_Faction_FedKling_Riker": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Riker",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedKling_Riker"
+  },
+  "Operations_Event_Faction_FedKling_Martok": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Kling",
+    "description": "Operations_FactionEvent_Desc_Kling",
+    "icon": "Martok",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedKling_Martok"
+  },
+  "Operation_Event_Solo_Tilly": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Tilly",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Tilly"
+  },
+  "Operations_Event_Faction_FedRomu_Picard": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Picard",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedRomu_Picard"
+  },
+  "Operations_Event_Faction_FedRomu_Tomalak": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Romu",
+    "description": "Operations_FactionEvent_Desc_Romu",
+    "icon": "Tomalak",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedRomu_Tomalak"
+  },
+  "Operation_Event_Solo_Chang": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Chang",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Chang"
+  },
+  "Operation_Event_Solo_Locutus": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Locutus",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Locutus"
+  },
+  "Operation_Event_Solo_Elnor": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Elnor",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Elnor"
+  },
+  "Operations_Event_Faction_FedCard_Sisko": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Sisko",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedCard_Sisko"
+  },
+  "Operations_Event_Faction_FedCard_Dukat": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Card",
+    "description": "Operations_FactionEvent_Desc_Card",
+    "icon": "Dukat",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedCard_Dukat"
+  },
+  "Operation_Event_Solo_Chekov": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Chekov",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Chekov"
+  },
+  "Operation_Event_Solo_Soji": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Soji",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Soji"
+  },
+  "Operation_Event_Solo_Troi": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Troi",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Troi"
+  },
+  "Operation_Event_FactionEvent_Federation": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Federation"
+  },
+  "Operation_Event_FactionEvent_Federation_Picard": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Picard",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Federation_Picard"
+  },
+  "Operation_Event_FactionEvent_Federation_Riker": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Federation_Riker"
+  },
+  "Operation_Event_FactionEvent_Federation_Sisko": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Kirk_FullBody",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Federation_Sisko"
+  },
+  "Operation_Event_FactionEvent_Klingon": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Kling",
+    "description": "Operations_FactionEvent_Desc_Kling",
+    "icon": "Martok",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Klingon"
+  },
+  "Operation_Event_FactionEvent_Romulan_Tomalak": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Romu",
+    "description": "Operations_FactionEvent_Desc_Romu",
+    "icon": "Tomalak",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Romulan_Tomalak"
+  },
+  "Operation_Event_FactionEvent_Romulan_Sela": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Romu",
+    "description": "Operations_FactionEvent_Desc_Romu",
+    "icon": "Klingon_FullBody",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Romulan_Sela"
+  },
+  "Operation_Event_FactionEvent_Borg_Queen": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Borg",
+    "description": "Operations_FactionEvent_Desc_Borg",
+    "icon": "BorgQueen",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Borg_Queen"
+  },
+  "Operation_Event_FactionEvent_Borg_Locutus": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Borg",
+    "description": "Operations_FactionEvent_Desc_Borg",
+    "icon": "Klingon_FullBody",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Borg_Locutus"
+  },
+  "Operation_Event_FactionEvent_Cardassian_Dukat": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Card",
+    "description": "Operations_FactionEvent_Desc_Card",
+    "icon": "Dukat",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_FactionEvent_Cardassian_Dukat"
+  }
+}

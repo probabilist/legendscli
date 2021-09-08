@@ -1,0 +1,8206 @@
+{
+  "1": {
+    "summonID": "1",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "mccoy summon"
+    ],
+    "weight": 1.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": true,
+    "id": "1"
+  },
+  "2": {
+    "summonID": "2",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "worf summon"
+    ],
+    "weight": 1.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": true,
+    "id": "2"
+  },
+  "3": {
+    "summonID": "3",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "3"
+  },
+  "4": {
+    "summonID": "4",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "4"
+  },
+  "5": {
+    "summonID": "5",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "5"
+  },
+  "6": {
+    "summonID": "6",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "6"
+  },
+  "7": {
+    "summonID": "7",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "7"
+  },
+  "8": {
+    "summonID": "8",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "8"
+  },
+  "9": {
+    "summonID": "9",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "9"
+  },
+  "10": {
+    "summonID": "10",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_00"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "10"
+  },
+  "11": {
+    "summonID": "11",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "11"
+  },
+  "12": {
+    "summonID": "12",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "12"
+  },
+  "13": {
+    "summonID": "13",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "13"
+  },
+  "14": {
+    "summonID": "14",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "14"
+  },
+  "15": {
+    "summonID": "15",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "15"
+  },
+  "16": {
+    "summonID": "16",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "16"
+  },
+  "17": {
+    "summonID": "17",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "17"
+  },
+  "18": {
+    "summonID": "18",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "18"
+  },
+  "19": {
+    "summonID": "19",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "19"
+  },
+  "20": {
+    "summonID": "20",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "20"
+  },
+  "21": {
+    "summonID": "21",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "21"
+  },
+  "22": {
+    "summonID": "22",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "22"
+  },
+  "23": {
+    "summonID": "23",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "23"
+  },
+  "24": {
+    "summonID": "24",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "24"
+  },
+  "25": {
+    "summonID": "25",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "25"
+  },
+  "26": {
+    "summonID": "26",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "26"
+  },
+  "27": {
+    "summonID": "27",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "27"
+  },
+  "28": {
+    "summonID": "28",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "28"
+  },
+  "29": {
+    "summonID": "29",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "29"
+  },
+  "30": {
+    "summonID": "30",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "30"
+  },
+  "31": {
+    "summonID": "31",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "31"
+  },
+  "32": {
+    "summonID": "32",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "32"
+  },
+  "33": {
+    "summonID": "33",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "33"
+  },
+  "34": {
+    "summonID": "34",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "34"
+  },
+  "35": {
+    "summonID": "35",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "35"
+  },
+  "36": {
+    "summonID": "36",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "36"
+  },
+  "37": {
+    "summonID": "37",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "37"
+  },
+  "38": {
+    "summonID": "38",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "38"
+  },
+  "39": {
+    "summonID": "39",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "39"
+  },
+  "40": {
+    "summonID": "40",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "40"
+  },
+  "41": {
+    "summonID": "41",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "41"
+  },
+  "42": {
+    "summonID": "42",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "42"
+  },
+  "43": {
+    "summonID": "43",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "43"
+  },
+  "44": {
+    "summonID": "44",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "44"
+  },
+  "45": {
+    "summonID": "45",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "45"
+  },
+  "46": {
+    "summonID": "46",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "46"
+  },
+  "47": {
+    "summonID": "47",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "47"
+  },
+  "48": {
+    "summonID": "48",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "48"
+  },
+  "49": {
+    "summonID": "49",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "49"
+  },
+  "50": {
+    "summonID": "50",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "50"
+  },
+  "51": {
+    "summonID": "51",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "51"
+  },
+  "52": {
+    "summonID": "52",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "52"
+  },
+  "53": {
+    "summonID": "53",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "53"
+  },
+  "54": {
+    "summonID": "54",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "54"
+  },
+  "55": {
+    "summonID": "55",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "55"
+  },
+  "56": {
+    "summonID": "56",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "56"
+  },
+  "57": {
+    "summonID": "57",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "57"
+  },
+  "58": {
+    "summonID": "58",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "58"
+  },
+  "59": {
+    "summonID": "59",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "59"
+  },
+  "60": {
+    "summonID": "60",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "60"
+  },
+  "61": {
+    "summonID": "61",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "61"
+  },
+  "62": {
+    "summonID": "62",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "62"
+  },
+  "63": {
+    "summonID": "63",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "63"
+  },
+  "64": {
+    "summonID": "64",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "64"
+  },
+  "65": {
+    "summonID": "65",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "65"
+  },
+  "66": {
+    "summonID": "66",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "66"
+  },
+  "67": {
+    "summonID": "67",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "67"
+  },
+  "68": {
+    "summonID": "68",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "68"
+  },
+  "69": {
+    "summonID": "69",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "69"
+  },
+  "70": {
+    "summonID": "70",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "70"
+  },
+  "71": {
+    "summonID": "71",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "71"
+  },
+  "72": {
+    "summonID": "72",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "72"
+  },
+  "73": {
+    "summonID": "73",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "73"
+  },
+  "74": {
+    "summonID": "74",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "74"
+  },
+  "75": {
+    "summonID": "75",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "75"
+  },
+  "76": {
+    "summonID": "76",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "76"
+  },
+  "77": {
+    "summonID": "77",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "77"
+  },
+  "78": {
+    "summonID": "78",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "78"
+  },
+  "79": {
+    "summonID": "79",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "79"
+  },
+  "80": {
+    "summonID": "80",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "80"
+  },
+  "81": {
+    "summonID": "81",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "81"
+  },
+  "82": {
+    "summonID": "82",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "82"
+  },
+  "83": {
+    "summonID": "83",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "83"
+  },
+  "84": {
+    "summonID": "84",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "84"
+  },
+  "85": {
+    "summonID": "85",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "85"
+  },
+  "86": {
+    "summonID": "86",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "86"
+  },
+  "87": {
+    "summonID": "87",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "87"
+  },
+  "88": {
+    "summonID": "88",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "88"
+  },
+  "89": {
+    "summonID": "89",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "89"
+  },
+  "90": {
+    "summonID": "90",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "90"
+  },
+  "91": {
+    "summonID": "91",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "91"
+  },
+  "92": {
+    "summonID": "92",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "92"
+  },
+  "93": {
+    "summonID": "93",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "93"
+  },
+  "94": {
+    "summonID": "94",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "94"
+  },
+  "95": {
+    "summonID": "95",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "95"
+  },
+  "96": {
+    "summonID": "96",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "96"
+  },
+  "97": {
+    "summonID": "97",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "97"
+  },
+  "98": {
+    "summonID": "98",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "98"
+  },
+  "99": {
+    "summonID": "99",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "99"
+  },
+  "100": {
+    "summonID": "100",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "100"
+  },
+  "101": {
+    "summonID": "101",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "101"
+  },
+  "102": {
+    "summonID": "102",
+    "itemID": "Khan",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "102"
+  },
+  "103": {
+    "summonID": "103",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "103"
+  },
+  "104": {
+    "summonID": "104",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "104"
+  },
+  "105": {
+    "summonID": "105",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "105"
+  },
+  "106": {
+    "summonID": "106",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "106"
+  },
+  "107": {
+    "summonID": "107",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "107"
+  },
+  "108": {
+    "summonID": "108",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "108"
+  },
+  "109": {
+    "summonID": "109",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "109"
+  },
+  "110": {
+    "summonID": "110",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "110"
+  },
+  "111": {
+    "summonID": "111",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "111"
+  },
+  "112": {
+    "summonID": "112",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "112"
+  },
+  "113": {
+    "summonID": "113",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "113"
+  },
+  "114": {
+    "summonID": "114",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "114"
+  },
+  "115": {
+    "summonID": "115",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "115"
+  },
+  "116": {
+    "summonID": "116",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "116"
+  },
+  "117": {
+    "summonID": "117",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "117"
+  },
+  "118": {
+    "summonID": "118",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "118"
+  },
+  "119": {
+    "summonID": "119",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "119"
+  },
+  "120": {
+    "summonID": "120",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "120"
+  },
+  "121": {
+    "summonID": "121",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "121"
+  },
+  "122": {
+    "summonID": "122",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "122"
+  },
+  "123": {
+    "summonID": "123",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "123"
+  },
+  "124": {
+    "summonID": "124",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "124"
+  },
+  "125": {
+    "summonID": "125",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "125"
+  },
+  "126": {
+    "summonID": "126",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "126"
+  },
+  "127": {
+    "summonID": "127",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "127"
+  },
+  "128": {
+    "summonID": "128",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "128"
+  },
+  "129": {
+    "summonID": "129",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "129"
+  },
+  "130": {
+    "summonID": "130",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "130"
+  },
+  "131": {
+    "summonID": "131",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "131"
+  },
+  "132": {
+    "summonID": "132",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "132"
+  },
+  "133": {
+    "summonID": "133",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "133"
+  },
+  "134": {
+    "summonID": "134",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "134"
+  },
+  "135": {
+    "summonID": "135",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "135"
+  },
+  "136": {
+    "summonID": "136",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "136"
+  },
+  "137": {
+    "summonID": "137",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "137"
+  },
+  "138": {
+    "summonID": "138",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "138"
+  },
+  "139": {
+    "summonID": "139",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "139"
+  },
+  "140": {
+    "summonID": "140",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "140"
+  },
+  "141": {
+    "summonID": "141",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "141"
+  },
+  "142": {
+    "summonID": "142",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "142"
+  },
+  "143": {
+    "summonID": "143",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "143"
+  },
+  "144": {
+    "summonID": "144",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "144"
+  },
+  "145": {
+    "summonID": "145",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "145"
+  },
+  "146": {
+    "summonID": "146",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "146"
+  },
+  "147": {
+    "summonID": "147",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "147"
+  },
+  "148": {
+    "summonID": "148",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "148"
+  },
+  "149": {
+    "summonID": "149",
+    "itemID": "Khan",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "149"
+  },
+  "150": {
+    "summonID": "150",
+    "itemID": "Nine",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "150"
+  },
+  "151": {
+    "summonID": "151",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "151"
+  },
+  "152": {
+    "summonID": "152",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "152"
+  },
+  "153": {
+    "summonID": "153",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "153"
+  },
+  "154": {
+    "summonID": "154",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "154"
+  },
+  "155": {
+    "summonID": "155",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "155"
+  },
+  "156": {
+    "summonID": "156",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "156"
+  },
+  "157": {
+    "summonID": "157",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "157"
+  },
+  "158": {
+    "summonID": "158",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "158"
+  },
+  "159": {
+    "summonID": "159",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "159"
+  },
+  "160": {
+    "summonID": "160",
+    "itemID": "Doctor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "160"
+  },
+  "161": {
+    "summonID": "161",
+    "itemID": "Saru",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "161"
+  },
+  "162": {
+    "summonID": "162",
+    "itemID": "Picard",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "162"
+  },
+  "163": {
+    "summonID": "163",
+    "itemID": "Sutra",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "163"
+  },
+  "164": {
+    "summonID": "164",
+    "itemID": "Quark",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "164"
+  },
+  "165": {
+    "summonID": "165",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "165"
+  },
+  "166": {
+    "summonID": "166",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "166"
+  },
+  "167": {
+    "summonID": "167",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "167"
+  },
+  "168": {
+    "summonID": "168",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "168"
+  },
+  "169": {
+    "summonID": "169",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "169"
+  },
+  "170": {
+    "summonID": "170",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "170"
+  },
+  "171": {
+    "summonID": "171",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "171"
+  },
+  "172": {
+    "summonID": "172",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "172"
+  },
+  "173": {
+    "summonID": "173",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "173"
+  },
+  "174": {
+    "summonID": "174",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "174"
+  },
+  "175": {
+    "summonID": "175",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "175"
+  },
+  "176": {
+    "summonID": "176",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "176"
+  },
+  "177": {
+    "summonID": "177",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "177"
+  },
+  "178": {
+    "summonID": "178",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "178"
+  },
+  "179": {
+    "summonID": "179",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "179"
+  },
+  "180": {
+    "summonID": "180",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "180"
+  },
+  "181": {
+    "summonID": "181",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "181"
+  },
+  "182": {
+    "summonID": "182",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "182"
+  },
+  "183": {
+    "summonID": "183",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "183"
+  },
+  "184": {
+    "summonID": "184",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "184"
+  },
+  "185": {
+    "summonID": "185",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "185"
+  },
+  "186": {
+    "summonID": "186",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "186"
+  },
+  "187": {
+    "summonID": "187",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "187"
+  },
+  "188": {
+    "summonID": "188",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "188"
+  },
+  "189": {
+    "summonID": "189",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "189"
+  },
+  "190": {
+    "summonID": "190",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "190"
+  },
+  "191": {
+    "summonID": "191",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "191"
+  },
+  "192": {
+    "summonID": "192",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "192"
+  },
+  "193": {
+    "summonID": "193",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "193"
+  },
+  "194": {
+    "summonID": "194",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "194"
+  },
+  "195": {
+    "summonID": "195",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "195"
+  },
+  "196": {
+    "summonID": "196",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "196"
+  },
+  "197": {
+    "summonID": "197",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "197"
+  },
+  "198": {
+    "summonID": "198",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "198"
+  },
+  "199": {
+    "summonID": "199",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "199"
+  },
+  "200": {
+    "summonID": "200",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "200"
+  },
+  "201": {
+    "summonID": "201",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "201"
+  },
+  "202": {
+    "summonID": "202",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "202"
+  },
+  "203": {
+    "summonID": "203",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "203"
+  },
+  "204": {
+    "summonID": "204",
+    "itemID": "Khan",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "204"
+  },
+  "205": {
+    "summonID": "205",
+    "itemID": "Nine",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "205"
+  },
+  "206": {
+    "summonID": "206",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "206"
+  },
+  "207": {
+    "summonID": "207",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "207"
+  },
+  "208": {
+    "summonID": "208",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "208"
+  },
+  "209": {
+    "summonID": "209",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "209"
+  },
+  "210": {
+    "summonID": "210",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "210"
+  },
+  "211": {
+    "summonID": "211",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "211"
+  },
+  "212": {
+    "summonID": "212",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "212"
+  },
+  "213": {
+    "summonID": "213",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "213"
+  },
+  "214": {
+    "summonID": "214",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "214"
+  },
+  "215": {
+    "summonID": "215",
+    "itemID": "Doctor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "215"
+  },
+  "216": {
+    "summonID": "216",
+    "itemID": "Saru",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "216"
+  },
+  "217": {
+    "summonID": "217",
+    "itemID": "Picard",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "217"
+  },
+  "218": {
+    "summonID": "218",
+    "itemID": "Sutra",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "218"
+  },
+  "219": {
+    "summonID": "219",
+    "itemID": "Quark",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "219"
+  },
+  "220": {
+    "summonID": "220",
+    "itemID": "Kirk",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "220"
+  },
+  "221": {
+    "summonID": "221",
+    "itemID": "Scott",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "221"
+  },
+  "222": {
+    "summonID": "222",
+    "itemID": "Spock",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "222"
+  },
+  "223": {
+    "summonID": "223",
+    "itemID": "Soji",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "223"
+  },
+  "224": {
+    "summonID": "224",
+    "itemID": "Phlox",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "224"
+  },
+  "225": {
+    "summonID": "225",
+    "itemID": "Georgiou",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "225"
+  },
+  "226": {
+    "summonID": "226",
+    "itemID": "PicardDixon",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "226"
+  },
+  "227": {
+    "summonID": "227",
+    "itemID": "Stamets",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "227"
+  },
+  "228": {
+    "summonID": "228",
+    "itemID": "Tilly",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "228"
+  },
+  "229": {
+    "summonID": "229",
+    "itemID": "Chang",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "229"
+  },
+  "230": {
+    "summonID": "230",
+    "itemID": "Elnor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "230"
+  },
+  "231": {
+    "summonID": "231",
+    "itemID": "Troi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "231"
+  },
+  "232": {
+    "summonID": "232",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "232"
+  },
+  "233": {
+    "summonID": "233",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "233"
+  },
+  "234": {
+    "summonID": "234",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "234"
+  },
+  "235": {
+    "summonID": "235",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "235"
+  },
+  "236": {
+    "summonID": "236",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "236"
+  },
+  "237": {
+    "summonID": "237",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "237"
+  },
+  "238": {
+    "summonID": "238",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "238"
+  },
+  "239": {
+    "summonID": "239",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "239"
+  },
+  "240": {
+    "summonID": "240",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "240"
+  },
+  "241": {
+    "summonID": "241",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "241"
+  },
+  "242": {
+    "summonID": "242",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "242"
+  },
+  "243": {
+    "summonID": "243",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "243"
+  },
+  "244": {
+    "summonID": "244",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "244"
+  },
+  "245": {
+    "summonID": "245",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "245"
+  },
+  "246": {
+    "summonID": "246",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "246"
+  },
+  "247": {
+    "summonID": "247",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "247"
+  },
+  "248": {
+    "summonID": "248",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "248"
+  },
+  "249": {
+    "summonID": "249",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "249"
+  },
+  "250": {
+    "summonID": "250",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "250"
+  },
+  "251": {
+    "summonID": "251",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "251"
+  },
+  "252": {
+    "summonID": "252",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "252"
+  },
+  "253": {
+    "summonID": "253",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "253"
+  },
+  "254": {
+    "summonID": "254",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "254"
+  },
+  "255": {
+    "summonID": "255",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "255"
+  },
+  "256": {
+    "summonID": "256",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "256"
+  },
+  "257": {
+    "summonID": "257",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "257"
+  },
+  "258": {
+    "summonID": "258",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "258"
+  },
+  "259": {
+    "summonID": "259",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "259"
+  },
+  "260": {
+    "summonID": "260",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "260"
+  },
+  "261": {
+    "summonID": "261",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "261"
+  },
+  "262": {
+    "summonID": "262",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "262"
+  },
+  "263": {
+    "summonID": "263",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "263"
+  },
+  "264": {
+    "summonID": "264",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "264"
+  },
+  "265": {
+    "summonID": "265",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "265"
+  },
+  "266": {
+    "summonID": "266",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "266"
+  },
+  "267": {
+    "summonID": "267",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "267"
+  },
+  "268": {
+    "summonID": "268",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "268"
+  },
+  "269": {
+    "summonID": "269",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "269"
+  },
+  "270": {
+    "summonID": "270",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "270"
+  },
+  "271": {
+    "summonID": "271",
+    "itemID": "Khan",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "271"
+  },
+  "272": {
+    "summonID": "272",
+    "itemID": "Nine",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "272"
+  },
+  "273": {
+    "summonID": "273",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "273"
+  },
+  "274": {
+    "summonID": "274",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "274"
+  },
+  "275": {
+    "summonID": "275",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "275"
+  },
+  "276": {
+    "summonID": "276",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "276"
+  },
+  "277": {
+    "summonID": "277",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "277"
+  },
+  "278": {
+    "summonID": "278",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "278"
+  },
+  "279": {
+    "summonID": "279",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "279"
+  },
+  "280": {
+    "summonID": "280",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "280"
+  },
+  "281": {
+    "summonID": "281",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "281"
+  },
+  "282": {
+    "summonID": "282",
+    "itemID": "Doctor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "282"
+  },
+  "283": {
+    "summonID": "283",
+    "itemID": "Saru",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "283"
+  },
+  "284": {
+    "summonID": "284",
+    "itemID": "Picard",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "284"
+  },
+  "285": {
+    "summonID": "285",
+    "itemID": "Sutra",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "285"
+  },
+  "286": {
+    "summonID": "286",
+    "itemID": "Quark",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "286"
+  },
+  "287": {
+    "summonID": "287",
+    "itemID": "Kirk",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "287"
+  },
+  "288": {
+    "summonID": "288",
+    "itemID": "Scott",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "288"
+  },
+  "289": {
+    "summonID": "289",
+    "itemID": "Spock",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "289"
+  },
+  "290": {
+    "summonID": "290",
+    "itemID": "Soji",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "290"
+  },
+  "291": {
+    "summonID": "291",
+    "itemID": "Phlox",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "291"
+  },
+  "292": {
+    "summonID": "292",
+    "itemID": "Georgiou",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "292"
+  },
+  "293": {
+    "summonID": "293",
+    "itemID": "PicardDixon",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "293"
+  },
+  "294": {
+    "summonID": "294",
+    "itemID": "Torchbearer",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "294"
+  },
+  "295": {
+    "summonID": "295",
+    "itemID": "Stamets",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "295"
+  },
+  "296": {
+    "summonID": "296",
+    "itemID": "Tilly",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "296"
+  },
+  "297": {
+    "summonID": "297",
+    "itemID": "Chang",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "297"
+  },
+  "298": {
+    "summonID": "298",
+    "itemID": "Elnor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "298"
+  },
+  "299": {
+    "summonID": "299",
+    "itemID": "Troi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "299"
+  },
+  "300": {
+    "summonID": "300",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "300"
+  },
+  "301": {
+    "summonID": "301",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "301"
+  },
+  "302": {
+    "summonID": "302",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "302"
+  },
+  "303": {
+    "summonID": "303",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "303"
+  },
+  "304": {
+    "summonID": "304",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "304"
+  },
+  "305": {
+    "summonID": "305",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "305"
+  },
+  "306": {
+    "summonID": "306",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "306"
+  },
+  "307": {
+    "summonID": "307",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "307"
+  },
+  "308": {
+    "summonID": "308",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "308"
+  },
+  "309": {
+    "summonID": "309",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "309"
+  },
+  "310": {
+    "summonID": "310",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "310"
+  },
+  "311": {
+    "summonID": "311",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "311"
+  },
+  "312": {
+    "summonID": "312",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "312"
+  },
+  "313": {
+    "summonID": "313",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "313"
+  },
+  "314": {
+    "summonID": "314",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "314"
+  },
+  "315": {
+    "summonID": "315",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "315"
+  },
+  "316": {
+    "summonID": "316",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "316"
+  },
+  "317": {
+    "summonID": "317",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "317"
+  },
+  "318": {
+    "summonID": "318",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "318"
+  },
+  "319": {
+    "summonID": "319",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "319"
+  },
+  "320": {
+    "summonID": "320",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "320"
+  },
+  "321": {
+    "summonID": "321",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "321"
+  },
+  "322": {
+    "summonID": "322",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "322"
+  },
+  "323": {
+    "summonID": "323",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Core_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "323"
+  },
+  "324": {
+    "summonID": "324",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "324"
+  },
+  "325": {
+    "summonID": "325",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "325"
+  },
+  "326": {
+    "summonID": "326",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "326"
+  },
+  "327": {
+    "summonID": "327",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "327"
+  },
+  "328": {
+    "summonID": "328",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "328"
+  },
+  "329": {
+    "summonID": "329",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "329"
+  },
+  "330": {
+    "summonID": "330",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "330"
+  },
+  "331": {
+    "summonID": "331",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "331"
+  },
+  "332": {
+    "summonID": "332",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "332"
+  },
+  "333": {
+    "summonID": "333",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "333"
+  },
+  "334": {
+    "summonID": "334",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "334"
+  },
+  "335": {
+    "summonID": "335",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "335"
+  },
+  "336": {
+    "summonID": "336",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "336"
+  },
+  "337": {
+    "summonID": "337",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "337"
+  },
+  "338": {
+    "summonID": "338",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "338"
+  },
+  "339": {
+    "summonID": "339",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "339"
+  },
+  "340": {
+    "summonID": "340",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "340"
+  },
+  "341": {
+    "summonID": "341",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "341"
+  },
+  "342": {
+    "summonID": "342",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "342"
+  },
+  "343": {
+    "summonID": "343",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "343"
+  },
+  "344": {
+    "summonID": "344",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "344"
+  },
+  "345": {
+    "summonID": "345",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "345"
+  },
+  "346": {
+    "summonID": "346",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "346"
+  },
+  "347": {
+    "summonID": "347",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "347"
+  },
+  "348": {
+    "summonID": "348",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "348"
+  },
+  "349": {
+    "summonID": "349",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "349"
+  },
+  "350": {
+    "summonID": "350",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "350"
+  },
+  "351": {
+    "summonID": "351",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "351"
+  },
+  "352": {
+    "summonID": "352",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "352"
+  },
+  "353": {
+    "summonID": "353",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "353"
+  },
+  "354": {
+    "summonID": "354",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "354"
+  },
+  "355": {
+    "summonID": "355",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "355"
+  },
+  "356": {
+    "summonID": "356",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "356"
+  },
+  "357": {
+    "summonID": "357",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "357"
+  },
+  "358": {
+    "summonID": "358",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "358"
+  },
+  "359": {
+    "summonID": "359",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "359"
+  },
+  "360": {
+    "summonID": "360",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "360"
+  },
+  "361": {
+    "summonID": "361",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "361"
+  },
+  "362": {
+    "summonID": "362",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "362"
+  },
+  "363": {
+    "summonID": "363",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "363"
+  },
+  "364": {
+    "summonID": "364",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "364"
+  },
+  "365": {
+    "summonID": "365",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "365"
+  },
+  "366": {
+    "summonID": "366",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "366"
+  },
+  "367": {
+    "summonID": "367",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "367"
+  },
+  "368": {
+    "summonID": "368",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "368"
+  },
+  "369": {
+    "summonID": "369",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "369"
+  },
+  "370": {
+    "summonID": "370",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "370"
+  },
+  "371": {
+    "summonID": "371",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "371"
+  },
+  "372": {
+    "summonID": "372",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "372"
+  },
+  "373": {
+    "summonID": "373",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "373"
+  },
+  "374": {
+    "summonID": "374",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "374"
+  },
+  "375": {
+    "summonID": "375",
+    "itemID": "Elnor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "375"
+  },
+  "376": {
+    "summonID": "376",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "376"
+  },
+  "377": {
+    "summonID": "377",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "377"
+  },
+  "378": {
+    "summonID": "378",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "378"
+  },
+  "379": {
+    "summonID": "379",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "379"
+  },
+  "380": {
+    "summonID": "380",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "380"
+  },
+  "381": {
+    "summonID": "381",
+    "itemID": "Worf",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "381"
+  },
+  "382": {
+    "summonID": "382",
+    "itemID": "Sela",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "382"
+  },
+  "383": {
+    "summonID": "383",
+    "itemID": "Gorn",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "383"
+  },
+  "384": {
+    "summonID": "384",
+    "itemID": "Odo",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "384"
+  },
+  "385": {
+    "summonID": "385",
+    "itemID": "Nerys",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "385"
+  },
+  "386": {
+    "summonID": "386",
+    "itemID": "Locutus",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "386"
+  },
+  "387": {
+    "summonID": "387",
+    "itemID": "Martok",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "387"
+  },
+  "388": {
+    "summonID": "388",
+    "itemID": "Torchbearer",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "388"
+  },
+  "389": {
+    "summonID": "389",
+    "itemID": "Elnor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "389"
+  },
+  "390": {
+    "summonID": "390",
+    "itemID": "GenHumanSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "390"
+  },
+  "391": {
+    "summonID": "391",
+    "itemID": "GenCardSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "391"
+  },
+  "392": {
+    "summonID": "392",
+    "itemID": "GenRomuSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "392"
+  },
+  "393": {
+    "summonID": "393",
+    "itemID": "GenKlingSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "393"
+  },
+  "394": {
+    "summonID": "394",
+    "itemID": "GenBorgSec01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Security_07"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "394"
+  },
+  "395": {
+    "summonID": "395",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "395"
+  },
+  "396": {
+    "summonID": "396",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "396"
+  },
+  "397": {
+    "summonID": "397",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "397"
+  },
+  "398": {
+    "summonID": "398",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "398"
+  },
+  "399": {
+    "summonID": "399",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "399"
+  },
+  "400": {
+    "summonID": "400",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "400"
+  },
+  "401": {
+    "summonID": "401",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "401"
+  },
+  "402": {
+    "summonID": "402",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "402"
+  },
+  "403": {
+    "summonID": "403",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "403"
+  },
+  "404": {
+    "summonID": "404",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "404"
+  },
+  "405": {
+    "summonID": "405",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "405"
+  },
+  "406": {
+    "summonID": "406",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "406"
+  },
+  "407": {
+    "summonID": "407",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "407"
+  },
+  "408": {
+    "summonID": "408",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "408"
+  },
+  "409": {
+    "summonID": "409",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "409"
+  },
+  "410": {
+    "summonID": "410",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "410"
+  },
+  "411": {
+    "summonID": "411",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "411"
+  },
+  "412": {
+    "summonID": "412",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "412"
+  },
+  "413": {
+    "summonID": "413",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "413"
+  },
+  "414": {
+    "summonID": "414",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "414"
+  },
+  "415": {
+    "summonID": "415",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "415"
+  },
+  "416": {
+    "summonID": "416",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "416"
+  },
+  "417": {
+    "summonID": "417",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "417"
+  },
+  "418": {
+    "summonID": "418",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "418"
+  },
+  "419": {
+    "summonID": "419",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "419"
+  },
+  "420": {
+    "summonID": "420",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "420"
+  },
+  "421": {
+    "summonID": "421",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "421"
+  },
+  "422": {
+    "summonID": "422",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "422"
+  },
+  "423": {
+    "summonID": "423",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "423"
+  },
+  "424": {
+    "summonID": "424",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "424"
+  },
+  "425": {
+    "summonID": "425",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "425"
+  },
+  "426": {
+    "summonID": "426",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "426"
+  },
+  "427": {
+    "summonID": "427",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "427"
+  },
+  "428": {
+    "summonID": "428",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "428"
+  },
+  "429": {
+    "summonID": "429",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "429"
+  },
+  "430": {
+    "summonID": "430",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "430"
+  },
+  "431": {
+    "summonID": "431",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "431"
+  },
+  "432": {
+    "summonID": "432",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "432"
+  },
+  "433": {
+    "summonID": "433",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "433"
+  },
+  "434": {
+    "summonID": "434",
+    "itemID": "Picard",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "434"
+  },
+  "435": {
+    "summonID": "435",
+    "itemID": "Quark",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "435"
+  },
+  "436": {
+    "summonID": "436",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "436"
+  },
+  "437": {
+    "summonID": "437",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "437"
+  },
+  "438": {
+    "summonID": "438",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "438"
+  },
+  "439": {
+    "summonID": "439",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "439"
+  },
+  "440": {
+    "summonID": "440",
+    "itemID": "Riker",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "440"
+  },
+  "441": {
+    "summonID": "441",
+    "itemID": "Dukat",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "441"
+  },
+  "442": {
+    "summonID": "442",
+    "itemID": "Janeway",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "442"
+  },
+  "443": {
+    "summonID": "443",
+    "itemID": "Tomalak",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "443"
+  },
+  "444": {
+    "summonID": "444",
+    "itemID": "Sisko",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "444"
+  },
+  "445": {
+    "summonID": "445",
+    "itemID": "Khan",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "445"
+  },
+  "446": {
+    "summonID": "446",
+    "itemID": "BorgQueen",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "446"
+  },
+  "447": {
+    "summonID": "447",
+    "itemID": "Pike",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "447"
+  },
+  "448": {
+    "summonID": "448",
+    "itemID": "Sulu",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "448"
+  },
+  "449": {
+    "summonID": "449",
+    "itemID": "Picard",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "449"
+  },
+  "450": {
+    "summonID": "450",
+    "itemID": "Quark",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "450"
+  },
+  "451": {
+    "summonID": "451",
+    "itemID": "Kirk",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "451"
+  },
+  "452": {
+    "summonID": "452",
+    "itemID": "Georgiou",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "452"
+  },
+  "453": {
+    "summonID": "453",
+    "itemID": "PicardDixon",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "453"
+  },
+  "454": {
+    "summonID": "454",
+    "itemID": "Chang",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "454"
+  },
+  "455": {
+    "summonID": "455",
+    "itemID": "Troi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "455"
+  },
+  "456": {
+    "summonID": "456",
+    "itemID": "GenCardCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "456"
+  },
+  "457": {
+    "summonID": "457",
+    "itemID": "GenHumanCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "457"
+  },
+  "458": {
+    "summonID": "458",
+    "itemID": "GenRomuCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "458"
+  },
+  "459": {
+    "summonID": "459",
+    "itemID": "GenKlingCom01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Command_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "459"
+  },
+  "460": {
+    "summonID": "460",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "460"
+  },
+  "461": {
+    "summonID": "461",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "461"
+  },
+  "462": {
+    "summonID": "462",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "462"
+  },
+  "463": {
+    "summonID": "463",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "463"
+  },
+  "464": {
+    "summonID": "464",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "464"
+  },
+  "465": {
+    "summonID": "465",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "465"
+  },
+  "466": {
+    "summonID": "466",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "466"
+  },
+  "467": {
+    "summonID": "467",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "467"
+  },
+  "468": {
+    "summonID": "468",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "468"
+  },
+  "469": {
+    "summonID": "469",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "469"
+  },
+  "470": {
+    "summonID": "470",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "470"
+  },
+  "471": {
+    "summonID": "471",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "471"
+  },
+  "472": {
+    "summonID": "472",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "472"
+  },
+  "473": {
+    "summonID": "473",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "473"
+  },
+  "474": {
+    "summonID": "474",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "474"
+  },
+  "475": {
+    "summonID": "475",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "475"
+  },
+  "476": {
+    "summonID": "476",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "476"
+  },
+  "477": {
+    "summonID": "477",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "477"
+  },
+  "478": {
+    "summonID": "478",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "478"
+  },
+  "479": {
+    "summonID": "479",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "479"
+  },
+  "480": {
+    "summonID": "480",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "480"
+  },
+  "481": {
+    "summonID": "481",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "481"
+  },
+  "482": {
+    "summonID": "482",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "482"
+  },
+  "483": {
+    "summonID": "483",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "483"
+  },
+  "484": {
+    "summonID": "484",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "484"
+  },
+  "485": {
+    "summonID": "485",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "485"
+  },
+  "486": {
+    "summonID": "486",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "486"
+  },
+  "487": {
+    "summonID": "487",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "487"
+  },
+  "488": {
+    "summonID": "488",
+    "itemID": "Saru",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "488"
+  },
+  "489": {
+    "summonID": "489",
+    "itemID": "Sutra",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "489"
+  },
+  "490": {
+    "summonID": "490",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "490"
+  },
+  "491": {
+    "summonID": "491",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "491"
+  },
+  "492": {
+    "summonID": "492",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "492"
+  },
+  "493": {
+    "summonID": "493",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "493"
+  },
+  "494": {
+    "summonID": "494",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "494"
+  },
+  "495": {
+    "summonID": "495",
+    "itemID": "Burnham",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "495"
+  },
+  "496": {
+    "summonID": "496",
+    "itemID": "TPol",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "496"
+  },
+  "497": {
+    "summonID": "497",
+    "itemID": "Uhura",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "497"
+  },
+  "498": {
+    "summonID": "498",
+    "itemID": "Data",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "498"
+  },
+  "499": {
+    "summonID": "499",
+    "itemID": "Saru",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "499"
+  },
+  "500": {
+    "summonID": "500",
+    "itemID": "Sutra",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "500"
+  },
+  "501": {
+    "summonID": "501",
+    "itemID": "Spock",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "501"
+  },
+  "502": {
+    "summonID": "502",
+    "itemID": "Soji",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "502"
+  },
+  "503": {
+    "summonID": "503",
+    "itemID": "GenCardSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "503"
+  },
+  "504": {
+    "summonID": "504",
+    "itemID": "GenHumanSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "504"
+  },
+  "505": {
+    "summonID": "505",
+    "itemID": "GenRomuSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "505"
+  },
+  "506": {
+    "summonID": "506",
+    "itemID": "GenKlingSci01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "506"
+  },
+  "507": {
+    "summonID": "507",
+    "itemID": "GenBorgSci01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Science_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "507"
+  },
+  "508": {
+    "summonID": "508",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "508"
+  },
+  "509": {
+    "summonID": "509",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "509"
+  },
+  "510": {
+    "summonID": "510",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "510"
+  },
+  "511": {
+    "summonID": "511",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "511"
+  },
+  "512": {
+    "summonID": "512",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "512"
+  },
+  "513": {
+    "summonID": "513",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "513"
+  },
+  "514": {
+    "summonID": "514",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "514"
+  },
+  "515": {
+    "summonID": "515",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "515"
+  },
+  "516": {
+    "summonID": "516",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "516"
+  },
+  "517": {
+    "summonID": "517",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "517"
+  },
+  "518": {
+    "summonID": "518",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "518"
+  },
+  "519": {
+    "summonID": "519",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "519"
+  },
+  "520": {
+    "summonID": "520",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "520"
+  },
+  "521": {
+    "summonID": "521",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "521"
+  },
+  "522": {
+    "summonID": "522",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "522"
+  },
+  "523": {
+    "summonID": "523",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "523"
+  },
+  "524": {
+    "summonID": "524",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "524"
+  },
+  "525": {
+    "summonID": "525",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "525"
+  },
+  "526": {
+    "summonID": "526",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "526"
+  },
+  "527": {
+    "summonID": "527",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "527"
+  },
+  "528": {
+    "summonID": "528",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "528"
+  },
+  "529": {
+    "summonID": "529",
+    "itemID": "Nine",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "529"
+  },
+  "530": {
+    "summonID": "530",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "530"
+  },
+  "531": {
+    "summonID": "531",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "531"
+  },
+  "532": {
+    "summonID": "532",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "532"
+  },
+  "533": {
+    "summonID": "533",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "533"
+  },
+  "534": {
+    "summonID": "534",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "534"
+  },
+  "535": {
+    "summonID": "535",
+    "itemID": "Nine",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "535"
+  },
+  "536": {
+    "summonID": "536",
+    "itemID": "Geordi",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "536"
+  },
+  "537": {
+    "summonID": "537",
+    "itemID": "Torres",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "537"
+  },
+  "538": {
+    "summonID": "538",
+    "itemID": "Scott",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "538"
+  },
+  "539": {
+    "summonID": "539",
+    "itemID": "Stamets",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "539"
+  },
+  "540": {
+    "summonID": "540",
+    "itemID": "Tilly",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "540"
+  },
+  "541": {
+    "summonID": "541",
+    "itemID": "GenCardEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "541"
+  },
+  "542": {
+    "summonID": "542",
+    "itemID": "GenHumanEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "542"
+  },
+  "543": {
+    "summonID": "543",
+    "itemID": "GenRomuEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "543"
+  },
+  "544": {
+    "summonID": "544",
+    "itemID": "GenKlingEng01F",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "544"
+  },
+  "545": {
+    "summonID": "545",
+    "itemID": "GenBorgEng01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Engineer_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "545"
+  },
+  "546": {
+    "summonID": "546",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "546"
+  },
+  "547": {
+    "summonID": "547",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "547"
+  },
+  "548": {
+    "summonID": "548",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_01"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "548"
+  },
+  "549": {
+    "summonID": "549",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "549"
+  },
+  "550": {
+    "summonID": "550",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "550"
+  },
+  "551": {
+    "summonID": "551",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "551"
+  },
+  "552": {
+    "summonID": "552",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_02"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "552"
+  },
+  "553": {
+    "summonID": "553",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "553"
+  },
+  "554": {
+    "summonID": "554",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "554"
+  },
+  "555": {
+    "summonID": "555",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "555"
+  },
+  "556": {
+    "summonID": "556",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "556"
+  },
+  "557": {
+    "summonID": "557",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "557"
+  },
+  "558": {
+    "summonID": "558",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "558"
+  },
+  "559": {
+    "summonID": "559",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_03"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "559"
+  },
+  "560": {
+    "summonID": "560",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "560"
+  },
+  "561": {
+    "summonID": "561",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "561"
+  },
+  "562": {
+    "summonID": "562",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "562"
+  },
+  "563": {
+    "summonID": "563",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "563"
+  },
+  "564": {
+    "summonID": "564",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "564"
+  },
+  "565": {
+    "summonID": "565",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "565"
+  },
+  "566": {
+    "summonID": "566",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "566"
+  },
+  "567": {
+    "summonID": "567",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_04"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "567"
+  },
+  "568": {
+    "summonID": "568",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "568"
+  },
+  "569": {
+    "summonID": "569",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "569"
+  },
+  "570": {
+    "summonID": "570",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "570"
+  },
+  "571": {
+    "summonID": "571",
+    "itemID": "Doctor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "571"
+  },
+  "572": {
+    "summonID": "572",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "572"
+  },
+  "573": {
+    "summonID": "573",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "573"
+  },
+  "574": {
+    "summonID": "574",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "574"
+  },
+  "575": {
+    "summonID": "575",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "575"
+  },
+  "576": {
+    "summonID": "576",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_05"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "576"
+  },
+  "577": {
+    "summonID": "577",
+    "itemID": "McCoy",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "577"
+  },
+  "578": {
+    "summonID": "578",
+    "itemID": "Crusher",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "578"
+  },
+  "579": {
+    "summonID": "579",
+    "itemID": "Culber",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "579"
+  },
+  "580": {
+    "summonID": "580",
+    "itemID": "Doctor",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "580"
+  },
+  "581": {
+    "summonID": "581",
+    "itemID": "Phlox",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "581"
+  },
+  "582": {
+    "summonID": "582",
+    "itemID": "GenCardMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "582"
+  },
+  "583": {
+    "summonID": "583",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "583"
+  },
+  "584": {
+    "summonID": "584",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "584"
+  },
+  "585": {
+    "summonID": "585",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "585"
+  },
+  "586": {
+    "summonID": "586",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "586"
+  }
+}

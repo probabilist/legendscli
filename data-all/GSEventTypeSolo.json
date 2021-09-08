@@ -1,0 +1,551 @@
+{
+  "SoloEvent_NPE": {
+    "milestoneRewardsIds": [
+      "solo_reward_NPE_ms1",
+      "solo_reward_NPE_ms2",
+      "solo_reward_NPE_ms3",
+      "solo_reward_NPE_ms4",
+      "solo_reward_NPE_ms5"
+    ],
+    "id": "SoloEvent_NPE"
+  },
+  "SoloEvent_BorgQueen": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_BorgQueen"
+    ],
+    "id": "SoloEvent_BorgQueen"
+  },
+  "SoloEvent_Burnham": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Burnham"
+    ],
+    "id": "SoloEvent_Burnham"
+  },
+  "SoloEvent_Crusher": {
+    "milestoneRewardsIds": [
+      "solo_reward_medical_ms1",
+      "solo_reward_medical_ms2",
+      "solo_reward_medical_ms3",
+      "solo_reward_medical_ms4",
+      "solo_reward_medical_ms5",
+      "solo_reward_Crusher"
+    ],
+    "id": "SoloEvent_Crusher"
+  },
+  "SoloEvent_Culber": {
+    "milestoneRewardsIds": [
+      "solo_reward_medical_ms1",
+      "solo_reward_medical_ms2",
+      "solo_reward_medical_ms3",
+      "solo_reward_medical_ms4",
+      "solo_reward_medical_ms5",
+      "solo_reward_Culber"
+    ],
+    "id": "SoloEvent_Culber"
+  },
+  "SoloEvent_Data": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Data"
+    ],
+    "id": "SoloEvent_Data"
+  },
+  "SoloEvent_Doctor": {
+    "milestoneRewardsIds": [
+      "solo_reward_medical_ms1",
+      "solo_reward_medical_ms2",
+      "solo_reward_medical_ms3",
+      "solo_reward_medical_ms4",
+      "solo_reward_medical_ms5",
+      "solo_reward_Doctor"
+    ],
+    "id": "SoloEvent_Doctor"
+  },
+  "SoloEvent_Dukat": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Dukat"
+    ],
+    "id": "SoloEvent_Dukat"
+  },
+  "SoloEvent_Geordi": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Geordi"
+    ],
+    "id": "SoloEvent_Geordi"
+  },
+  "SoloEvent_Georgiou": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Georgiou"
+    ],
+    "id": "SoloEvent_Georgiou"
+  },
+  "SoloEvent_Gorn": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Gorn"
+    ],
+    "id": "SoloEvent_Gorn"
+  },
+  "SoloEvent_Janeway": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Janeway"
+    ],
+    "id": "SoloEvent_Janeway"
+  },
+  "SoloEvent_Khan": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Khan"
+    ],
+    "id": "SoloEvent_Khan"
+  },
+  "SoloEvent_Kirk": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Kirk"
+    ],
+    "id": "SoloEvent_Kirk"
+  },
+  "SoloEvent_Locutus": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Locutus"
+    ],
+    "id": "SoloEvent_Locutus"
+  },
+  "SoloEvent_Martok": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Martok"
+    ],
+    "id": "SoloEvent_Martok"
+  },
+  "SoloEvent_McCoy": {
+    "milestoneRewardsIds": [
+      "solo_reward_medical_ms1",
+      "solo_reward_medical_ms2",
+      "solo_reward_medical_ms3",
+      "solo_reward_medical_ms4",
+      "solo_reward_medical_ms5",
+      "solo_reward_McCoy"
+    ],
+    "id": "SoloEvent_McCoy"
+  },
+  "SoloEvent_Nerys": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Nerys"
+    ],
+    "id": "SoloEvent_Nerys"
+  },
+  "SoloEvent_Nine": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Nine"
+    ],
+    "id": "SoloEvent_Nine"
+  },
+  "SoloEvent_Odo_Easy": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_easy_ms1",
+      "solo_reward_security_easy_ms2",
+      "solo_reward_security_easy_ms3",
+      "solo_reward_security_easy_ms4",
+      "solo_reward_security_easy_ms5",
+      "solo_reward_Odo_easy"
+    ],
+    "id": "SoloEvent_Odo_Easy"
+  },
+  "SoloEvent_Odo": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Odo"
+    ],
+    "id": "SoloEvent_Odo"
+  },
+  "SoloEvent_Phlox": {
+    "milestoneRewardsIds": [
+      "solo_reward_medical_ms1",
+      "solo_reward_medical_ms2",
+      "solo_reward_medical_ms3",
+      "solo_reward_medical_ms4",
+      "solo_reward_medical_ms5",
+      "solo_reward_Phlox"
+    ],
+    "id": "SoloEvent_Phlox"
+  },
+  "SoloEvent_Picard": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Picard"
+    ],
+    "id": "SoloEvent_Picard"
+  },
+  "SoloEvent_PicardOld": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_PicardOld"
+    ],
+    "id": "SoloEvent_PicardOld"
+  },
+  "SoloEvent_Pike": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Pike"
+    ],
+    "id": "SoloEvent_Pike"
+  },
+  "SoloEvent_Quark": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Quark"
+    ],
+    "id": "SoloEvent_Quark"
+  },
+  "SoloEvent_Riker": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Riker"
+    ],
+    "id": "SoloEvent_Riker"
+  },
+  "SoloEvent_Saru": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Saru"
+    ],
+    "id": "SoloEvent_Saru"
+  },
+  "SoloEvent_Scott": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Scott"
+    ],
+    "id": "SoloEvent_Scott"
+  },
+  "SoloEvent_Sela": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Sela"
+    ],
+    "id": "SoloEvent_Sela"
+  },
+  "SoloEvent_Sisko": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Sisko"
+    ],
+    "id": "SoloEvent_Sisko"
+  },
+  "SoloEvent_Soji": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Soji"
+    ],
+    "id": "SoloEvent_Soji"
+  },
+  "SoloEvent_Spock": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Spock"
+    ],
+    "id": "SoloEvent_Spock"
+  },
+  "SoloEvent_Sulu": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Sulu"
+    ],
+    "id": "SoloEvent_Sulu"
+  },
+  "SoloEvent_Sutra": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Sutra"
+    ],
+    "id": "SoloEvent_Sutra"
+  },
+  "SoloEvent_Tomalak": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Tomalak"
+    ],
+    "id": "SoloEvent_Tomalak"
+  },
+  "SoloEvent_Torres": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Torres"
+    ],
+    "id": "SoloEvent_Torres"
+  },
+  "SoloEvent_TPol": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_TPol"
+    ],
+    "id": "SoloEvent_TPol"
+  },
+  "SoloEvent_Uhura_Easy": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_easy_ms1",
+      "solo_reward_science_easy_ms2",
+      "solo_reward_science_easy_ms3",
+      "solo_reward_science_easy_ms4",
+      "solo_reward_science_easy_ms5",
+      "solo_reward_Uhura_easy"
+    ],
+    "id": "SoloEvent_Uhura_Easy"
+  },
+  "SoloEvent_Uhura": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_Uhura"
+    ],
+    "id": "SoloEvent_Uhura"
+  },
+  "SoloEvent_Worf": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Worf"
+    ],
+    "id": "SoloEvent_Worf"
+  },
+  "Solo_Faction_Picard_Easy": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_easy_ms1",
+      "solo_reward_command_easy_ms2",
+      "solo_reward_command_easy_ms3",
+      "solo_reward_command_easy_ms4",
+      "solo_reward_command_easy_ms5",
+      "solo_reward_Picard_easy"
+    ],
+    "id": "Solo_Faction_Picard_Easy"
+  },
+  "Solo_Faction_BorgQueen_Easy": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_easy_ms1",
+      "solo_reward_command_easy_ms2",
+      "solo_reward_command_easy_ms3",
+      "solo_reward_command_easy_ms4",
+      "solo_reward_command_easy_ms5",
+      "solo_reward_BorgQueen_easy"
+    ],
+    "id": "Solo_Faction_BorgQueen_Easy"
+  },
+  "SoloEvent_PicardDixon": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_PicardDixon"
+    ],
+    "id": "SoloEvent_PicardDixon"
+  },
+  "SoloEvent_Stamets": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Stamets"
+    ],
+    "id": "SoloEvent_Stamets"
+  },
+  "SoloEvent_Tilly": {
+    "milestoneRewardsIds": [
+      "solo_reward_engineering_ms1",
+      "solo_reward_engineering_ms2",
+      "solo_reward_engineering_ms3",
+      "solo_reward_engineering_ms4",
+      "solo_reward_engineering_ms5",
+      "solo_reward_Tilly"
+    ],
+    "id": "SoloEvent_Tilly"
+  },
+  "SoloEvent_Chang": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Chang"
+    ],
+    "id": "SoloEvent_Chang"
+  },
+  "SoloEvent_Elnor": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Elnor"
+    ],
+    "id": "SoloEvent_Elnor"
+  },
+  "SoloEvent_Chekov": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Chekov"
+    ],
+    "id": "SoloEvent_Chekov"
+  },
+  "SoloEvent_Troi": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Troi"
+    ],
+    "id": "SoloEvent_Troi"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "Tip_Skills": {
+    "PlayerLevelMin": 0,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "MissionFail"
+    ],
+    "Message": "UI_Tips_message_Tip_Skills",
+    "id": "Tip_Skills"
+  },
+  "Tip_Summon": {
+    "PlayerLevelMin": 0,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "MissionFail"
+    ],
+    "Message": "UI_Tips_message_Tip_Summon",
+    "id": "Tip_Summon"
+  },
+  "Tip_Enhance": {
+    "PlayerLevelMin": 3,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "MissionFail"
+    ],
+    "Message": "UI_Tips_message_Tip_Enhance",
+    "id": "Tip_Enhance"
+  },
+  "Tip_Replay": {
+    "PlayerLevelMin": 0,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "MissionFail"
+    ],
+    "Message": "UI_Tips_message_Tip_Replay",
+    "id": "Tip_Replay"
+  },
+  "LoadingTips_01": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_01",
+    "id": "LoadingTips_01"
+  },
+  "LoadingTips_02": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_02",
+    "id": "LoadingTips_02"
+  },
+  "LoadingTips_03": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_03",
+    "id": "LoadingTips_03"
+  },
+  "LoadingTips_04": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_04",
+    "id": "LoadingTips_04"
+  },
+  "LoadingTips_05": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_05",
+    "id": "LoadingTips_05"
+  },
+  "LoadingTips_06": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_06",
+    "id": "LoadingTips_06"
+  },
+  "LoadingTips_07": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_07",
+    "id": "LoadingTips_07"
+  },
+  "LoadingTips_08": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_08",
+    "id": "LoadingTips_08"
+  },
+  "LoadingTips_09": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_09",
+    "id": "LoadingTips_09"
+  },
+  "LoadingTips_10": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_10",
+    "id": "LoadingTips_10"
+  },
+  "LoadingTips_11": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_11",
+    "id": "LoadingTips_11"
+  },
+  "LoadingTips_12": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_12",
+    "id": "LoadingTips_12"
+  },
+  "LoadingTips_13": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_13",
+    "id": "LoadingTips_13"
+  },
+  "LoadingTips_14": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_14",
+    "id": "LoadingTips_14"
+  },
+  "LoadingTips_15": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_15",
+    "id": "LoadingTips_15"
+  },
+  "LoadingTips_16": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_16",
+    "id": "LoadingTips_16"
+  },
+  "LoadingTips_17": {
+    "PlayerLevelMin": -1,
+    "PlayerLevelMax": 2147483647,
+    "Types": [
+      "LoadingScreen"
+    ],
+    "Message": "LoadingTips_17",
+    "id": "LoadingTips_17"
+  }
+}

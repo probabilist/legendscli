@@ -1,0 +1,662 @@
+{
+  "Raid_Federation_Federation_01": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Pioneer",
+    "battleStage": "Combat_FedShip_Clean_Hallway_01",
+    "battleEnv": "Map_FedShip_Interior_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "Command",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "Science",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Science",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Federation_Federation_01"
+  },
+  "Raid_Federation_Federation_02": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Pioneer",
+    "battleStage": "Combat_FedShip_Clean_Medbay_01",
+    "battleEnv": "Map_FedShip_Interior_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "Medical",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "Security",
+    "powerupGroupID4": "Federation2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Medical",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Security",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Federation2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Federation_Federation_02"
+  },
+  "Raid_Federation_Federation_03": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Pioneer",
+    "battleStage": "Combat_FedShip_Clean_InteriorRoom_01",
+    "battleEnv": "Map_FedShip_Interior_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "Bridge",
+    "powerupGroupID2": "ImpulseDrive",
+    "powerupGroupID3": "Federation1",
+    "powerupGroupID4": "LifeSupport",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ImpulseDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Federation1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "LifeSupport",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Federation_Federation_03"
+  },
+  "Raid_Federation_Federation_04": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Pioneer",
+    "battleStage": "Combat_FedShip_Clean_EntryWell_01",
+    "battleEnv": "Map_FedShip_Interior_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "SensorControl",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "DeflectorControl",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "SensorControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "DeflectorControl",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Federation_Federation_04"
+  },
+  "Raid_Federation_Federation_05": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Pioneer",
+    "battleStage": "Combat_FedShip_Clean_InteriorRoom_01",
+    "battleEnv": "Map_FedShip_Interior_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "Command",
+    "powerupGroupID2": "WarpDrive",
+    "powerupGroupID3": "Federation1",
+    "powerupGroupID4": "Federation2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Federation1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Federation2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Federation_Federation_05"
+  },
+  "Raid_Klingon_BirdofPrey_01": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BirdofPrey",
+    "battleStage": "Combat_Klingon_Hallway_Raid",
+    "battleEnv": "Map_KlingonShip_Raid_Final",
+    "prefabNodes": "RaidNodesFederation",
+    "powerupGroupID1": "SensorControl",
+    "powerupGroupID2": "WarpDrive",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "LifeSupport",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "SensorControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "LifeSupport",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Klingon_BirdofPrey_01"
+  },
+  "Raid_Klingon_BirdofPrey_02": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BirdofPrey",
+    "battleStage": "Combat_Klingon_MedBay_Raid",
+    "battleEnv": "Map_KlingonShip_Raid_Final",
+    "prefabNodes": "RaidNodesKlingon",
+    "powerupGroupID1": "Medical",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "Klingon1",
+    "powerupGroupID4": "ShuttleBay",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Medical",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Klingon1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ShuttleBay",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Klingon_BirdofPrey_02"
+  },
+  "Raid_Klingon_BirdofPrey_03": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BirdofPrey",
+    "battleStage": "Combat_Klingon_MedBay_Raid",
+    "battleEnv": "Map_KlingonShip_Raid_Final",
+    "prefabNodes": "RaidNodesKlingon",
+    "powerupGroupID1": "SensorControl",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "DeflectorControl",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "SensorControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "DeflectorControl",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Klingon_BirdofPrey_03"
+  },
+  "Raid_Klingon_BirdofPrey_04": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BirdofPrey",
+    "battleStage": "Combat_Klingon_Door_Raid",
+    "battleEnv": "Map_KlingonShip_Raid_Final",
+    "prefabNodes": "RaidNodesKlingon",
+    "powerupGroupID1": "Bridge",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "Security",
+    "powerupGroupID4": "Klingon2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Security",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Klingon2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Klingon_BirdofPrey_04"
+  },
+  "Raid_Klingon_BirdofPrey_05": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BirdofPrey",
+    "battleStage": "Combat_Klingon_Hallway_Raid",
+    "battleEnv": "Map_KlingonShip_Raid_Final",
+    "prefabNodes": "RaidNodesKlingon",
+    "powerupGroupID1": "Medical",
+    "powerupGroupID2": "WarpDrive",
+    "powerupGroupID3": "Klingon1",
+    "powerupGroupID4": "Klingon2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Medical",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Klingon1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Klingon2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Klingon_BirdofPrey_05"
+  },
+  "Raid_Cardassian_Galor_01": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Cardassian",
+    "battleStage": "Combat_Cardassian_02",
+    "battleEnv": "Map_Cardassian_Interior_Final",
+    "prefabNodes": "RaidNodesKlingon",
+    "powerupGroupID1": "Command",
+    "powerupGroupID2": "WarpDrive",
+    "powerupGroupID3": "Cardassian1",
+    "powerupGroupID4": "DeflectorControl",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Cardassian1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "DeflectorControl",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Cardassian_Galor_01"
+  },
+  "Raid_Cardassian_Galor_02": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Cardassian",
+    "battleStage": "Combat_Cardassian_01",
+    "battleEnv": "Map_Cardassian_Interior_Final",
+    "prefabNodes": "RaidNodesCardassian",
+    "powerupGroupID1": "Medical",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "Cardassian2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Medical",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Cardassian2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Cardassian_Galor_02"
+  },
+  "Raid_Cardassian_Galor_03": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Cardassian",
+    "battleStage": "Combat_Cardassian_02",
+    "battleEnv": "Map_Cardassian_Interior_Final",
+    "prefabNodes": "RaidNodesCardassian",
+    "powerupGroupID1": "Bridge",
+    "powerupGroupID2": "ImpulseDrive",
+    "powerupGroupID3": "Cardassian1",
+    "powerupGroupID4": "LifeSupport",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ImpulseDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Cardassian1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "LifeSupport",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Cardassian_Galor_03"
+  },
+  "Raid_Cardassian_Galor_04": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Cardassian",
+    "battleStage": "Combat_Cardassian_01",
+    "battleEnv": "Map_Cardassian_Interior_Final",
+    "prefabNodes": "RaidNodesCardassian",
+    "powerupGroupID1": "Bridge",
+    "powerupGroupID2": "Engineering",
+    "powerupGroupID3": "WeaponsControl",
+    "powerupGroupID4": "ShuttleBay",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ShuttleBay",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Cardassian_Galor_04"
+  },
+  "Raid_Cardassian_Galor_05": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_Cardassian",
+    "battleStage": "Combat_Cardassian_02",
+    "battleEnv": "Map_Cardassian_Interior_Final",
+    "prefabNodes": "RaidNodesCardassian",
+    "powerupGroupID1": "Command",
+    "powerupGroupID2": "WarpDrive",
+    "powerupGroupID3": "Cardassian1",
+    "powerupGroupID4": "Cardassian2",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Cardassian1",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Cardassian2",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Cardassian_Galor_05"
+  },
+  "Raid_Borg_Cube_01": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BorgCube",
+    "battleStage": "Combat_BorgInterior",
+    "battleEnv": "Map_Borg_Interior_Final",
+    "prefabNodes": "RaidNodesBorg",
+    "powerupGroupID1": "Command_Borg",
+    "powerupGroupID2": "WarpDrive_Borg",
+    "powerupGroupID3": "Security_Borg",
+    "powerupGroupID4": "LifeSupport_Borg",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Security_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "LifeSupport_Borg",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Borg_Cube_01"
+  },
+  "Raid_Borg_Cube_02": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BorgCube",
+    "battleStage": "Combat_Borg_RechargingAlcove",
+    "battleEnv": "Map_Borg_Interior_Final",
+    "prefabNodes": "RaidNodesBorg",
+    "powerupGroupID1": "Medical_Borg",
+    "powerupGroupID2": "Engineering_Borg",
+    "powerupGroupID3": "WeaponsControl_Borg",
+    "powerupGroupID4": "ShuttleBay_Borg",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Medical_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ShuttleBay_Borg",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Borg_Cube_02"
+  },
+  "Raid_Borg_Cube_03": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BorgCube",
+    "battleStage": "Combat_Borg_DataDistNode",
+    "battleEnv": "Map_Borg_Interior_Final",
+    "prefabNodes": "RaidNodesBorg",
+    "powerupGroupID1": "Bridge_Borg",
+    "powerupGroupID2": "ImpulseDrive_Borg",
+    "powerupGroupID3": "Security_Borg",
+    "powerupGroupID4": "LifeSupport_Borg",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ImpulseDrive_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Security_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "LifeSupport_Borg",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Borg_Cube_03"
+  },
+  "Raid_Borg_Cube_04": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BorgCube",
+    "battleStage": "Combat_Borg_Room",
+    "battleEnv": "Map_Borg_Interior_Final",
+    "prefabNodes": "RaidNodesBorg",
+    "powerupGroupID1": "Bridge_Borg",
+    "powerupGroupID2": "Engineering_Borg",
+    "powerupGroupID3": "WeaponsControl_Borg",
+    "powerupGroupID4": "ShuttleBay_Borg",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Bridge_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "Engineering_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ShuttleBay_Borg",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Borg_Cube_04"
+  },
+  "Raid_Borg_Cube_05": {
+    "backgroundPrefab": "MissionSelectPlanet_Raid_BorgCube",
+    "battleStage": "Combat_Borg_Room",
+    "battleEnv": "Map_Borg_Interior_Final",
+    "prefabNodes": "RaidNodesBorg",
+    "powerupGroupID1": "Command_Borg",
+    "powerupGroupID2": "WarpDrive_Borg",
+    "powerupGroupID3": "WeaponsControl_Borg",
+    "powerupGroupID4": "ShuttleBay_Borg",
+    "postBattleAllianceXpReward": "200",
+    "progressionRewardGroupId": "AllianceRaidReward",
+    "nodes": [
+      {
+        "powerupGroup": "Command_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WarpDrive_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "WeaponsControl_Borg",
+        "requirement": 25
+      },
+      {
+        "powerupGroup": "ShuttleBay_Borg",
+        "requirement": 25
+      }
+    ],
+    "battleId": "Pvp_PvpTier_0",
+    "xp": 200,
+    "id": "Raid_Borg_Cube_05"
+  }
+}

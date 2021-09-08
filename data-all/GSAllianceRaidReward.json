@@ -1,0 +1,77 @@
+{
+  "AllianceRaidReward_01": {
+    "groupID": "AllianceRaidReward",
+    "pointsRequired": 50,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Alliance Currency": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "AllianceRaidReward_01"
+  },
+  "AllianceRaidReward_02": {
+    "groupID": "AllianceRaidReward",
+    "pointsRequired": 100,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Alliance Currency": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "AllianceRaidReward_02"
+  },
+  "AllianceRaidReward_03": {
+    "groupID": "AllianceRaidReward",
+    "pointsRequired": 150,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Alliance Currency": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "AllianceRaidReward_03"
+  },
+  "AllianceRaidReward_04": {
+    "groupID": "AllianceRaidReward",
+    "pointsRequired": 200,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Alliance Currency": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "AllianceRaidReward_04"
+  },
+  "AllianceRaidReward_05": {
+    "groupID": "AllianceRaidReward",
+    "pointsRequired": 250,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Alliance Currency": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "AllianceRaidReward_05"
+  }
+}

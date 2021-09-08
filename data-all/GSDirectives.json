@@ -1,0 +1,402 @@
+{
+  "NexusDirective_DoMission_E1M4": {
+    "taskId": "Task_NexusDirective_DoMission_E1M4",
+    "directiveClass": "Play",
+    "order": 1,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E1M4"
+  },
+  "NexusDirective_DoMission_E1M5": {
+    "taskId": "Task_NexusDirective_DoMission_E1M5",
+    "directiveClass": "Play",
+    "order": 2,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E1M5"
+  },
+  "NexusDirective_DoMission_E1M6": {
+    "taskId": "Task_NexusDirective_DoMission_E1M6",
+    "directiveClass": "Play",
+    "order": 3,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E1M6"
+  },
+  "NexusDirective_Summon_Any_01": {
+    "taskId": "Task_NexusDirective_Summon_Any",
+    "directiveClass": "Growth",
+    "order": 4,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_Summon_Any_01"
+  },
+  "NexusDirective_DoMission_E2M1": {
+    "taskId": "Task_NexusDirective_DoMission_E2M1",
+    "directiveClass": "Play",
+    "order": 5,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M1"
+  },
+  "NexusDirective_DoMission_E2M2": {
+    "taskId": "Task_NexusDirective_DoMission_E2M2",
+    "directiveClass": "Play",
+    "order": 6,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M2"
+  },
+  "NexusDirective_DoMission_E2M3": {
+    "taskId": "Task_NexusDirective_DoMission_E2M3",
+    "directiveClass": "Play",
+    "order": 7,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M3"
+  },
+  "NexusDirective_LevelUp_Any_01": {
+    "taskId": "Task_NexusDirective_LevelUp_Any",
+    "directiveClass": "Growth",
+    "order": 8,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_LevelUp_Any_01"
+  },
+  "NexusDirective_DoMission_E2M4": {
+    "taskId": "Task_NexusDirective_DoMission_E2M4",
+    "directiveClass": "Play",
+    "order": 9,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M4"
+  },
+  "NexusDirective_DoMission_E2M5": {
+    "taskId": "Task_NexusDirective_DoMission_E2M5",
+    "directiveClass": "Play",
+    "order": 10,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M5"
+  },
+  "NexusDirective_DoMission_E2M6": {
+    "taskId": "Task_NexusDirective_DoMission_E2M6",
+    "directiveClass": "Play",
+    "order": 11,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E2M6"
+  },
+  "NexusDirective_Summon_Any_02": {
+    "taskId": "Task_NexusDirective_Summon_Any",
+    "directiveClass": "Growth",
+    "order": 12,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_Summon_Any_02"
+  },
+  "NexusDirective_DoMission_E3M1": {
+    "taskId": "Task_NexusDirective_DoMission_E3M1",
+    "directiveClass": "Play",
+    "order": 13,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M1"
+  },
+  "NexusDirective_DoMission_E3M2": {
+    "taskId": "Task_NexusDirective_DoMission_E3M2",
+    "directiveClass": "Play",
+    "order": 15,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M2"
+  },
+  "NexusDirective_LevelUp_Any_02": {
+    "taskId": "Task_NexusDirective_LevelUp_Any",
+    "directiveClass": "Growth",
+    "order": 16,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_LevelUp_Any_02"
+  },
+  "NexusDirective_DoMission_E3M3": {
+    "taskId": "Task_NexusDirective_DoMission_E3M3",
+    "directiveClass": "Play",
+    "order": 17,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M3"
+  },
+  "NexusDirective_RankUp_Any_01": {
+    "taskId": "Task_NexusDirective_RankUp_Any",
+    "directiveClass": "Growth",
+    "order": 18,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_RankUp_Any_01"
+  },
+  "NexusDirective_DoMission_E3M4": {
+    "taskId": "Task_NexusDirective_DoMission_E3M4",
+    "directiveClass": "Play",
+    "order": 19,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M4"
+  },
+  "NexusDirective_SkillUp_Any_01": {
+    "taskId": "Task_NexusDirective_SkillUp_Any",
+    "directiveClass": "Growth",
+    "order": 20,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_SkillUp_Any_01"
+  },
+  "NexusDirective_DoMission_E3M5": {
+    "taskId": "Task_NexusDirective_DoMission_E3M5",
+    "directiveClass": "Play",
+    "order": 21,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M5"
+  },
+  "NexusDirective_LevelUp_Any_03": {
+    "taskId": "Task_NexusDirective_LevelUp_Any",
+    "directiveClass": "Growth",
+    "order": 22,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_LevelUp_Any_03"
+  },
+  "NexusDirective_DoMission_E3M6": {
+    "taskId": "Task_NexusDirective_DoMission_E3M6",
+    "directiveClass": "Play",
+    "order": 23,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoMission_E3M6"
+  },
+  "NexusDirective_Summon_Any_03": {
+    "taskId": "Task_NexusDirective_Summon_Any",
+    "directiveClass": "Growth",
+    "order": 24,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 10
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_Summon_Any_03"
+  },
+  "NexusDirective_DoBattle_01": {
+    "taskId": "Task_NexusDirective_DoBattle_01",
+    "directiveClass": "Gameplay",
+    "order": 25,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoBattle_01"
+  },
+  "NexusDirective_DoBattle_01_A": {
+    "taskId": "Task_NexusDirective_DoBattle_01",
+    "directiveClass": "Gameplay",
+    "order": 26,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Shards Basic": 3
+      },
+      "FirstAmount": 3,
+      "IsEmpty": false
+    },
+    "id": "NexusDirective_DoBattle_01_A"
+  }
+}

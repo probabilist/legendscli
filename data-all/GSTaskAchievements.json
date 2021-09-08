@@ -1,0 +1,925 @@
+{
+  "Achievement_TutorialComplete": {
+    "taskId": "TutorialComplete",
+    "order": "1",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_TutorialComplete",
+    "reward": {
+      "Characters": [
+        "GenHumanCom01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 250
+      },
+      "FirstAmount": 250,
+      "IsEmpty": false
+    },
+    "id": "Achievement_TutorialComplete"
+  },
+  "Achievement_DoBattle_10": {
+    "taskId": "DoBattle_10",
+    "order": "2",
+    "family": "DoBattle",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoBattle_10",
+    "reward": {
+      "Characters": [
+        "GenHumanSec01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoBattle_10"
+  },
+  "Achievement_DoBattle_50": {
+    "taskId": "DoBattle_50",
+    "order": "3",
+    "family": "DoBattle",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoBattle_50",
+    "reward": {
+      "Characters": [
+        "GenKlingCom01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2500
+      },
+      "FirstAmount": 2500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoBattle_50"
+  },
+  "Achievement_DoBattle_100": {
+    "taskId": "DoBattle_100",
+    "order": "4",
+    "family": "DoBattle",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoBattle_100",
+    "reward": {
+      "Characters": [
+        "GenBorgSec01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoBattle_100"
+  },
+  "Achievement_DoBattle_250": {
+    "taskId": "DoBattle_250",
+    "order": "5",
+    "family": "DoBattle",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoBattle_250",
+    "reward": {
+      "Characters": [
+        "GenRomuMed01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoBattle_250"
+  },
+  "Achievement_UpgradeLevel_50": {
+    "taskId": "UpgradeLevel_50",
+    "order": "6",
+    "family": "UpgradeLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeLevel_50",
+    "reward": {
+      "Characters": [
+        "GenCardEng01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2500
+      },
+      "FirstAmount": 2500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeLevel_50"
+  },
+  "Achievement_UpgradeLevel_100": {
+    "taskId": "UpgradeLevel_100",
+    "order": "7",
+    "family": "UpgradeLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeLevel_100",
+    "reward": {
+      "Characters": [
+        "GenRomuCom01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeLevel_100"
+  },
+  "Achievement_UpgradeLevel_200": {
+    "taskId": "UpgradeLevel_200",
+    "order": "8",
+    "family": "UpgradeLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeLevel_200",
+    "reward": {
+      "Characters": [
+        "Saru"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeLevel_200"
+  },
+  "Achievement_UpgradeLevel_300": {
+    "taskId": "UpgradeLevel_300",
+    "order": "9",
+    "family": "UpgradeLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeLevel_300",
+    "reward": {
+      "Characters": [
+        "Phlox"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 15000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeLevel_300"
+  },
+  "Achievement_UpgradeLevel_400": {
+    "taskId": "UpgradeLevel_400",
+    "order": "10",
+    "family": "UpgradeLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeLevel_400",
+    "reward": {
+      "Characters": [
+        "Spock"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 20000
+      },
+      "FirstAmount": 20000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeLevel_400"
+  },
+  "Achievement_SkillUp_10": {
+    "taskId": "SkillUp_10",
+    "order": "11",
+    "family": "SkillUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_SkillUp_10",
+    "reward": {
+      "Characters": [
+        "GenBorgSci01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2000
+      },
+      "FirstAmount": 2000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_SkillUp_10"
+  },
+  "Achievement_SkillUp_25": {
+    "taskId": "SkillUp_25",
+    "order": "12",
+    "family": "SkillUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_SkillUp_25",
+    "reward": {
+      "Characters": [
+        "Uhura"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_SkillUp_25"
+  },
+  "Achievement_SkillUp_50": {
+    "taskId": "SkillUp_50",
+    "order": "13",
+    "family": "SkillUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_SkillUp_50",
+    "reward": {
+      "Characters": [
+        "Culber"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_SkillUp_50"
+  },
+  "Achievement_SkillUp_75": {
+    "taskId": "SkillUp_75",
+    "order": "14",
+    "family": "SkillUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_SkillUp_75",
+    "reward": {
+      "Characters": [
+        "Geordi"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 15000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_SkillUp_75"
+  },
+  "Achievement_SkillUp_100": {
+    "taskId": "SkillUp_100",
+    "order": "15",
+    "family": "SkillUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_SkillUp_100",
+    "reward": {
+      "Characters": [
+        "Doctor"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 20000
+      },
+      "FirstAmount": 20000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_SkillUp_100"
+  },
+  "Achievement_Episode_01": {
+    "taskId": "Episode_01",
+    "order": "16",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_01",
+    "reward": {
+      "Characters": [
+        "GenHumanSci01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_01"
+  },
+  "Achievement_Episode_02": {
+    "taskId": "Episode_02",
+    "order": "17",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_02",
+    "reward": {
+      "Characters": [
+        "GenCardSec01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_02"
+  },
+  "Achievement_Episode_03": {
+    "taskId": "Episode_03",
+    "order": "18",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_03",
+    "reward": {
+      "Characters": [
+        "GenKlingEng01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 2000
+      },
+      "FirstAmount": 2000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_03"
+  },
+  "Achievement_Episode_04": {
+    "taskId": "Episode_04",
+    "order": "19",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_04",
+    "reward": {
+      "Characters": [
+        "GenRomuSci01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 3500
+      },
+      "FirstAmount": 3500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_04"
+  },
+  "Achievement_Episode_05": {
+    "taskId": "Episode_05",
+    "order": "20",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_05",
+    "reward": {
+      "Characters": [
+        "GenBorgMed01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_05"
+  },
+  "Achievement_Episode_06": {
+    "taskId": "Episode_06",
+    "order": "21",
+    "family": "Episode",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Episode_06",
+    "reward": {
+      "Characters": [
+        "Pike"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 6000
+      },
+      "FirstAmount": 6000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Episode_06"
+  },
+  "Achievement_Summon_03": {
+    "taskId": "Summon_03",
+    "order": "22",
+    "family": "Summon",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Summon_03",
+    "reward": {
+      "Characters": [
+        "GenBorgEng01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Summon_03"
+  },
+  "Achievement_Summon_10": {
+    "taskId": "Summon_10",
+    "order": "23",
+    "family": "Summon",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Summon_10",
+    "reward": {
+      "Characters": [
+        "Torres"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Summon_10"
+  },
+  "Achievement_Summon_50": {
+    "taskId": "Summon_50",
+    "order": "24",
+    "family": "Summon",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_Summon_50",
+    "reward": {
+      "Characters": [
+        "Scott"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 25000
+      },
+      "FirstAmount": 25000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_Summon_50"
+  },
+  "Achievement_DoPvP_10": {
+    "taskId": "DoPvP_10",
+    "order": "25",
+    "family": "PvP",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoPvP_10",
+    "reward": {
+      "Characters": [
+        "GenKlingSec01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoPvP_10"
+  },
+  "Achievement_DoPvP_50": {
+    "taskId": "DoPvP_50",
+    "order": "26",
+    "family": "PvP",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoPvP_50",
+    "reward": {
+      "Characters": [
+        "TPol"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoPvP_50"
+  },
+  "Achievement_DoPvP_100": {
+    "taskId": "DoPvP_100",
+    "order": "27",
+    "family": "PvP",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoPvP_100",
+    "reward": {
+      "Characters": [
+        "Georgiou"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoPvP_100"
+  },
+  "Achievement_ReachLeague_01": {
+    "taskId": "ReachLeague_01",
+    "order": "28",
+    "family": "LeagueUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_ReachLeague_01",
+    "reward": {
+      "Characters": [
+        "GenKlingMed01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_ReachLeague_01"
+  },
+  "Achievement_ReachLeague_02": {
+    "taskId": "ReachLeague_02",
+    "order": "29",
+    "family": "LeagueUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_ReachLeague_02",
+    "reward": {
+      "Characters": [
+        "Nerys"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_ReachLeague_02"
+  },
+  "Achievement_ReachLeague_03": {
+    "taskId": "ReachLeague_03",
+    "order": "30",
+    "family": "LeagueUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_ReachLeague_03",
+    "reward": {
+      "Characters": [
+        "Locutus"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 25000
+      },
+      "FirstAmount": 25000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_ReachLeague_03"
+  },
+  "Achievement_ReachLeague_04": {
+    "taskId": "ReachLeague_04",
+    "order": "31",
+    "family": "LeagueUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_ReachLeague_04",
+    "reward": {
+      "Characters": [
+        "Kirk"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 50000
+      },
+      "FirstAmount": 50000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_ReachLeague_04"
+  },
+  "Achievement_CollectPvPChest_10": {
+    "taskId": "CollectPvPChest_10",
+    "order": "32",
+    "family": "PvPChest",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_CollectPvPChest_10",
+    "reward": {
+      "Characters": [
+        "GenRomuSec01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_CollectPvPChest_10"
+  },
+  "Achievement_CollectPvPChest_50": {
+    "taskId": "CollectPvPChest_50",
+    "order": "33",
+    "family": "PvPChest",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_CollectPvPChest_50",
+    "reward": {
+      "Characters": [
+        "Sulu"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 5000
+      },
+      "FirstAmount": 5000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_CollectPvPChest_50"
+  },
+  "Achievement_CollectPvPChest_100": {
+    "taskId": "CollectPvPChest_100",
+    "order": "34",
+    "family": "PvPChest",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_CollectPvPChest_100",
+    "reward": {
+      "Characters": [
+        "Soji"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_CollectPvPChest_100"
+  },
+  "Achievement_UpgradeRank_10": {
+    "taskId": "UpgradeRank_10",
+    "order": "35",
+    "family": "RankUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeRank_10",
+    "reward": {
+      "Characters": [
+        "GenCardCom01M"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 15000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeRank_10"
+  },
+  "Achievement_UpgradeRank_30": {
+    "taskId": "UpgradeRank_30",
+    "order": "36",
+    "family": "RankUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeRank_30",
+    "reward": {
+      "Characters": [
+        "Nine"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 30000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeRank_30"
+  },
+  "Achievement_UpgradeRank_50": {
+    "taskId": "UpgradeRank_50",
+    "order": "37",
+    "family": "RankUp",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_UpgradeRank_50",
+    "reward": {
+      "Characters": [
+        "Data"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 50000
+      },
+      "FirstAmount": 50000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_UpgradeRank_50"
+  },
+  "Achievement_DoMission_01": {
+    "taskId": "DoMission_01",
+    "order": "38",
+    "family": "DoMission",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoMission_01",
+    "reward": {
+      "Characters": [
+        "GenCardSci01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoMission_01"
+  },
+  "Achievement_DoMission_50": {
+    "taskId": "DoMission_50",
+    "order": "39",
+    "family": "DoMission",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoMission_50",
+    "reward": {
+      "Characters": [
+        "GenRomuEng01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 10000
+      },
+      "FirstAmount": 10000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoMission_50"
+  },
+  "Achievement_DoMission_100": {
+    "taskId": "DoMission_100",
+    "order": "40",
+    "family": "DoMission",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_DoMission_100",
+    "reward": {
+      "Characters": [
+        "Sutra"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 20000
+      },
+      "FirstAmount": 20000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_DoMission_100"
+  },
+  "Achievement_CollectCharacters_30": {
+    "taskId": "CollectCharacters_30",
+    "order": "41",
+    "family": "CollectCharacers",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_CollectCharacters_30",
+    "reward": {
+      "Characters": [
+        "GenHumanEng01F"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 30000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_CollectCharacters_30"
+  },
+  "Achievement_CollectCharacters_60": {
+    "taskId": "CollectCharacters_60",
+    "order": "42",
+    "family": "CollectCharacers",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_CollectCharacters_60",
+    "reward": {
+      "Characters": [
+        "Quark"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 60000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_CollectCharacters_60"
+  },
+  "Achievement_PlayerLevel_50": {
+    "taskId": "PlayerLevel_50",
+    "order": "43",
+    "family": "PlayerLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_PlayerLevel_50",
+    "reward": {
+      "Characters": [
+        "Khan"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 50000
+      },
+      "FirstAmount": 50000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_PlayerLevel_50"
+  },
+  "Achievement_PlayerLevel_99": {
+    "taskId": "PlayerLevel_99",
+    "order": "44",
+    "family": "PlayerLevel",
+    "type": "Normal",
+    "levelMin": 1,
+    "gamecenterAchievementId": "GCAchiev_PlayerLevel_99",
+    "reward": {
+      "Characters": [
+        "Picard"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 100000
+      },
+      "FirstAmount": 100000,
+      "IsEmpty": false
+    },
+    "id": "Achievement_PlayerLevel_99"
+  }
+}

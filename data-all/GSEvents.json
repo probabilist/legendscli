@@ -1,0 +1,1612 @@
+{
+  "Event_Solo_NPE": {
+    "hasDateStart": false,
+    "dateStart": "0001-01-01T00:00:00",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_NPE",
+    "name": "UI_Events_NPE_Title",
+    "descriptions": {
+      "Pre": "UI_Events_NPE_Desc_Pre",
+      "Main": "UI_Events_NPE_Desc_Main",
+      "Post": "UI_Events_NPE_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_NPE"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_NPE"
+  },
+  "Event_Solo_Faction_Picard_Easy": {
+    "hasDateStart": true,
+    "dateStart": "2021-04-05T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "Solo_Faction_Picard_Easy",
+    "name": "UI_Events_FactionEvent_Generic_02",
+    "descriptions": {
+      "Pre": "Events_Faction_FedVsBorg_Desc_Pre",
+      "Main": "Events_Faction_FedVsBorg_Desc_Main",
+      "Post": "Events_Faction_FedVsBorg_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Faction_Picard_Borg"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Faction_Picard_Easy"
+  },
+  "Event_Solo_Faction_BorgQueen_Easy": {
+    "hasDateStart": true,
+    "dateStart": "2021-04-05T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "Solo_Faction_BorgQueen_Easy",
+    "name": "UI_Events_FactionEvent_Generic_02",
+    "descriptions": {
+      "Pre": "Events_Faction_FedVsBorg_Desc_Pre",
+      "Main": "Events_Faction_FedVsBorg_Desc_Main",
+      "Post": "Events_Faction_FedVsBorg_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Faction_BorgQueen_Federation"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Faction_BorgQueen_Easy"
+  },
+  "Event_Solo_Odo_Easy": {
+    "hasDateStart": true,
+    "dateStart": "2021-04-12T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Odo_Easy",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Odo"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Odo_Easy"
+  },
+  "Event_Solo_Uhura_Easy": {
+    "hasDateStart": true,
+    "dateStart": "2021-04-19T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Uhura_Easy",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Uhura"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Uhura_Easy"
+  },
+  "Event_Solo_Culber": {
+    "hasDateStart": true,
+    "dateStart": "2021-04-26T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Culber",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Culber"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Culber"
+  },
+  "Event_Solo_Gorn": {
+    "hasDateStart": true,
+    "dateStart": "2021-05-03T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Gorn",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Gorn"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Gorn"
+  },
+  "Event_Solo_Saru": {
+    "hasDateStart": true,
+    "dateStart": "2021-05-10T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Saru",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Saru"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Saru"
+  },
+  "Event_Solo_Dukat": {
+    "hasDateStart": true,
+    "dateStart": "2021-05-17T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Dukat",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Dukat"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Dukat"
+  },
+  "Event_Solo_Nine": {
+    "hasDateStart": true,
+    "dateStart": "2021-05-24T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Nine",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Nine"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Nine"
+  },
+  "Event_Solo_Phlox": {
+    "hasDateStart": true,
+    "dateStart": "2021-05-31T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Phlox",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Phlox"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Phlox"
+  },
+  "Event_Solo_Kirk": {
+    "hasDateStart": true,
+    "dateStart": "2021-06-07T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Kirk",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Kirk"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Kirk"
+  },
+  "Event_Solo_Spock": {
+    "hasDateStart": true,
+    "dateStart": "2021-06-14T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Spock",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Spock"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Spock"
+  },
+  "Event_Solo_PicardDixon_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-06-14T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_PicardDixon",
+    "name": "UI_Events_PicardWeek_Title",
+    "descriptions": {
+      "Pre": "UI_Events_PicardWeek_Desc_Pre",
+      "Main": "UI_Events_PicardWeek_Desc_Main",
+      "Post": "UI_Events_PicardWeek_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_PicardDixon"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_PicardDixon_01"
+  },
+  "Event_Solo_Stamets_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-06-21T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Stamets",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_StametsPride_Desc_Pre",
+      "Main": "UI_Events_StametsPride_Desc_Main",
+      "Post": "UI_Events_StametsPride_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Stamets"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Stamets_01"
+  },
+  "Event_Faction_FedKling_RikerMartok_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-06-28T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FedKling_RikerMartok",
+    "name": "Events_FactionEvent_FedKling_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedKling_Desc_Pre",
+      "Main": "Events_FactionEvent_FedKling_Desc_Main",
+      "Post": "Events_FactionEvent_FedKling_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FedKling_RikerMartok_01"
+  },
+  "Event_Solo_McCoy_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-07-05T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_McCoy",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_McCoy"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_McCoy_01"
+  },
+  "Event_Solo_Tilly_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-07-12T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Tilly",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Tilly"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Tilly_01"
+  },
+  "Event_Faction_FedRomu_PicardTomalak_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-07-19T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "Event_Faction_FedRomu_PicardTomalak",
+    "name": "Events_FactionEvent_FedRomu_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedRomu_Desc_Pre",
+      "Main": "Events_FactionEvent_FedRomu_Desc_Main",
+      "Post": "Events_FactionEvent_FedRomu_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [
+      "Operation_Event_Solo_Locutus"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FedRomu_PicardTomalak_01"
+  },
+  "Event_Solo_Chang_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-07-26T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Chang",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Chang"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Chang_01"
+  },
+  "Event_Solo_Locutus_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-08-02T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Locutus",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Locutus"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Locutus_01"
+  },
+  "Event_Solo_Elnor_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-08-09T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Elnor",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Elnor"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Elnor_01"
+  },
+  "Event_Faction_FedCard_SiskoDukat_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-08-16T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "Event_Faction_FedCard_SiskoDukat",
+    "name": "Events_FactionEvent_FedCard_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedCard_Desc_Pre",
+      "Main": "Events_FactionEvent_FedCard_Desc_Main",
+      "Post": "Events_FactionEvent_FedCard_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FedCard_SiskoDukat_01"
+  },
+  "Event_Solo_Troi_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-08-23T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Troi",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Troi"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Troi_01"
+  },
+  "Event_Solo_Soji_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-08-30T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Soji",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Soji"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Soji_01"
+  },
+  "Event_Solo_Chekov_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-09-06T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Chekov",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Chekov"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Chekov_01"
+  },
+  "Event_Faction_FederationKlingon_01": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "11.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FederationKlingons",
+    "name": "Events_FactionEvent_FedKling_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedKling_Desc_Pre",
+      "Main": "Events_FactionEvent_FedKling_Desc_Main",
+      "Post": "Events_FactionEvent_FedKling_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FederationKlingon_01"
+  },
+  "Event_Faction_FederationBorg_01": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FederationBorg",
+    "name": "Events_FactionEvent_FedBorg_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedBorg_Desc_Pre",
+      "Main": "Events_FactionEvent_FedBorg_Desc_Main",
+      "Post": "Events_FactionEvent_FedBorg_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FederationBorg_01"
+  },
+  "Event_Solo_BorgQueen": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_BorgQueen",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_BorgQueen"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_BorgQueen"
+  },
+  "Event_Solo_Burnham": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Burnham",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Burnham"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Burnham"
+  },
+  "Event_Solo_Crusher": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Crusher",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Crusher"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Crusher"
+  },
+  "Event_Solo_Doctor": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Doctor",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Doctor"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Doctor"
+  },
+  "Event_Solo_Geordi": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Geordi",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Geordi"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Geordi"
+  },
+  "Event_Solo_Georgiou": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Georgiou",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Georgiou"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Georgiou"
+  },
+  "Event_Solo_Janeway": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Janeway",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Janeway"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Janeway"
+  },
+  "Event_Solo_Khan": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Khan",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Khan"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Khan"
+  },
+  "Event_Solo_Nerys": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Nerys",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Nerys"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Nerys"
+  },
+  "Event_Solo_Odo": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Odo",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Odo"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Odo"
+  },
+  "Event_Solo_Picard": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Picard",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Picard"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Picard"
+  },
+  "Event_Solo_PicardOld": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_PicardOld",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_PicardOld"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_PicardOld"
+  },
+  "Event_Solo_Pike": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Pike",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Pike"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Pike"
+  },
+  "Event_Solo_Quark": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Quark",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Quark"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Quark"
+  },
+  "Event_Solo_Riker": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Riker",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Riker"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Riker"
+  },
+  "Event_Solo_Scott": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Scott",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Scott"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Scott"
+  },
+  "Event_Solo_Sela": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Sela",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Sela"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Sela"
+  },
+  "Event_Solo_Sisko": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Sisko",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Sisko"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Sisko"
+  },
+  "Event_Solo_Sulu": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Sulu",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Sulu"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Sulu"
+  },
+  "Event_Solo_Sutra": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Sutra",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Sutra"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Sutra"
+  },
+  "Event_Solo_Tomalak": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Tomalak",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Tomalak"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Tomalak"
+  },
+  "Event_Solo_Torres": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Torres",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Torres"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Torres"
+  },
+  "Event_Solo_TPol": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_TPol",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": false,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_TPol"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_TPol"
+  },
+  "Event_Solo_Uhura": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Uhura",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Uhura"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Uhura"
+  },
+  "Event_Solo_Worf": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Worf",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Worf"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Worf"
+  },
+  "Event_Faction_FederationCardassian_01": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FederationCardassian",
+    "name": "Events_FactionEvent_FedCard_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedCard_Desc_Pre",
+      "Main": "Events_FactionEvent_FedCard_Desc_Main",
+      "Post": "Events_FactionEvent_FedCard_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FederationCardassian_01"
+  },
+  "Event_Faction_FederationRomulan_01": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FederationRomulan",
+    "name": "Events_FactionEvent_FedRomu_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedRomu_Desc_Pre",
+      "Main": "Events_FactionEvent_FedRomu_Desc_Main",
+      "Post": "Events_FactionEvent_FedRomu_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FederationRomulan_01"
+  },
+  "Event_Faction_FederationBorg_02": {
+    "hasDateStart": true,
+    "dateStart": "2999-12-30T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "FactionEvent_FederationBorg_02",
+    "name": "Events_FactionEvent_FedBorg_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedBorg_Desc_Pre",
+      "Main": "Events_FactionEvent_FedBorg_Desc_Main",
+      "Post": "Events_FactionEvent_FedBorg_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FederationBorg_02"
+  }
+}

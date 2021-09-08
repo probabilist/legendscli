@@ -1,0 +1,2702 @@
+{
+  "GSAccessoryKey10 ": {
+    "stringId": "NexusPower_StatBoost_Common_attack_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "Attack",
+    "StatIncrease": 2.0,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey11 ": {
+    "stringId": "NexusPower_StatBoost_Common_attack_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "Attack",
+    "StatIncrease": 4.0,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey12 ": {
+    "stringId": "NexusPower_StatBoost_Common_attack_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "Attack",
+    "StatIncrease": 6.0,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey13 ": {
+    "stringId": "NexusPower_StatBoost_Common_attack_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "Attack",
+    "StatIncrease": 8.0,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey14 ": {
+    "stringId": "NexusPower_StatBoost_Common_attack_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "Attack",
+    "StatIncrease": 10.0,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey15 ": {
+    "stringId": "NexusPower_StatBoost_Rare_attack_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "Attack",
+    "StatIncrease": 12.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey16 ": {
+    "stringId": "NexusPower_StatBoost_Rare_attack_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "Attack",
+    "StatIncrease": 14.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey17 ": {
+    "stringId": "NexusPower_StatBoost_Rare_attack_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "Attack",
+    "StatIncrease": 16.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey18 ": {
+    "stringId": "NexusPower_StatBoost_Rare_attack_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "Attack",
+    "StatIncrease": 18.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey19 ": {
+    "stringId": "NexusPower_StatBoost_Rare_attack_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "Attack",
+    "StatIncrease": 20.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey110 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "Attack",
+    "StatIncrease": 22.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey111 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "Attack",
+    "StatIncrease": 24.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey112 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "Attack",
+    "StatIncrease": 26.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey113 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "Attack",
+    "StatIncrease": 28.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey114 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_attack_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "Attack",
+    "StatIncrease": 30.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey115 ": {
+    "stringId": "NexusPower_StatBoost_Epic_attack_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "Attack",
+    "StatIncrease": 32.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey116 ": {
+    "stringId": "NexusPower_StatBoost_Epic_attack_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "Attack",
+    "StatIncrease": 34.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey117 ": {
+    "stringId": "NexusPower_StatBoost_Epic_attack_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "Attack",
+    "StatIncrease": 36.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey118 ": {
+    "stringId": "NexusPower_StatBoost_Epic_attack_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "Attack",
+    "StatIncrease": 38.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey119 ": {
+    "stringId": "NexusPower_StatBoost_Epic_attack_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "Attack",
+    "StatIncrease": 40.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey120 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "Attack",
+    "StatIncrease": 42.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey121 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "Attack",
+    "StatIncrease": 44.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey122 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "Attack",
+    "StatIncrease": 46.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey123 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "Attack",
+    "StatIncrease": 48.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey124 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_attack_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "Attack",
+    "StatIncrease": 50.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "Attack"
+    }
+  },
+  "GSAccessoryKey125 ": {
+    "stringId": "NexusPower_StatBoost_Common_critChance_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "CritChance",
+    "StatIncrease": 0.01,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey126 ": {
+    "stringId": "NexusPower_StatBoost_Common_critChance_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "CritChance",
+    "StatIncrease": 0.02,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey127 ": {
+    "stringId": "NexusPower_StatBoost_Common_critChance_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "CritChance",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey128 ": {
+    "stringId": "NexusPower_StatBoost_Common_critChance_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "CritChance",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey129 ": {
+    "stringId": "NexusPower_StatBoost_Common_critChance_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "CritChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey130 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "CritChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey131 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "CritChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey132 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "CritChance",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey133 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "CritChance",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey134 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critChance_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "CritChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey135 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "CritChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey136 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "CritChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey137 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "CritChance",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey138 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "CritChance",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey139 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critChance_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "CritChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey140 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "CritChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey141 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "CritChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey142 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "CritChance",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey143 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "CritChance",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey144 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critChance_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "CritChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey145 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "CritChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey146 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "CritChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey147 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "CritChance",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey148 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "CritChance",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey149 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critChance_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "CritChance",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "CritChance"
+    }
+  },
+  "GSAccessoryKey150 ": {
+    "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.02,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey151 ": {
+    "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey152 ": {
+    "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey153 ": {
+    "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey154 ": {
+    "stringId": "NexusPower_StatBoost_Common_critDamage_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey155 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey156 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey157 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey158 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey159 ": {
+    "stringId": "NexusPower_StatBoost_Rare_critDamage_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey160 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey161 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.13,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey162 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.14,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey163 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.15,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey164 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_critDamage_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.16,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey165 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.17,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey166 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.18,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey167 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.19,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey168 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.2,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey169 ": {
+    "stringId": "NexusPower_StatBoost_Epic_critDamage_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.21,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey170 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.21,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey171 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.22,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey172 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.23,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey173 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.24,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey174 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_critDamage_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "CritDamage",
+    "StatIncrease": 0.25,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "CritDamage"
+    }
+  },
+  "GSAccessoryKey175 ": {
+    "stringId": "NexusPower_StatBoost_Common_defense_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "Defense",
+    "StatIncrease": 5.0,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey176 ": {
+    "stringId": "NexusPower_StatBoost_Common_defense_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "Defense",
+    "StatIncrease": 5.0,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey177 ": {
+    "stringId": "NexusPower_StatBoost_Common_defense_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "Defense",
+    "StatIncrease": 6.0,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey178 ": {
+    "stringId": "NexusPower_StatBoost_Common_defense_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "Defense",
+    "StatIncrease": 6.0,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey179 ": {
+    "stringId": "NexusPower_StatBoost_Common_defense_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "Defense",
+    "StatIncrease": 7.0,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey180 ": {
+    "stringId": "NexusPower_StatBoost_Rare_defense_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "Defense",
+    "StatIncrease": 7.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey181 ": {
+    "stringId": "NexusPower_StatBoost_Rare_defense_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "Defense",
+    "StatIncrease": 7.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey182 ": {
+    "stringId": "NexusPower_StatBoost_Rare_defense_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "Defense",
+    "StatIncrease": 8.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey183 ": {
+    "stringId": "NexusPower_StatBoost_Rare_defense_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "Defense",
+    "StatIncrease": 8.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey184 ": {
+    "stringId": "NexusPower_StatBoost_Rare_defense_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "Defense",
+    "StatIncrease": 9.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey185 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "Defense",
+    "StatIncrease": 9.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey186 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "Defense",
+    "StatIncrease": 9.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey187 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "Defense",
+    "StatIncrease": 10.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey188 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "Defense",
+    "StatIncrease": 10.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey189 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_defense_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "Defense",
+    "StatIncrease": 11.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey190 ": {
+    "stringId": "NexusPower_StatBoost_Epic_defense_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "Defense",
+    "StatIncrease": 11.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey191 ": {
+    "stringId": "NexusPower_StatBoost_Epic_defense_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "Defense",
+    "StatIncrease": 11.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey192 ": {
+    "stringId": "NexusPower_StatBoost_Epic_defense_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "Defense",
+    "StatIncrease": 12.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey193 ": {
+    "stringId": "NexusPower_StatBoost_Epic_defense_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "Defense",
+    "StatIncrease": 12.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey194 ": {
+    "stringId": "NexusPower_StatBoost_Epic_defense_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "Defense",
+    "StatIncrease": 13.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey195 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "Defense",
+    "StatIncrease": 13.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey196 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "Defense",
+    "StatIncrease": 13.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey197 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "Defense",
+    "StatIncrease": 14.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey198 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "Defense",
+    "StatIncrease": 14.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey199 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_defense_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "Defense",
+    "StatIncrease": 15.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "Defense"
+    }
+  },
+  "GSAccessoryKey1100 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.01,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1101 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.02,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1102 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1103 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1104 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingChance_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1105 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1106 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1107 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1108 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1109 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingChance_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1110 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1111 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1112 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1113 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1114 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingChance_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1115 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1116 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1117 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1118 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1119 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingChance_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1120 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1121 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1122 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1123 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1124 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingChance_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "GlancingChance",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "GlancingChance"
+    }
+  },
+  "GSAccessoryKey1125 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.01,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1126 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.01,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1127 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.02,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1128 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1129 ": {
+    "stringId": "NexusPower_StatBoost_Common_glancingDamage_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1130 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1131 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1132 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1133 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1134 ": {
+    "stringId": "NexusPower_StatBoost_Rare_glancingDamage_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1135 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1136 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1137 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1138 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1139 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_glancingDamage_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1140 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1141 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.13,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1142 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.14,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1143 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.15,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1144 ": {
+    "stringId": "NexusPower_StatBoost_Epic_glancingDamage_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.16,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1145 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.16,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1146 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.17,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1147 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.18,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1148 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.19,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1149 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_glancingDamage_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "GlancingDamage",
+    "StatIncrease": 0.2,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "GlancingDamage"
+    }
+  },
+  "GSAccessoryKey1150 ": {
+    "stringId": "NexusPower_StatBoost_Common_health_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "Health",
+    "StatIncrease": 14.0,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1151 ": {
+    "stringId": "NexusPower_StatBoost_Common_health_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "Health",
+    "StatIncrease": 23.0,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1152 ": {
+    "stringId": "NexusPower_StatBoost_Common_health_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "Health",
+    "StatIncrease": 32.0,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1153 ": {
+    "stringId": "NexusPower_StatBoost_Common_health_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "Health",
+    "StatIncrease": 41.0,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1154 ": {
+    "stringId": "NexusPower_StatBoost_Common_health_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "Health",
+    "StatIncrease": 50.0,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1155 ": {
+    "stringId": "NexusPower_StatBoost_Rare_health_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "Health",
+    "StatIncrease": 59.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1156 ": {
+    "stringId": "NexusPower_StatBoost_Rare_health_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "Health",
+    "StatIncrease": 68.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1157 ": {
+    "stringId": "NexusPower_StatBoost_Rare_health_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "Health",
+    "StatIncrease": 77.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1158 ": {
+    "stringId": "NexusPower_StatBoost_Rare_health_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "Health",
+    "StatIncrease": 86.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1159 ": {
+    "stringId": "NexusPower_StatBoost_Rare_health_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "Health",
+    "StatIncrease": 95.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1160 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "Health",
+    "StatIncrease": 104.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1161 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "Health",
+    "StatIncrease": 113.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1162 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "Health",
+    "StatIncrease": 122.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1163 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "Health",
+    "StatIncrease": 131.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1164 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_health_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "Health",
+    "StatIncrease": 140.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1165 ": {
+    "stringId": "NexusPower_StatBoost_Epic_health_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "Health",
+    "StatIncrease": 149.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1166 ": {
+    "stringId": "NexusPower_StatBoost_Epic_health_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "Health",
+    "StatIncrease": 158.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1167 ": {
+    "stringId": "NexusPower_StatBoost_Epic_health_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "Health",
+    "StatIncrease": 167.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1168 ": {
+    "stringId": "NexusPower_StatBoost_Epic_health_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "Health",
+    "StatIncrease": 176.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1169 ": {
+    "stringId": "NexusPower_StatBoost_Epic_health_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "Health",
+    "StatIncrease": 185.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1170 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_health_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "Health",
+    "StatIncrease": 194.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1171 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_health_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "Health",
+    "StatIncrease": 203.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1172 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_health_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "Health",
+    "StatIncrease": 212.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1173 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_health_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "Health",
+    "StatIncrease": 221.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1174 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_health_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "Health",
+    "StatIncrease": 230.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "Health"
+    }
+  },
+  "GSAccessoryKey1175 ": {
+    "stringId": "NexusPower_StatBoost_Common_resolve_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "Resolve",
+    "StatIncrease": 0.01,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1176 ": {
+    "stringId": "NexusPower_StatBoost_Common_resolve_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "Resolve",
+    "StatIncrease": 0.02,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1177 ": {
+    "stringId": "NexusPower_StatBoost_Common_resolve_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "Resolve",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1178 ": {
+    "stringId": "NexusPower_StatBoost_Common_resolve_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "Resolve",
+    "StatIncrease": 0.03,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1179 ": {
+    "stringId": "NexusPower_StatBoost_Common_resolve_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "Resolve",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1180 ": {
+    "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "Resolve",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1181 ": {
+    "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "Resolve",
+    "StatIncrease": 0.04,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1182 ": {
+    "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "Resolve",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1183 ": {
+    "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "Resolve",
+    "StatIncrease": 0.05,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1184 ": {
+    "stringId": "NexusPower_StatBoost_Rare_resolve_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "Resolve",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1185 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "Resolve",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1186 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "Resolve",
+    "StatIncrease": 0.06,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1187 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "Resolve",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1188 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "Resolve",
+    "StatIncrease": 0.07,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1189 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_resolve_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "Resolve",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1190 ": {
+    "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "Resolve",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1191 ": {
+    "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "Resolve",
+    "StatIncrease": 0.08,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1192 ": {
+    "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "Resolve",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1193 ": {
+    "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "Resolve",
+    "StatIncrease": 0.09,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1194 ": {
+    "stringId": "NexusPower_StatBoost_Epic_resolve_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "Resolve",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1195 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "Resolve",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1196 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "Resolve",
+    "StatIncrease": 0.1,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1197 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "Resolve",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1198 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "Resolve",
+    "StatIncrease": 0.11,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1199 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_resolve_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "Resolve",
+    "StatIncrease": 0.12,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "Resolve"
+    }
+  },
+  "GSAccessoryKey1200 ": {
+    "stringId": "NexusPower_StatBoost_Common_tech_Lvl1",
+    "Rarity": "Common",
+    "Level": 1,
+    "Stat": "Tech",
+    "StatIncrease": 11.0,
+    "id": {
+      "rarity": "Common",
+      "level": 1,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1201 ": {
+    "stringId": "NexusPower_StatBoost_Common_tech_Lvl2",
+    "Rarity": "Common",
+    "Level": 2,
+    "Stat": "Tech",
+    "StatIncrease": 15.0,
+    "id": {
+      "rarity": "Common",
+      "level": 2,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1202 ": {
+    "stringId": "NexusPower_StatBoost_Common_tech_Lvl3",
+    "Rarity": "Common",
+    "Level": 3,
+    "Stat": "Tech",
+    "StatIncrease": 19.0,
+    "id": {
+      "rarity": "Common",
+      "level": 3,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1203 ": {
+    "stringId": "NexusPower_StatBoost_Common_tech_Lvl4",
+    "Rarity": "Common",
+    "Level": 4,
+    "Stat": "Tech",
+    "StatIncrease": 23.0,
+    "id": {
+      "rarity": "Common",
+      "level": 4,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1204 ": {
+    "stringId": "NexusPower_StatBoost_Common_tech_Lvl5",
+    "Rarity": "Common",
+    "Level": 5,
+    "Stat": "Tech",
+    "StatIncrease": 27.0,
+    "id": {
+      "rarity": "Common",
+      "level": 5,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1205 ": {
+    "stringId": "NexusPower_StatBoost_Rare_tech_Lvl1",
+    "Rarity": "Rare",
+    "Level": 1,
+    "Stat": "Tech",
+    "StatIncrease": 31.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 1,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1206 ": {
+    "stringId": "NexusPower_StatBoost_Rare_tech_Lvl2",
+    "Rarity": "Rare",
+    "Level": 2,
+    "Stat": "Tech",
+    "StatIncrease": 35.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 2,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1207 ": {
+    "stringId": "NexusPower_StatBoost_Rare_tech_Lvl3",
+    "Rarity": "Rare",
+    "Level": 3,
+    "Stat": "Tech",
+    "StatIncrease": 39.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 3,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1208 ": {
+    "stringId": "NexusPower_StatBoost_Rare_tech_Lvl4",
+    "Rarity": "Rare",
+    "Level": 4,
+    "Stat": "Tech",
+    "StatIncrease": 43.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 4,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1209 ": {
+    "stringId": "NexusPower_StatBoost_Rare_tech_Lvl5",
+    "Rarity": "Rare",
+    "Level": 5,
+    "Stat": "Tech",
+    "StatIncrease": 47.0,
+    "id": {
+      "rarity": "Rare",
+      "level": 5,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1210 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl1",
+    "Rarity": "VeryRare",
+    "Level": 1,
+    "Stat": "Tech",
+    "StatIncrease": 51.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 1,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1211 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl2",
+    "Rarity": "VeryRare",
+    "Level": 2,
+    "Stat": "Tech",
+    "StatIncrease": 55.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 2,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1212 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl3",
+    "Rarity": "VeryRare",
+    "Level": 3,
+    "Stat": "Tech",
+    "StatIncrease": 59.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 3,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1213 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl4",
+    "Rarity": "VeryRare",
+    "Level": 4,
+    "Stat": "Tech",
+    "StatIncrease": 63.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 4,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1214 ": {
+    "stringId": "NexusPower_StatBoost_VeryRare_tech_Lvl5",
+    "Rarity": "VeryRare",
+    "Level": 5,
+    "Stat": "Tech",
+    "StatIncrease": 67.0,
+    "id": {
+      "rarity": "VeryRare",
+      "level": 5,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1215 ": {
+    "stringId": "NexusPower_StatBoost_Epic_tech_Lvl1",
+    "Rarity": "Epic",
+    "Level": 1,
+    "Stat": "Tech",
+    "StatIncrease": 71.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 1,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1216 ": {
+    "stringId": "NexusPower_StatBoost_Epic_tech_Lvl2",
+    "Rarity": "Epic",
+    "Level": 2,
+    "Stat": "Tech",
+    "StatIncrease": 75.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 2,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1217 ": {
+    "stringId": "NexusPower_StatBoost_Epic_tech_Lvl3",
+    "Rarity": "Epic",
+    "Level": 3,
+    "Stat": "Tech",
+    "StatIncrease": 79.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 3,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1218 ": {
+    "stringId": "NexusPower_StatBoost_Epic_tech_Lvl4",
+    "Rarity": "Epic",
+    "Level": 4,
+    "Stat": "Tech",
+    "StatIncrease": 83.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 4,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1219 ": {
+    "stringId": "NexusPower_StatBoost_Epic_tech_Lvl5",
+    "Rarity": "Epic",
+    "Level": 5,
+    "Stat": "Tech",
+    "StatIncrease": 87.0,
+    "id": {
+      "rarity": "Epic",
+      "level": 5,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1220 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl1",
+    "Rarity": "Legendary",
+    "Level": 1,
+    "Stat": "Tech",
+    "StatIncrease": 91.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 1,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1221 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl2",
+    "Rarity": "Legendary",
+    "Level": 2,
+    "Stat": "Tech",
+    "StatIncrease": 95.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 2,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1222 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl3",
+    "Rarity": "Legendary",
+    "Level": 3,
+    "Stat": "Tech",
+    "StatIncrease": 99.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 3,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1223 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl4",
+    "Rarity": "Legendary",
+    "Level": 4,
+    "Stat": "Tech",
+    "StatIncrease": 103.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 4,
+      "stat": "Tech"
+    }
+  },
+  "GSAccessoryKey1224 ": {
+    "stringId": "NexusPower_StatBoost_Legendary_tech_Lvl5",
+    "Rarity": "Legendary",
+    "Level": 5,
+    "Stat": "Tech",
+    "StatIncrease": 107.0,
+    "id": {
+      "rarity": "Legendary",
+      "level": 5,
+      "stat": "Tech"
+    }
+  }
+}

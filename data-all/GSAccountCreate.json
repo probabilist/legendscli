@@ -1,0 +1,149 @@
+{
+  "Credits": {
+    "type": "Item",
+    "amount": 2000,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Credits"
+  },
+  "Latinum": {
+    "type": "Item",
+    "amount": 2000,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Latinum"
+  },
+  "Dilithium": {
+    "type": "Item",
+    "amount": 20,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Dilithium"
+  },
+  "Player XP": {
+    "type": "Item",
+    "amount": 0,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Player XP"
+  },
+  "Biomimetic Gel": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Biomimetic Gel"
+  },
+  "Burnham": {
+    "type": "Unit",
+    "amount": 1,
+    "unitRank": 1,
+    "unitXp": 0,
+    "id": "Burnham"
+  },
+  "Avatar Default": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Avatar Default"
+  },
+  "Proto Medical 01": {
+    "type": "Item",
+    "amount": 10,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Proto Medical 01"
+  },
+  "Shards_Worf": {
+    "type": "Item",
+    "amount": 100,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Shards_Worf"
+  },
+  "Shards_McCoy": {
+    "type": "Item",
+    "amount": 100,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Shards_McCoy"
+  },
+  "Shards Basic": {
+    "type": "Item",
+    "amount": 100,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Shards Basic"
+  },
+  "Avatar Burnham Blue": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Avatar Burnham Blue"
+  },
+  "Avatar McCoy Blue": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Avatar McCoy Blue"
+  },
+  "ThumbsUp": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "ThumbsUp"
+  },
+  "ThumbsDown": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "ThumbsDown"
+  },
+  "Happy": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Happy"
+  },
+  "Sad": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Sad"
+  },
+  "Love": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Love"
+  },
+  "Upset": {
+    "type": "Item",
+    "amount": 1,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Upset"
+  },
+  "Alliance Stamina": {
+    "type": "Item",
+    "amount": 5,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Alliance Stamina"
+  },
+  "PvP Stamina": {
+    "type": "Item",
+    "amount": 5,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "PvP Stamina"
+  }
+}

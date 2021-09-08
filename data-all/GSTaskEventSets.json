@@ -1,0 +1,31 @@
+{
+  "EventTaskSet01": {
+    "duration": 24,
+    "eraseUnfinished": false,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "EventPoint": 5,
+        "Latinum": 10
+      },
+      "FirstAmount": 5,
+      "IsEmpty": false
+    },
+    "id": "EventTaskSet01"
+  },
+  "EventTaskSet02": {
+    "duration": 36,
+    "eraseUnfinished": false,
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "EventTaskSet02"
+  }
+}
