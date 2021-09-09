@@ -1,5 +1,10 @@
 # Change log
 
+## Version 2.0.1
+
+* Prevented a fatal error that would occur when the key, 'CloudKitAccountInfoCache', was not present in the save file.
+* Minor edit to project description.
+
 ## Version 2.0
 
 * The `legends` package is now the `legendscli` package. To view revision history prior to v2.0, see https://github.com/probabilist/legends.

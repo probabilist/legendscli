@@ -119,7 +119,7 @@ def decryptSaveFile():
     """
     with open(saveFilePath(), 'rb') as f:
         saveFile = load(f)
-    del saveFile['CloudKitAccountInfoCache']
+    # saveFile.pop('CloudKitAccountInfoCache', None)
     for i in range(3):
         key = str(i) + ' data'
         if len(saveFile.get(key, '')) == 0:

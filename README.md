@@ -1,6 +1,6 @@
 # legendscli (Legends Command Line Interface)
 
-A Python package for Star Trek: Legends.
+A Python package with command-line tools for Star Trek: Legends.
 
 This package uses text assets from Star Trek: Legends. For extracting/updating these text assets, see https://github.com/probabilist/legends-assets.
 
