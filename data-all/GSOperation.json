@@ -366,16 +366,6 @@
     "schedule": [],
     "id": "Operation_Event_Solo_Spock"
   },
-  "Operation_Event_Solo_Sulu": {
-    "operationType": "Hidden",
-    "name": "UI_Events_SoloEvent_Title",
-    "description": "UI_Events_SoloEvent_Desc",
-    "icon": "Kirk_FullBody",
-    "uiIndex": 10,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_Solo_Sulu"
-  },
   "Operation_Event_Solo_Sutra": {
     "operationType": "Hidden",
     "name": "UI_Events_SoloEvent_Title",
@@ -606,77 +596,17 @@
     "schedule": [],
     "id": "Operation_Event_Solo_Troi"
   },
-  "Operation_Event_FactionEvent_Federation": {
+  "Operations_Event_Faction_FedBorg_Data": {
     "operationType": "Hidden",
     "name": "Operations_FactionEvent_TitleFull_Fed",
     "description": "Operations_FactionEvent_Desc_Fed",
-    "icon": "Kirk_FullBody",
+    "icon": "Data",
     "uiIndex": 1,
     "dailyLimit": 5,
     "schedule": [],
-    "id": "Operation_Event_FactionEvent_Federation"
+    "id": "Operations_Event_Faction_FedBorg_Data"
   },
-  "Operation_Event_FactionEvent_Federation_Picard": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Fed",
-    "description": "Operations_FactionEvent_Desc_Fed",
-    "icon": "Picard",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Federation_Picard"
-  },
-  "Operation_Event_FactionEvent_Federation_Riker": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Fed",
-    "description": "Operations_FactionEvent_Desc_Fed",
-    "icon": "Kirk_FullBody",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Federation_Riker"
-  },
-  "Operation_Event_FactionEvent_Federation_Sisko": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Fed",
-    "description": "Operations_FactionEvent_Desc_Fed",
-    "icon": "Kirk_FullBody",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Federation_Sisko"
-  },
-  "Operation_Event_FactionEvent_Klingon": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Kling",
-    "description": "Operations_FactionEvent_Desc_Kling",
-    "icon": "Martok",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Klingon"
-  },
-  "Operation_Event_FactionEvent_Romulan_Tomalak": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Romu",
-    "description": "Operations_FactionEvent_Desc_Romu",
-    "icon": "Tomalak",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Romulan_Tomalak"
-  },
-  "Operation_Event_FactionEvent_Romulan_Sela": {
-    "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Romu",
-    "description": "Operations_FactionEvent_Desc_Romu",
-    "icon": "Klingon_FullBody",
-    "uiIndex": 1,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_FactionEvent_Romulan_Sela"
-  },
-  "Operation_Event_FactionEvent_Borg_Queen": {
+  "Operations_Event_Faction_FedBorg_BorgQueen": {
     "operationType": "Hidden",
     "name": "Operations_FactionEvent_TitleFull_Borg",
     "description": "Operations_FactionEvent_Desc_Borg",
@@ -684,26 +614,36 @@
     "uiIndex": 1,
     "dailyLimit": 5,
     "schedule": [],
-    "id": "Operation_Event_FactionEvent_Borg_Queen"
+    "id": "Operations_Event_Faction_FedBorg_BorgQueen"
   },
-  "Operation_Event_FactionEvent_Borg_Locutus": {
+  "Operation_Event_Solo_Garak": {
     "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Borg",
-    "description": "Operations_FactionEvent_Desc_Borg",
-    "icon": "Klingon_FullBody",
-    "uiIndex": 1,
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Garak",
+    "uiIndex": 10,
     "dailyLimit": 5,
     "schedule": [],
-    "id": "Operation_Event_FactionEvent_Borg_Locutus"
+    "id": "Operation_Event_Solo_Garak"
   },
-  "Operation_Event_FactionEvent_Cardassian_Dukat": {
+  "Operation_Event_Solo_Sulu": {
     "operationType": "Hidden",
-    "name": "Operations_FactionEvent_TitleFull_Card",
-    "description": "Operations_FactionEvent_Desc_Card",
-    "icon": "Dukat",
-    "uiIndex": 1,
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Sulu",
+    "uiIndex": 10,
     "dailyLimit": 5,
     "schedule": [],
-    "id": "Operation_Event_FactionEvent_Cardassian_Dukat"
+    "id": "Operation_Event_Solo_Sulu"
+  },
+  "Operation_Event_Solo_Shinzon": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Shinzon",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Shinzon"
   }
 }

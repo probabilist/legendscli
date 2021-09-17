@@ -1546,5 +1546,35 @@
       "IsEmpty": true
     },
     "id": "solo_reward_Troi"
+  },
+  "solo_reward_Garak": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Garak"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Garak"
+  },
+  "solo_reward_Shinzon": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Shinzon"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Shinzon"
   }
 }

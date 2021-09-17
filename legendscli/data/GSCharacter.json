@@ -3350,8 +3350,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Elnor_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "Elnor",
@@ -3440,8 +3440,8 @@
       "Captain"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Troi_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "Troi",
@@ -3485,8 +3485,8 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Chekov_Portrait",
     "RarityIcon": "Token_Rare",
     "id": "Chekov",
@@ -3585,7 +3585,7 @@
     "Description": "Data_Character_Garak_description",
     "Rarity": "Legendary",
     "Role": "Security",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Cardassian"
     ],
@@ -3673,7 +3673,7 @@
     "Description": "Data_Character_Shinzon_description",
     "Rarity": "Epic",
     "Role": "Command",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Human",
       "Romulan"

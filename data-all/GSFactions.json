@@ -125,133 +125,28 @@
     ],
     "id": "Faction_FedCard_Dukat"
   },
-  "Faction_Federation": {
+  "Faction_FedBorg_Data": {
     "name": "Events_Faction_f1_name",
-    "rewardHero": "Kirk",
+    "rewardHero": "Data",
     "reward": {
       "Characters": [
-        "Kirk"
+        "Data"
       ],
       "Accessories": {},
       "Gears": {},
       "AllItems": {
-        "Kirk": 1,
-        "Shards Basic": 1
+        "Data": 10,
+        "Shards Basic": 150
       },
-      "FirstAmount": 1,
+      "FirstAmount": 10,
       "IsEmpty": false
     },
     "operations": [
-      "Operation_Event_FactionEvent_Federation"
+      "Operations_Event_Faction_FedBorg_Data"
     ],
-    "id": "Faction_Federation"
+    "id": "Faction_FedBorg_Data"
   },
-  "Faction_Federation_Picard": {
-    "name": "Events_Faction_f1_name",
-    "rewardHero": "Picard",
-    "reward": {
-      "Characters": [
-        "Picard"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Picard": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Federation"
-    ],
-    "id": "Faction_Federation_Picard"
-  },
-  "Faction_Federation_Riker": {
-    "name": "Events_Faction_f1_name",
-    "rewardHero": "Riker",
-    "reward": {
-      "Characters": [
-        "Riker"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Riker": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Federation"
-    ],
-    "id": "Faction_Federation_Riker"
-  },
-  "Faction_Federation_Sisko": {
-    "name": "Events_Faction_f1_name",
-    "rewardHero": "Sisko",
-    "reward": {
-      "Characters": [
-        "Sisko"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Sisko": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Federation"
-    ],
-    "id": "Faction_Federation_Sisko"
-  },
-  "Faction_Klingon": {
-    "name": "Events_Faction_f2_name",
-    "rewardHero": "Martok",
-    "reward": {
-      "Characters": [
-        "Martok"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Martok": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Klingon"
-    ],
-    "id": "Faction_Klingon"
-  },
-  "Faction_Borg_Locutus": {
-    "name": "Common_Tag_Borg",
-    "rewardHero": "Locutus",
-    "reward": {
-      "Characters": [
-        "Locutus"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Locutus": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Klingon"
-    ],
-    "id": "Faction_Borg_Locutus"
-  },
-  "Faction_Borg_Queen": {
+  "Faction_FedBorg_BorgQueen": {
     "name": "Common_Tag_Borg",
     "rewardHero": "BorgQueen",
     "reward": {
@@ -261,78 +156,15 @@
       "Accessories": {},
       "Gears": {},
       "AllItems": {
-        "BorgQueen": 1,
-        "Shards Basic": 1
+        "BorgQueen": 10,
+        "Shards Basic": 150
       },
-      "FirstAmount": 1,
+      "FirstAmount": 10,
       "IsEmpty": false
     },
     "operations": [
-      "Operation_Event_FactionEvent_Borg_Queen"
+      "Operations_Event_Faction_FedBorg_BorgQueen"
     ],
-    "id": "Faction_Borg_Queen"
-  },
-  "Faction_Romulan_Tomalak": {
-    "name": "Common_Tag_Plural_Romulans",
-    "rewardHero": "Tomalak",
-    "reward": {
-      "Characters": [
-        "Tomalak"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Tomalak": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Romulan_Tomalak"
-    ],
-    "id": "Faction_Romulan_Tomalak"
-  },
-  "Faction_Romulan_Sela": {
-    "name": "Common_Tag_Plural_Romulans",
-    "rewardHero": "Sela",
-    "reward": {
-      "Characters": [
-        "Sela"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Sela": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Klingon"
-    ],
-    "id": "Faction_Romulan_Sela"
-  },
-  "Faction_Cardassian_Dukat": {
-    "name": "Common_Tag_Plural_Cardassians",
-    "rewardHero": "Dukat",
-    "reward": {
-      "Characters": [
-        "Dukat"
-      ],
-      "Accessories": {},
-      "Gears": {},
-      "AllItems": {
-        "Dukat": 1,
-        "Shards Basic": 1
-      },
-      "FirstAmount": 1,
-      "IsEmpty": false
-    },
-    "operations": [
-      "Operation_Event_FactionEvent_Klingon"
-    ],
-    "id": "Faction_Cardassian_Dukat"
+    "id": "Faction_FedBorg_BorgQueen"
   }
 }

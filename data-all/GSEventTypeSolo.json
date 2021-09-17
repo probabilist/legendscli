@@ -547,5 +547,27 @@
       "solo_reward_Troi"
     ],
     "id": "SoloEvent_Troi"
+  },
+  "SoloEvent_Garak": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Garak"
+    ],
+    "id": "SoloEvent_Garak"
+  },
+  "SoloEvent_Shinzon": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Shinzon"
+    ],
+    "id": "SoloEvent_Shinzon"
   }
 }

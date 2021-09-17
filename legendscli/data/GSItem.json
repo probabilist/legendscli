@@ -829,6 +829,36 @@
     "rarity": "Legendary",
     "id": "PicardDixon"
   },
+  "Shinzon": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Shinzon_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Shinzon"
+  },
+  "Gowron": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_Gowron_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_Epic",
+    "iconFull": "Token_Epic",
+    "rarity": "Epic",
+    "id": "Gowron"
+  },
+  "JadziaDax": {
+    "category": "Token",
+    "currencyType": "None",
+    "name": "item_JadziaDax_Token",
+    "description": "item_Token_Desc",
+    "icon": "Token_VeryRare",
+    "iconFull": "Token_VeryRare",
+    "rarity": "VeryRare",
+    "id": "JadziaDax"
+  },
   "Biomimetic Gel": {
     "category": "BiomimeticGel",
     "currencyType": "None",

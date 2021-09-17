@@ -749,48 +749,21 @@
     ],
     "id": "Event_Solo_Chekov_01"
   },
-  "Event_Faction_FederationKlingon_01": {
+  "Event_Faction_FedBorg_DataBorgQueen_01": {
     "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "11.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Faction",
-    "eventTypeId": "FactionEvent_FederationKlingons",
-    "name": "Events_FactionEvent_FedKling_Title",
-    "descriptions": {
-      "Pre": "Events_FactionEvent_FedKling_Desc_Pre",
-      "Main": "Events_FactionEvent_FedKling_Desc_Main",
-      "Post": "Events_FactionEvent_FedKling_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeFaction",
-    "operations": [],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Faction_FederationKlingon_01"
-  },
-  "Event_Faction_FederationBorg_01": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
+    "dateStart": "2021-09-13T07:00:00Z",
     "mainPeriodDuration": "7.00:00:00",
     "prePeriodDuration": "3.00:00:00",
     "postPeriodDuration": "4.00:00:00",
     "eventType": "Faction",
-    "eventTypeId": "FactionEvent_FederationBorg",
+    "eventTypeId": "Event_Faction_FedBorg_DataBorgQueen",
     "name": "Events_FactionEvent_FedBorg_Title",
     "descriptions": {
       "Pre": "Events_FactionEvent_FedBorg_Desc_Pre",
       "Main": "Events_FactionEvent_FedBorg_Desc_Main",
       "Post": "Events_FactionEvent_FedBorg_Desc_Post"
     },
-    "isEnabled": false,
+    "isEnabled": true,
     "prefab": "EventTypeFaction",
     "operations": [],
     "goals": [],
@@ -801,7 +774,94 @@
         "operand": "MoreOrEqual"
       }
     ],
-    "id": "Event_Faction_FederationBorg_01"
+    "id": "Event_Faction_FedBorg_DataBorgQueen_01"
+  },
+  "Event_Solo_Garak_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-09-20T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Garak",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Garak"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Garak_01"
+  },
+  "Event_Solo_Sulu_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-09-27T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Sulu",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Sulu"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Sulu_01"
+  },
+  "Event_Solo_Shinzon_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-10-04T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Shinzon",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Shinzon"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Shinzon_01"
   },
   "Event_Solo_BorgQueen": {
     "hasDateStart": true,
@@ -1325,35 +1385,6 @@
     ],
     "id": "Event_Solo_Sisko"
   },
-  "Event_Solo_Sulu": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Sulu",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Sulu"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Sulu"
-  },
   "Event_Solo_Sutra": {
     "hasDateStart": true,
     "dateStart": "2999-12-30T08:00:00Z",
@@ -1527,86 +1558,5 @@
       }
     ],
     "id": "Event_Solo_Worf"
-  },
-  "Event_Faction_FederationCardassian_01": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Faction",
-    "eventTypeId": "FactionEvent_FederationCardassian",
-    "name": "Events_FactionEvent_FedCard_Title",
-    "descriptions": {
-      "Pre": "Events_FactionEvent_FedCard_Desc_Pre",
-      "Main": "Events_FactionEvent_FedCard_Desc_Main",
-      "Post": "Events_FactionEvent_FedCard_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeFaction",
-    "operations": [],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Faction_FederationCardassian_01"
-  },
-  "Event_Faction_FederationRomulan_01": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Faction",
-    "eventTypeId": "FactionEvent_FederationRomulan",
-    "name": "Events_FactionEvent_FedRomu_Title",
-    "descriptions": {
-      "Pre": "Events_FactionEvent_FedRomu_Desc_Pre",
-      "Main": "Events_FactionEvent_FedRomu_Desc_Main",
-      "Post": "Events_FactionEvent_FedRomu_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeFaction",
-    "operations": [],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Faction_FederationRomulan_01"
-  },
-  "Event_Faction_FederationBorg_02": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Faction",
-    "eventTypeId": "FactionEvent_FederationBorg_02",
-    "name": "Events_FactionEvent_FedBorg_Title",
-    "descriptions": {
-      "Pre": "Events_FactionEvent_FedBorg_Desc_Pre",
-      "Main": "Events_FactionEvent_FedBorg_Desc_Main",
-      "Post": "Events_FactionEvent_FedBorg_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeFaction",
-    "operations": [],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Faction_FederationBorg_02"
   }
 }

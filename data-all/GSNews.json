@@ -302,6 +302,79 @@
     "eventReference": "Event_Solo_Troi_01",
     "id": "SoloEvent_Chekov"
   },
+  "FactionEvent_FedCard_DataBorgQueen_01": {
+    "dateStart": "2021-09-13T07:00:00Z",
+    "dateEnd": "2021-09-20T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_FactionEvent_Generic_Headline",
+    "newsName": "Events_FactionEvent_FedBorg_Title",
+    "newsShortDesc": "Events_FactionEvent_FedBorg_Desc",
+    "backgroundPrefab": "FactionEvent_Background",
+    "thumbnailImage": "FactionEvent_Thumbnail",
+    "characterId": "Data",
+    "characterId2": "BorgQueen",
+    "id": "FactionEvent_FedCard_DataBorgQueen_01"
+  },
+  "NewCharacter_Garak": {
+    "dateStart": "2021-09-20T07:00:00Z",
+    "dateEnd": "2021-09-27T07:00:00Z",
+    "newsType": "Character",
+    "newsHeadline": "News_Crew_Generic_Headline",
+    "newsName": "Common_Garak",
+    "newsShortDesc": "Data_Character_Garak_description",
+    "backgroundPrefab": "NewCharacter_Background",
+    "thumbnailImage": "NewCharacter_Garak",
+    "characterId": "Garak",
+    "id": "NewCharacter_Garak"
+  },
+  "SoloEvent_Garak": {
+    "dateStart": "2021-09-20T07:00:00Z",
+    "dateEnd": "2021-09-27T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Garak",
+    "characterId": "Garak",
+    "id": "SoloEvent_Garak"
+  },
+  "SoloEvent_Sulu": {
+    "dateStart": "2021-09-27T07:00:00Z",
+    "dateEnd": "2021-10-04T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Sulu",
+    "characterId": "Sulu",
+    "id": "SoloEvent_Sulu"
+  },
+  "NewCharacter_Shinzon": {
+    "dateStart": "2021-10-04T07:00:00Z",
+    "dateEnd": "2021-10-11T07:00:00Z",
+    "newsType": "Character",
+    "newsHeadline": "News_Crew_Generic_Headline",
+    "newsName": "Common_Shinzon",
+    "newsShortDesc": "Data_Character_Shinzon_description",
+    "backgroundPrefab": "NewCharacter_Background",
+    "thumbnailImage": "NewCharacter_Shinzon",
+    "characterId": "Shinzon",
+    "id": "NewCharacter_Shinzon"
+  },
+  "SoloEvent_Shinzon": {
+    "dateStart": "2021-10-04T07:00:00Z",
+    "dateEnd": "2021-10-11T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Shinzon",
+    "characterId": "Shinzon",
+    "id": "SoloEvent_Shinzon"
+  },
   "SeasonStart_01": {
     "dateStart": "2021-07-12T07:00:00Z",
     "dateEnd": "2021-07-26T07:00:00Z",
@@ -367,5 +440,71 @@
     "backgroundPrefab": "Seasons_Background",
     "thumbnailImage": "BG_PVP_Seasons_07_Small",
     "id": "SeasonStart_06"
+  },
+  "SeasonStart_07": {
+    "dateStart": "2021-10-04T07:00:00Z",
+    "dateEnd": "2021-10-18T07:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_07"
+  },
+  "SeasonStart_08": {
+    "dateStart": "2021-10-18T07:00:00Z",
+    "dateEnd": "2021-11-01T07:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_08"
+  },
+  "SeasonStart_09": {
+    "dateStart": "2021-11-01T07:00:00Z",
+    "dateEnd": "2021-11-15T07:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_09"
+  },
+  "SeasonStart_10": {
+    "dateStart": "2021-11-15T08:00:00Z",
+    "dateEnd": "2021-11-29T08:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_10"
+  },
+  "SeasonStart_11": {
+    "dateStart": "2021-11-29T08:00:00Z",
+    "dateEnd": "2021-12-13T08:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_11"
+  },
+  "SeasonStart_12": {
+    "dateStart": "2021-12-13T08:00:00Z",
+    "dateEnd": "2021-12-27T08:00:00Z",
+    "newsType": 5,
+    "newsHeadline": "News_Seasons_Generic_Headline",
+    "newsName": "News_Seasons_Generic_NameAlt",
+    "newsShortDesc": "News_Seasons_Generic_Desc",
+    "backgroundPrefab": "Seasons_Background",
+    "thumbnailImage": "BG_PVP_Seasons_07_Small",
+    "id": "SeasonStart_12"
   }
 }
