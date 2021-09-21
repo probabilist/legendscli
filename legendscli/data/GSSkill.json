@@ -24396,5 +24396,1454 @@
     "isSingleTarget": true,
     "isMultiRandom": false,
     "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_JudgeQ_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Down (10% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_attack\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_JudgeQ_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Down (25% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Attack_description_level2",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_attack",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_JudgeQ_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Stun",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Down (50% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_skill1\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_JudgeQ_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Stun",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Down",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill1_description_level2",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill1",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_JudgeQ_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Skill Lock",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Down",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill2",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_skill2\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_JudgeQ_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Skill Lock",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Down",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Down",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill2_description_level2",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill2",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"judgeq_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_JudgeQ_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Down",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Purge",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill3",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"judgeq_skill3\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_JudgeQ_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 2.0
+      },
+      {
+        "effect": "Morale Down (2)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Purge",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_JudgeQ_Skill3_description_level2",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_skill3",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"judgeq_bridge\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_JudgeQ_Bridge_displayName",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "",
+    "description": "Data_Skill_JudgeQ_Bridge_description",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "judgeq_bridge",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Attack_01\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack (5%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Atk",
+    "description": "Dungeon_Upgrade_Attack_Level1_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Attack_01",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Attack_02\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack (10%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Atk",
+    "description": "Dungeon_Upgrade_Attack_Level2_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Attack_02",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Attack_03\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack (15%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Atk",
+    "description": "Dungeon_Upgrade_Attack_Level3_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Attack_03",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Attack_04\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack (20%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Atk",
+    "description": "Dungeon_Upgrade_Attack_Level4_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Attack_04",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Defense_01\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense (5%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Def",
+    "description": "Dungeon_Upgrade_Defense_Level1_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Defense_01",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Defense_02\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense (10%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Def",
+    "description": "Dungeon_Upgrade_Defense_Level2_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Defense_02",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Defense_03\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense (15%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Def",
+    "description": "Dungeon_Upgrade_Defense_Level3_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Defense_03",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Defense_04\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense (20%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Def",
+    "description": "Dungeon_Upgrade_Defense_Level4_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Defense_04",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Tech_01\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech (5%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Tech",
+    "description": "Dungeon_Upgrade_Tech_Level1_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Tech_01",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Tech_02\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech (10%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Tech",
+    "description": "Dungeon_Upgrade_Tech_Level2_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Tech_02",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Tech_03\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech (15%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Tech",
+    "description": "Dungeon_Upgrade_Tech_Level3_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Tech_03",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Tech_04\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech (20%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Tech",
+    "description": "Dungeon_Upgrade_Tech_Level4_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Tech_04",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Health_01\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Health_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Health (5%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_HP",
+    "description": "Dungeon_Upgrade_Health_Level1_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Health_01",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Health_02\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Health_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Health (10%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_HP",
+    "description": "Dungeon_Upgrade_Health_Level2_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Health_02",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Health_03\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Health_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Health (15%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_HP",
+    "description": "Dungeon_Upgrade_Health_Level3_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Health_03",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Health_04\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Health_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Health (20%) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_HP",
+    "description": "Dungeon_Upgrade_Health_Level4_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Health_04",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Shields_01\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Shield (F125) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Shield",
+    "description": "Dungeon_Upgrade_Shields_Level1_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Shields_01",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Shields_02\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Shield (F250) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Shield",
+    "description": "Dungeon_Upgrade_Shields_Level2_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Shields_02",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Shields_03\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Shield (F375) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Shield",
+    "description": "Dungeon_Upgrade_Shields_Level3_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Shields_03",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"Dungeon_Shields_04\", level = \"1\")": {
+    "level": 1,
+    "name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Shield (F500) (Dungeon)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Dungeon_Shield",
+    "description": "Dungeon_Upgrade_Shields_Level4_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "Dungeon_Shields_04",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_AttackUp\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack Up (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_AttackUp_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_AttackUp",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_AttackDown\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Attack Down (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_AttackDown_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_AttackDown",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_DefenseUp\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense Up (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_DefenseUp_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_DefenseUp",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_DefenseDown\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Defense Down (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_DefenseDown_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_DefenseDown",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_TechUp\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_TechBuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech Up (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_TechUp_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_TechUp",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_TechDown\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_TechDebuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Tech Down (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_TechDown_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_TechDown",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_MoraleUp\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "effect": "AlliesN Distribute Morale Up (PowerUp)",
+      "fraction": 1.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_MoraleUp_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_MoraleUp",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_MoraleDown\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Down (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "effect": "AlliesN Distribute Morale Down (PowerUp)",
+      "fraction": 1.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_MoraleDown_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_MoraleDown",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_CritUp\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Crit Chance Up (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_CritChanceUp_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_CritUp",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"PowerUp_Cloak\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_Cloak",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Cloak (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_Cloak_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_Cloak",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"PowerUp_RedAlert\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_RedAlert",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Red Alert (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_RedAlert_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_RedAlert",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"PowerUp_Scan\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_Scan",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Scan (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_Scan_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_Scan",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"PowerUp_Shields\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_Shield",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Shields (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_Shield_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_Shields",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"PowerUp_Heal50\", level = \"1\")": {
+    "level": 1,
+    "name": "Common_ExplorationOptionType_Heal",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Heal (50%) (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_Heal_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_Heal50",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"PowerUp_Heal10\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Characters_EffectType_displayName_Regenerate",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 0,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Heal (10%) (PowerUp)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TOSPhaser",
+    "description": "Dungeon_PowerUp_Regenerate_Desc",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "PowerUp_Heal10",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
   }
 }
