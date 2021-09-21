@@ -66,7 +66,7 @@ class SaveSlot(Printable):
 
     @property
     def fullInventory(self):
-        """dict: A copy of `legendscli.constant.ITEMS` with a `quantity`
+        """dict: A copy of `ITEMS` with a `quantity`
         field added to each item. Fetching this property returns a deep
         copy of the underlying data, so modifying its value has no
         persistent effect.

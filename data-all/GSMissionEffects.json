@@ -311,5 +311,292 @@
     "effectIcon": "ico_ally",
     "bonusCharacterID": "SiskoAlly",
     "id": "Sisko Ally E6M2 Doom"
+  },
+  "PowerUp_Battle5_AttackUp": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_AttackUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Buff",
+    "id": "PowerUp_Battle5_AttackUp"
+  },
+  "PowerUp_Battle5_AttackDown": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_AttackDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Debuff",
+    "id": "PowerUp_Battle5_AttackDown"
+  },
+  "PowerUp_Battle5_DefenseUp": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_DefenseUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Buff",
+    "id": "PowerUp_Battle5_DefenseUp"
+  },
+  "PowerUp_Battle5_DefenseDown": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_DefenseDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Debuff",
+    "id": "PowerUp_Battle5_DefenseDown"
+  },
+  "PowerUp_Battle5_TechUp": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_TechUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Buff",
+    "id": "PowerUp_Battle5_TechUp"
+  },
+  "PowerUp_Battle5_TechDown": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_TechDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Debuff",
+    "id": "PowerUp_Battle5_TechDown"
+  },
+  "PowerUp_Battle5_MoraleUp": {
+    "battleDuration": 5,
+    "battleModifierID": "PowerUp_MoraleUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleUp",
+    "id": "PowerUp_Battle5_MoraleUp"
+  },
+  "PowerUp_Battle5_MoraleDown": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_MoraleDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleDown",
+    "id": "PowerUp_Battle5_MoraleDown"
+  },
+  "PowerUp_Battle5_CritUp": {
+    "battleDuration": 15,
+    "battleModifierID": "PowerUp_CritUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Crit_Buff",
+    "id": "PowerUp_Battle5_CritUp"
+  },
+  "PowerUp_Battle5_Cloak": {
+    "battleDuration": 15,
+    "battleModifierID": "PowerUp_Cloak",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Cloak_Buff",
+    "id": "PowerUp_Battle5_Cloak"
+  },
+  "PowerUp_Battle5_RedAlert": {
+    "battleDuration": 15,
+    "battleModifierID": "PowerUp_RedAlert",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_RedAlert_Buff",
+    "id": "PowerUp_Battle5_RedAlert"
+  },
+  "PowerUp_Battle5_Scan": {
+    "battleDuration": 15,
+    "battleModifierID": "PowerUp_Scan",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Scanning_Buff",
+    "id": "PowerUp_Battle5_Scan"
+  },
+  "PowerUp_Battle5_Shields": {
+    "battleDuration": 10,
+    "battleModifierID": "PowerUp_Shields",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Shield_Buff",
+    "id": "PowerUp_Battle5_Shields"
+  },
+  "PowerUp_Heal50": {
+    "battleDuration": 1,
+    "battleModifierID": "PowerUp_Heal50",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_Healing",
+    "id": "PowerUp_Heal50"
+  },
+  "PowerUp_Heal10": {
+    "battleDuration": 5,
+    "battleModifierID": "PowerUp_Heal10",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Regenerate_Buff",
+    "id": "PowerUp_Heal10"
+  },
+  "PowerUp_Battle4_AttackUp": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_AttackUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Buff",
+    "id": "PowerUp_Battle4_AttackUp"
+  },
+  "PowerUp_Battle4_AttackDown": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_AttackDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Debuff",
+    "id": "PowerUp_Battle4_AttackDown"
+  },
+  "PowerUp_Battle4_DefenseUp": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_DefenseUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Buff",
+    "id": "PowerUp_Battle4_DefenseUp"
+  },
+  "PowerUp_Battle4_DefenseDown": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_DefenseDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Debuff",
+    "id": "PowerUp_Battle4_DefenseDown"
+  },
+  "PowerUp_Battle4_TechUp": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_TechUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Buff",
+    "id": "PowerUp_Battle4_TechUp"
+  },
+  "PowerUp_Battle4_TechDown": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_TechDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Debuff",
+    "id": "PowerUp_Battle4_TechDown"
+  },
+  "PowerUp_Battle4_MoraleUp": {
+    "battleDuration": 4,
+    "battleModifierID": "PowerUp_MoraleUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleUp",
+    "id": "PowerUp_Battle4_MoraleUp"
+  },
+  "PowerUp_Battle4_MoraleDown": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_MoraleDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleDown",
+    "id": "PowerUp_Battle4_MoraleDown"
+  },
+  "PowerUp_Battle4_CritUp": {
+    "battleDuration": 12,
+    "battleModifierID": "PowerUp_CritUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Crit_Buff",
+    "id": "PowerUp_Battle4_CritUp"
+  },
+  "PowerUp_Battle4_Cloak": {
+    "battleDuration": 12,
+    "battleModifierID": "PowerUp_Cloak",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Cloak_Buff",
+    "id": "PowerUp_Battle4_Cloak"
+  },
+  "PowerUp_Battle4_RedAlert": {
+    "battleDuration": 12,
+    "battleModifierID": "PowerUp_RedAlert",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_RedAlert_Buff",
+    "id": "PowerUp_Battle4_RedAlert"
+  },
+  "PowerUp_Battle4_Scan": {
+    "battleDuration": 12,
+    "battleModifierID": "PowerUp_Scan",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Scanning_Buff",
+    "id": "PowerUp_Battle4_Scan"
+  },
+  "PowerUp_Battle4_Shields": {
+    "battleDuration": 8,
+    "battleModifierID": "PowerUp_Shields",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Shield_Buff",
+    "id": "PowerUp_Battle4_Shields"
+  },
+  "PowerUp_Battle3_AttackUp": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_AttackUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Buff",
+    "id": "PowerUp_Battle3_AttackUp"
+  },
+  "PowerUp_Battle3_AttackDown": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_AttackDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Attack_Debuff",
+    "id": "PowerUp_Battle3_AttackDown"
+  },
+  "PowerUp_Battle3_DefenseUp": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_DefenseUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Buff",
+    "id": "PowerUp_Battle3_DefenseUp"
+  },
+  "PowerUp_Battle3_DefenseDown": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_DefenseDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Defence_Debuff",
+    "id": "PowerUp_Battle3_DefenseDown"
+  },
+  "PowerUp_Battle3_TechUp": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_TechUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Buff",
+    "id": "PowerUp_Battle3_TechUp"
+  },
+  "PowerUp_Battle3_TechDown": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_TechDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Tech_Debuff",
+    "id": "PowerUp_Battle3_TechDown"
+  },
+  "PowerUp_Battle3_MoraleUp": {
+    "battleDuration": 3,
+    "battleModifierID": "PowerUp_MoraleUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleUp",
+    "id": "PowerUp_Battle3_MoraleUp"
+  },
+  "PowerUp_Battle3_MoraleDown": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_MoraleDown",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Exploration_MoraleDown",
+    "id": "PowerUp_Battle3_MoraleDown"
+  },
+  "PowerUp_Battle3_CritUp": {
+    "battleDuration": 9,
+    "battleModifierID": "PowerUp_CritUp",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Crit_Buff",
+    "id": "PowerUp_Battle3_CritUp"
+  },
+  "PowerUp_Battle3_Cloak": {
+    "battleDuration": 9,
+    "battleModifierID": "PowerUp_Cloak",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Cloak_Buff",
+    "id": "PowerUp_Battle3_Cloak"
+  },
+  "PowerUp_Battle3_RedAlert": {
+    "battleDuration": 9,
+    "battleModifierID": "PowerUp_RedAlert",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_RedAlert_Buff",
+    "id": "PowerUp_Battle3_RedAlert"
+  },
+  "PowerUp_Battle3_Scan": {
+    "battleDuration": 9,
+    "battleModifierID": "PowerUp_Scan",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Scanning_Buff",
+    "id": "PowerUp_Battle3_Scan"
+  },
+  "PowerUp_Battle3_Shields": {
+    "battleDuration": 6,
+    "battleModifierID": "PowerUp_Shields",
+    "bonusCharacterPower": 0.0,
+    "effectIcon": "Status_Shield_Buff",
+    "id": "PowerUp_Battle3_Shields"
   }
 }

@@ -886,5 +886,167 @@
     "infoText": "UI_Mission_Popup_ComingSoon_Body",
     "onlyShowOnce": false,
     "id": "FakeEpisode7"
+  },
+  "Dungeon_Upgrades": {
+    "headerText": "Tooltip_Dungeon_Upgrades_Title",
+    "infoText": "Tooltip_Dungeon_Upgrades_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_Upgrades"
+  },
+  "Dungeon_Level": {
+    "headerText": "Tooltip_Dungeon_Level_Title",
+    "infoText": "Tooltip_Dungeon_Level_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_Level"
+  },
+  "Dungeon_TeamSelect": {
+    "headerText": "Tooltip_Dungeon_TeamSelect_Title",
+    "infoText": "Tooltip_Dungeon_TeamSelect_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_TeamSelect"
+  },
+  "Dungeon_Reinforcement": {
+    "headerText": "Tooltip_Dungeon_Reinforcement_Title",
+    "infoText": "Tooltip_Dungeon_Reinforcement_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_Reinforcement"
+  },
+  "Dungeon_Checkpoint": {
+    "headerText": "Tooltip_Dungeon_Checkpoint_Title",
+    "infoText": "Tooltip_Dungeon_Checkpoint_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_Checkpoint"
+  },
+  "Dungeon_PowerUp": {
+    "headerText": "Tooltip_Dungeon_PowerUp_Title",
+    "infoText": "Tooltip_Dungeon_PowerUp_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_PowerUp"
+  },
+  "Dungeon_Choice": {
+    "headerText": "Tooltip_Dungeon_Choice_Title",
+    "infoText": "Tooltip_Dungeon_Choice_Desc",
+    "onlyShowOnce": false,
+    "id": "Dungeon_Choice"
+  },
+  "PowerUp_AttackUp": {
+    "headerText": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_AttackUp_Desc",
+    "quantityText": "Status_Attack_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_AttackUp"
+  },
+  "PowerUp_AttackDown": {
+    "headerText": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_AttackDown_Desc",
+    "quantityText": "Status_Attack_Debuff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_AttackDown"
+  },
+  "PowerUp_DefenseUp": {
+    "headerText": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_DefenseUp_Desc",
+    "quantityText": "Status_Defence_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_DefenseUp"
+  },
+  "PowerUp_DefenseDown": {
+    "headerText": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_DefenseDown_Desc",
+    "quantityText": "Status_Defence_Debuff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_DefenseDown"
+  },
+  "PowerUp_TechUp": {
+    "headerText": "Data_Characters_EffectType_displayName_TechBuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_TechUp_Desc",
+    "quantityText": "Status_Tech_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_TechUp"
+  },
+  "PowerUp_TechDown": {
+    "headerText": "Data_Characters_EffectType_displayName_TechDebuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_TechDown_Desc",
+    "quantityText": "Status_Tech_Debuff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_TechDown"
+  },
+  "PowerUp_MoraleUp": {
+    "headerText": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_MoraleUp_Desc",
+    "quantityText": "Exploration_MoraleUp",
+    "onlyShowOnce": false,
+    "id": "PowerUp_MoraleUp"
+  },
+  "PowerUp_MoraleDown": {
+    "headerText": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_MoraleDown_Desc",
+    "quantityText": "Exploration_MoraleDown",
+    "onlyShowOnce": false,
+    "id": "PowerUp_MoraleDown"
+  },
+  "PowerUp_CritUp": {
+    "headerText": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_CritChanceUp_Desc",
+    "quantityText": "Status_Crit_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_CritUp"
+  },
+  "PowerUp_Cloak": {
+    "headerText": "Data_Characters_EffectType_displayName_Cloak",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_Cloak_Desc",
+    "quantityText": "Status_Cloak_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_Cloak"
+  },
+  "PowerUp_RedAlert": {
+    "headerText": "Data_Characters_EffectType_displayName_RedAlert",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_RedAlert_Desc",
+    "quantityText": "Status_RedAlert_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_RedAlert"
+  },
+  "PowerUp_Scan": {
+    "headerText": "Data_Characters_EffectType_displayName_Scan",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_Scan_Desc",
+    "quantityText": "Status_Scanning_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_Scan"
+  },
+  "PowerUp_Shields": {
+    "headerText": "Data_Characters_EffectType_displayName_Shield",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_Shield_Desc",
+    "quantityText": "Status_Shield_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_Shields"
+  },
+  "PowerUp_Heal50": {
+    "headerText": "Common_ExplorationOptionType_Heal",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_Heal_Desc",
+    "quantityText": "Exploration_Healing",
+    "onlyShowOnce": false,
+    "id": "PowerUp_Heal50"
+  },
+  "PowerUp_Heal10": {
+    "headerText": "Data_Characters_EffectType_displayName_Regenerate",
+    "subHeaderText": "Data_Tooltip_Exploration_CombatBonus_subHeaderText",
+    "infoText": "Dungeon_PowerUp_Regenerate_Desc",
+    "quantityText": "Status_Regenerate_Buff",
+    "onlyShowOnce": false,
+    "id": "PowerUp_Heal10"
   }
 }

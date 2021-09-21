@@ -4814,5 +4814,19 @@
     "StoryID": "e7_m6_battle12_post",
     "DialogueType": "CutScene",
     "id": "e7_m6_battle12_post"
+  },
+  "tutorial_dungeon_survival": {
+    "Skippable": false,
+    "Repeatable": true,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueType": "CutScene",
+    "id": "tutorial_dungeon_survival"
+  },
+  "tutorial_dungeon_upgrades": {
+    "Skippable": false,
+    "Repeatable": true,
+    "StoryID": "tutorial_dungeon_upgrades",
+    "DialogueType": "CutScene",
+    "id": "tutorial_dungeon_upgrades"
   }
 }

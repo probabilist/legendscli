@@ -25848,5 +25848,824 @@
       ]
     },
     "id": "craft_Seasons_Latinum_Tier06"
+  },
+  "craft_Token_All": {
+    "Price": {
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "Reward": {
+      "Id": "craft_Token_All",
+      "ItemGroups": [
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "BorgQueen",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Burnham",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Crusher",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Culber",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Data",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Doctor",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Dukat",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenBorgEng01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenBorgMed01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenBorgSci01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenBorgSec01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenCardCom01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenCardEng01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenCardMed01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenCardSci01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenCardSec01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenHumanCom01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenHumanEng01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenHumanMed01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenHumanSci01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenHumanSec01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenKlingCom01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenKlingEng01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenKlingMed01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenKlingSci01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenKlingSec01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenRomuCom01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenRomuEng01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenRomuMed01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenRomuSci01F",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "GenRomuSec01M",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Geordi",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Georgiou",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Gorn",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Janeway",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Khan",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Kirk",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Locutus",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Martok",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "McCoy",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Nerys",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Nine",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Odo",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Phlox",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Picard",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "PicardOld",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Pike",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Quark",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Riker",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Saru",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Scott",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Sela",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Sisko",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Soji",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Spock",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Sulu",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Sutra",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Tomalak",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Torres",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "TPol",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Uhura",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        },
+        {
+          "Chance": 1.0,
+          "Items": [
+            {
+              "Weight": 1,
+              "Type": "Item",
+              "ItemId": "Worf",
+              "GearRarity": "Common",
+              "AmountMin": 5,
+              "AmountMax": 5
+            }
+          ]
+        }
+      ]
+    },
+    "id": "craft_Token_All"
   }
 }

@@ -15,8 +15,8 @@ from distutils.dir_util import copy_tree
 from legendscli.utils.functions import readData
 
 __all__ = [
-    'ROOT', 'getItems', 'getSummonPool', 'getPartStats', 'getPowerFunc',
-    'getSkillIDs', 'getAssets'
+    'ROOT', 'getItems', 'getSummonPool', 'getPartStats', 'getPartUpgrading',
+    'getPowerFunc', 'getSkillIDs', 'exportData', 'restoreData', 'updateData'
 ]
 
 ROOT = abspath(dirname(__file__))
@@ -270,7 +270,3 @@ def updateData():
         raise IOError("a folder named 'data-old' already exists")
     copy_tree(ROOT + '/data', getcwd() + '/data-old')
     copy_tree(getcwd() + '/data-new', ROOT + '/data')
-
-
-
-

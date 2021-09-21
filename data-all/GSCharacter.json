@@ -3799,5 +3799,48 @@
     "RarityIcon": "Token_VeryRare",
     "id": "JadziaDax",
     "RankupTokenId": "JadziaDax"
+  },
+  "JudgeQ": {
+    "Name": "Common_JudgeQ",
+    "Description": "Data_Character_JudgeQ_description",
+    "Rarity": "Legendary",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Q"
+    ],
+    "SkillIDs": [
+      "judgeq_attack",
+      "judgeq_skill1",
+      "judgeq_skill2",
+      "judgeq_skill3"
+    ],
+    "BridgeSkill": "judgeq_bridge",
+    "Health": 0.5,
+    "Defense": 0.5,
+    "Attack": 0.5,
+    "Tech": 0.5,
+    "Speed": 0.5,
+    "GlancingChance": 0.5,
+    "GlancingDamage": 0.5,
+    "CritChance": 0.5,
+    "CritDamage": 0.5,
+    "Resolve": 0.5,
+    "ModelMenuPrefabName": "JudgeQ_Menu_Model",
+    "ModelBattlePrefabName": "JudgeQ_Battle_Model",
+    "MirrorModelBattlePrefabName": "JudgeQ_Battle_Mirror_Model",
+    "BattleAnimTreeName": "JudgeQ_BattleAnimTree",
+    "MenuAnimTreeName": "JudgeQ_MenuAnimTree",
+    "BridgeStations": [
+      "Captain",
+      "FirstOfficer"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "JudgeQ_Portrait",
+    "RarityIcon": "Token_Legendary",
+    "id": "JudgeQ",
+    "RankupTokenId": "JudgeQ"
   }
 }

@@ -26183,5 +26183,73 @@
     "RightCharacterSkinName": "Hologram_Golden",
     "DialoguePosition": "RIGHT",
     "id": "2440"
+  },
+  "2441": {
+    "Index": 0,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueBody": "Tutorial_Dungeon_Line01_Worf",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Worf",
+    "RightCharacterId": "Worf",
+    "DialoguePosition": "RIGHT",
+    "id": "2441"
+  },
+  "2442": {
+    "Index": 1,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueBody": "Tutorial_Dungeon_Line02_Worf",
+    "IsFullScreen": false,
+    "DialogueHeader": "Common_Worf",
+    "RightCharacterId": "Worf",
+    "DialoguePosition": "RIGHT",
+    "id": "2442"
+  },
+  "2443": {
+    "Index": 2,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueBody": "Tutorial_Dungeon_Line03_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2443"
+  },
+  "2444": {
+    "Index": 3,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueBody": "Tutorial_Dungeon_Line04_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2444"
+  },
+  "2445": {
+    "Index": 4,
+    "StoryID": "tutorial_dungeon_survival",
+    "DialogueBody": "Tutorial_Dungeon_Line08_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2445"
+  },
+  "2446": {
+    "Index": 0,
+    "StoryID": "tutorial_dungeon_upgrades",
+    "DialogueBody": "Tutorial_Dungeon_Line07_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2446"
+  },
+  "2447": {
+    "Index": 1,
+    "StoryID": "tutorial_dungeon_upgrades",
+    "DialogueBody": "Tutorial_Dungeon_Line05_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2447"
+  },
+  "2448": {
+    "Index": 2,
+    "StoryID": "tutorial_dungeon_upgrades",
+    "DialogueBody": "Tutorial_Dungeon_Line06_Narrator",
+    "IsFullScreen": true,
+    "DialoguePosition": "CENTER",
+    "id": "2448"
   }
 }

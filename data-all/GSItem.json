@@ -109,6 +109,26 @@
     "rarity": "None",
     "id": "Alliance Currency"
   },
+  "Dungeon Stamina": {
+    "category": "Currency",
+    "currencyType": 12,
+    "name": "Common_DungeonStamina",
+    "description": "Data_Item_Description_DungeonStamina",
+    "icon": "Dungeon",
+    "iconFull": "Dungeon",
+    "rarity": "Legendary",
+    "id": "Dungeon Stamina"
+  },
+  "Dungeon Currency": {
+    "category": "Currency",
+    "currencyType": 13,
+    "name": "Common_DungeonCurrency",
+    "description": "Data_Item_Description_DungeonCurrency",
+    "icon": "DungeonCurrency",
+    "iconFull": "DungeonCurrency",
+    "rarity": "Common",
+    "id": "Dungeon Currency"
+  },
   "BorgQueen": {
     "category": "Token",
     "currencyType": "None",

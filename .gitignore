@@ -3,6 +3,7 @@
 _archive
 __pycache__
 constants
+docs
 pconfigdata.json
 gurudata.json
 _legendsplus.py

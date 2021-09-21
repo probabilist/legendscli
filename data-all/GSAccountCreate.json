@@ -145,5 +145,12 @@
     "unitRank": 0,
     "unitXp": 0,
     "id": "PvP Stamina"
+  },
+  "Dungeon Stamina": {
+    "type": "Item",
+    "amount": 10,
+    "unitRank": 0,
+    "unitXp": 0,
+    "id": "Dungeon Stamina"
   }
 }

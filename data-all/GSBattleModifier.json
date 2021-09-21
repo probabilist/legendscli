@@ -415,5 +415,155 @@
     "TargetType": "Allies",
     "RoundsActive": 99,
     "id": "exploration_attackDownAlly"
+  },
+  "PowerUp_AttackUp": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Attack_Buff",
+    "TooltipID": "PowerUp_AttackUp",
+    "NameLocKey": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "SkillID": "PowerUp_AttackUp",
+    "TargetType": "Allies",
+    "RoundsActive": 99,
+    "id": "PowerUp_AttackUp"
+  },
+  "PowerUp_AttackDown": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Attack_Debuff",
+    "TooltipID": "PowerUp_AttackDown",
+    "NameLocKey": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "SkillID": "PowerUp_AttackDown",
+    "TargetType": "Enemies",
+    "RoundsActive": 99,
+    "id": "PowerUp_AttackDown"
+  },
+  "PowerUp_DefenseUp": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Defence_Buff",
+    "TooltipID": "PowerUp_DefenseUp",
+    "NameLocKey": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "SkillID": "PowerUp_DefenseUp",
+    "TargetType": "Allies",
+    "RoundsActive": 99,
+    "id": "PowerUp_DefenseUp"
+  },
+  "PowerUp_DefenseDown": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Defence_Debuff",
+    "TooltipID": "PowerUp_DefenseDown",
+    "NameLocKey": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "SkillID": "PowerUp_DefenseDown",
+    "TargetType": "Enemies",
+    "RoundsActive": 99,
+    "id": "PowerUp_DefenseDown"
+  },
+  "PowerUp_TechUp": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Tech_Buff",
+    "TooltipID": "PowerUp_TechUp",
+    "NameLocKey": "Data_Characters_EffectType_displayName_TechBuff",
+    "SkillID": "PowerUp_TechUp",
+    "TargetType": "Allies",
+    "RoundsActive": 99,
+    "id": "PowerUp_TechUp"
+  },
+  "PowerUp_TechDown": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Tech_Debuff",
+    "TooltipID": "PowerUp_TechDown",
+    "NameLocKey": "Data_Characters_EffectType_displayName_TechDebuff",
+    "SkillID": "PowerUp_TechDown",
+    "TargetType": "Enemies",
+    "RoundsActive": 99,
+    "id": "PowerUp_TechDown"
+  },
+  "PowerUp_MoraleUp": {
+    "ModifierType": "Active",
+    "Icon": "Exploration_MoraleUp",
+    "TooltipID": "PowerUp_MoraleUp",
+    "NameLocKey": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "SkillID": "PowerUp_MoraleUp",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_MoraleUp"
+  },
+  "PowerUp_MoraleDown": {
+    "ModifierType": "Active",
+    "Icon": "Exploration_MoraleDown",
+    "TooltipID": "PowerUp_MoraleDown",
+    "NameLocKey": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "SkillID": "PowerUp_MoraleDown",
+    "TargetType": "Enemies",
+    "RoundsActive": 1,
+    "id": "PowerUp_MoraleDown"
+  },
+  "PowerUp_CritUp": {
+    "ModifierType": "Passive",
+    "Icon": "Status_Crit_Buff",
+    "TooltipID": "PowerUp_CritUp",
+    "NameLocKey": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "SkillID": "PowerUp_CritUp",
+    "TargetType": "Allies",
+    "RoundsActive": 99,
+    "id": "PowerUp_CritUp"
+  },
+  "PowerUp_Cloak": {
+    "ModifierType": "Active",
+    "Icon": "Status_Cloak_Buff",
+    "TooltipID": "PowerUp_Cloak",
+    "NameLocKey": "Data_Characters_EffectType_displayName_Cloak",
+    "SkillID": "PowerUp_Cloak",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_Cloak"
+  },
+  "PowerUp_RedAlert": {
+    "ModifierType": "Active",
+    "Icon": "Status_RedAlert_Buff",
+    "TooltipID": "PowerUp_RedAlert",
+    "NameLocKey": "Data_Characters_EffectType_displayName_RedAlert",
+    "SkillID": "PowerUp_RedAlert",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_RedAlert"
+  },
+  "PowerUp_Scan": {
+    "ModifierType": "Active",
+    "Icon": "Status_Scanning_Buff",
+    "TooltipID": "PowerUp_Scan",
+    "NameLocKey": "Data_Characters_EffectType_displayName_Scan",
+    "SkillID": "PowerUp_Scan",
+    "TargetType": "Enemies",
+    "RoundsActive": 1,
+    "id": "PowerUp_Scan"
+  },
+  "PowerUp_Shields": {
+    "ModifierType": "Active",
+    "Icon": "Status_Shield_Buff",
+    "TooltipID": "PowerUp_Shields",
+    "NameLocKey": "Data_Characters_EffectType_displayName_Shield",
+    "SkillID": "PowerUp_Shields",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_Shields"
+  },
+  "PowerUp_Heal50": {
+    "ModifierType": "Active",
+    "Icon": "Exploration_Healing",
+    "TooltipID": "PowerUp_Heal50",
+    "NameLocKey": "Common_ExplorationOptionType_Heal",
+    "SkillID": "PowerUp_Heal50",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_Heal50"
+  },
+  "PowerUp_Heal10": {
+    "ModifierType": "Active",
+    "Icon": "Status_Regenerate_Buff",
+    "TooltipID": "PowerUp_Heal10",
+    "NameLocKey": "Data_Characters_EffectType_displayName_Regenerate",
+    "SkillID": "PowerUp_Heal10",
+    "TargetType": "Allies",
+    "RoundsActive": 1,
+    "id": "PowerUp_Heal10"
   }
 }
