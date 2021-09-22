@@ -3445,6 +3445,492 @@
       "difficulty": "Easy"
     }
   },
+  "e8_m1_firsttime-Easy": {
+    "IdString": "e8_m1_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 510,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 510,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 510
+      },
+      "FirstAmount": 510,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m1_complete-Easy": {
+    "IdString": "e8_m1_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 510,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 510,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 510
+      },
+      "FirstAmount": 510,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m1_replay-Easy": {
+    "IdString": "e8_m1_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 255,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 255,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 255
+      },
+      "FirstAmount": 255,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m2_firsttime-Easy": {
+    "IdString": "e8_m2_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 530,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 530,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 530
+      },
+      "FirstAmount": 530,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m2_complete-Easy": {
+    "IdString": "e8_m2_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 530,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 530,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 530
+      },
+      "FirstAmount": 530,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m2_replay-Easy": {
+    "IdString": "e8_m2_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 265,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 265,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 265
+      },
+      "FirstAmount": 265,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m3_firsttime-Easy": {
+    "IdString": "e8_m3_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 540,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 540,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 540
+      },
+      "FirstAmount": 540,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m3_complete-Easy": {
+    "IdString": "e8_m3_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 540,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 540,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 540
+      },
+      "FirstAmount": 540,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m3_replay-Easy": {
+    "IdString": "e8_m3_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 270,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 270,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 270
+      },
+      "FirstAmount": 270,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m4_firsttime-Easy": {
+    "IdString": "e8_m4_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 550,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 550,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 550
+      },
+      "FirstAmount": 550,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m4_complete-Easy": {
+    "IdString": "e8_m4_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 550,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 550,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 550
+      },
+      "FirstAmount": 550,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m4_replay-Easy": {
+    "IdString": "e8_m4_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 275,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 275,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 275
+      },
+      "FirstAmount": 275,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m5_firsttime-Easy": {
+    "IdString": "e8_m5_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 560,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 560,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 560
+      },
+      "FirstAmount": 560,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m5_complete-Easy": {
+    "IdString": "e8_m5_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 560,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 560,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 560
+      },
+      "FirstAmount": 560,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m5_replay-Easy": {
+    "IdString": "e8_m5_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 280,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 280,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 280
+      },
+      "FirstAmount": 280,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_replay",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m6_firsttime-Easy": {
+    "IdString": "e8_m6_firsttime",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 580,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 580,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 580
+      },
+      "FirstAmount": 580,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_firsttime",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m6_complete-Easy": {
+    "IdString": "e8_m6_complete",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 580,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 580,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 580
+      },
+      "FirstAmount": 580,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_complete",
+      "difficulty": "Easy"
+    }
+  },
+  "e8_m6_replay-Easy": {
+    "IdString": "e8_m6_replay",
+    "Difficulty": "Easy",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 290,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 290,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 290
+      },
+      "FirstAmount": 290,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_replay",
+      "difficulty": "Easy"
+    }
+  },
   "e1_m1_firsttime-Hard": {
     "IdString": "e1_m1_firsttime",
     "Difficulty": "Hard",
@@ -6888,6 +7374,492 @@
       "difficulty": "Hard"
     }
   },
+  "e8_m1_firsttime-Hard": {
+    "IdString": "e8_m1_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 960,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 960,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 960
+      },
+      "FirstAmount": 960,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m1_complete-Hard": {
+    "IdString": "e8_m1_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 960,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 960,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 960
+      },
+      "FirstAmount": 960,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m1_replay-Hard": {
+    "IdString": "e8_m1_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 480,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 480,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 480
+      },
+      "FirstAmount": 480,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m2_firsttime-Hard": {
+    "IdString": "e8_m2_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 980,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 980,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 980
+      },
+      "FirstAmount": 980,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m2_complete-Hard": {
+    "IdString": "e8_m2_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 980,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 980,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 980
+      },
+      "FirstAmount": 980,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m2_replay-Hard": {
+    "IdString": "e8_m2_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 490,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 490,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 490
+      },
+      "FirstAmount": 490,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m3_firsttime-Hard": {
+    "IdString": "e8_m3_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 990,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 990,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 990
+      },
+      "FirstAmount": 990,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m3_complete-Hard": {
+    "IdString": "e8_m3_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 990,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 990,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 990
+      },
+      "FirstAmount": 990,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m3_replay-Hard": {
+    "IdString": "e8_m3_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 495,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 495,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 495
+      },
+      "FirstAmount": 495,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m4_firsttime-Hard": {
+    "IdString": "e8_m4_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1000,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1000,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m4_complete-Hard": {
+    "IdString": "e8_m4_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1000,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1000,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1000
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m4_replay-Hard": {
+    "IdString": "e8_m4_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 500,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 500,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 500
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m5_firsttime-Hard": {
+    "IdString": "e8_m5_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1010,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1010,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1010
+      },
+      "FirstAmount": 1010,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m5_complete-Hard": {
+    "IdString": "e8_m5_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1010,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1010,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1010
+      },
+      "FirstAmount": 1010,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m5_replay-Hard": {
+    "IdString": "e8_m5_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 505,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 505,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 505
+      },
+      "FirstAmount": 505,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_replay",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m6_firsttime-Hard": {
+    "IdString": "e8_m6_firsttime",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1030,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1030,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1030
+      },
+      "FirstAmount": 1030,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_firsttime",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m6_complete-Hard": {
+    "IdString": "e8_m6_complete",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1030,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1030,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1030
+      },
+      "FirstAmount": 1030,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_complete",
+      "difficulty": "Hard"
+    }
+  },
+  "e8_m6_replay-Hard": {
+    "IdString": "e8_m6_replay",
+    "Difficulty": "Hard",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 515,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 515,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 515
+      },
+      "FirstAmount": 515,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_replay",
+      "difficulty": "Hard"
+    }
+  },
   "e1_m1_firsttime-Doom": {
     "IdString": "e1_m1_firsttime",
     "Difficulty": "Doom",
@@ -10328,6 +11300,492 @@
     },
     "id": {
       "id": "e7_m6_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m1_firsttime-Doom": {
+    "IdString": "e8_m1_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1410,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1410,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1410
+      },
+      "FirstAmount": 1410,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m1_complete-Doom": {
+    "IdString": "e8_m1_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1410,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1410,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1410
+      },
+      "FirstAmount": 1410,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m1_replay-Doom": {
+    "IdString": "e8_m1_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 1",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 705,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 705,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 705
+      },
+      "FirstAmount": 705,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m1_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m2_firsttime-Doom": {
+    "IdString": "e8_m2_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1430,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1430,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1430
+      },
+      "FirstAmount": 1430,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m2_complete-Doom": {
+    "IdString": "e8_m2_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1430,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1430,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1430
+      },
+      "FirstAmount": 1430,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m2_replay-Doom": {
+    "IdString": "e8_m2_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 2",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 715,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 715,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 715
+      },
+      "FirstAmount": 715,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m2_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m3_firsttime-Doom": {
+    "IdString": "e8_m3_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1440,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1440,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1440
+      },
+      "FirstAmount": 1440,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m3_complete-Doom": {
+    "IdString": "e8_m3_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1440,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1440,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1440
+      },
+      "FirstAmount": 1440,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m3_replay-Doom": {
+    "IdString": "e8_m3_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 3",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 720,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 720,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 720
+      },
+      "FirstAmount": 720,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m3_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m4_firsttime-Doom": {
+    "IdString": "e8_m4_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1450,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1450,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1450
+      },
+      "FirstAmount": 1450,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m4_complete-Doom": {
+    "IdString": "e8_m4_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1450,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1450,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1450
+      },
+      "FirstAmount": 1450,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m4_replay-Doom": {
+    "IdString": "e8_m4_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 4",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 725,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 725,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 725
+      },
+      "FirstAmount": 725,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m4_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m5_firsttime-Doom": {
+    "IdString": "e8_m5_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1460,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1460,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1460
+      },
+      "FirstAmount": 1460,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m5_complete-Doom": {
+    "IdString": "e8_m5_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1460,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1460,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1460
+      },
+      "FirstAmount": 1460,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m5_replay-Doom": {
+    "IdString": "e8_m5_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 5",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 730,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 730,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 730
+      },
+      "FirstAmount": 730,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m5_replay",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m6_firsttime-Doom": {
+    "IdString": "e8_m6_firsttime",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 0.0,
+    "LatinumAmount": 1480,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1480,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1480
+      },
+      "FirstAmount": 1480,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_firsttime",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m6_complete-Doom": {
+    "IdString": "e8_m6_complete",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": 1.0,
+    "LatinumAmount": 1480,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 1480,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 1480
+      },
+      "FirstAmount": 1480,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_complete",
+      "difficulty": "Doom"
+    }
+  },
+  "e8_m6_replay-Doom": {
+    "IdString": "e8_m6_replay",
+    "Difficulty": "Doom",
+    "MissionID": "episode 8 mission 6",
+    "PercentageReq": -1.0,
+    "LatinumAmount": 740,
+    "rewardAmount": 0,
+    "rewardAmount2": 0,
+    "rewardAmount3": 0,
+    "Xp": 740,
+    "ItemMpId": "",
+    "ItemMpId2": "",
+    "reward": {
+      "Characters": [],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Latinum": 740
+      },
+      "FirstAmount": 740,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "e8_m6_replay",
       "difficulty": "Doom"
     }
   }
