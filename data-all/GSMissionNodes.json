@@ -6725,7 +6725,7 @@
         "NodeId": "e0_m1_end",
         "NextNodeIds": [],
         "PreviousNodeId": "e0_m1_desert_04",
-        "Type": 5
+        "Type": "PowerUp"
       }
     },
     "id": "e0_m1"
@@ -6777,7 +6777,7 @@
         "NodeId": "e0_m2_end",
         "NextNodeIds": [],
         "PreviousNodeId": "e0_m1_ice_04",
-        "Type": 5
+        "Type": "PowerUp"
       }
     },
     "id": "e0_m2"
@@ -6829,7 +6829,7 @@
         "NodeId": "e0_m3_end",
         "NextNodeIds": [],
         "PreviousNodeId": "e0_m3_forest_04",
-        "Type": 5
+        "Type": "PowerUp"
       }
     },
     "id": "e0_m3"
@@ -6851,7 +6851,7 @@
         "NodeId": "e0_m4_end",
         "NextNodeIds": [],
         "PreviousNodeId": "e0_m1_borg_01",
-        "Type": 5
+        "Type": "PowerUp"
       }
     },
     "id": "e0_m4"

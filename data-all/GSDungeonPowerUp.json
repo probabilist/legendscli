@@ -1,0 +1,452 @@
+{
+  "1": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_AttackUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "Description": "Dungeon_PowerUp_AttackUp_Desc",
+    "Icon": "Status_Attack_Buff",
+    "Tooltip": "PowerUp_AttackUp",
+    "id": 1
+  },
+  "2": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_AttackDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "Description": "Dungeon_PowerUp_AttackDown_Desc",
+    "Icon": "Status_Attack_Debuff",
+    "Tooltip": "PowerUp_AttackDown",
+    "id": 2
+  },
+  "3": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_DefenseUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "Description": "Dungeon_PowerUp_DefenseUp_Desc",
+    "Icon": "Status_Defence_Buff",
+    "Tooltip": "PowerUp_DefenseUp",
+    "id": 3
+  },
+  "4": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_DefenseDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "Description": "Dungeon_PowerUp_DefenseDown_Desc",
+    "Icon": "Status_Defence_Debuff",
+    "Tooltip": "PowerUp_DefenseDown",
+    "id": 4
+  },
+  "5": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_TechUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechBuff",
+    "Description": "Dungeon_PowerUp_TechUp_Desc",
+    "Icon": "Status_Tech_Buff",
+    "Tooltip": "PowerUp_TechUp",
+    "id": 5
+  },
+  "6": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_TechDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechDebuff",
+    "Description": "Dungeon_PowerUp_TechDown_Desc",
+    "Icon": "Status_Tech_Debuff",
+    "Tooltip": "PowerUp_TechDown",
+    "id": 6
+  },
+  "7": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_MoraleUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "Description": "Dungeon_PowerUp_MoraleUp_Desc",
+    "Icon": "Exploration_MoraleUp",
+    "Tooltip": "PowerUp_MoraleUp",
+    "id": 7
+  },
+  "8": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_MoraleDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "Description": "Dungeon_PowerUp_MoraleDown_Desc",
+    "Icon": "Exploration_MoraleDown",
+    "Tooltip": "PowerUp_MoraleDown",
+    "id": 8
+  },
+  "9": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_CritUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "Description": "Dungeon_PowerUp_CritChanceUp_Desc",
+    "Icon": "Status_Crit_Buff",
+    "Tooltip": "PowerUp_CritUp",
+    "id": 9
+  },
+  "10": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_Cloak",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Cloak",
+    "Description": "Dungeon_PowerUp_Cloak_Desc",
+    "Icon": "Status_Cloak_Buff",
+    "Tooltip": "PowerUp_Cloak",
+    "id": 10
+  },
+  "11": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_RedAlert",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_RedAlert",
+    "Description": "Dungeon_PowerUp_RedAlert_Desc",
+    "Icon": "Status_RedAlert_Buff",
+    "Tooltip": "PowerUp_RedAlert",
+    "id": 11
+  },
+  "12": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_Scan",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Scan",
+    "Description": "Dungeon_PowerUp_Scan_Desc",
+    "Icon": "Status_Scanning_Buff",
+    "Tooltip": "PowerUp_Scan",
+    "id": 12
+  },
+  "13": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Battle5_Shields",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Shield",
+    "Description": "Dungeon_PowerUp_Shield_Desc",
+    "Icon": "Status_Shield_Buff",
+    "Tooltip": "PowerUp_Shields",
+    "id": 13
+  },
+  "14": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Heal50",
+    "Weight": 1,
+    "Name": "Common_ExplorationOptionType_Heal",
+    "Description": "Dungeon_PowerUp_Heal_Desc",
+    "Icon": "Exploration_Healing",
+    "Tooltip": "PowerUp_Heal50",
+    "id": 14
+  },
+  "15": {
+    "PowerUpPoolID": "PowerUp_Battle5",
+    "MissionEffect": "PowerUp_Heal10",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Regenerate",
+    "Description": "Dungeon_PowerUp_Regenerate_Desc",
+    "Icon": "Status_Regenerate_Buff",
+    "Tooltip": "PowerUp_Heal10",
+    "id": 15
+  },
+  "16": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_AttackUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "Description": "Dungeon_PowerUp_AttackUp_Desc",
+    "Icon": "Status_Attack_Buff",
+    "Tooltip": "PowerUp_AttackUp",
+    "id": 16
+  },
+  "17": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_AttackDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "Description": "Dungeon_PowerUp_AttackDown_Desc",
+    "Icon": "Status_Attack_Debuff",
+    "Tooltip": "PowerUp_AttackDown",
+    "id": 17
+  },
+  "18": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_DefenseUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "Description": "Dungeon_PowerUp_DefenseUp_Desc",
+    "Icon": "Status_Defence_Buff",
+    "Tooltip": "PowerUp_DefenseUp",
+    "id": 18
+  },
+  "19": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_DefenseDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "Description": "Dungeon_PowerUp_DefenseDown_Desc",
+    "Icon": "Status_Defence_Debuff",
+    "Tooltip": "PowerUp_DefenseDown",
+    "id": 19
+  },
+  "20": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_TechUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechBuff",
+    "Description": "Dungeon_PowerUp_TechUp_Desc",
+    "Icon": "Status_Tech_Buff",
+    "Tooltip": "PowerUp_TechUp",
+    "id": 20
+  },
+  "21": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_TechDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechDebuff",
+    "Description": "Dungeon_PowerUp_TechDown_Desc",
+    "Icon": "Status_Tech_Debuff",
+    "Tooltip": "PowerUp_TechDown",
+    "id": 21
+  },
+  "22": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_MoraleUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "Description": "Dungeon_PowerUp_MoraleUp_Desc",
+    "Icon": "Exploration_MoraleUp",
+    "Tooltip": "PowerUp_MoraleUp",
+    "id": 22
+  },
+  "23": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_MoraleDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "Description": "Dungeon_PowerUp_MoraleDown_Desc",
+    "Icon": "Exploration_MoraleDown",
+    "Tooltip": "PowerUp_MoraleDown",
+    "id": 23
+  },
+  "24": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_CritUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "Description": "Dungeon_PowerUp_CritChanceUp_Desc",
+    "Icon": "Status_Crit_Buff",
+    "Tooltip": "PowerUp_CritUp",
+    "id": 24
+  },
+  "25": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_Cloak",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Cloak",
+    "Description": "Dungeon_PowerUp_Cloak_Desc",
+    "Icon": "Status_Cloak_Buff",
+    "Tooltip": "PowerUp_Cloak",
+    "id": 25
+  },
+  "26": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_RedAlert",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_RedAlert",
+    "Description": "Dungeon_PowerUp_RedAlert_Desc",
+    "Icon": "Status_RedAlert_Buff",
+    "Tooltip": "PowerUp_RedAlert",
+    "id": 26
+  },
+  "27": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_Scan",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Scan",
+    "Description": "Dungeon_PowerUp_Scan_Desc",
+    "Icon": "Status_Scanning_Buff",
+    "Tooltip": "PowerUp_Scan",
+    "id": 27
+  },
+  "28": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Battle4_Shields",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Shield",
+    "Description": "Dungeon_PowerUp_Shield_Desc",
+    "Icon": "Status_Shield_Buff",
+    "Tooltip": "PowerUp_Shields",
+    "id": 28
+  },
+  "29": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Heal50",
+    "Weight": 1,
+    "Name": "Common_ExplorationOptionType_Heal",
+    "Description": "Dungeon_PowerUp_Heal_Desc",
+    "Icon": "Exploration_Healing",
+    "Tooltip": "PowerUp_Heal50",
+    "id": 29
+  },
+  "30": {
+    "PowerUpPoolID": "PowerUp_Battle4",
+    "MissionEffect": "PowerUp_Heal10",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Regenerate",
+    "Description": "Dungeon_PowerUp_Regenerate_Desc",
+    "Icon": "Status_Regenerate_Buff",
+    "Tooltip": "PowerUp_Heal10",
+    "id": 30
+  },
+  "31": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_AttackUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerBuff",
+    "Description": "Dungeon_PowerUp_AttackUp_Desc",
+    "Icon": "Status_Attack_Buff",
+    "Tooltip": "PowerUp_AttackUp",
+    "id": 31
+  },
+  "32": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_AttackDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_AttackPowerDebuff",
+    "Description": "Dungeon_PowerUp_AttackDown_Desc",
+    "Icon": "Status_Attack_Debuff",
+    "Tooltip": "PowerUp_AttackDown",
+    "id": 32
+  },
+  "33": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_DefenseUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseBuff",
+    "Description": "Dungeon_PowerUp_DefenseUp_Desc",
+    "Icon": "Status_Defence_Buff",
+    "Tooltip": "PowerUp_DefenseUp",
+    "id": 33
+  },
+  "34": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_DefenseDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_DefenseDebuff",
+    "Description": "Dungeon_PowerUp_DefenseDown_Desc",
+    "Icon": "Status_Defence_Debuff",
+    "Tooltip": "PowerUp_DefenseDown",
+    "id": 34
+  },
+  "35": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_TechUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechBuff",
+    "Description": "Dungeon_PowerUp_TechUp_Desc",
+    "Icon": "Status_Tech_Buff",
+    "Tooltip": "PowerUp_TechUp",
+    "id": 35
+  },
+  "36": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_TechDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_TechDebuff",
+    "Description": "Dungeon_PowerUp_TechDown_Desc",
+    "Icon": "Status_Tech_Debuff",
+    "Tooltip": "PowerUp_TechDown",
+    "id": 36
+  },
+  "37": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_MoraleUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleAdd",
+    "Description": "Dungeon_PowerUp_MoraleUp_Desc",
+    "Icon": "Exploration_MoraleUp",
+    "Tooltip": "PowerUp_MoraleUp",
+    "id": 37
+  },
+  "38": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_MoraleDown",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_MoraleRemove",
+    "Description": "Dungeon_PowerUp_MoraleDown_Desc",
+    "Icon": "Exploration_MoraleDown",
+    "Tooltip": "PowerUp_MoraleDown",
+    "id": 38
+  },
+  "39": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_CritUp",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_CritChanceBuff",
+    "Description": "Dungeon_PowerUp_CritChanceUp_Desc",
+    "Icon": "Status_Crit_Buff",
+    "Tooltip": "PowerUp_CritUp",
+    "id": 39
+  },
+  "40": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_Cloak",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Cloak",
+    "Description": "Dungeon_PowerUp_Cloak_Desc",
+    "Icon": "Status_Cloak_Buff",
+    "Tooltip": "PowerUp_Cloak",
+    "id": 40
+  },
+  "41": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_RedAlert",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_RedAlert",
+    "Description": "Dungeon_PowerUp_RedAlert_Desc",
+    "Icon": "Status_RedAlert_Buff",
+    "Tooltip": "PowerUp_RedAlert",
+    "id": 41
+  },
+  "42": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_Scan",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Scan",
+    "Description": "Dungeon_PowerUp_Scan_Desc",
+    "Icon": "Status_Scanning_Buff",
+    "Tooltip": "PowerUp_Scan",
+    "id": 42
+  },
+  "43": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Battle3_Shields",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Shield",
+    "Description": "Dungeon_PowerUp_Shield_Desc",
+    "Icon": "Status_Shield_Buff",
+    "Tooltip": "PowerUp_Shields",
+    "id": 43
+  },
+  "44": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Heal50",
+    "Weight": 1,
+    "Name": "Common_ExplorationOptionType_Heal",
+    "Description": "Dungeon_PowerUp_Heal_Desc",
+    "Icon": "Exploration_Healing",
+    "Tooltip": "PowerUp_Heal50",
+    "id": 44
+  },
+  "45": {
+    "PowerUpPoolID": "PowerUp_Battle3",
+    "MissionEffect": "PowerUp_Heal10",
+    "Weight": 1,
+    "Name": "Data_Characters_EffectType_displayName_Regenerate",
+    "Description": "Dungeon_PowerUp_Regenerate_Desc",
+    "Icon": "Status_Regenerate_Buff",
+    "Tooltip": "PowerUp_Heal10",
+    "id": 45
+  }
+}

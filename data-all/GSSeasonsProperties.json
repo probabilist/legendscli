@@ -1,0 +1,14 @@
+{
+  "Season_Duration": {
+    "value": "336",
+    "id": "Season_Duration"
+  },
+  "Rewards_Character_Pool": {
+    "value": "craft_Seasons_Characters_RareToLegendary",
+    "id": "Rewards_Character_Pool"
+  },
+  "FirstSeasonStartTimeUtc": {
+    "value": "07/12/2021",
+    "id": "FirstSeasonStartTimeUtc"
+  }
+}

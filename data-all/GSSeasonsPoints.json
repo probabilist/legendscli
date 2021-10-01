@@ -1,0 +1,27 @@
+{
+  "Win": {
+    "enemiesRemaining": 0,
+    "points": 50,
+    "id": "Win"
+  },
+  "Loss_ER1": {
+    "enemiesRemaining": 1,
+    "points": 35,
+    "id": "Loss_ER1"
+  },
+  "Loss_ER2": {
+    "enemiesRemaining": 2,
+    "points": 25,
+    "id": "Loss_ER2"
+  },
+  "Loss_ER3": {
+    "enemiesRemaining": 3,
+    "points": 15,
+    "id": "Loss_ER3"
+  },
+  "Loss_ER4": {
+    "enemiesRemaining": 4,
+    "points": 5,
+    "id": "Loss_ER4"
+  }
+}

@@ -1,0 +1,6032 @@
+{
+  "1": {
+    "BattlePoolId": "Borg_Enemy4To5",
+    "BattlePool": "Borg_Enemy4",
+    "Weight": 1,
+    "id": 1
+  },
+  "2": {
+    "BattlePoolId": "Borg_Enemy4To5",
+    "BattlePool": "Borg_Enemy5",
+    "Weight": 1,
+    "id": 2
+  },
+  "3": {
+    "BattlePoolId": "Borg_Enemy4To6",
+    "BattlePool": "Borg_Enemy4",
+    "Weight": 1,
+    "id": 3
+  },
+  "4": {
+    "BattlePoolId": "Borg_Enemy4To6",
+    "BattlePool": "Borg_Enemy5",
+    "Weight": 1,
+    "id": 4
+  },
+  "5": {
+    "BattlePoolId": "Borg_Enemy4To6",
+    "BattlePool": "Borg_Enemy6",
+    "Weight": 1,
+    "id": 5
+  },
+  "6": {
+    "BattlePoolId": "Borg_Enemy5To6",
+    "BattlePool": "Borg_Enemy5",
+    "Weight": 1,
+    "id": 6
+  },
+  "7": {
+    "BattlePoolId": "Borg_Enemy5To6",
+    "BattlePool": "Borg_Enemy6",
+    "Weight": 1,
+    "id": 7
+  },
+  "8": {
+    "BattlePoolId": "Borg_Enemy5To7",
+    "BattlePool": "Borg_Enemy5",
+    "Weight": 1,
+    "id": 8
+  },
+  "9": {
+    "BattlePoolId": "Borg_Enemy5To7",
+    "BattlePool": "Borg_Enemy6",
+    "Weight": 1,
+    "id": 9
+  },
+  "10": {
+    "BattlePoolId": "Borg_Enemy5To7",
+    "BattlePool": "Borg_Enemy7",
+    "Weight": 1,
+    "id": 10
+  },
+  "11": {
+    "BattlePoolId": "Borg_Enemy6To7",
+    "BattlePool": "Borg_Enemy6",
+    "Weight": 1,
+    "id": 11
+  },
+  "12": {
+    "BattlePoolId": "Borg_Enemy6To7",
+    "BattlePool": "Borg_Enemy7",
+    "Weight": 1,
+    "id": 12
+  },
+  "13": {
+    "BattlePoolId": "Borg_Enemy6To8",
+    "BattlePool": "Borg_Enemy6",
+    "Weight": 1,
+    "id": 13
+  },
+  "14": {
+    "BattlePoolId": "Borg_Enemy6To8",
+    "BattlePool": "Borg_Enemy7",
+    "Weight": 1,
+    "id": 14
+  },
+  "15": {
+    "BattlePoolId": "Borg_Enemy6To8",
+    "BattlePool": "Borg_Enemy8",
+    "Weight": 1,
+    "id": 15
+  },
+  "16": {
+    "BattlePoolId": "Borg_Enemy7To8",
+    "BattlePool": "Borg_Enemy7",
+    "Weight": 1,
+    "id": 16
+  },
+  "17": {
+    "BattlePoolId": "Borg_Enemy7To8",
+    "BattlePool": "Borg_Enemy8",
+    "Weight": 1,
+    "id": 17
+  },
+  "18": {
+    "BattlePoolId": "Borg_Enemy4To5_Elite",
+    "BattlePool": "Borg_Enemy4_Elite",
+    "Weight": 1,
+    "id": 18
+  },
+  "19": {
+    "BattlePoolId": "Borg_Enemy4To5_Elite",
+    "BattlePool": "Borg_Enemy5_Elite",
+    "Weight": 1,
+    "id": 19
+  },
+  "20": {
+    "BattlePoolId": "Borg_Enemy4To6_Elite",
+    "BattlePool": "Borg_Enemy4_Elite",
+    "Weight": 1,
+    "id": 20
+  },
+  "21": {
+    "BattlePoolId": "Borg_Enemy4To6_Elite",
+    "BattlePool": "Borg_Enemy5_Elite",
+    "Weight": 1,
+    "id": 21
+  },
+  "22": {
+    "BattlePoolId": "Borg_Enemy4To6_Elite",
+    "BattlePool": "Borg_Enemy6_Elite",
+    "Weight": 1,
+    "id": 22
+  },
+  "23": {
+    "BattlePoolId": "Borg_Enemy5To6_Elite",
+    "BattlePool": "Borg_Enemy5_Elite",
+    "Weight": 1,
+    "id": 23
+  },
+  "24": {
+    "BattlePoolId": "Borg_Enemy5To6_Elite",
+    "BattlePool": "Borg_Enemy6_Elite",
+    "Weight": 1,
+    "id": 24
+  },
+  "25": {
+    "BattlePoolId": "Borg_Enemy5To7_Elite",
+    "BattlePool": "Borg_Enemy5_Elite",
+    "Weight": 1,
+    "id": 25
+  },
+  "26": {
+    "BattlePoolId": "Borg_Enemy5To7_Elite",
+    "BattlePool": "Borg_Enemy6_Elite",
+    "Weight": 1,
+    "id": 26
+  },
+  "27": {
+    "BattlePoolId": "Borg_Enemy5To7_Elite",
+    "BattlePool": "Borg_Enemy7_Elite",
+    "Weight": 1,
+    "id": 27
+  },
+  "28": {
+    "BattlePoolId": "Borg_Enemy6To7_Elite",
+    "BattlePool": "Borg_Enemy6_Elite",
+    "Weight": 1,
+    "id": 28
+  },
+  "29": {
+    "BattlePoolId": "Borg_Enemy6To7_Elite",
+    "BattlePool": "Borg_Enemy7_Elite",
+    "Weight": 1,
+    "id": 29
+  },
+  "30": {
+    "BattlePoolId": "Borg_Enemy6To8_Elite",
+    "BattlePool": "Borg_Enemy6_Elite",
+    "Weight": 1,
+    "id": 30
+  },
+  "31": {
+    "BattlePoolId": "Borg_Enemy6To8_Elite",
+    "BattlePool": "Borg_Enemy7_Elite",
+    "Weight": 1,
+    "id": 31
+  },
+  "32": {
+    "BattlePoolId": "Borg_Enemy6To8_Elite",
+    "BattlePool": "Borg_Enemy8_Elite",
+    "Weight": 1,
+    "id": 32
+  },
+  "33": {
+    "BattlePoolId": "Borg_Enemy7To8_Elite",
+    "BattlePool": "Borg_Enemy7_Elite",
+    "Weight": 1,
+    "id": 33
+  },
+  "34": {
+    "BattlePoolId": "Borg_Enemy7To8_Elite",
+    "BattlePool": "Borg_Enemy8_Elite",
+    "Weight": 1,
+    "id": 34
+  },
+  "35": {
+    "BattlePoolId": "Borg_Enemy4To5_Boss",
+    "BattlePool": "Borg_Enemy4_Boss",
+    "Weight": 1,
+    "id": 35
+  },
+  "36": {
+    "BattlePoolId": "Borg_Enemy4To5_Boss",
+    "BattlePool": "Borg_Enemy5_Boss",
+    "Weight": 1,
+    "id": 36
+  },
+  "37": {
+    "BattlePoolId": "Borg_Enemy4To6_Boss",
+    "BattlePool": "Borg_Enemy4_Boss",
+    "Weight": 1,
+    "id": 37
+  },
+  "38": {
+    "BattlePoolId": "Borg_Enemy4To6_Boss",
+    "BattlePool": "Borg_Enemy5_Boss",
+    "Weight": 1,
+    "id": 38
+  },
+  "39": {
+    "BattlePoolId": "Borg_Enemy4To6_Boss",
+    "BattlePool": "Borg_Enemy6_Boss",
+    "Weight": 1,
+    "id": 39
+  },
+  "40": {
+    "BattlePoolId": "Borg_Enemy5To6_Boss",
+    "BattlePool": "Borg_Enemy5_Boss",
+    "Weight": 1,
+    "id": 40
+  },
+  "41": {
+    "BattlePoolId": "Borg_Enemy5To6_Boss",
+    "BattlePool": "Borg_Enemy6_Boss",
+    "Weight": 1,
+    "id": 41
+  },
+  "42": {
+    "BattlePoolId": "Borg_Enemy5To7_Boss",
+    "BattlePool": "Borg_Enemy5_Boss",
+    "Weight": 1,
+    "id": 42
+  },
+  "43": {
+    "BattlePoolId": "Borg_Enemy5To7_Boss",
+    "BattlePool": "Borg_Enemy6_Boss",
+    "Weight": 1,
+    "id": 43
+  },
+  "44": {
+    "BattlePoolId": "Borg_Enemy5To7_Boss",
+    "BattlePool": "Borg_Enemy7_Boss",
+    "Weight": 1,
+    "id": 44
+  },
+  "45": {
+    "BattlePoolId": "Borg_Enemy6To7_Boss",
+    "BattlePool": "Borg_Enemy6_Boss",
+    "Weight": 1,
+    "id": 45
+  },
+  "46": {
+    "BattlePoolId": "Borg_Enemy6To7_Boss",
+    "BattlePool": "Borg_Enemy7_Boss",
+    "Weight": 1,
+    "id": 46
+  },
+  "47": {
+    "BattlePoolId": "Borg_Enemy6To8_Boss",
+    "BattlePool": "Borg_Enemy6_Boss",
+    "Weight": 1,
+    "id": 47
+  },
+  "48": {
+    "BattlePoolId": "Borg_Enemy6To8_Boss",
+    "BattlePool": "Borg_Enemy7_Boss",
+    "Weight": 1,
+    "id": 48
+  },
+  "49": {
+    "BattlePoolId": "Borg_Enemy6To8_Boss",
+    "BattlePool": "Borg_Enemy8_Boss",
+    "Weight": 1,
+    "id": 49
+  },
+  "50": {
+    "BattlePoolId": "Borg_Enemy7To8_Boss",
+    "BattlePool": "Borg_Enemy7_Boss",
+    "Weight": 1,
+    "id": 50
+  },
+  "51": {
+    "BattlePoolId": "Borg_Enemy7To8_Boss",
+    "BattlePool": "Borg_Enemy8_Boss",
+    "Weight": 1,
+    "id": 51
+  },
+  "52": {
+    "BattlePoolId": "Card_Enemy4To5",
+    "BattlePool": "Card_Enemy4",
+    "Weight": 1,
+    "id": 52
+  },
+  "53": {
+    "BattlePoolId": "Card_Enemy4To5",
+    "BattlePool": "Card_Enemy5",
+    "Weight": 1,
+    "id": 53
+  },
+  "54": {
+    "BattlePoolId": "Card_Enemy4To6",
+    "BattlePool": "Card_Enemy4",
+    "Weight": 1,
+    "id": 54
+  },
+  "55": {
+    "BattlePoolId": "Card_Enemy4To6",
+    "BattlePool": "Card_Enemy5",
+    "Weight": 1,
+    "id": 55
+  },
+  "56": {
+    "BattlePoolId": "Card_Enemy4To6",
+    "BattlePool": "Card_Enemy6",
+    "Weight": 1,
+    "id": 56
+  },
+  "57": {
+    "BattlePoolId": "Card_Enemy5To6",
+    "BattlePool": "Card_Enemy5",
+    "Weight": 1,
+    "id": 57
+  },
+  "58": {
+    "BattlePoolId": "Card_Enemy5To6",
+    "BattlePool": "Card_Enemy6",
+    "Weight": 1,
+    "id": 58
+  },
+  "59": {
+    "BattlePoolId": "Card_Enemy5To7",
+    "BattlePool": "Card_Enemy5",
+    "Weight": 1,
+    "id": 59
+  },
+  "60": {
+    "BattlePoolId": "Card_Enemy5To7",
+    "BattlePool": "Card_Enemy6",
+    "Weight": 1,
+    "id": 60
+  },
+  "61": {
+    "BattlePoolId": "Card_Enemy5To7",
+    "BattlePool": "Card_Enemy7",
+    "Weight": 1,
+    "id": 61
+  },
+  "62": {
+    "BattlePoolId": "Card_Enemy6To7",
+    "BattlePool": "Card_Enemy6",
+    "Weight": 1,
+    "id": 62
+  },
+  "63": {
+    "BattlePoolId": "Card_Enemy6To7",
+    "BattlePool": "Card_Enemy7",
+    "Weight": 1,
+    "id": 63
+  },
+  "64": {
+    "BattlePoolId": "Card_Enemy6To8",
+    "BattlePool": "Card_Enemy6",
+    "Weight": 1,
+    "id": 64
+  },
+  "65": {
+    "BattlePoolId": "Card_Enemy6To8",
+    "BattlePool": "Card_Enemy7",
+    "Weight": 1,
+    "id": 65
+  },
+  "66": {
+    "BattlePoolId": "Card_Enemy6To8",
+    "BattlePool": "Card_Enemy8",
+    "Weight": 1,
+    "id": 66
+  },
+  "67": {
+    "BattlePoolId": "Card_Enemy7To8",
+    "BattlePool": "Card_Enemy7",
+    "Weight": 1,
+    "id": 67
+  },
+  "68": {
+    "BattlePoolId": "Card_Enemy7To8",
+    "BattlePool": "Card_Enemy8",
+    "Weight": 1,
+    "id": 68
+  },
+  "69": {
+    "BattlePoolId": "Card_Enemy4To5_Elite",
+    "BattlePool": "Card_Enemy4_Elite",
+    "Weight": 1,
+    "id": 69
+  },
+  "70": {
+    "BattlePoolId": "Card_Enemy4To5_Elite",
+    "BattlePool": "Card_Enemy5_Elite",
+    "Weight": 1,
+    "id": 70
+  },
+  "71": {
+    "BattlePoolId": "Card_Enemy4To6_Elite",
+    "BattlePool": "Card_Enemy4_Elite",
+    "Weight": 1,
+    "id": 71
+  },
+  "72": {
+    "BattlePoolId": "Card_Enemy4To6_Elite",
+    "BattlePool": "Card_Enemy5_Elite",
+    "Weight": 1,
+    "id": 72
+  },
+  "73": {
+    "BattlePoolId": "Card_Enemy4To6_Elite",
+    "BattlePool": "Card_Enemy6_Elite",
+    "Weight": 1,
+    "id": 73
+  },
+  "74": {
+    "BattlePoolId": "Card_Enemy5To6_Elite",
+    "BattlePool": "Card_Enemy5_Elite",
+    "Weight": 1,
+    "id": 74
+  },
+  "75": {
+    "BattlePoolId": "Card_Enemy5To6_Elite",
+    "BattlePool": "Card_Enemy6_Elite",
+    "Weight": 1,
+    "id": 75
+  },
+  "76": {
+    "BattlePoolId": "Card_Enemy5To7_Elite",
+    "BattlePool": "Card_Enemy5_Elite",
+    "Weight": 1,
+    "id": 76
+  },
+  "77": {
+    "BattlePoolId": "Card_Enemy5To7_Elite",
+    "BattlePool": "Card_Enemy6_Elite",
+    "Weight": 1,
+    "id": 77
+  },
+  "78": {
+    "BattlePoolId": "Card_Enemy5To7_Elite",
+    "BattlePool": "Card_Enemy7_Elite",
+    "Weight": 1,
+    "id": 78
+  },
+  "79": {
+    "BattlePoolId": "Card_Enemy6To7_Elite",
+    "BattlePool": "Card_Enemy6_Elite",
+    "Weight": 1,
+    "id": 79
+  },
+  "80": {
+    "BattlePoolId": "Card_Enemy6To7_Elite",
+    "BattlePool": "Card_Enemy7_Elite",
+    "Weight": 1,
+    "id": 80
+  },
+  "81": {
+    "BattlePoolId": "Card_Enemy6To8_Elite",
+    "BattlePool": "Card_Enemy6_Elite",
+    "Weight": 1,
+    "id": 81
+  },
+  "82": {
+    "BattlePoolId": "Card_Enemy6To8_Elite",
+    "BattlePool": "Card_Enemy7_Elite",
+    "Weight": 1,
+    "id": 82
+  },
+  "83": {
+    "BattlePoolId": "Card_Enemy6To8_Elite",
+    "BattlePool": "Card_Enemy8_Elite",
+    "Weight": 1,
+    "id": 83
+  },
+  "84": {
+    "BattlePoolId": "Card_Enemy7To8_Elite",
+    "BattlePool": "Card_Enemy7_Elite",
+    "Weight": 1,
+    "id": 84
+  },
+  "85": {
+    "BattlePoolId": "Card_Enemy7To8_Elite",
+    "BattlePool": "Card_Enemy8_Elite",
+    "Weight": 1,
+    "id": 85
+  },
+  "86": {
+    "BattlePoolId": "Card_Enemy4To5_Boss",
+    "BattlePool": "Card_Enemy4_Boss",
+    "Weight": 1,
+    "id": 86
+  },
+  "87": {
+    "BattlePoolId": "Card_Enemy4To5_Boss",
+    "BattlePool": "Card_Enemy5_Boss",
+    "Weight": 1,
+    "id": 87
+  },
+  "88": {
+    "BattlePoolId": "Card_Enemy4To6_Boss",
+    "BattlePool": "Card_Enemy4_Boss",
+    "Weight": 1,
+    "id": 88
+  },
+  "89": {
+    "BattlePoolId": "Card_Enemy4To6_Boss",
+    "BattlePool": "Card_Enemy5_Boss",
+    "Weight": 1,
+    "id": 89
+  },
+  "90": {
+    "BattlePoolId": "Card_Enemy4To6_Boss",
+    "BattlePool": "Card_Enemy6_Boss",
+    "Weight": 1,
+    "id": 90
+  },
+  "91": {
+    "BattlePoolId": "Card_Enemy5To6_Boss",
+    "BattlePool": "Card_Enemy5_Boss",
+    "Weight": 1,
+    "id": 91
+  },
+  "92": {
+    "BattlePoolId": "Card_Enemy5To6_Boss",
+    "BattlePool": "Card_Enemy6_Boss",
+    "Weight": 1,
+    "id": 92
+  },
+  "93": {
+    "BattlePoolId": "Card_Enemy5To7_Boss",
+    "BattlePool": "Card_Enemy5_Boss",
+    "Weight": 1,
+    "id": 93
+  },
+  "94": {
+    "BattlePoolId": "Card_Enemy5To7_Boss",
+    "BattlePool": "Card_Enemy6_Boss",
+    "Weight": 1,
+    "id": 94
+  },
+  "95": {
+    "BattlePoolId": "Card_Enemy5To7_Boss",
+    "BattlePool": "Card_Enemy7_Boss",
+    "Weight": 1,
+    "id": 95
+  },
+  "96": {
+    "BattlePoolId": "Card_Enemy6To7_Boss",
+    "BattlePool": "Card_Enemy6_Boss",
+    "Weight": 1,
+    "id": 96
+  },
+  "97": {
+    "BattlePoolId": "Card_Enemy6To7_Boss",
+    "BattlePool": "Card_Enemy7_Boss",
+    "Weight": 1,
+    "id": 97
+  },
+  "98": {
+    "BattlePoolId": "Card_Enemy6To8_Boss",
+    "BattlePool": "Card_Enemy6_Boss",
+    "Weight": 1,
+    "id": 98
+  },
+  "99": {
+    "BattlePoolId": "Card_Enemy6To8_Boss",
+    "BattlePool": "Card_Enemy7_Boss",
+    "Weight": 1,
+    "id": 99
+  },
+  "100": {
+    "BattlePoolId": "Card_Enemy6To8_Boss",
+    "BattlePool": "Card_Enemy8_Boss",
+    "Weight": 1,
+    "id": 100
+  },
+  "101": {
+    "BattlePoolId": "Card_Enemy7To8_Boss",
+    "BattlePool": "Card_Enemy7_Boss",
+    "Weight": 1,
+    "id": 101
+  },
+  "102": {
+    "BattlePoolId": "Card_Enemy7To8_Boss",
+    "BattlePool": "Card_Enemy8_Boss",
+    "Weight": 1,
+    "id": 102
+  },
+  "103": {
+    "BattlePoolId": "Kling_Enemy4To5",
+    "BattlePool": "Kling_Enemy4",
+    "Weight": 1,
+    "id": 103
+  },
+  "104": {
+    "BattlePoolId": "Kling_Enemy4To5",
+    "BattlePool": "Kling_Enemy5",
+    "Weight": 1,
+    "id": 104
+  },
+  "105": {
+    "BattlePoolId": "Kling_Enemy4To6",
+    "BattlePool": "Kling_Enemy4",
+    "Weight": 1,
+    "id": 105
+  },
+  "106": {
+    "BattlePoolId": "Kling_Enemy4To6",
+    "BattlePool": "Kling_Enemy5",
+    "Weight": 1,
+    "id": 106
+  },
+  "107": {
+    "BattlePoolId": "Kling_Enemy4To6",
+    "BattlePool": "Kling_Enemy6",
+    "Weight": 1,
+    "id": 107
+  },
+  "108": {
+    "BattlePoolId": "Kling_Enemy5To6",
+    "BattlePool": "Kling_Enemy5",
+    "Weight": 1,
+    "id": 108
+  },
+  "109": {
+    "BattlePoolId": "Kling_Enemy5To6",
+    "BattlePool": "Kling_Enemy6",
+    "Weight": 1,
+    "id": 109
+  },
+  "110": {
+    "BattlePoolId": "Kling_Enemy5To7",
+    "BattlePool": "Kling_Enemy5",
+    "Weight": 1,
+    "id": 110
+  },
+  "111": {
+    "BattlePoolId": "Kling_Enemy5To7",
+    "BattlePool": "Kling_Enemy6",
+    "Weight": 1,
+    "id": 111
+  },
+  "112": {
+    "BattlePoolId": "Kling_Enemy5To7",
+    "BattlePool": "Kling_Enemy7",
+    "Weight": 1,
+    "id": 112
+  },
+  "113": {
+    "BattlePoolId": "Kling_Enemy6To7",
+    "BattlePool": "Kling_Enemy6",
+    "Weight": 1,
+    "id": 113
+  },
+  "114": {
+    "BattlePoolId": "Kling_Enemy6To7",
+    "BattlePool": "Kling_Enemy7",
+    "Weight": 1,
+    "id": 114
+  },
+  "115": {
+    "BattlePoolId": "Kling_Enemy6To8",
+    "BattlePool": "Kling_Enemy6",
+    "Weight": 1,
+    "id": 115
+  },
+  "116": {
+    "BattlePoolId": "Kling_Enemy6To8",
+    "BattlePool": "Kling_Enemy7",
+    "Weight": 1,
+    "id": 116
+  },
+  "117": {
+    "BattlePoolId": "Kling_Enemy6To8",
+    "BattlePool": "Kling_Enemy8",
+    "Weight": 1,
+    "id": 117
+  },
+  "118": {
+    "BattlePoolId": "Kling_Enemy7To8",
+    "BattlePool": "Kling_Enemy7",
+    "Weight": 1,
+    "id": 118
+  },
+  "119": {
+    "BattlePoolId": "Kling_Enemy7To8",
+    "BattlePool": "Kling_Enemy8",
+    "Weight": 1,
+    "id": 119
+  },
+  "120": {
+    "BattlePoolId": "Kling_Enemy4To5_Elite",
+    "BattlePool": "Kling_Enemy4_Elite",
+    "Weight": 1,
+    "id": 120
+  },
+  "121": {
+    "BattlePoolId": "Kling_Enemy4To5_Elite",
+    "BattlePool": "Kling_Enemy5_Elite",
+    "Weight": 1,
+    "id": 121
+  },
+  "122": {
+    "BattlePoolId": "Kling_Enemy4To6_Elite",
+    "BattlePool": "Kling_Enemy4_Elite",
+    "Weight": 1,
+    "id": 122
+  },
+  "123": {
+    "BattlePoolId": "Kling_Enemy4To6_Elite",
+    "BattlePool": "Kling_Enemy5_Elite",
+    "Weight": 1,
+    "id": 123
+  },
+  "124": {
+    "BattlePoolId": "Kling_Enemy4To6_Elite",
+    "BattlePool": "Kling_Enemy6_Elite",
+    "Weight": 1,
+    "id": 124
+  },
+  "125": {
+    "BattlePoolId": "Kling_Enemy5To6_Elite",
+    "BattlePool": "Kling_Enemy5_Elite",
+    "Weight": 1,
+    "id": 125
+  },
+  "126": {
+    "BattlePoolId": "Kling_Enemy5To6_Elite",
+    "BattlePool": "Kling_Enemy6_Elite",
+    "Weight": 1,
+    "id": 126
+  },
+  "127": {
+    "BattlePoolId": "Kling_Enemy5To7_Elite",
+    "BattlePool": "Kling_Enemy5_Elite",
+    "Weight": 1,
+    "id": 127
+  },
+  "128": {
+    "BattlePoolId": "Kling_Enemy5To7_Elite",
+    "BattlePool": "Kling_Enemy6_Elite",
+    "Weight": 1,
+    "id": 128
+  },
+  "129": {
+    "BattlePoolId": "Kling_Enemy5To7_Elite",
+    "BattlePool": "Kling_Enemy7_Elite",
+    "Weight": 1,
+    "id": 129
+  },
+  "130": {
+    "BattlePoolId": "Kling_Enemy6To7_Elite",
+    "BattlePool": "Kling_Enemy6_Elite",
+    "Weight": 1,
+    "id": 130
+  },
+  "131": {
+    "BattlePoolId": "Kling_Enemy6To7_Elite",
+    "BattlePool": "Kling_Enemy7_Elite",
+    "Weight": 1,
+    "id": 131
+  },
+  "132": {
+    "BattlePoolId": "Kling_Enemy6To8_Elite",
+    "BattlePool": "Kling_Enemy6_Elite",
+    "Weight": 1,
+    "id": 132
+  },
+  "133": {
+    "BattlePoolId": "Kling_Enemy6To8_Elite",
+    "BattlePool": "Kling_Enemy7_Elite",
+    "Weight": 1,
+    "id": 133
+  },
+  "134": {
+    "BattlePoolId": "Kling_Enemy6To8_Elite",
+    "BattlePool": "Kling_Enemy8_Elite",
+    "Weight": 1,
+    "id": 134
+  },
+  "135": {
+    "BattlePoolId": "Kling_Enemy7To8_Elite",
+    "BattlePool": "Kling_Enemy7_Elite",
+    "Weight": 1,
+    "id": 135
+  },
+  "136": {
+    "BattlePoolId": "Kling_Enemy7To8_Elite",
+    "BattlePool": "Kling_Enemy8_Elite",
+    "Weight": 1,
+    "id": 136
+  },
+  "137": {
+    "BattlePoolId": "Kling_Enemy4To5_Boss",
+    "BattlePool": "Kling_Enemy4_Boss",
+    "Weight": 1,
+    "id": 137
+  },
+  "138": {
+    "BattlePoolId": "Kling_Enemy4To5_Boss",
+    "BattlePool": "Kling_Enemy5_Boss",
+    "Weight": 1,
+    "id": 138
+  },
+  "139": {
+    "BattlePoolId": "Kling_Enemy4To6_Boss",
+    "BattlePool": "Kling_Enemy4_Boss",
+    "Weight": 1,
+    "id": 139
+  },
+  "140": {
+    "BattlePoolId": "Kling_Enemy4To6_Boss",
+    "BattlePool": "Kling_Enemy5_Boss",
+    "Weight": 1,
+    "id": 140
+  },
+  "141": {
+    "BattlePoolId": "Kling_Enemy4To6_Boss",
+    "BattlePool": "Kling_Enemy6_Boss",
+    "Weight": 1,
+    "id": 141
+  },
+  "142": {
+    "BattlePoolId": "Kling_Enemy5To6_Boss",
+    "BattlePool": "Kling_Enemy5_Boss",
+    "Weight": 1,
+    "id": 142
+  },
+  "143": {
+    "BattlePoolId": "Kling_Enemy5To6_Boss",
+    "BattlePool": "Kling_Enemy6_Boss",
+    "Weight": 1,
+    "id": 143
+  },
+  "144": {
+    "BattlePoolId": "Kling_Enemy5To7_Boss",
+    "BattlePool": "Kling_Enemy5_Boss",
+    "Weight": 1,
+    "id": 144
+  },
+  "145": {
+    "BattlePoolId": "Kling_Enemy5To7_Boss",
+    "BattlePool": "Kling_Enemy6_Boss",
+    "Weight": 1,
+    "id": 145
+  },
+  "146": {
+    "BattlePoolId": "Kling_Enemy5To7_Boss",
+    "BattlePool": "Kling_Enemy7_Boss",
+    "Weight": 1,
+    "id": 146
+  },
+  "147": {
+    "BattlePoolId": "Kling_Enemy6To7_Boss",
+    "BattlePool": "Kling_Enemy6_Boss",
+    "Weight": 1,
+    "id": 147
+  },
+  "148": {
+    "BattlePoolId": "Kling_Enemy6To7_Boss",
+    "BattlePool": "Kling_Enemy7_Boss",
+    "Weight": 1,
+    "id": 148
+  },
+  "149": {
+    "BattlePoolId": "Kling_Enemy6To8_Boss",
+    "BattlePool": "Kling_Enemy6_Boss",
+    "Weight": 1,
+    "id": 149
+  },
+  "150": {
+    "BattlePoolId": "Kling_Enemy6To8_Boss",
+    "BattlePool": "Kling_Enemy7_Boss",
+    "Weight": 1,
+    "id": 150
+  },
+  "151": {
+    "BattlePoolId": "Kling_Enemy6To8_Boss",
+    "BattlePool": "Kling_Enemy8_Boss",
+    "Weight": 1,
+    "id": 151
+  },
+  "152": {
+    "BattlePoolId": "Kling_Enemy7To8_Boss",
+    "BattlePool": "Kling_Enemy7_Boss",
+    "Weight": 1,
+    "id": 152
+  },
+  "153": {
+    "BattlePoolId": "Kling_Enemy7To8_Boss",
+    "BattlePool": "Kling_Enemy8_Boss",
+    "Weight": 1,
+    "id": 153
+  },
+  "154": {
+    "BattlePoolId": "Romu_Enemy4To5",
+    "BattlePool": "Romu_Enemy4",
+    "Weight": 1,
+    "id": 154
+  },
+  "155": {
+    "BattlePoolId": "Romu_Enemy4To5",
+    "BattlePool": "Romu_Enemy5",
+    "Weight": 1,
+    "id": 155
+  },
+  "156": {
+    "BattlePoolId": "Romu_Enemy4To6",
+    "BattlePool": "Romu_Enemy4",
+    "Weight": 1,
+    "id": 156
+  },
+  "157": {
+    "BattlePoolId": "Romu_Enemy4To6",
+    "BattlePool": "Romu_Enemy5",
+    "Weight": 1,
+    "id": 157
+  },
+  "158": {
+    "BattlePoolId": "Romu_Enemy4To6",
+    "BattlePool": "Romu_Enemy6",
+    "Weight": 1,
+    "id": 158
+  },
+  "159": {
+    "BattlePoolId": "Romu_Enemy5To6",
+    "BattlePool": "Romu_Enemy5",
+    "Weight": 1,
+    "id": 159
+  },
+  "160": {
+    "BattlePoolId": "Romu_Enemy5To6",
+    "BattlePool": "Romu_Enemy6",
+    "Weight": 1,
+    "id": 160
+  },
+  "161": {
+    "BattlePoolId": "Romu_Enemy5To7",
+    "BattlePool": "Romu_Enemy5",
+    "Weight": 1,
+    "id": 161
+  },
+  "162": {
+    "BattlePoolId": "Romu_Enemy5To7",
+    "BattlePool": "Romu_Enemy6",
+    "Weight": 1,
+    "id": 162
+  },
+  "163": {
+    "BattlePoolId": "Romu_Enemy5To7",
+    "BattlePool": "Romu_Enemy7",
+    "Weight": 1,
+    "id": 163
+  },
+  "164": {
+    "BattlePoolId": "Romu_Enemy6To7",
+    "BattlePool": "Romu_Enemy6",
+    "Weight": 1,
+    "id": 164
+  },
+  "165": {
+    "BattlePoolId": "Romu_Enemy6To7",
+    "BattlePool": "Romu_Enemy7",
+    "Weight": 1,
+    "id": 165
+  },
+  "166": {
+    "BattlePoolId": "Romu_Enemy6To8",
+    "BattlePool": "Romu_Enemy6",
+    "Weight": 1,
+    "id": 166
+  },
+  "167": {
+    "BattlePoolId": "Romu_Enemy6To8",
+    "BattlePool": "Romu_Enemy7",
+    "Weight": 1,
+    "id": 167
+  },
+  "168": {
+    "BattlePoolId": "Romu_Enemy6To8",
+    "BattlePool": "Romu_Enemy8",
+    "Weight": 1,
+    "id": 168
+  },
+  "169": {
+    "BattlePoolId": "Romu_Enemy7To8",
+    "BattlePool": "Romu_Enemy7",
+    "Weight": 1,
+    "id": 169
+  },
+  "170": {
+    "BattlePoolId": "Romu_Enemy7To8",
+    "BattlePool": "Romu_Enemy8",
+    "Weight": 1,
+    "id": 170
+  },
+  "171": {
+    "BattlePoolId": "Romu_Enemy4To5_Elite",
+    "BattlePool": "Romu_Enemy4_Elite",
+    "Weight": 1,
+    "id": 171
+  },
+  "172": {
+    "BattlePoolId": "Romu_Enemy4To5_Elite",
+    "BattlePool": "Romu_Enemy5_Elite",
+    "Weight": 1,
+    "id": 172
+  },
+  "173": {
+    "BattlePoolId": "Romu_Enemy4To6_Elite",
+    "BattlePool": "Romu_Enemy4_Elite",
+    "Weight": 1,
+    "id": 173
+  },
+  "174": {
+    "BattlePoolId": "Romu_Enemy4To6_Elite",
+    "BattlePool": "Romu_Enemy5_Elite",
+    "Weight": 1,
+    "id": 174
+  },
+  "175": {
+    "BattlePoolId": "Romu_Enemy4To6_Elite",
+    "BattlePool": "Romu_Enemy6_Elite",
+    "Weight": 1,
+    "id": 175
+  },
+  "176": {
+    "BattlePoolId": "Romu_Enemy5To6_Elite",
+    "BattlePool": "Romu_Enemy5_Elite",
+    "Weight": 1,
+    "id": 176
+  },
+  "177": {
+    "BattlePoolId": "Romu_Enemy5To6_Elite",
+    "BattlePool": "Romu_Enemy6_Elite",
+    "Weight": 1,
+    "id": 177
+  },
+  "178": {
+    "BattlePoolId": "Romu_Enemy5To7_Elite",
+    "BattlePool": "Romu_Enemy5_Elite",
+    "Weight": 1,
+    "id": 178
+  },
+  "179": {
+    "BattlePoolId": "Romu_Enemy5To7_Elite",
+    "BattlePool": "Romu_Enemy6_Elite",
+    "Weight": 1,
+    "id": 179
+  },
+  "180": {
+    "BattlePoolId": "Romu_Enemy5To7_Elite",
+    "BattlePool": "Romu_Enemy7_Elite",
+    "Weight": 1,
+    "id": 180
+  },
+  "181": {
+    "BattlePoolId": "Romu_Enemy6To7_Elite",
+    "BattlePool": "Romu_Enemy6_Elite",
+    "Weight": 1,
+    "id": 181
+  },
+  "182": {
+    "BattlePoolId": "Romu_Enemy6To7_Elite",
+    "BattlePool": "Romu_Enemy7_Elite",
+    "Weight": 1,
+    "id": 182
+  },
+  "183": {
+    "BattlePoolId": "Romu_Enemy6To8_Elite",
+    "BattlePool": "Romu_Enemy6_Elite",
+    "Weight": 1,
+    "id": 183
+  },
+  "184": {
+    "BattlePoolId": "Romu_Enemy6To8_Elite",
+    "BattlePool": "Romu_Enemy7_Elite",
+    "Weight": 1,
+    "id": 184
+  },
+  "185": {
+    "BattlePoolId": "Romu_Enemy6To8_Elite",
+    "BattlePool": "Romu_Enemy8_Elite",
+    "Weight": 1,
+    "id": 185
+  },
+  "186": {
+    "BattlePoolId": "Romu_Enemy7To8_Elite",
+    "BattlePool": "Romu_Enemy7_Elite",
+    "Weight": 1,
+    "id": 186
+  },
+  "187": {
+    "BattlePoolId": "Romu_Enemy7To8_Elite",
+    "BattlePool": "Romu_Enemy8_Elite",
+    "Weight": 1,
+    "id": 187
+  },
+  "188": {
+    "BattlePoolId": "Romu_Enemy4To5_Boss",
+    "BattlePool": "Romu_Enemy4_Boss",
+    "Weight": 1,
+    "id": 188
+  },
+  "189": {
+    "BattlePoolId": "Romu_Enemy4To5_Boss",
+    "BattlePool": "Romu_Enemy5_Boss",
+    "Weight": 1,
+    "id": 189
+  },
+  "190": {
+    "BattlePoolId": "Romu_Enemy4To6_Boss",
+    "BattlePool": "Romu_Enemy4_Boss",
+    "Weight": 1,
+    "id": 190
+  },
+  "191": {
+    "BattlePoolId": "Romu_Enemy4To6_Boss",
+    "BattlePool": "Romu_Enemy5_Boss",
+    "Weight": 1,
+    "id": 191
+  },
+  "192": {
+    "BattlePoolId": "Romu_Enemy4To6_Boss",
+    "BattlePool": "Romu_Enemy6_Boss",
+    "Weight": 1,
+    "id": 192
+  },
+  "193": {
+    "BattlePoolId": "Romu_Enemy5To6_Boss",
+    "BattlePool": "Romu_Enemy5_Boss",
+    "Weight": 1,
+    "id": 193
+  },
+  "194": {
+    "BattlePoolId": "Romu_Enemy5To6_Boss",
+    "BattlePool": "Romu_Enemy6_Boss",
+    "Weight": 1,
+    "id": 194
+  },
+  "195": {
+    "BattlePoolId": "Romu_Enemy5To7_Boss",
+    "BattlePool": "Romu_Enemy5_Boss",
+    "Weight": 1,
+    "id": 195
+  },
+  "196": {
+    "BattlePoolId": "Romu_Enemy5To7_Boss",
+    "BattlePool": "Romu_Enemy6_Boss",
+    "Weight": 1,
+    "id": 196
+  },
+  "197": {
+    "BattlePoolId": "Romu_Enemy5To7_Boss",
+    "BattlePool": "Romu_Enemy7_Boss",
+    "Weight": 1,
+    "id": 197
+  },
+  "198": {
+    "BattlePoolId": "Romu_Enemy6To7_Boss",
+    "BattlePool": "Romu_Enemy6_Boss",
+    "Weight": 1,
+    "id": 198
+  },
+  "199": {
+    "BattlePoolId": "Romu_Enemy6To7_Boss",
+    "BattlePool": "Romu_Enemy7_Boss",
+    "Weight": 1,
+    "id": 199
+  },
+  "200": {
+    "BattlePoolId": "Romu_Enemy6To8_Boss",
+    "BattlePool": "Romu_Enemy6_Boss",
+    "Weight": 1,
+    "id": 200
+  },
+  "201": {
+    "BattlePoolId": "Romu_Enemy6To8_Boss",
+    "BattlePool": "Romu_Enemy7_Boss",
+    "Weight": 1,
+    "id": 201
+  },
+  "202": {
+    "BattlePoolId": "Romu_Enemy6To8_Boss",
+    "BattlePool": "Romu_Enemy8_Boss",
+    "Weight": 1,
+    "id": 202
+  },
+  "203": {
+    "BattlePoolId": "Romu_Enemy7To8_Boss",
+    "BattlePool": "Romu_Enemy7_Boss",
+    "Weight": 1,
+    "id": 203
+  },
+  "204": {
+    "BattlePoolId": "Romu_Enemy7To8_Boss",
+    "BattlePool": "Romu_Enemy8_Boss",
+    "Weight": 1,
+    "id": 204
+  },
+  "205": {
+    "BattlePoolId": "Fed_Enemy4To5",
+    "BattlePool": "Fed_Enemy4",
+    "Weight": 1,
+    "id": 205
+  },
+  "206": {
+    "BattlePoolId": "Fed_Enemy4To5",
+    "BattlePool": "Fed_Enemy5",
+    "Weight": 1,
+    "id": 206
+  },
+  "207": {
+    "BattlePoolId": "Fed_Enemy4To6",
+    "BattlePool": "Fed_Enemy4",
+    "Weight": 1,
+    "id": 207
+  },
+  "208": {
+    "BattlePoolId": "Fed_Enemy4To6",
+    "BattlePool": "Fed_Enemy5",
+    "Weight": 1,
+    "id": 208
+  },
+  "209": {
+    "BattlePoolId": "Fed_Enemy4To6",
+    "BattlePool": "Fed_Enemy6",
+    "Weight": 1,
+    "id": 209
+  },
+  "210": {
+    "BattlePoolId": "Fed_Enemy5To6",
+    "BattlePool": "Fed_Enemy5",
+    "Weight": 1,
+    "id": 210
+  },
+  "211": {
+    "BattlePoolId": "Fed_Enemy5To6",
+    "BattlePool": "Fed_Enemy6",
+    "Weight": 1,
+    "id": 211
+  },
+  "212": {
+    "BattlePoolId": "Fed_Enemy5To7",
+    "BattlePool": "Fed_Enemy5",
+    "Weight": 1,
+    "id": 212
+  },
+  "213": {
+    "BattlePoolId": "Fed_Enemy5To7",
+    "BattlePool": "Fed_Enemy6",
+    "Weight": 1,
+    "id": 213
+  },
+  "214": {
+    "BattlePoolId": "Fed_Enemy5To7",
+    "BattlePool": "Fed_Enemy7",
+    "Weight": 1,
+    "id": 214
+  },
+  "215": {
+    "BattlePoolId": "Fed_Enemy6To7",
+    "BattlePool": "Fed_Enemy6",
+    "Weight": 1,
+    "id": 215
+  },
+  "216": {
+    "BattlePoolId": "Fed_Enemy6To7",
+    "BattlePool": "Fed_Enemy7",
+    "Weight": 1,
+    "id": 216
+  },
+  "217": {
+    "BattlePoolId": "Fed_Enemy6To8",
+    "BattlePool": "Fed_Enemy6",
+    "Weight": 1,
+    "id": 217
+  },
+  "218": {
+    "BattlePoolId": "Fed_Enemy6To8",
+    "BattlePool": "Fed_Enemy7",
+    "Weight": 1,
+    "id": 218
+  },
+  "219": {
+    "BattlePoolId": "Fed_Enemy6To8",
+    "BattlePool": "Fed_Enemy8",
+    "Weight": 1,
+    "id": 219
+  },
+  "220": {
+    "BattlePoolId": "Fed_Enemy7To8",
+    "BattlePool": "Fed_Enemy7",
+    "Weight": 1,
+    "id": 220
+  },
+  "221": {
+    "BattlePoolId": "Fed_Enemy7To8",
+    "BattlePool": "Fed_Enemy8",
+    "Weight": 1,
+    "id": 221
+  },
+  "222": {
+    "BattlePoolId": "Fed_Enemy4To5_Elite",
+    "BattlePool": "Fed_Enemy4_Elite",
+    "Weight": 1,
+    "id": 222
+  },
+  "223": {
+    "BattlePoolId": "Fed_Enemy4To5_Elite",
+    "BattlePool": "Fed_Enemy5_Elite",
+    "Weight": 1,
+    "id": 223
+  },
+  "224": {
+    "BattlePoolId": "Fed_Enemy4To6_Elite",
+    "BattlePool": "Fed_Enemy4_Elite",
+    "Weight": 1,
+    "id": 224
+  },
+  "225": {
+    "BattlePoolId": "Fed_Enemy4To6_Elite",
+    "BattlePool": "Fed_Enemy5_Elite",
+    "Weight": 1,
+    "id": 225
+  },
+  "226": {
+    "BattlePoolId": "Fed_Enemy4To6_Elite",
+    "BattlePool": "Fed_Enemy6_Elite",
+    "Weight": 1,
+    "id": 226
+  },
+  "227": {
+    "BattlePoolId": "Fed_Enemy5To6_Elite",
+    "BattlePool": "Fed_Enemy5_Elite",
+    "Weight": 1,
+    "id": 227
+  },
+  "228": {
+    "BattlePoolId": "Fed_Enemy5To6_Elite",
+    "BattlePool": "Fed_Enemy6_Elite",
+    "Weight": 1,
+    "id": 228
+  },
+  "229": {
+    "BattlePoolId": "Fed_Enemy5To7_Elite",
+    "BattlePool": "Fed_Enemy5_Elite",
+    "Weight": 1,
+    "id": 229
+  },
+  "230": {
+    "BattlePoolId": "Fed_Enemy5To7_Elite",
+    "BattlePool": "Fed_Enemy6_Elite",
+    "Weight": 1,
+    "id": 230
+  },
+  "231": {
+    "BattlePoolId": "Fed_Enemy5To7_Elite",
+    "BattlePool": "Fed_Enemy7_Elite",
+    "Weight": 1,
+    "id": 231
+  },
+  "232": {
+    "BattlePoolId": "Fed_Enemy6To7_Elite",
+    "BattlePool": "Fed_Enemy6_Elite",
+    "Weight": 1,
+    "id": 232
+  },
+  "233": {
+    "BattlePoolId": "Fed_Enemy6To7_Elite",
+    "BattlePool": "Fed_Enemy7_Elite",
+    "Weight": 1,
+    "id": 233
+  },
+  "234": {
+    "BattlePoolId": "Fed_Enemy6To8_Elite",
+    "BattlePool": "Fed_Enemy6_Elite",
+    "Weight": 1,
+    "id": 234
+  },
+  "235": {
+    "BattlePoolId": "Fed_Enemy6To8_Elite",
+    "BattlePool": "Fed_Enemy7_Elite",
+    "Weight": 1,
+    "id": 235
+  },
+  "236": {
+    "BattlePoolId": "Fed_Enemy6To8_Elite",
+    "BattlePool": "Fed_Enemy8_Elite",
+    "Weight": 1,
+    "id": 236
+  },
+  "237": {
+    "BattlePoolId": "Fed_Enemy7To8_Elite",
+    "BattlePool": "Fed_Enemy7_Elite",
+    "Weight": 1,
+    "id": 237
+  },
+  "238": {
+    "BattlePoolId": "Fed_Enemy7To8_Elite",
+    "BattlePool": "Fed_Enemy8_Elite",
+    "Weight": 1,
+    "id": 238
+  },
+  "239": {
+    "BattlePoolId": "Fed_Enemy4To5_Boss",
+    "BattlePool": "Fed_Enemy4_Boss",
+    "Weight": 1,
+    "id": 239
+  },
+  "240": {
+    "BattlePoolId": "Fed_Enemy4To5_Boss",
+    "BattlePool": "Fed_Enemy5_Boss",
+    "Weight": 1,
+    "id": 240
+  },
+  "241": {
+    "BattlePoolId": "Fed_Enemy4To6_Boss",
+    "BattlePool": "Fed_Enemy4_Boss",
+    "Weight": 1,
+    "id": 241
+  },
+  "242": {
+    "BattlePoolId": "Fed_Enemy4To6_Boss",
+    "BattlePool": "Fed_Enemy5_Boss",
+    "Weight": 1,
+    "id": 242
+  },
+  "243": {
+    "BattlePoolId": "Fed_Enemy4To6_Boss",
+    "BattlePool": "Fed_Enemy6_Boss",
+    "Weight": 1,
+    "id": 243
+  },
+  "244": {
+    "BattlePoolId": "Fed_Enemy5To6_Boss",
+    "BattlePool": "Fed_Enemy5_Boss",
+    "Weight": 1,
+    "id": 244
+  },
+  "245": {
+    "BattlePoolId": "Fed_Enemy5To6_Boss",
+    "BattlePool": "Fed_Enemy6_Boss",
+    "Weight": 1,
+    "id": 245
+  },
+  "246": {
+    "BattlePoolId": "Fed_Enemy5To7_Boss",
+    "BattlePool": "Fed_Enemy5_Boss",
+    "Weight": 1,
+    "id": 246
+  },
+  "247": {
+    "BattlePoolId": "Fed_Enemy5To7_Boss",
+    "BattlePool": "Fed_Enemy6_Boss",
+    "Weight": 1,
+    "id": 247
+  },
+  "248": {
+    "BattlePoolId": "Fed_Enemy5To7_Boss",
+    "BattlePool": "Fed_Enemy7_Boss",
+    "Weight": 1,
+    "id": 248
+  },
+  "249": {
+    "BattlePoolId": "Fed_Enemy6To7_Boss",
+    "BattlePool": "Fed_Enemy6_Boss",
+    "Weight": 1,
+    "id": 249
+  },
+  "250": {
+    "BattlePoolId": "Fed_Enemy6To7_Boss",
+    "BattlePool": "Fed_Enemy7_Boss",
+    "Weight": 1,
+    "id": 250
+  },
+  "251": {
+    "BattlePoolId": "Fed_Enemy6To8_Boss",
+    "BattlePool": "Fed_Enemy6_Boss",
+    "Weight": 1,
+    "id": 251
+  },
+  "252": {
+    "BattlePoolId": "Fed_Enemy6To8_Boss",
+    "BattlePool": "Fed_Enemy7_Boss",
+    "Weight": 1,
+    "id": 252
+  },
+  "253": {
+    "BattlePoolId": "Fed_Enemy6To8_Boss",
+    "BattlePool": "Fed_Enemy8_Boss",
+    "Weight": 1,
+    "id": 253
+  },
+  "254": {
+    "BattlePoolId": "Fed_Enemy7To8_Boss",
+    "BattlePool": "Fed_Enemy7_Boss",
+    "Weight": 1,
+    "id": 254
+  },
+  "255": {
+    "BattlePoolId": "Fed_Enemy7To8_Boss",
+    "BattlePool": "Fed_Enemy8_Boss",
+    "Weight": 1,
+    "id": 255
+  },
+  "256": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle01",
+    "Weight": 1,
+    "id": 256
+  },
+  "257": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle02",
+    "Weight": 1,
+    "id": 257
+  },
+  "258": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle03",
+    "Weight": 1,
+    "id": 258
+  },
+  "259": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle04",
+    "Weight": 1,
+    "id": 259
+  },
+  "260": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle05",
+    "Weight": 1,
+    "id": 260
+  },
+  "261": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle06",
+    "Weight": 1,
+    "id": 261
+  },
+  "262": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle07",
+    "Weight": 1,
+    "id": 262
+  },
+  "263": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle08",
+    "Weight": 1,
+    "id": 263
+  },
+  "264": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle09",
+    "Weight": 1,
+    "id": 264
+  },
+  "265": {
+    "BattlePoolId": "Borg_Enemy4",
+    "BattleId": "Borg_Enemy4_battle10",
+    "Weight": 1,
+    "id": 265
+  },
+  "266": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle01",
+    "Weight": 1,
+    "id": 266
+  },
+  "267": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle02",
+    "Weight": 1,
+    "id": 267
+  },
+  "268": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle03",
+    "Weight": 1,
+    "id": 268
+  },
+  "269": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle04",
+    "Weight": 1,
+    "id": 269
+  },
+  "270": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle05",
+    "Weight": 1,
+    "id": 270
+  },
+  "271": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle06",
+    "Weight": 1,
+    "id": 271
+  },
+  "272": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle07",
+    "Weight": 1,
+    "id": 272
+  },
+  "273": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle08",
+    "Weight": 1,
+    "id": 273
+  },
+  "274": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle09",
+    "Weight": 1,
+    "id": 274
+  },
+  "275": {
+    "BattlePoolId": "Borg_Enemy5",
+    "BattleId": "Borg_Enemy5_battle10",
+    "Weight": 1,
+    "id": 275
+  },
+  "276": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle01",
+    "Weight": 1,
+    "id": 276
+  },
+  "277": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle02",
+    "Weight": 1,
+    "id": 277
+  },
+  "278": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle03",
+    "Weight": 1,
+    "id": 278
+  },
+  "279": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle04",
+    "Weight": 1,
+    "id": 279
+  },
+  "280": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle05",
+    "Weight": 1,
+    "id": 280
+  },
+  "281": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle06",
+    "Weight": 1,
+    "id": 281
+  },
+  "282": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle07",
+    "Weight": 1,
+    "id": 282
+  },
+  "283": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle08",
+    "Weight": 1,
+    "id": 283
+  },
+  "284": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle09",
+    "Weight": 1,
+    "id": 284
+  },
+  "285": {
+    "BattlePoolId": "Borg_Enemy6",
+    "BattleId": "Borg_Enemy6_battle10",
+    "Weight": 1,
+    "id": 285
+  },
+  "286": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle01",
+    "Weight": 1,
+    "id": 286
+  },
+  "287": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle02",
+    "Weight": 1,
+    "id": 287
+  },
+  "288": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle03",
+    "Weight": 1,
+    "id": 288
+  },
+  "289": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle04",
+    "Weight": 1,
+    "id": 289
+  },
+  "290": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle05",
+    "Weight": 1,
+    "id": 290
+  },
+  "291": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle06",
+    "Weight": 1,
+    "id": 291
+  },
+  "292": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle07",
+    "Weight": 1,
+    "id": 292
+  },
+  "293": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle08",
+    "Weight": 1,
+    "id": 293
+  },
+  "294": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle09",
+    "Weight": 1,
+    "id": 294
+  },
+  "295": {
+    "BattlePoolId": "Borg_Enemy7",
+    "BattleId": "Borg_Enemy7_battle10",
+    "Weight": 1,
+    "id": 295
+  },
+  "296": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle01",
+    "Weight": 1,
+    "id": 296
+  },
+  "297": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle02",
+    "Weight": 1,
+    "id": 297
+  },
+  "298": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle03",
+    "Weight": 1,
+    "id": 298
+  },
+  "299": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle04",
+    "Weight": 1,
+    "id": 299
+  },
+  "300": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle05",
+    "Weight": 1,
+    "id": 300
+  },
+  "301": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle06",
+    "Weight": 1,
+    "id": 301
+  },
+  "302": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle07",
+    "Weight": 1,
+    "id": 302
+  },
+  "303": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle08",
+    "Weight": 1,
+    "id": 303
+  },
+  "304": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle09",
+    "Weight": 1,
+    "id": 304
+  },
+  "305": {
+    "BattlePoolId": "Borg_Enemy8",
+    "BattleId": "Borg_Enemy8_battle10",
+    "Weight": 1,
+    "id": 305
+  },
+  "306": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle01",
+    "Weight": 1,
+    "id": 306
+  },
+  "307": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle02",
+    "Weight": 1,
+    "id": 307
+  },
+  "308": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle03",
+    "Weight": 1,
+    "id": 308
+  },
+  "309": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle04",
+    "Weight": 1,
+    "id": 309
+  },
+  "310": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle05",
+    "Weight": 1,
+    "id": 310
+  },
+  "311": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle06",
+    "Weight": 1,
+    "id": 311
+  },
+  "312": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle07",
+    "Weight": 1,
+    "id": 312
+  },
+  "313": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle08",
+    "Weight": 1,
+    "id": 313
+  },
+  "314": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle09",
+    "Weight": 1,
+    "id": 314
+  },
+  "315": {
+    "BattlePoolId": "Borg_Enemy4_Elite",
+    "BattleId": "Borg_Enemy4_Elite_battle10",
+    "Weight": 1,
+    "id": 315
+  },
+  "316": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle01",
+    "Weight": 1,
+    "id": 316
+  },
+  "317": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle02",
+    "Weight": 1,
+    "id": 317
+  },
+  "318": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle03",
+    "Weight": 1,
+    "id": 318
+  },
+  "319": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle04",
+    "Weight": 1,
+    "id": 319
+  },
+  "320": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle05",
+    "Weight": 1,
+    "id": 320
+  },
+  "321": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle06",
+    "Weight": 1,
+    "id": 321
+  },
+  "322": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle07",
+    "Weight": 1,
+    "id": 322
+  },
+  "323": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle08",
+    "Weight": 1,
+    "id": 323
+  },
+  "324": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle09",
+    "Weight": 1,
+    "id": 324
+  },
+  "325": {
+    "BattlePoolId": "Borg_Enemy5_Elite",
+    "BattleId": "Borg_Enemy5_Elite_battle10",
+    "Weight": 1,
+    "id": 325
+  },
+  "326": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle01",
+    "Weight": 1,
+    "id": 326
+  },
+  "327": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle02",
+    "Weight": 1,
+    "id": 327
+  },
+  "328": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle03",
+    "Weight": 1,
+    "id": 328
+  },
+  "329": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle04",
+    "Weight": 1,
+    "id": 329
+  },
+  "330": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle05",
+    "Weight": 1,
+    "id": 330
+  },
+  "331": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle06",
+    "Weight": 1,
+    "id": 331
+  },
+  "332": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle07",
+    "Weight": 1,
+    "id": 332
+  },
+  "333": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle08",
+    "Weight": 1,
+    "id": 333
+  },
+  "334": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle09",
+    "Weight": 1,
+    "id": 334
+  },
+  "335": {
+    "BattlePoolId": "Borg_Enemy6_Elite",
+    "BattleId": "Borg_Enemy6_Elite_battle10",
+    "Weight": 1,
+    "id": 335
+  },
+  "336": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle01",
+    "Weight": 1,
+    "id": 336
+  },
+  "337": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle02",
+    "Weight": 1,
+    "id": 337
+  },
+  "338": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle03",
+    "Weight": 1,
+    "id": 338
+  },
+  "339": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle04",
+    "Weight": 1,
+    "id": 339
+  },
+  "340": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle05",
+    "Weight": 1,
+    "id": 340
+  },
+  "341": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle06",
+    "Weight": 1,
+    "id": 341
+  },
+  "342": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle07",
+    "Weight": 1,
+    "id": 342
+  },
+  "343": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle08",
+    "Weight": 1,
+    "id": 343
+  },
+  "344": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle09",
+    "Weight": 1,
+    "id": 344
+  },
+  "345": {
+    "BattlePoolId": "Borg_Enemy7_Elite",
+    "BattleId": "Borg_Enemy7_Elite_battle10",
+    "Weight": 1,
+    "id": 345
+  },
+  "346": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle01",
+    "Weight": 1,
+    "id": 346
+  },
+  "347": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle02",
+    "Weight": 1,
+    "id": 347
+  },
+  "348": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle03",
+    "Weight": 1,
+    "id": 348
+  },
+  "349": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle04",
+    "Weight": 1,
+    "id": 349
+  },
+  "350": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle05",
+    "Weight": 1,
+    "id": 350
+  },
+  "351": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle06",
+    "Weight": 1,
+    "id": 351
+  },
+  "352": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle07",
+    "Weight": 1,
+    "id": 352
+  },
+  "353": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle08",
+    "Weight": 1,
+    "id": 353
+  },
+  "354": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle09",
+    "Weight": 1,
+    "id": 354
+  },
+  "355": {
+    "BattlePoolId": "Borg_Enemy8_Elite",
+    "BattleId": "Borg_Enemy8_Elite_battle10",
+    "Weight": 1,
+    "id": 355
+  },
+  "356": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle01",
+    "Weight": 1,
+    "id": 356
+  },
+  "357": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle02",
+    "Weight": 1,
+    "id": 357
+  },
+  "358": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle03",
+    "Weight": 1,
+    "id": 358
+  },
+  "359": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle04",
+    "Weight": 1,
+    "id": 359
+  },
+  "360": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle05",
+    "Weight": 1,
+    "id": 360
+  },
+  "361": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle06",
+    "Weight": 1,
+    "id": 361
+  },
+  "362": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle07",
+    "Weight": 1,
+    "id": 362
+  },
+  "363": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle08",
+    "Weight": 1,
+    "id": 363
+  },
+  "364": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle09",
+    "Weight": 1,
+    "id": 364
+  },
+  "365": {
+    "BattlePoolId": "Borg_Enemy4_Boss",
+    "BattleId": "Borg_Enemy4_Boss_battle10",
+    "Weight": 1,
+    "id": 365
+  },
+  "366": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle01",
+    "Weight": 1,
+    "id": 366
+  },
+  "367": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle02",
+    "Weight": 1,
+    "id": 367
+  },
+  "368": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle03",
+    "Weight": 1,
+    "id": 368
+  },
+  "369": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle04",
+    "Weight": 1,
+    "id": 369
+  },
+  "370": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle05",
+    "Weight": 1,
+    "id": 370
+  },
+  "371": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle06",
+    "Weight": 1,
+    "id": 371
+  },
+  "372": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle07",
+    "Weight": 1,
+    "id": 372
+  },
+  "373": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle08",
+    "Weight": 1,
+    "id": 373
+  },
+  "374": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle09",
+    "Weight": 1,
+    "id": 374
+  },
+  "375": {
+    "BattlePoolId": "Borg_Enemy5_Boss",
+    "BattleId": "Borg_Enemy5_Boss_battle10",
+    "Weight": 1,
+    "id": 375
+  },
+  "376": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle01",
+    "Weight": 1,
+    "id": 376
+  },
+  "377": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle02",
+    "Weight": 1,
+    "id": 377
+  },
+  "378": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle03",
+    "Weight": 1,
+    "id": 378
+  },
+  "379": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle04",
+    "Weight": 1,
+    "id": 379
+  },
+  "380": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle05",
+    "Weight": 1,
+    "id": 380
+  },
+  "381": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle06",
+    "Weight": 1,
+    "id": 381
+  },
+  "382": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle07",
+    "Weight": 1,
+    "id": 382
+  },
+  "383": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle08",
+    "Weight": 1,
+    "id": 383
+  },
+  "384": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle09",
+    "Weight": 1,
+    "id": 384
+  },
+  "385": {
+    "BattlePoolId": "Borg_Enemy6_Boss",
+    "BattleId": "Borg_Enemy6_Boss_battle10",
+    "Weight": 1,
+    "id": 385
+  },
+  "386": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle01",
+    "Weight": 1,
+    "id": 386
+  },
+  "387": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle02",
+    "Weight": 1,
+    "id": 387
+  },
+  "388": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle03",
+    "Weight": 1,
+    "id": 388
+  },
+  "389": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle04",
+    "Weight": 1,
+    "id": 389
+  },
+  "390": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle05",
+    "Weight": 1,
+    "id": 390
+  },
+  "391": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle06",
+    "Weight": 1,
+    "id": 391
+  },
+  "392": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle07",
+    "Weight": 1,
+    "id": 392
+  },
+  "393": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle08",
+    "Weight": 1,
+    "id": 393
+  },
+  "394": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle09",
+    "Weight": 1,
+    "id": 394
+  },
+  "395": {
+    "BattlePoolId": "Borg_Enemy7_Boss",
+    "BattleId": "Borg_Enemy7_Boss_battle10",
+    "Weight": 1,
+    "id": 395
+  },
+  "396": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle01",
+    "Weight": 1,
+    "id": 396
+  },
+  "397": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle02",
+    "Weight": 1,
+    "id": 397
+  },
+  "398": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle03",
+    "Weight": 1,
+    "id": 398
+  },
+  "399": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle04",
+    "Weight": 1,
+    "id": 399
+  },
+  "400": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle05",
+    "Weight": 1,
+    "id": 400
+  },
+  "401": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle06",
+    "Weight": 1,
+    "id": 401
+  },
+  "402": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle07",
+    "Weight": 1,
+    "id": 402
+  },
+  "403": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle08",
+    "Weight": 1,
+    "id": 403
+  },
+  "404": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle09",
+    "Weight": 1,
+    "id": 404
+  },
+  "405": {
+    "BattlePoolId": "Borg_Enemy8_Boss",
+    "BattleId": "Borg_Enemy8_Boss_battle10",
+    "Weight": 1,
+    "id": 405
+  },
+  "406": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle01",
+    "Weight": 1,
+    "id": 406
+  },
+  "407": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle02",
+    "Weight": 1,
+    "id": 407
+  },
+  "408": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle03",
+    "Weight": 1,
+    "id": 408
+  },
+  "409": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle04",
+    "Weight": 1,
+    "id": 409
+  },
+  "410": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle05",
+    "Weight": 1,
+    "id": 410
+  },
+  "411": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle06",
+    "Weight": 1,
+    "id": 411
+  },
+  "412": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle07",
+    "Weight": 1,
+    "id": 412
+  },
+  "413": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle08",
+    "Weight": 1,
+    "id": 413
+  },
+  "414": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle09",
+    "Weight": 1,
+    "id": 414
+  },
+  "415": {
+    "BattlePoolId": "Card_Enemy4",
+    "BattleId": "Card_Enemy4_battle10",
+    "Weight": 1,
+    "id": 415
+  },
+  "416": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle01",
+    "Weight": 1,
+    "id": 416
+  },
+  "417": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle02",
+    "Weight": 1,
+    "id": 417
+  },
+  "418": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle03",
+    "Weight": 1,
+    "id": 418
+  },
+  "419": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle04",
+    "Weight": 1,
+    "id": 419
+  },
+  "420": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle05",
+    "Weight": 1,
+    "id": 420
+  },
+  "421": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle06",
+    "Weight": 1,
+    "id": 421
+  },
+  "422": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle07",
+    "Weight": 1,
+    "id": 422
+  },
+  "423": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle08",
+    "Weight": 1,
+    "id": 423
+  },
+  "424": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle09",
+    "Weight": 1,
+    "id": 424
+  },
+  "425": {
+    "BattlePoolId": "Card_Enemy5",
+    "BattleId": "Card_Enemy5_battle10",
+    "Weight": 1,
+    "id": 425
+  },
+  "426": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle01",
+    "Weight": 1,
+    "id": 426
+  },
+  "427": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle02",
+    "Weight": 1,
+    "id": 427
+  },
+  "428": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle03",
+    "Weight": 1,
+    "id": 428
+  },
+  "429": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle04",
+    "Weight": 1,
+    "id": 429
+  },
+  "430": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle05",
+    "Weight": 1,
+    "id": 430
+  },
+  "431": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle06",
+    "Weight": 1,
+    "id": 431
+  },
+  "432": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle07",
+    "Weight": 1,
+    "id": 432
+  },
+  "433": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle08",
+    "Weight": 1,
+    "id": 433
+  },
+  "434": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle09",
+    "Weight": 1,
+    "id": 434
+  },
+  "435": {
+    "BattlePoolId": "Card_Enemy6",
+    "BattleId": "Card_Enemy6_battle10",
+    "Weight": 1,
+    "id": 435
+  },
+  "436": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle01",
+    "Weight": 1,
+    "id": 436
+  },
+  "437": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle02",
+    "Weight": 1,
+    "id": 437
+  },
+  "438": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle03",
+    "Weight": 1,
+    "id": 438
+  },
+  "439": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle04",
+    "Weight": 1,
+    "id": 439
+  },
+  "440": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle05",
+    "Weight": 1,
+    "id": 440
+  },
+  "441": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle06",
+    "Weight": 1,
+    "id": 441
+  },
+  "442": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle07",
+    "Weight": 1,
+    "id": 442
+  },
+  "443": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle08",
+    "Weight": 1,
+    "id": 443
+  },
+  "444": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle09",
+    "Weight": 1,
+    "id": 444
+  },
+  "445": {
+    "BattlePoolId": "Card_Enemy7",
+    "BattleId": "Card_Enemy7_battle10",
+    "Weight": 1,
+    "id": 445
+  },
+  "446": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle01",
+    "Weight": 1,
+    "id": 446
+  },
+  "447": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle02",
+    "Weight": 1,
+    "id": 447
+  },
+  "448": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle03",
+    "Weight": 1,
+    "id": 448
+  },
+  "449": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle04",
+    "Weight": 1,
+    "id": 449
+  },
+  "450": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle05",
+    "Weight": 1,
+    "id": 450
+  },
+  "451": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle06",
+    "Weight": 1,
+    "id": 451
+  },
+  "452": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle07",
+    "Weight": 1,
+    "id": 452
+  },
+  "453": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle08",
+    "Weight": 1,
+    "id": 453
+  },
+  "454": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle09",
+    "Weight": 1,
+    "id": 454
+  },
+  "455": {
+    "BattlePoolId": "Card_Enemy8",
+    "BattleId": "Card_Enemy8_battle10",
+    "Weight": 1,
+    "id": 455
+  },
+  "456": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle01",
+    "Weight": 1,
+    "id": 456
+  },
+  "457": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle02",
+    "Weight": 1,
+    "id": 457
+  },
+  "458": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle03",
+    "Weight": 1,
+    "id": 458
+  },
+  "459": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle04",
+    "Weight": 1,
+    "id": 459
+  },
+  "460": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle05",
+    "Weight": 1,
+    "id": 460
+  },
+  "461": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle06",
+    "Weight": 1,
+    "id": 461
+  },
+  "462": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle07",
+    "Weight": 1,
+    "id": 462
+  },
+  "463": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle08",
+    "Weight": 1,
+    "id": 463
+  },
+  "464": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle09",
+    "Weight": 1,
+    "id": 464
+  },
+  "465": {
+    "BattlePoolId": "Card_Enemy4_Elite",
+    "BattleId": "Card_Enemy4_Elite_battle10",
+    "Weight": 1,
+    "id": 465
+  },
+  "466": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle01",
+    "Weight": 1,
+    "id": 466
+  },
+  "467": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle02",
+    "Weight": 1,
+    "id": 467
+  },
+  "468": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle03",
+    "Weight": 1,
+    "id": 468
+  },
+  "469": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle04",
+    "Weight": 1,
+    "id": 469
+  },
+  "470": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle05",
+    "Weight": 1,
+    "id": 470
+  },
+  "471": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle06",
+    "Weight": 1,
+    "id": 471
+  },
+  "472": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle07",
+    "Weight": 1,
+    "id": 472
+  },
+  "473": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle08",
+    "Weight": 1,
+    "id": 473
+  },
+  "474": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle09",
+    "Weight": 1,
+    "id": 474
+  },
+  "475": {
+    "BattlePoolId": "Card_Enemy5_Elite",
+    "BattleId": "Card_Enemy5_Elite_battle10",
+    "Weight": 1,
+    "id": 475
+  },
+  "476": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle01",
+    "Weight": 1,
+    "id": 476
+  },
+  "477": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle02",
+    "Weight": 1,
+    "id": 477
+  },
+  "478": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle03",
+    "Weight": 1,
+    "id": 478
+  },
+  "479": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle04",
+    "Weight": 1,
+    "id": 479
+  },
+  "480": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle05",
+    "Weight": 1,
+    "id": 480
+  },
+  "481": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle06",
+    "Weight": 1,
+    "id": 481
+  },
+  "482": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle07",
+    "Weight": 1,
+    "id": 482
+  },
+  "483": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle08",
+    "Weight": 1,
+    "id": 483
+  },
+  "484": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle09",
+    "Weight": 1,
+    "id": 484
+  },
+  "485": {
+    "BattlePoolId": "Card_Enemy6_Elite",
+    "BattleId": "Card_Enemy6_Elite_battle10",
+    "Weight": 1,
+    "id": 485
+  },
+  "486": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle01",
+    "Weight": 1,
+    "id": 486
+  },
+  "487": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle02",
+    "Weight": 1,
+    "id": 487
+  },
+  "488": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle03",
+    "Weight": 1,
+    "id": 488
+  },
+  "489": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle04",
+    "Weight": 1,
+    "id": 489
+  },
+  "490": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle05",
+    "Weight": 1,
+    "id": 490
+  },
+  "491": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle06",
+    "Weight": 1,
+    "id": 491
+  },
+  "492": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle07",
+    "Weight": 1,
+    "id": 492
+  },
+  "493": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle08",
+    "Weight": 1,
+    "id": 493
+  },
+  "494": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle09",
+    "Weight": 1,
+    "id": 494
+  },
+  "495": {
+    "BattlePoolId": "Card_Enemy7_Elite",
+    "BattleId": "Card_Enemy7_Elite_battle10",
+    "Weight": 1,
+    "id": 495
+  },
+  "496": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle01",
+    "Weight": 1,
+    "id": 496
+  },
+  "497": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle02",
+    "Weight": 1,
+    "id": 497
+  },
+  "498": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle03",
+    "Weight": 1,
+    "id": 498
+  },
+  "499": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle04",
+    "Weight": 1,
+    "id": 499
+  },
+  "500": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle05",
+    "Weight": 1,
+    "id": 500
+  },
+  "501": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle06",
+    "Weight": 1,
+    "id": 501
+  },
+  "502": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle07",
+    "Weight": 1,
+    "id": 502
+  },
+  "503": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle08",
+    "Weight": 1,
+    "id": 503
+  },
+  "504": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle09",
+    "Weight": 1,
+    "id": 504
+  },
+  "505": {
+    "BattlePoolId": "Card_Enemy8_Elite",
+    "BattleId": "Card_Enemy8_Elite_battle10",
+    "Weight": 1,
+    "id": 505
+  },
+  "506": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle01",
+    "Weight": 1,
+    "id": 506
+  },
+  "507": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle02",
+    "Weight": 1,
+    "id": 507
+  },
+  "508": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle03",
+    "Weight": 1,
+    "id": 508
+  },
+  "509": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle04",
+    "Weight": 1,
+    "id": 509
+  },
+  "510": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle05",
+    "Weight": 1,
+    "id": 510
+  },
+  "511": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle06",
+    "Weight": 1,
+    "id": 511
+  },
+  "512": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle07",
+    "Weight": 1,
+    "id": 512
+  },
+  "513": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle08",
+    "Weight": 1,
+    "id": 513
+  },
+  "514": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle09",
+    "Weight": 1,
+    "id": 514
+  },
+  "515": {
+    "BattlePoolId": "Card_Enemy4_Boss",
+    "BattleId": "Card_Enemy4_Boss_battle10",
+    "Weight": 1,
+    "id": 515
+  },
+  "516": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle01",
+    "Weight": 1,
+    "id": 516
+  },
+  "517": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle02",
+    "Weight": 1,
+    "id": 517
+  },
+  "518": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle03",
+    "Weight": 1,
+    "id": 518
+  },
+  "519": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle04",
+    "Weight": 1,
+    "id": 519
+  },
+  "520": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle05",
+    "Weight": 1,
+    "id": 520
+  },
+  "521": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle06",
+    "Weight": 1,
+    "id": 521
+  },
+  "522": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle07",
+    "Weight": 1,
+    "id": 522
+  },
+  "523": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle08",
+    "Weight": 1,
+    "id": 523
+  },
+  "524": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle09",
+    "Weight": 1,
+    "id": 524
+  },
+  "525": {
+    "BattlePoolId": "Card_Enemy5_Boss",
+    "BattleId": "Card_Enemy5_Boss_battle10",
+    "Weight": 1,
+    "id": 525
+  },
+  "526": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle01",
+    "Weight": 1,
+    "id": 526
+  },
+  "527": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle02",
+    "Weight": 1,
+    "id": 527
+  },
+  "528": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle03",
+    "Weight": 1,
+    "id": 528
+  },
+  "529": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle04",
+    "Weight": 1,
+    "id": 529
+  },
+  "530": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle05",
+    "Weight": 1,
+    "id": 530
+  },
+  "531": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle06",
+    "Weight": 1,
+    "id": 531
+  },
+  "532": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle07",
+    "Weight": 1,
+    "id": 532
+  },
+  "533": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle08",
+    "Weight": 1,
+    "id": 533
+  },
+  "534": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle09",
+    "Weight": 1,
+    "id": 534
+  },
+  "535": {
+    "BattlePoolId": "Card_Enemy6_Boss",
+    "BattleId": "Card_Enemy6_Boss_battle10",
+    "Weight": 1,
+    "id": 535
+  },
+  "536": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle01",
+    "Weight": 1,
+    "id": 536
+  },
+  "537": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle02",
+    "Weight": 1,
+    "id": 537
+  },
+  "538": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle03",
+    "Weight": 1,
+    "id": 538
+  },
+  "539": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle04",
+    "Weight": 1,
+    "id": 539
+  },
+  "540": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle05",
+    "Weight": 1,
+    "id": 540
+  },
+  "541": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle06",
+    "Weight": 1,
+    "id": 541
+  },
+  "542": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle07",
+    "Weight": 1,
+    "id": 542
+  },
+  "543": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle08",
+    "Weight": 1,
+    "id": 543
+  },
+  "544": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle09",
+    "Weight": 1,
+    "id": 544
+  },
+  "545": {
+    "BattlePoolId": "Card_Enemy7_Boss",
+    "BattleId": "Card_Enemy7_Boss_battle10",
+    "Weight": 1,
+    "id": 545
+  },
+  "546": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle01",
+    "Weight": 1,
+    "id": 546
+  },
+  "547": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle02",
+    "Weight": 1,
+    "id": 547
+  },
+  "548": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle03",
+    "Weight": 1,
+    "id": 548
+  },
+  "549": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle04",
+    "Weight": 1,
+    "id": 549
+  },
+  "550": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle05",
+    "Weight": 1,
+    "id": 550
+  },
+  "551": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle06",
+    "Weight": 1,
+    "id": 551
+  },
+  "552": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle07",
+    "Weight": 1,
+    "id": 552
+  },
+  "553": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle08",
+    "Weight": 1,
+    "id": 553
+  },
+  "554": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle09",
+    "Weight": 1,
+    "id": 554
+  },
+  "555": {
+    "BattlePoolId": "Card_Enemy8_Boss",
+    "BattleId": "Card_Enemy8_Boss_battle10",
+    "Weight": 1,
+    "id": 555
+  },
+  "556": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle01",
+    "Weight": 1,
+    "id": 556
+  },
+  "557": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle02",
+    "Weight": 1,
+    "id": 557
+  },
+  "558": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle03",
+    "Weight": 1,
+    "id": 558
+  },
+  "559": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle04",
+    "Weight": 1,
+    "id": 559
+  },
+  "560": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle05",
+    "Weight": 1,
+    "id": 560
+  },
+  "561": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle06",
+    "Weight": 1,
+    "id": 561
+  },
+  "562": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle07",
+    "Weight": 1,
+    "id": 562
+  },
+  "563": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle08",
+    "Weight": 1,
+    "id": 563
+  },
+  "564": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle09",
+    "Weight": 1,
+    "id": 564
+  },
+  "565": {
+    "BattlePoolId": "Kling_Enemy4",
+    "BattleId": "Kling_Enemy4_battle10",
+    "Weight": 1,
+    "id": 565
+  },
+  "566": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle01",
+    "Weight": 1,
+    "id": 566
+  },
+  "567": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle02",
+    "Weight": 1,
+    "id": 567
+  },
+  "568": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle03",
+    "Weight": 1,
+    "id": 568
+  },
+  "569": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle04",
+    "Weight": 1,
+    "id": 569
+  },
+  "570": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle05",
+    "Weight": 1,
+    "id": 570
+  },
+  "571": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle06",
+    "Weight": 1,
+    "id": 571
+  },
+  "572": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle07",
+    "Weight": 1,
+    "id": 572
+  },
+  "573": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle08",
+    "Weight": 1,
+    "id": 573
+  },
+  "574": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle09",
+    "Weight": 1,
+    "id": 574
+  },
+  "575": {
+    "BattlePoolId": "Kling_Enemy5",
+    "BattleId": "Kling_Enemy5_battle10",
+    "Weight": 1,
+    "id": 575
+  },
+  "576": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle01",
+    "Weight": 1,
+    "id": 576
+  },
+  "577": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle02",
+    "Weight": 1,
+    "id": 577
+  },
+  "578": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle03",
+    "Weight": 1,
+    "id": 578
+  },
+  "579": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle04",
+    "Weight": 1,
+    "id": 579
+  },
+  "580": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle05",
+    "Weight": 1,
+    "id": 580
+  },
+  "581": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle06",
+    "Weight": 1,
+    "id": 581
+  },
+  "582": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle07",
+    "Weight": 1,
+    "id": 582
+  },
+  "583": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle08",
+    "Weight": 1,
+    "id": 583
+  },
+  "584": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle09",
+    "Weight": 1,
+    "id": 584
+  },
+  "585": {
+    "BattlePoolId": "Kling_Enemy6",
+    "BattleId": "Kling_Enemy6_battle10",
+    "Weight": 1,
+    "id": 585
+  },
+  "586": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle01",
+    "Weight": 1,
+    "id": 586
+  },
+  "587": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle02",
+    "Weight": 1,
+    "id": 587
+  },
+  "588": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle03",
+    "Weight": 1,
+    "id": 588
+  },
+  "589": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle04",
+    "Weight": 1,
+    "id": 589
+  },
+  "590": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle05",
+    "Weight": 1,
+    "id": 590
+  },
+  "591": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle06",
+    "Weight": 1,
+    "id": 591
+  },
+  "592": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle07",
+    "Weight": 1,
+    "id": 592
+  },
+  "593": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle08",
+    "Weight": 1,
+    "id": 593
+  },
+  "594": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle09",
+    "Weight": 1,
+    "id": 594
+  },
+  "595": {
+    "BattlePoolId": "Kling_Enemy7",
+    "BattleId": "Kling_Enemy7_battle10",
+    "Weight": 1,
+    "id": 595
+  },
+  "596": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle01",
+    "Weight": 1,
+    "id": 596
+  },
+  "597": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle02",
+    "Weight": 1,
+    "id": 597
+  },
+  "598": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle03",
+    "Weight": 1,
+    "id": 598
+  },
+  "599": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle04",
+    "Weight": 1,
+    "id": 599
+  },
+  "600": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle05",
+    "Weight": 1,
+    "id": 600
+  },
+  "601": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle06",
+    "Weight": 1,
+    "id": 601
+  },
+  "602": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle07",
+    "Weight": 1,
+    "id": 602
+  },
+  "603": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle08",
+    "Weight": 1,
+    "id": 603
+  },
+  "604": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle09",
+    "Weight": 1,
+    "id": 604
+  },
+  "605": {
+    "BattlePoolId": "Kling_Enemy8",
+    "BattleId": "Kling_Enemy8_battle10",
+    "Weight": 1,
+    "id": 605
+  },
+  "606": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle01",
+    "Weight": 1,
+    "id": 606
+  },
+  "607": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle02",
+    "Weight": 1,
+    "id": 607
+  },
+  "608": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle03",
+    "Weight": 1,
+    "id": 608
+  },
+  "609": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle04",
+    "Weight": 1,
+    "id": 609
+  },
+  "610": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle05",
+    "Weight": 1,
+    "id": 610
+  },
+  "611": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle06",
+    "Weight": 1,
+    "id": 611
+  },
+  "612": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle07",
+    "Weight": 1,
+    "id": 612
+  },
+  "613": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle08",
+    "Weight": 1,
+    "id": 613
+  },
+  "614": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle09",
+    "Weight": 1,
+    "id": 614
+  },
+  "615": {
+    "BattlePoolId": "Kling_Enemy4_Elite",
+    "BattleId": "Kling_Enemy4_Elite_battle10",
+    "Weight": 1,
+    "id": 615
+  },
+  "616": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle01",
+    "Weight": 1,
+    "id": 616
+  },
+  "617": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle02",
+    "Weight": 1,
+    "id": 617
+  },
+  "618": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle03",
+    "Weight": 1,
+    "id": 618
+  },
+  "619": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle04",
+    "Weight": 1,
+    "id": 619
+  },
+  "620": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle05",
+    "Weight": 1,
+    "id": 620
+  },
+  "621": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle06",
+    "Weight": 1,
+    "id": 621
+  },
+  "622": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle07",
+    "Weight": 1,
+    "id": 622
+  },
+  "623": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle08",
+    "Weight": 1,
+    "id": 623
+  },
+  "624": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle09",
+    "Weight": 1,
+    "id": 624
+  },
+  "625": {
+    "BattlePoolId": "Kling_Enemy5_Elite",
+    "BattleId": "Kling_Enemy5_Elite_battle10",
+    "Weight": 1,
+    "id": 625
+  },
+  "626": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle01",
+    "Weight": 1,
+    "id": 626
+  },
+  "627": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle02",
+    "Weight": 1,
+    "id": 627
+  },
+  "628": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle03",
+    "Weight": 1,
+    "id": 628
+  },
+  "629": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle04",
+    "Weight": 1,
+    "id": 629
+  },
+  "630": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle05",
+    "Weight": 1,
+    "id": 630
+  },
+  "631": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle06",
+    "Weight": 1,
+    "id": 631
+  },
+  "632": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle07",
+    "Weight": 1,
+    "id": 632
+  },
+  "633": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle08",
+    "Weight": 1,
+    "id": 633
+  },
+  "634": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle09",
+    "Weight": 1,
+    "id": 634
+  },
+  "635": {
+    "BattlePoolId": "Kling_Enemy6_Elite",
+    "BattleId": "Kling_Enemy6_Elite_battle10",
+    "Weight": 1,
+    "id": 635
+  },
+  "636": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle01",
+    "Weight": 1,
+    "id": 636
+  },
+  "637": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle02",
+    "Weight": 1,
+    "id": 637
+  },
+  "638": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle03",
+    "Weight": 1,
+    "id": 638
+  },
+  "639": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle04",
+    "Weight": 1,
+    "id": 639
+  },
+  "640": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle05",
+    "Weight": 1,
+    "id": 640
+  },
+  "641": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle06",
+    "Weight": 1,
+    "id": 641
+  },
+  "642": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle07",
+    "Weight": 1,
+    "id": 642
+  },
+  "643": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle08",
+    "Weight": 1,
+    "id": 643
+  },
+  "644": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle09",
+    "Weight": 1,
+    "id": 644
+  },
+  "645": {
+    "BattlePoolId": "Kling_Enemy7_Elite",
+    "BattleId": "Kling_Enemy7_Elite_battle10",
+    "Weight": 1,
+    "id": 645
+  },
+  "646": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle01",
+    "Weight": 1,
+    "id": 646
+  },
+  "647": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle02",
+    "Weight": 1,
+    "id": 647
+  },
+  "648": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle03",
+    "Weight": 1,
+    "id": 648
+  },
+  "649": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle04",
+    "Weight": 1,
+    "id": 649
+  },
+  "650": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle05",
+    "Weight": 1,
+    "id": 650
+  },
+  "651": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle06",
+    "Weight": 1,
+    "id": 651
+  },
+  "652": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle07",
+    "Weight": 1,
+    "id": 652
+  },
+  "653": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle08",
+    "Weight": 1,
+    "id": 653
+  },
+  "654": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle09",
+    "Weight": 1,
+    "id": 654
+  },
+  "655": {
+    "BattlePoolId": "Kling_Enemy8_Elite",
+    "BattleId": "Kling_Enemy8_Elite_battle10",
+    "Weight": 1,
+    "id": 655
+  },
+  "656": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle01",
+    "Weight": 1,
+    "id": 656
+  },
+  "657": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle02",
+    "Weight": 1,
+    "id": 657
+  },
+  "658": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle03",
+    "Weight": 1,
+    "id": 658
+  },
+  "659": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle04",
+    "Weight": 1,
+    "id": 659
+  },
+  "660": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle05",
+    "Weight": 1,
+    "id": 660
+  },
+  "661": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle06",
+    "Weight": 1,
+    "id": 661
+  },
+  "662": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle07",
+    "Weight": 1,
+    "id": 662
+  },
+  "663": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle08",
+    "Weight": 1,
+    "id": 663
+  },
+  "664": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle09",
+    "Weight": 1,
+    "id": 664
+  },
+  "665": {
+    "BattlePoolId": "Kling_Enemy4_Boss",
+    "BattleId": "Kling_Enemy4_Boss_battle10",
+    "Weight": 1,
+    "id": 665
+  },
+  "666": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle01",
+    "Weight": 1,
+    "id": 666
+  },
+  "667": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle02",
+    "Weight": 1,
+    "id": 667
+  },
+  "668": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle03",
+    "Weight": 1,
+    "id": 668
+  },
+  "669": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle04",
+    "Weight": 1,
+    "id": 669
+  },
+  "670": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle05",
+    "Weight": 1,
+    "id": 670
+  },
+  "671": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle06",
+    "Weight": 1,
+    "id": 671
+  },
+  "672": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle07",
+    "Weight": 1,
+    "id": 672
+  },
+  "673": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle08",
+    "Weight": 1,
+    "id": 673
+  },
+  "674": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle09",
+    "Weight": 1,
+    "id": 674
+  },
+  "675": {
+    "BattlePoolId": "Kling_Enemy5_Boss",
+    "BattleId": "Kling_Enemy5_Boss_battle10",
+    "Weight": 1,
+    "id": 675
+  },
+  "676": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle01",
+    "Weight": 1,
+    "id": 676
+  },
+  "677": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle02",
+    "Weight": 1,
+    "id": 677
+  },
+  "678": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle03",
+    "Weight": 1,
+    "id": 678
+  },
+  "679": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle04",
+    "Weight": 1,
+    "id": 679
+  },
+  "680": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle05",
+    "Weight": 1,
+    "id": 680
+  },
+  "681": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle06",
+    "Weight": 1,
+    "id": 681
+  },
+  "682": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle07",
+    "Weight": 1,
+    "id": 682
+  },
+  "683": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle08",
+    "Weight": 1,
+    "id": 683
+  },
+  "684": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle09",
+    "Weight": 1,
+    "id": 684
+  },
+  "685": {
+    "BattlePoolId": "Kling_Enemy6_Boss",
+    "BattleId": "Kling_Enemy6_Boss_battle10",
+    "Weight": 1,
+    "id": 685
+  },
+  "686": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle01",
+    "Weight": 1,
+    "id": 686
+  },
+  "687": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle02",
+    "Weight": 1,
+    "id": 687
+  },
+  "688": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle03",
+    "Weight": 1,
+    "id": 688
+  },
+  "689": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle04",
+    "Weight": 1,
+    "id": 689
+  },
+  "690": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle05",
+    "Weight": 1,
+    "id": 690
+  },
+  "691": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle06",
+    "Weight": 1,
+    "id": 691
+  },
+  "692": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle07",
+    "Weight": 1,
+    "id": 692
+  },
+  "693": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle08",
+    "Weight": 1,
+    "id": 693
+  },
+  "694": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle09",
+    "Weight": 1,
+    "id": 694
+  },
+  "695": {
+    "BattlePoolId": "Kling_Enemy7_Boss",
+    "BattleId": "Kling_Enemy7_Boss_battle10",
+    "Weight": 1,
+    "id": 695
+  },
+  "696": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle01",
+    "Weight": 1,
+    "id": 696
+  },
+  "697": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle02",
+    "Weight": 1,
+    "id": 697
+  },
+  "698": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle03",
+    "Weight": 1,
+    "id": 698
+  },
+  "699": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle04",
+    "Weight": 1,
+    "id": 699
+  },
+  "700": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle05",
+    "Weight": 1,
+    "id": 700
+  },
+  "701": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle06",
+    "Weight": 1,
+    "id": 701
+  },
+  "702": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle07",
+    "Weight": 1,
+    "id": 702
+  },
+  "703": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle08",
+    "Weight": 1,
+    "id": 703
+  },
+  "704": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle09",
+    "Weight": 1,
+    "id": 704
+  },
+  "705": {
+    "BattlePoolId": "Kling_Enemy8_Boss",
+    "BattleId": "Kling_Enemy8_Boss_battle10",
+    "Weight": 1,
+    "id": 705
+  },
+  "706": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle01",
+    "Weight": 1,
+    "id": 706
+  },
+  "707": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle02",
+    "Weight": 1,
+    "id": 707
+  },
+  "708": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle03",
+    "Weight": 1,
+    "id": 708
+  },
+  "709": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle04",
+    "Weight": 1,
+    "id": 709
+  },
+  "710": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle05",
+    "Weight": 1,
+    "id": 710
+  },
+  "711": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle06",
+    "Weight": 1,
+    "id": 711
+  },
+  "712": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle07",
+    "Weight": 1,
+    "id": 712
+  },
+  "713": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle08",
+    "Weight": 1,
+    "id": 713
+  },
+  "714": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle09",
+    "Weight": 1,
+    "id": 714
+  },
+  "715": {
+    "BattlePoolId": "Romu_Enemy4",
+    "BattleId": "Romu_Enemy4_battle10",
+    "Weight": 1,
+    "id": 715
+  },
+  "716": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle01",
+    "Weight": 1,
+    "id": 716
+  },
+  "717": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle02",
+    "Weight": 1,
+    "id": 717
+  },
+  "718": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle03",
+    "Weight": 1,
+    "id": 718
+  },
+  "719": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle04",
+    "Weight": 1,
+    "id": 719
+  },
+  "720": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle05",
+    "Weight": 1,
+    "id": 720
+  },
+  "721": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle06",
+    "Weight": 1,
+    "id": 721
+  },
+  "722": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle07",
+    "Weight": 1,
+    "id": 722
+  },
+  "723": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle08",
+    "Weight": 1,
+    "id": 723
+  },
+  "724": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle09",
+    "Weight": 1,
+    "id": 724
+  },
+  "725": {
+    "BattlePoolId": "Romu_Enemy5",
+    "BattleId": "Romu_Enemy5_battle10",
+    "Weight": 1,
+    "id": 725
+  },
+  "726": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle01",
+    "Weight": 1,
+    "id": 726
+  },
+  "727": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle02",
+    "Weight": 1,
+    "id": 727
+  },
+  "728": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle03",
+    "Weight": 1,
+    "id": 728
+  },
+  "729": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle04",
+    "Weight": 1,
+    "id": 729
+  },
+  "730": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle05",
+    "Weight": 1,
+    "id": 730
+  },
+  "731": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle06",
+    "Weight": 1,
+    "id": 731
+  },
+  "732": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle07",
+    "Weight": 1,
+    "id": 732
+  },
+  "733": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle08",
+    "Weight": 1,
+    "id": 733
+  },
+  "734": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle09",
+    "Weight": 1,
+    "id": 734
+  },
+  "735": {
+    "BattlePoolId": "Romu_Enemy6",
+    "BattleId": "Romu_Enemy6_battle10",
+    "Weight": 1,
+    "id": 735
+  },
+  "736": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle01",
+    "Weight": 1,
+    "id": 736
+  },
+  "737": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle02",
+    "Weight": 1,
+    "id": 737
+  },
+  "738": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle03",
+    "Weight": 1,
+    "id": 738
+  },
+  "739": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle04",
+    "Weight": 1,
+    "id": 739
+  },
+  "740": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle05",
+    "Weight": 1,
+    "id": 740
+  },
+  "741": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle06",
+    "Weight": 1,
+    "id": 741
+  },
+  "742": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle07",
+    "Weight": 1,
+    "id": 742
+  },
+  "743": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle08",
+    "Weight": 1,
+    "id": 743
+  },
+  "744": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle09",
+    "Weight": 1,
+    "id": 744
+  },
+  "745": {
+    "BattlePoolId": "Romu_Enemy7",
+    "BattleId": "Romu_Enemy7_battle10",
+    "Weight": 1,
+    "id": 745
+  },
+  "746": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle01",
+    "Weight": 1,
+    "id": 746
+  },
+  "747": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle02",
+    "Weight": 1,
+    "id": 747
+  },
+  "748": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle03",
+    "Weight": 1,
+    "id": 748
+  },
+  "749": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle04",
+    "Weight": 1,
+    "id": 749
+  },
+  "750": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle05",
+    "Weight": 1,
+    "id": 750
+  },
+  "751": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle06",
+    "Weight": 1,
+    "id": 751
+  },
+  "752": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle07",
+    "Weight": 1,
+    "id": 752
+  },
+  "753": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle08",
+    "Weight": 1,
+    "id": 753
+  },
+  "754": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle09",
+    "Weight": 1,
+    "id": 754
+  },
+  "755": {
+    "BattlePoolId": "Romu_Enemy8",
+    "BattleId": "Romu_Enemy8_battle10",
+    "Weight": 1,
+    "id": 755
+  },
+  "756": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle01",
+    "Weight": 1,
+    "id": 756
+  },
+  "757": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle02",
+    "Weight": 1,
+    "id": 757
+  },
+  "758": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle03",
+    "Weight": 1,
+    "id": 758
+  },
+  "759": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle04",
+    "Weight": 1,
+    "id": 759
+  },
+  "760": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle05",
+    "Weight": 1,
+    "id": 760
+  },
+  "761": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle06",
+    "Weight": 1,
+    "id": 761
+  },
+  "762": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle07",
+    "Weight": 1,
+    "id": 762
+  },
+  "763": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle08",
+    "Weight": 1,
+    "id": 763
+  },
+  "764": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle09",
+    "Weight": 1,
+    "id": 764
+  },
+  "765": {
+    "BattlePoolId": "Romu_Enemy4_Elite",
+    "BattleId": "Romu_Enemy4_Elite_battle10",
+    "Weight": 1,
+    "id": 765
+  },
+  "766": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle01",
+    "Weight": 1,
+    "id": 766
+  },
+  "767": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle02",
+    "Weight": 1,
+    "id": 767
+  },
+  "768": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle03",
+    "Weight": 1,
+    "id": 768
+  },
+  "769": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle04",
+    "Weight": 1,
+    "id": 769
+  },
+  "770": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle05",
+    "Weight": 1,
+    "id": 770
+  },
+  "771": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle06",
+    "Weight": 1,
+    "id": 771
+  },
+  "772": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle07",
+    "Weight": 1,
+    "id": 772
+  },
+  "773": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle08",
+    "Weight": 1,
+    "id": 773
+  },
+  "774": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle09",
+    "Weight": 1,
+    "id": 774
+  },
+  "775": {
+    "BattlePoolId": "Romu_Enemy5_Elite",
+    "BattleId": "Romu_Enemy5_Elite_battle10",
+    "Weight": 1,
+    "id": 775
+  },
+  "776": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle01",
+    "Weight": 1,
+    "id": 776
+  },
+  "777": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle02",
+    "Weight": 1,
+    "id": 777
+  },
+  "778": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle03",
+    "Weight": 1,
+    "id": 778
+  },
+  "779": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle04",
+    "Weight": 1,
+    "id": 779
+  },
+  "780": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle05",
+    "Weight": 1,
+    "id": 780
+  },
+  "781": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle06",
+    "Weight": 1,
+    "id": 781
+  },
+  "782": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle07",
+    "Weight": 1,
+    "id": 782
+  },
+  "783": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle08",
+    "Weight": 1,
+    "id": 783
+  },
+  "784": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle09",
+    "Weight": 1,
+    "id": 784
+  },
+  "785": {
+    "BattlePoolId": "Romu_Enemy6_Elite",
+    "BattleId": "Romu_Enemy6_Elite_battle10",
+    "Weight": 1,
+    "id": 785
+  },
+  "786": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle01",
+    "Weight": 1,
+    "id": 786
+  },
+  "787": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle02",
+    "Weight": 1,
+    "id": 787
+  },
+  "788": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle03",
+    "Weight": 1,
+    "id": 788
+  },
+  "789": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle04",
+    "Weight": 1,
+    "id": 789
+  },
+  "790": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle05",
+    "Weight": 1,
+    "id": 790
+  },
+  "791": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle06",
+    "Weight": 1,
+    "id": 791
+  },
+  "792": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle07",
+    "Weight": 1,
+    "id": 792
+  },
+  "793": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle08",
+    "Weight": 1,
+    "id": 793
+  },
+  "794": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle09",
+    "Weight": 1,
+    "id": 794
+  },
+  "795": {
+    "BattlePoolId": "Romu_Enemy7_Elite",
+    "BattleId": "Romu_Enemy7_Elite_battle10",
+    "Weight": 1,
+    "id": 795
+  },
+  "796": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle01",
+    "Weight": 1,
+    "id": 796
+  },
+  "797": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle02",
+    "Weight": 1,
+    "id": 797
+  },
+  "798": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle03",
+    "Weight": 1,
+    "id": 798
+  },
+  "799": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle04",
+    "Weight": 1,
+    "id": 799
+  },
+  "800": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle05",
+    "Weight": 1,
+    "id": 800
+  },
+  "801": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle06",
+    "Weight": 1,
+    "id": 801
+  },
+  "802": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle07",
+    "Weight": 1,
+    "id": 802
+  },
+  "803": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle08",
+    "Weight": 1,
+    "id": 803
+  },
+  "804": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle09",
+    "Weight": 1,
+    "id": 804
+  },
+  "805": {
+    "BattlePoolId": "Romu_Enemy8_Elite",
+    "BattleId": "Romu_Enemy8_Elite_battle10",
+    "Weight": 1,
+    "id": 805
+  },
+  "806": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle01",
+    "Weight": 1,
+    "id": 806
+  },
+  "807": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle02",
+    "Weight": 1,
+    "id": 807
+  },
+  "808": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle03",
+    "Weight": 1,
+    "id": 808
+  },
+  "809": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle04",
+    "Weight": 1,
+    "id": 809
+  },
+  "810": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle05",
+    "Weight": 1,
+    "id": 810
+  },
+  "811": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle06",
+    "Weight": 1,
+    "id": 811
+  },
+  "812": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle07",
+    "Weight": 1,
+    "id": 812
+  },
+  "813": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle08",
+    "Weight": 1,
+    "id": 813
+  },
+  "814": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle09",
+    "Weight": 1,
+    "id": 814
+  },
+  "815": {
+    "BattlePoolId": "Romu_Enemy4_Boss",
+    "BattleId": "Romu_Enemy4_Boss_battle10",
+    "Weight": 1,
+    "id": 815
+  },
+  "816": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle01",
+    "Weight": 1,
+    "id": 816
+  },
+  "817": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle02",
+    "Weight": 1,
+    "id": 817
+  },
+  "818": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle03",
+    "Weight": 1,
+    "id": 818
+  },
+  "819": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle04",
+    "Weight": 1,
+    "id": 819
+  },
+  "820": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle05",
+    "Weight": 1,
+    "id": 820
+  },
+  "821": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle06",
+    "Weight": 1,
+    "id": 821
+  },
+  "822": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle07",
+    "Weight": 1,
+    "id": 822
+  },
+  "823": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle08",
+    "Weight": 1,
+    "id": 823
+  },
+  "824": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle09",
+    "Weight": 1,
+    "id": 824
+  },
+  "825": {
+    "BattlePoolId": "Romu_Enemy5_Boss",
+    "BattleId": "Romu_Enemy5_Boss_battle10",
+    "Weight": 1,
+    "id": 825
+  },
+  "826": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle01",
+    "Weight": 1,
+    "id": 826
+  },
+  "827": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle02",
+    "Weight": 1,
+    "id": 827
+  },
+  "828": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle03",
+    "Weight": 1,
+    "id": 828
+  },
+  "829": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle04",
+    "Weight": 1,
+    "id": 829
+  },
+  "830": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle05",
+    "Weight": 1,
+    "id": 830
+  },
+  "831": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle06",
+    "Weight": 1,
+    "id": 831
+  },
+  "832": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle07",
+    "Weight": 1,
+    "id": 832
+  },
+  "833": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle08",
+    "Weight": 1,
+    "id": 833
+  },
+  "834": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle09",
+    "Weight": 1,
+    "id": 834
+  },
+  "835": {
+    "BattlePoolId": "Romu_Enemy6_Boss",
+    "BattleId": "Romu_Enemy6_Boss_battle10",
+    "Weight": 1,
+    "id": 835
+  },
+  "836": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle01",
+    "Weight": 1,
+    "id": 836
+  },
+  "837": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle02",
+    "Weight": 1,
+    "id": 837
+  },
+  "838": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle03",
+    "Weight": 1,
+    "id": 838
+  },
+  "839": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle04",
+    "Weight": 1,
+    "id": 839
+  },
+  "840": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle05",
+    "Weight": 1,
+    "id": 840
+  },
+  "841": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle06",
+    "Weight": 1,
+    "id": 841
+  },
+  "842": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle07",
+    "Weight": 1,
+    "id": 842
+  },
+  "843": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle08",
+    "Weight": 1,
+    "id": 843
+  },
+  "844": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle09",
+    "Weight": 1,
+    "id": 844
+  },
+  "845": {
+    "BattlePoolId": "Romu_Enemy7_Boss",
+    "BattleId": "Romu_Enemy7_Boss_battle10",
+    "Weight": 1,
+    "id": 845
+  },
+  "846": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle01",
+    "Weight": 1,
+    "id": 846
+  },
+  "847": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle02",
+    "Weight": 1,
+    "id": 847
+  },
+  "848": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle03",
+    "Weight": 1,
+    "id": 848
+  },
+  "849": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle04",
+    "Weight": 1,
+    "id": 849
+  },
+  "850": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle05",
+    "Weight": 1,
+    "id": 850
+  },
+  "851": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle06",
+    "Weight": 1,
+    "id": 851
+  },
+  "852": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle07",
+    "Weight": 1,
+    "id": 852
+  },
+  "853": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle08",
+    "Weight": 1,
+    "id": 853
+  },
+  "854": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle09",
+    "Weight": 1,
+    "id": 854
+  },
+  "855": {
+    "BattlePoolId": "Romu_Enemy8_Boss",
+    "BattleId": "Romu_Enemy8_Boss_battle10",
+    "Weight": 1,
+    "id": 855
+  },
+  "856": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle01",
+    "Weight": 1,
+    "id": 856
+  },
+  "857": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle02",
+    "Weight": 1,
+    "id": 857
+  },
+  "858": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle03",
+    "Weight": 1,
+    "id": 858
+  },
+  "859": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle04",
+    "Weight": 1,
+    "id": 859
+  },
+  "860": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle05",
+    "Weight": 1,
+    "id": 860
+  },
+  "861": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle06",
+    "Weight": 1,
+    "id": 861
+  },
+  "862": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle07",
+    "Weight": 1,
+    "id": 862
+  },
+  "863": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle08",
+    "Weight": 1,
+    "id": 863
+  },
+  "864": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle09",
+    "Weight": 1,
+    "id": 864
+  },
+  "865": {
+    "BattlePoolId": "Fed_Enemy4",
+    "BattleId": "Fed_Enemy4_battle10",
+    "Weight": 1,
+    "id": 865
+  },
+  "866": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle01",
+    "Weight": 1,
+    "id": 866
+  },
+  "867": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle02",
+    "Weight": 1,
+    "id": 867
+  },
+  "868": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle03",
+    "Weight": 1,
+    "id": 868
+  },
+  "869": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle04",
+    "Weight": 1,
+    "id": 869
+  },
+  "870": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle05",
+    "Weight": 1,
+    "id": 870
+  },
+  "871": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle06",
+    "Weight": 1,
+    "id": 871
+  },
+  "872": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle07",
+    "Weight": 1,
+    "id": 872
+  },
+  "873": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle08",
+    "Weight": 1,
+    "id": 873
+  },
+  "874": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle09",
+    "Weight": 1,
+    "id": 874
+  },
+  "875": {
+    "BattlePoolId": "Fed_Enemy5",
+    "BattleId": "Fed_Enemy5_battle10",
+    "Weight": 1,
+    "id": 875
+  },
+  "876": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle01",
+    "Weight": 1,
+    "id": 876
+  },
+  "877": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle02",
+    "Weight": 1,
+    "id": 877
+  },
+  "878": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle03",
+    "Weight": 1,
+    "id": 878
+  },
+  "879": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle04",
+    "Weight": 1,
+    "id": 879
+  },
+  "880": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle05",
+    "Weight": 1,
+    "id": 880
+  },
+  "881": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle06",
+    "Weight": 1,
+    "id": 881
+  },
+  "882": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle07",
+    "Weight": 1,
+    "id": 882
+  },
+  "883": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle08",
+    "Weight": 1,
+    "id": 883
+  },
+  "884": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle09",
+    "Weight": 1,
+    "id": 884
+  },
+  "885": {
+    "BattlePoolId": "Fed_Enemy6",
+    "BattleId": "Fed_Enemy6_battle10",
+    "Weight": 1,
+    "id": 885
+  },
+  "886": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle01",
+    "Weight": 1,
+    "id": 886
+  },
+  "887": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle02",
+    "Weight": 1,
+    "id": 887
+  },
+  "888": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle03",
+    "Weight": 1,
+    "id": 888
+  },
+  "889": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle04",
+    "Weight": 1,
+    "id": 889
+  },
+  "890": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle05",
+    "Weight": 1,
+    "id": 890
+  },
+  "891": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle06",
+    "Weight": 1,
+    "id": 891
+  },
+  "892": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle07",
+    "Weight": 1,
+    "id": 892
+  },
+  "893": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle08",
+    "Weight": 1,
+    "id": 893
+  },
+  "894": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle09",
+    "Weight": 1,
+    "id": 894
+  },
+  "895": {
+    "BattlePoolId": "Fed_Enemy7",
+    "BattleId": "Fed_Enemy7_battle10",
+    "Weight": 1,
+    "id": 895
+  },
+  "896": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle01",
+    "Weight": 1,
+    "id": 896
+  },
+  "897": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle02",
+    "Weight": 1,
+    "id": 897
+  },
+  "898": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle03",
+    "Weight": 1,
+    "id": 898
+  },
+  "899": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle04",
+    "Weight": 1,
+    "id": 899
+  },
+  "900": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle05",
+    "Weight": 1,
+    "id": 900
+  },
+  "901": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle06",
+    "Weight": 1,
+    "id": 901
+  },
+  "902": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle07",
+    "Weight": 1,
+    "id": 902
+  },
+  "903": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle08",
+    "Weight": 1,
+    "id": 903
+  },
+  "904": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle09",
+    "Weight": 1,
+    "id": 904
+  },
+  "905": {
+    "BattlePoolId": "Fed_Enemy8",
+    "BattleId": "Fed_Enemy8_battle10",
+    "Weight": 1,
+    "id": 905
+  },
+  "906": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle01",
+    "Weight": 1,
+    "id": 906
+  },
+  "907": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle02",
+    "Weight": 1,
+    "id": 907
+  },
+  "908": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle03",
+    "Weight": 1,
+    "id": 908
+  },
+  "909": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle04",
+    "Weight": 1,
+    "id": 909
+  },
+  "910": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle05",
+    "Weight": 1,
+    "id": 910
+  },
+  "911": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle06",
+    "Weight": 1,
+    "id": 911
+  },
+  "912": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle07",
+    "Weight": 1,
+    "id": 912
+  },
+  "913": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle08",
+    "Weight": 1,
+    "id": 913
+  },
+  "914": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle09",
+    "Weight": 1,
+    "id": 914
+  },
+  "915": {
+    "BattlePoolId": "Fed_Enemy4_Elite",
+    "BattleId": "Fed_Enemy4_Elite_battle10",
+    "Weight": 1,
+    "id": 915
+  },
+  "916": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle01",
+    "Weight": 1,
+    "id": 916
+  },
+  "917": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle02",
+    "Weight": 1,
+    "id": 917
+  },
+  "918": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle03",
+    "Weight": 1,
+    "id": 918
+  },
+  "919": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle04",
+    "Weight": 1,
+    "id": 919
+  },
+  "920": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle05",
+    "Weight": 1,
+    "id": 920
+  },
+  "921": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle06",
+    "Weight": 1,
+    "id": 921
+  },
+  "922": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle07",
+    "Weight": 1,
+    "id": 922
+  },
+  "923": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle08",
+    "Weight": 1,
+    "id": 923
+  },
+  "924": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle09",
+    "Weight": 1,
+    "id": 924
+  },
+  "925": {
+    "BattlePoolId": "Fed_Enemy5_Elite",
+    "BattleId": "Fed_Enemy5_Elite_battle10",
+    "Weight": 1,
+    "id": 925
+  },
+  "926": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle01",
+    "Weight": 1,
+    "id": 926
+  },
+  "927": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle02",
+    "Weight": 1,
+    "id": 927
+  },
+  "928": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle03",
+    "Weight": 1,
+    "id": 928
+  },
+  "929": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle04",
+    "Weight": 1,
+    "id": 929
+  },
+  "930": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle05",
+    "Weight": 1,
+    "id": 930
+  },
+  "931": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle06",
+    "Weight": 1,
+    "id": 931
+  },
+  "932": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle07",
+    "Weight": 1,
+    "id": 932
+  },
+  "933": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle08",
+    "Weight": 1,
+    "id": 933
+  },
+  "934": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle09",
+    "Weight": 1,
+    "id": 934
+  },
+  "935": {
+    "BattlePoolId": "Fed_Enemy6_Elite",
+    "BattleId": "Fed_Enemy6_Elite_battle10",
+    "Weight": 1,
+    "id": 935
+  },
+  "936": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle01",
+    "Weight": 1,
+    "id": 936
+  },
+  "937": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle02",
+    "Weight": 1,
+    "id": 937
+  },
+  "938": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle03",
+    "Weight": 1,
+    "id": 938
+  },
+  "939": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle04",
+    "Weight": 1,
+    "id": 939
+  },
+  "940": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle05",
+    "Weight": 1,
+    "id": 940
+  },
+  "941": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle06",
+    "Weight": 1,
+    "id": 941
+  },
+  "942": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle07",
+    "Weight": 1,
+    "id": 942
+  },
+  "943": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle08",
+    "Weight": 1,
+    "id": 943
+  },
+  "944": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle09",
+    "Weight": 1,
+    "id": 944
+  },
+  "945": {
+    "BattlePoolId": "Fed_Enemy7_Elite",
+    "BattleId": "Fed_Enemy7_Elite_battle10",
+    "Weight": 1,
+    "id": 945
+  },
+  "946": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle01",
+    "Weight": 1,
+    "id": 946
+  },
+  "947": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle02",
+    "Weight": 1,
+    "id": 947
+  },
+  "948": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle03",
+    "Weight": 1,
+    "id": 948
+  },
+  "949": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle04",
+    "Weight": 1,
+    "id": 949
+  },
+  "950": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle05",
+    "Weight": 1,
+    "id": 950
+  },
+  "951": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle06",
+    "Weight": 1,
+    "id": 951
+  },
+  "952": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle07",
+    "Weight": 1,
+    "id": 952
+  },
+  "953": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle08",
+    "Weight": 1,
+    "id": 953
+  },
+  "954": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle09",
+    "Weight": 1,
+    "id": 954
+  },
+  "955": {
+    "BattlePoolId": "Fed_Enemy8_Elite",
+    "BattleId": "Fed_Enemy8_Elite_battle10",
+    "Weight": 1,
+    "id": 955
+  },
+  "956": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle01",
+    "Weight": 1,
+    "id": 956
+  },
+  "957": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle02",
+    "Weight": 1,
+    "id": 957
+  },
+  "958": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle03",
+    "Weight": 1,
+    "id": 958
+  },
+  "959": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle04",
+    "Weight": 1,
+    "id": 959
+  },
+  "960": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle05",
+    "Weight": 1,
+    "id": 960
+  },
+  "961": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle06",
+    "Weight": 1,
+    "id": 961
+  },
+  "962": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle07",
+    "Weight": 1,
+    "id": 962
+  },
+  "963": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle08",
+    "Weight": 1,
+    "id": 963
+  },
+  "964": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle09",
+    "Weight": 1,
+    "id": 964
+  },
+  "965": {
+    "BattlePoolId": "Fed_Enemy4_Boss",
+    "BattleId": "Fed_Enemy4_Boss_battle10",
+    "Weight": 1,
+    "id": 965
+  },
+  "966": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle01",
+    "Weight": 1,
+    "id": 966
+  },
+  "967": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle02",
+    "Weight": 1,
+    "id": 967
+  },
+  "968": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle03",
+    "Weight": 1,
+    "id": 968
+  },
+  "969": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle04",
+    "Weight": 1,
+    "id": 969
+  },
+  "970": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle05",
+    "Weight": 1,
+    "id": 970
+  },
+  "971": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle06",
+    "Weight": 1,
+    "id": 971
+  },
+  "972": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle07",
+    "Weight": 1,
+    "id": 972
+  },
+  "973": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle08",
+    "Weight": 1,
+    "id": 973
+  },
+  "974": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle09",
+    "Weight": 1,
+    "id": 974
+  },
+  "975": {
+    "BattlePoolId": "Fed_Enemy5_Boss",
+    "BattleId": "Fed_Enemy5_Boss_battle10",
+    "Weight": 1,
+    "id": 975
+  },
+  "976": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle01",
+    "Weight": 1,
+    "id": 976
+  },
+  "977": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle02",
+    "Weight": 1,
+    "id": 977
+  },
+  "978": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle03",
+    "Weight": 1,
+    "id": 978
+  },
+  "979": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle04",
+    "Weight": 1,
+    "id": 979
+  },
+  "980": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle05",
+    "Weight": 1,
+    "id": 980
+  },
+  "981": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle06",
+    "Weight": 1,
+    "id": 981
+  },
+  "982": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle07",
+    "Weight": 1,
+    "id": 982
+  },
+  "983": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle08",
+    "Weight": 1,
+    "id": 983
+  },
+  "984": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle09",
+    "Weight": 1,
+    "id": 984
+  },
+  "985": {
+    "BattlePoolId": "Fed_Enemy6_Boss",
+    "BattleId": "Fed_Enemy6_Boss_battle10",
+    "Weight": 1,
+    "id": 985
+  },
+  "986": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle01",
+    "Weight": 1,
+    "id": 986
+  },
+  "987": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle02",
+    "Weight": 1,
+    "id": 987
+  },
+  "988": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle03",
+    "Weight": 1,
+    "id": 988
+  },
+  "989": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle04",
+    "Weight": 1,
+    "id": 989
+  },
+  "990": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle05",
+    "Weight": 1,
+    "id": 990
+  },
+  "991": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle06",
+    "Weight": 1,
+    "id": 991
+  },
+  "992": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle07",
+    "Weight": 1,
+    "id": 992
+  },
+  "993": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle08",
+    "Weight": 1,
+    "id": 993
+  },
+  "994": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle09",
+    "Weight": 1,
+    "id": 994
+  },
+  "995": {
+    "BattlePoolId": "Fed_Enemy7_Boss",
+    "BattleId": "Fed_Enemy7_Boss_battle10",
+    "Weight": 1,
+    "id": 995
+  },
+  "996": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle01",
+    "Weight": 1,
+    "id": 996
+  },
+  "997": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle02",
+    "Weight": 1,
+    "id": 997
+  },
+  "998": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle03",
+    "Weight": 1,
+    "id": 998
+  },
+  "999": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle04",
+    "Weight": 1,
+    "id": 999
+  },
+  "1000": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle05",
+    "Weight": 1,
+    "id": 1000
+  },
+  "1001": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle06",
+    "Weight": 1,
+    "id": 1001
+  },
+  "1002": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle07",
+    "Weight": 1,
+    "id": 1002
+  },
+  "1003": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle08",
+    "Weight": 1,
+    "id": 1003
+  },
+  "1004": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle09",
+    "Weight": 1,
+    "id": 1004
+  },
+  "1005": {
+    "BattlePoolId": "Fed_Enemy8_Boss",
+    "BattleId": "Fed_Enemy8_Boss_battle10",
+    "Weight": 1,
+    "id": 1005
+  }
+}

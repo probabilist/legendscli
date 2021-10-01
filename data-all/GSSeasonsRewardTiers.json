@@ -1,0 +1,68 @@
+{
+  "Tier 01": {
+    "awardCharacter": true,
+    "tokenAmount": 20,
+    "rewardIds": [
+      "craft_Accessory_Random_Legendary",
+      "craft_Accessory_Random_Legendary",
+      "craft_Seasons_PowerCells_Tier01",
+      "craft_Seasons_Latinum_Tier01"
+    ],
+    "id": "Tier 01"
+  },
+  "Tier 02": {
+    "awardCharacter": true,
+    "tokenAmount": 10,
+    "rewardIds": [
+      "craft_Accessory_Random_Legendary",
+      "craft_Accessory_Random_Epic",
+      "craft_Seasons_PowerCells_Tier02",
+      "craft_Seasons_Latinum_Tier02"
+    ],
+    "id": "Tier 02"
+  },
+  "Tier 03": {
+    "awardCharacter": true,
+    "tokenAmount": 0,
+    "rewardIds": [
+      "craft_Accessory_Random_Epic",
+      "craft_Accessory_Random_Epic",
+      "craft_Seasons_PowerCells_Tier03",
+      "craft_Seasons_Latinum_Tier03"
+    ],
+    "id": "Tier 03"
+  },
+  "Tier 04": {
+    "awardCharacter": false,
+    "tokenAmount": 7,
+    "rewardIds": [
+      "craft_Accessory_Random_Epic",
+      "craft_Accessory_Random_VeryRare",
+      "craft_Seasons_PowerCells_Tier04",
+      "craft_Seasons_Latinum_Tier04"
+    ],
+    "id": "Tier 04"
+  },
+  "Tier 05": {
+    "awardCharacter": false,
+    "tokenAmount": 5,
+    "rewardIds": [
+      "craft_Accessory_Random_VeryRare",
+      "craft_Accessory_Random_VeryRare",
+      "craft_Seasons_PowerCells_Tier05",
+      "craft_Seasons_Latinum_Tier05"
+    ],
+    "id": "Tier 05"
+  },
+  "Tier 06": {
+    "awardCharacter": false,
+    "tokenAmount": 3,
+    "rewardIds": [
+      "craft_Accessory_Random_VeryRare",
+      "craft_Accessory_Random_Rare",
+      "craft_Seasons_PowerCells_Tier06",
+      "craft_Seasons_Latinum_Tier06"
+    ],
+    "id": "Tier 06"
+  }
+}

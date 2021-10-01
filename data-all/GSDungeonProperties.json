@@ -1,0 +1,38 @@
+{
+  "LevelsPerCheckpoint": {
+    "value": "20",
+    "id": "LevelsPerCheckpoint"
+  },
+  "LevelsPerReinforce": {
+    "value": "5",
+    "id": "LevelsPerReinforce"
+  },
+  "TeamSelect_CharactersPerRole_Amount": {
+    "value": "3",
+    "id": "TeamSelect_CharactersPerRole_Amount"
+  },
+  "CharactersReinforce_Amount": {
+    "value": "3",
+    "id": "CharactersReinforce_Amount"
+  },
+  "DungeonStaminaMax": {
+    "value": "10",
+    "id": "DungeonStaminaMax"
+  },
+  "UTC offset dungeon stamina": {
+    "value": "1899-12-31 12:00:00 AM",
+    "id": "UTC offset dungeon stamina"
+  },
+  "DungeonStaminaRefillPeriodS": {
+    "value": "86400",
+    "id": "DungeonStaminaRefillPeriodS"
+  },
+  "MaxTeamPowerUpPoolID": {
+    "value": "PowerUp_Battle5",
+    "id": "MaxTeamPowerUpPoolID"
+  },
+  "MaxTeamPowerUpChoiceAmount": {
+    "value": "3",
+    "id": "MaxTeamPowerUpChoiceAmount"
+  }
+}

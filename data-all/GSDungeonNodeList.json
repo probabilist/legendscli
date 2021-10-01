@@ -1,0 +1,540 @@
+{
+  "1": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "battle01",
+    "NextNodeID": "powerup01",
+    "StartNode": true,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 1
+  },
+  "2": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_01",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle3",
+    "NodeType": "PowerUp",
+    "id": 2
+  },
+  "3": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_02",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle3",
+    "NodeType": "PowerUp",
+    "id": 3
+  },
+  "4": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_03",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle3",
+    "NodeType": "PowerUp",
+    "id": 4
+  },
+  "5": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "battle02",
+    "NextNodeID": "resource01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 5
+  },
+  "6": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "resource01",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 6
+  },
+  "7": {
+    "NodeList": "Battle3_Path1_NodeID",
+    "NodeID": "battle03",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 7
+  },
+  "8": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "battle01",
+    "NextNodeID": "powerup01",
+    "StartNode": true,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 8
+  },
+  "9": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_01",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 9
+  },
+  "10": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_02",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 10
+  },
+  "11": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_03",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 11
+  },
+  "12": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "battle02",
+    "NextNodeID": "resource01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 12
+  },
+  "13": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "resource01",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 13
+  },
+  "14": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "battle03",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 14
+  },
+  "15": {
+    "NodeList": "Battle4_Path1_NodeID",
+    "NodeID": "battle04",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 15
+  },
+  "16": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle01",
+    "NextNodeID": "choice01",
+    "StartNode": true,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 16
+  },
+  "17": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "choice01",
+    "Choice": "choice01_01",
+    "NextNodeID": "powerup01",
+    "StartNode": false,
+    "NodeType": "Choice",
+    "id": 17
+  },
+  "18": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "choice01",
+    "Choice": "choice01_02",
+    "NextNodeID": "powerup02",
+    "StartNode": false,
+    "NodeType": "Choice",
+    "id": 18
+  },
+  "19": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_01",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 19
+  },
+  "20": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_02",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 20
+  },
+  "21": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_03",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 21
+  },
+  "22": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle02",
+    "NextNodeID": "resource01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 22
+  },
+  "23": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "resource01",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 23
+  },
+  "24": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle03",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 24
+  },
+  "25": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_01",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 25
+  },
+  "26": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_02",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 26
+  },
+  "27": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_03",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle4",
+    "NodeType": "PowerUp",
+    "id": 27
+  },
+  "28": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle04",
+    "NextNodeID": "resource02",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 28
+  },
+  "29": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "resource02",
+    "NextNodeID": "battle05",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 29
+  },
+  "30": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle05",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 30
+  },
+  "31": {
+    "NodeList": "Battle4_Path2_NodeID",
+    "NodeID": "battle06",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 31
+  },
+  "32": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "battle01",
+    "NextNodeID": "battle02",
+    "StartNode": true,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 32
+  },
+  "33": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "battle02",
+    "NextNodeID": "powerup01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 33
+  },
+  "34": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_01",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 34
+  },
+  "35": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_02",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 35
+  },
+  "36": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_03",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 36
+  },
+  "37": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "battle03",
+    "NextNodeID": "resource01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 37
+  },
+  "38": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "resource01",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 38
+  },
+  "39": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "battle04",
+    "NextNodeID": "battle05",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 39
+  },
+  "40": {
+    "NodeList": "Battle5_Path1_NodeID",
+    "NodeID": "battle05",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 40
+  },
+  "41": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle01",
+    "NextNodeID": "choice01",
+    "StartNode": true,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 41
+  },
+  "42": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "choice01",
+    "Choice": "choice01_01",
+    "NextNodeID": "battle02",
+    "StartNode": false,
+    "NodeType": "Choice",
+    "id": 42
+  },
+  "43": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "choice01",
+    "Choice": "choice01_02",
+    "NextNodeID": "battle05",
+    "StartNode": false,
+    "NodeType": "Choice",
+    "id": 43
+  },
+  "44": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle02",
+    "NextNodeID": "powerup01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 44
+  },
+  "45": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_01",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 45
+  },
+  "46": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_02",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 46
+  },
+  "47": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup01",
+    "Choice": "powerup01_03",
+    "NextNodeID": "battle03",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 47
+  },
+  "48": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle03",
+    "NextNodeID": "resource01",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 48
+  },
+  "49": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "resource01",
+    "NextNodeID": "battle04",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 49
+  },
+  "50": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle04",
+    "NextNodeID": "battle08",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 50
+  },
+  "51": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle05",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 51
+  },
+  "52": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_01",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 52
+  },
+  "53": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_02",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 53
+  },
+  "54": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "powerup02",
+    "Choice": "powerup02_03",
+    "NextNodeID": "battle06",
+    "StartNode": false,
+    "PowerUpPool": "PowerUp_Battle5",
+    "NodeType": "PowerUp",
+    "id": 54
+  },
+  "55": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle06",
+    "NextNodeID": "resource02",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 55
+  },
+  "56": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "resource02",
+    "NextNodeID": "battle07",
+    "StartNode": false,
+    "RewardPool": "ResourceReward",
+    "NodeType": "Resource",
+    "id": 56
+  },
+  "57": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle07",
+    "NextNodeID": "battle08",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 57
+  },
+  "58": {
+    "NodeList": "Battle5_Path2_NodeID",
+    "NodeID": "battle08",
+    "StartNode": false,
+    "RewardPool": "BattleReward",
+    "NodeType": "Battle",
+    "id": 58
+  }
+}

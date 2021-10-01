@@ -378,7 +378,7 @@
   "SeasonStart_01": {
     "dateStart": "2021-07-12T07:00:00Z",
     "dateEnd": "2021-07-26T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_Name",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -389,7 +389,7 @@
   "SeasonStart_02": {
     "dateStart": "2021-07-26T07:00:00Z",
     "dateEnd": "2021-08-09T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_Name",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -400,7 +400,7 @@
   "SeasonStart_03": {
     "dateStart": "2021-08-09T07:00:00Z",
     "dateEnd": "2021-08-23T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_Name",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -411,7 +411,7 @@
   "SeasonStart_04": {
     "dateStart": "2021-08-23T07:00:00Z",
     "dateEnd": "2021-09-06T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_Name",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -422,7 +422,7 @@
   "SeasonStart_05": {
     "dateStart": "2021-09-06T07:00:00Z",
     "dateEnd": "2021-09-20T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -433,7 +433,7 @@
   "SeasonStart_06": {
     "dateStart": "2021-09-20T07:00:00Z",
     "dateEnd": "2021-10-04T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -444,7 +444,7 @@
   "SeasonStart_07": {
     "dateStart": "2021-10-04T07:00:00Z",
     "dateEnd": "2021-10-18T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -455,7 +455,7 @@
   "SeasonStart_08": {
     "dateStart": "2021-10-18T07:00:00Z",
     "dateEnd": "2021-11-01T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -466,7 +466,7 @@
   "SeasonStart_09": {
     "dateStart": "2021-11-01T07:00:00Z",
     "dateEnd": "2021-11-15T07:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -477,7 +477,7 @@
   "SeasonStart_10": {
     "dateStart": "2021-11-15T08:00:00Z",
     "dateEnd": "2021-11-29T08:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -488,7 +488,7 @@
   "SeasonStart_11": {
     "dateStart": "2021-11-29T08:00:00Z",
     "dateEnd": "2021-12-13T08:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",
@@ -499,7 +499,7 @@
   "SeasonStart_12": {
     "dateStart": "2021-12-13T08:00:00Z",
     "dateEnd": "2021-12-27T08:00:00Z",
-    "newsType": 5,
+    "newsType": "Seasons",
     "newsHeadline": "News_Seasons_Generic_Headline",
     "newsName": "News_Seasons_Generic_NameAlt",
     "newsShortDesc": "News_Seasons_Generic_Desc",

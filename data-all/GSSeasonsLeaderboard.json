@@ -1,0 +1,50 @@
+{
+  "Tier 01": {
+    "requirement": 100,
+    "rewardId": "Tier 01",
+    "name": "UI_Seasons_Tier01_Name",
+    "icon": "Icon_Season_Tier01",
+    "number": 1,
+    "id": "Tier 01"
+  },
+  "Tier 02": {
+    "requirement": 500,
+    "rewardId": "Tier 02",
+    "name": "UI_Seasons_Tier02_Name",
+    "icon": "Icon_Season_Tier02",
+    "number": 2,
+    "id": "Tier 02"
+  },
+  "Tier 03": {
+    "requirement": 1000,
+    "rewardId": "Tier 03",
+    "name": "UI_Seasons_Tier03_Name",
+    "icon": "Icon_Season_Tier03",
+    "number": 3,
+    "id": "Tier 03"
+  },
+  "Tier 04": {
+    "requirement": 5000,
+    "rewardId": "Tier 04",
+    "name": "UI_Seasons_Tier04_Name",
+    "icon": "Icon_Season_Tier04",
+    "number": 4,
+    "id": "Tier 04"
+  },
+  "Tier 05": {
+    "requirement": 10000,
+    "rewardId": "Tier 05",
+    "name": "UI_Seasons_Tier05_Name",
+    "icon": "Icon_Season_Tier05",
+    "number": 5,
+    "id": "Tier 05"
+  },
+  "Tier 06": {
+    "requirement": -1,
+    "rewardId": "Tier 06",
+    "name": "UI_Seasons_Tier06_Name",
+    "icon": "Icon_Season_Tier06",
+    "number": 6,
+    "id": "Tier 06"
+  }
+}

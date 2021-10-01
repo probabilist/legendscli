@@ -1,0 +1,482 @@
+{
+  "Reinforce_01": {
+    "Group": "Reinforcement",
+    "Level": 1,
+    "UpgradeEffect": "Reinforce_01",
+    "Order": 1,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_Reinforcement",
+    "Name": "Dungeon_Upgrade_Reinforce_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Reinforce_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Reinforce_01"
+  },
+  "Reinforce_02": {
+    "Group": "Reinforcement",
+    "Level": 2,
+    "UpgradeEffect": "Reinforce_02",
+    "Order": 2,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_Reinforcement",
+    "Name": "Dungeon_Upgrade_Reinforce_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Reinforce_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Reinforce_02"
+  },
+  "Reinforce_03": {
+    "Group": "Reinforcement",
+    "Level": 3,
+    "UpgradeEffect": "Reinforce_03",
+    "Order": 3,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_Reinforcement",
+    "Name": "Dungeon_Upgrade_Reinforce_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Reinforce_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Reinforce_03"
+  },
+  "Reinforce_04": {
+    "Group": "Reinforcement",
+    "Level": 4,
+    "UpgradeEffect": "Reinforce_04",
+    "Order": 4,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_Reinforcement",
+    "Name": "Dungeon_Upgrade_Reinforce_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Reinforce_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Reinforce_04"
+  },
+  "Shields_01": {
+    "Group": "Shields",
+    "Level": 1,
+    "MissionEffect": "Dungeon_Shields_01",
+    "Order": 5,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_Shield",
+    "Name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Shields_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Shields_01"
+  },
+  "Shields_02": {
+    "Group": "Shields",
+    "Level": 2,
+    "MissionEffect": "Dungeon_Shields_02",
+    "Order": 6,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_Shield",
+    "Name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Shields_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Shields_02"
+  },
+  "Shields_03": {
+    "Group": "Shields",
+    "Level": 3,
+    "MissionEffect": "Dungeon_Shields_03",
+    "Order": 7,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_Shield",
+    "Name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Shields_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Shields_03"
+  },
+  "Shields_04": {
+    "Group": "Shields",
+    "Level": 4,
+    "MissionEffect": "Dungeon_Shields_04",
+    "Order": 8,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_Shield",
+    "Name": "Dungeon_Upgrade_Shields_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Shields_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Shields_04"
+  },
+  "Attack_01": {
+    "Group": "Attack",
+    "Level": 1,
+    "MissionEffect": "Dungeon_Attack_01",
+    "Order": 9,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_Atk",
+    "Name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Attack_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Attack_01"
+  },
+  "Attack_02": {
+    "Group": "Attack",
+    "Level": 2,
+    "MissionEffect": "Dungeon_Attack_02",
+    "Order": 10,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_Atk",
+    "Name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Attack_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Attack_02"
+  },
+  "Attack_03": {
+    "Group": "Attack",
+    "Level": 3,
+    "MissionEffect": "Dungeon_Attack_03",
+    "Order": 11,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_Atk",
+    "Name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Attack_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Attack_03"
+  },
+  "Attack_04": {
+    "Group": "Attack",
+    "Level": 4,
+    "MissionEffect": "Dungeon_Attack_04",
+    "Order": 12,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_Atk",
+    "Name": "Dungeon_Upgrade_Attack_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Attack_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Attack_04"
+  },
+  "Defense_01": {
+    "Group": "Defense",
+    "Level": 1,
+    "MissionEffect": "Dungeon_Defense_01",
+    "Order": 13,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_Def",
+    "Name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Defense_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Defense_01"
+  },
+  "Defense_02": {
+    "Group": "Defense",
+    "Level": 2,
+    "MissionEffect": "Dungeon_Defense_02",
+    "Order": 14,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_Def",
+    "Name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Defense_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Defense_02"
+  },
+  "Defense_03": {
+    "Group": "Defense",
+    "Level": 3,
+    "MissionEffect": "Dungeon_Defense_03",
+    "Order": 15,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_Def",
+    "Name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Defense_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Defense_03"
+  },
+  "Defense_04": {
+    "Group": "Defense",
+    "Level": 4,
+    "MissionEffect": "Dungeon_Defense_04",
+    "Order": 16,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_Def",
+    "Name": "Dungeon_Upgrade_Defense_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Defense_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Defense_04"
+  },
+  "Tech_01": {
+    "Group": "Tech",
+    "Level": 1,
+    "MissionEffect": "Dungeon_Tech_01",
+    "Order": 17,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_Tech",
+    "Name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Tech_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Tech_01"
+  },
+  "Tech_02": {
+    "Group": "Tech",
+    "Level": 2,
+    "MissionEffect": "Dungeon_Tech_02",
+    "Order": 18,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_Tech",
+    "Name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Tech_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Tech_02"
+  },
+  "Tech_03": {
+    "Group": "Tech",
+    "Level": 3,
+    "MissionEffect": "Dungeon_Tech_03",
+    "Order": 19,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_Tech",
+    "Name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Tech_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Tech_03"
+  },
+  "Tech_04": {
+    "Group": "Tech",
+    "Level": 4,
+    "MissionEffect": "Dungeon_Tech_04",
+    "Order": 20,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_Tech",
+    "Name": "Dungeon_Upgrade_Tech_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Tech_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Tech_04"
+  },
+  "Health_01": {
+    "Group": "Health",
+    "Level": 1,
+    "MissionEffect": "Dungeon_Health_01",
+    "Order": 21,
+    "Latinum": 15000,
+    "DungeonCurrency": 5000,
+    "Icon": "Skill_Dungeon_HP",
+    "Name": "Dungeon_Upgrade_Health_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Health_Level1_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 15000,
+        "Dungeon Currency": 5000
+      },
+      "FirstAmount": 15000,
+      "IsEmpty": false
+    },
+    "id": "Health_01"
+  },
+  "Health_02": {
+    "Group": "Health",
+    "Level": 2,
+    "MissionEffect": "Dungeon_Health_02",
+    "Order": 22,
+    "Latinum": 30000,
+    "DungeonCurrency": 10000,
+    "Icon": "Skill_Dungeon_HP",
+    "Name": "Dungeon_Upgrade_Health_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Health_Level2_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 30000,
+        "Dungeon Currency": 10000
+      },
+      "FirstAmount": 30000,
+      "IsEmpty": false
+    },
+    "id": "Health_02"
+  },
+  "Health_03": {
+    "Group": "Health",
+    "Level": 3,
+    "MissionEffect": "Dungeon_Health_03",
+    "Order": 23,
+    "Latinum": 60000,
+    "DungeonCurrency": 20000,
+    "Icon": "Skill_Dungeon_HP",
+    "Name": "Dungeon_Upgrade_Health_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Health_Level3_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 60000,
+        "Dungeon Currency": 20000
+      },
+      "FirstAmount": 60000,
+      "IsEmpty": false
+    },
+    "id": "Health_03"
+  },
+  "Health_04": {
+    "Group": "Health",
+    "Level": 4,
+    "MissionEffect": "Dungeon_Health_04",
+    "Order": 24,
+    "Latinum": 90000,
+    "DungeonCurrency": 30000,
+    "Icon": "Skill_Dungeon_HP",
+    "Name": "Dungeon_Upgrade_Health_Generic_Title",
+    "Desc": "Dungeon_Upgrade_Health_Level4_Desc",
+    "Price": {
+      "AllItems": {
+        "Latinum": 90000,
+        "Dungeon Currency": 30000
+      },
+      "FirstAmount": 90000,
+      "IsEmpty": false
+    },
+    "id": "Health_04"
+  }
+}

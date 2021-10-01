@@ -1,0 +1,338 @@
+{
+  "1": {
+    "CombatScenePool": "BorgCube_CombatScenes",
+    "EnvironmentPreset": "Combat_Borg_DataDistNode",
+    "EnvironmentSection": "Environment02_Borg_DataDistNode",
+    "PreviewImg": "Combat_Borg_DataDistNode_Img",
+    "Weight": 1,
+    "id": "1"
+  },
+  "2": {
+    "CombatScenePool": "BorgCube_CombatScenes",
+    "EnvironmentPreset": "Combat_Borg_RechargingAlcove",
+    "EnvironmentSection": "Environment02_Borg_RechargingAlcove",
+    "PreviewImg": "Combat_Borg_RechargeAlcove_Img",
+    "Weight": 1,
+    "id": "2"
+  },
+  "3": {
+    "CombatScenePool": "BorgCube_CombatScenes",
+    "EnvironmentPreset": "Combat_Borg_Room",
+    "EnvironmentSection": "Environment02_Borg_Room",
+    "PreviewImg": "Combat_Borg_Room_Img",
+    "Weight": 1,
+    "id": "3"
+  },
+  "4": {
+    "CombatScenePool": "BorgCube_CombatScenes",
+    "EnvironmentPreset": "Combat_BorgInterior",
+    "EnvironmentSection": "Environment01_Borg",
+    "PreviewImg": "Combat_Borg_RechargeAlcove_Img",
+    "Weight": 1,
+    "id": "4"
+  },
+  "5": {
+    "CombatScenePool": "CardassianShip_CombatScenes",
+    "EnvironmentPreset": "Combat_Cardassian_02",
+    "EnvironmentSection": "Environment01_Generator",
+    "PreviewImg": "Combat_Cardassian_Core_Img",
+    "Weight": 1,
+    "id": "5"
+  },
+  "6": {
+    "CombatScenePool": "CardassianShip_CombatScenes",
+    "EnvironmentPreset": "Combat_Cardassian_02_RedAlert",
+    "EnvironmentSection": "Environment01_Generator_RedAlert",
+    "PreviewImg": "Combat_Cardassian_Core_Img",
+    "Weight": 1,
+    "id": "6"
+  },
+  "7": {
+    "CombatScenePool": "FederationShip_CombatScenes",
+    "EnvironmentPreset": "Combat_FedShip_Clean_EntryWell_01",
+    "EnvironmentSection": "Environment01_FedShip_InteriorEntryWell",
+    "PreviewImg": "Combat_FedShip_Maru_EntryWell_01_Img",
+    "Weight": 1,
+    "id": "7"
+  },
+  "8": {
+    "CombatScenePool": "FederationShip_CombatScenes",
+    "EnvironmentPreset": "Combat_FedShip_Clean_Hallway_01",
+    "EnvironmentSection": "Environment01_FedShip_InteriorHall",
+    "PreviewImg": "Combat_FedShip_Maru_EntryWell_01_Img",
+    "Weight": 1,
+    "id": "8"
+  },
+  "9": {
+    "CombatScenePool": "FederationShip_CombatScenes",
+    "EnvironmentPreset": "Combat_FedShip_Clean_InteriorRoom_01",
+    "EnvironmentSection": "Environment01_FedShip_InteriorRoom",
+    "PreviewImg": "Combat_FedShip_Maru_EntryWell_01_Img",
+    "Weight": 1,
+    "id": "9"
+  },
+  "10": {
+    "CombatScenePool": "FederationShip_CombatScenes",
+    "EnvironmentPreset": "Combat_FedShip_Clean_Medbay_01",
+    "EnvironmentSection": "Environment01_FedShip_Medbay",
+    "PreviewImg": "Combat_FedShip_Maru_EntryWell_01_Img",
+    "Weight": 1,
+    "id": "10"
+  },
+  "11": {
+    "CombatScenePool": "KlingonShip_CombatScenes",
+    "EnvironmentPreset": "Combat_Klingon_Door",
+    "EnvironmentSection": "Environment02_KlingonBase_Door",
+    "PreviewImg": "Combat_Klingon_Door_Img",
+    "Weight": 1,
+    "id": "11"
+  },
+  "12": {
+    "CombatScenePool": "KlingonShip_CombatScenes",
+    "EnvironmentPreset": "Combat_Klingon_Hallway",
+    "EnvironmentSection": "Environment02_KlingonBase_Hall",
+    "PreviewImg": "Combat_Klingon_Hallway_Img",
+    "Weight": 1,
+    "id": "12"
+  },
+  "13": {
+    "CombatScenePool": "KlingonShip_CombatScenes",
+    "EnvironmentPreset": "Combat_Klingon_MedBay",
+    "EnvironmentSection": "Environment02_KlingonBase_Medbay",
+    "PreviewImg": "Combat_Klingon_MedBay_Img",
+    "Weight": 1,
+    "id": "13"
+  },
+  "14": {
+    "CombatScenePool": "IcePlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Iceplanet_Esplanade",
+    "EnvironmentSection": "Environment01_Esplanade",
+    "PreviewImg": "Combat_IcePlanet_Esplanade_Img",
+    "Weight": 1,
+    "id": "14"
+  },
+  "15": {
+    "CombatScenePool": "IcePlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Iceplanet_Frozen_Lake",
+    "EnvironmentSection": "Environment01_FrozenLake",
+    "PreviewImg": "Combat_IcePlanet_Frozen_Lake_Img",
+    "Weight": 1,
+    "id": "15"
+  },
+  "16": {
+    "CombatScenePool": "IcePlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Iceplanet_FrozenWreckage",
+    "EnvironmentSection": "Environment01_FrozenWreckage",
+    "PreviewImg": "Combat_IcePlanet_FrozenWreckage_Img",
+    "Weight": 1,
+    "id": "16"
+  },
+  "17": {
+    "CombatScenePool": "DesertPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Desert_BirdofPrey",
+    "EnvironmentSection": "Environment01_Desert",
+    "PreviewImg": "Combat_Desert_FlatDesert_Img",
+    "Weight": 1,
+    "id": "17"
+  },
+  "18": {
+    "CombatScenePool": "DesertPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Desert_Canyon",
+    "EnvironmentSection": "Environment01_Desert",
+    "PreviewImg": "Combat_Desert_Canyon_Img",
+    "Weight": 1,
+    "id": "18"
+  },
+  "19": {
+    "CombatScenePool": "DesertPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Desert_FlatDesert",
+    "EnvironmentSection": "Environment01_Desert",
+    "PreviewImg": "Combat_Desert_FlatDesert_Img",
+    "Weight": 1,
+    "id": "19"
+  },
+  "20": {
+    "CombatScenePool": "DesertPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Desert_Shuttle",
+    "EnvironmentSection": "Environment01_Desert",
+    "PreviewImg": "Combat_Desert_Shuttle_Img",
+    "Weight": 1,
+    "id": "20"
+  },
+  "21": {
+    "CombatScenePool": "ForestPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Forest_Clearing",
+    "EnvironmentSection": "Environment01_Forest_Clearing",
+    "PreviewImg": "Combat_Forest_Clearing_Img",
+    "Weight": 1,
+    "id": "21"
+  },
+  "22": {
+    "CombatScenePool": "ForestPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Forest_Federation_Clearing",
+    "EnvironmentSection": "Environment01_Forest_Federation_Clearing",
+    "PreviewImg": "Combat_Forest_Federation_Clearing_Img",
+    "Weight": 1,
+    "id": "22"
+  },
+  "23": {
+    "CombatScenePool": "ForestPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Forest_Federation_Path",
+    "EnvironmentSection": "Environment01_Forest_Federation_Path",
+    "PreviewImg": "Combat_Forest_Federation_Path_Img",
+    "Weight": 1,
+    "id": "23"
+  },
+  "24": {
+    "CombatScenePool": "ForestPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Forest_Path",
+    "EnvironmentSection": "Environment01_Forest_Path",
+    "PreviewImg": "Combat_Forest_Path_Img",
+    "Weight": 1,
+    "id": "24"
+  },
+  "25": {
+    "CombatScenePool": "GornOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_GornOutpost_01",
+    "EnvironmentSection": "Environment01_GornOUTPOST_Door",
+    "PreviewImg": "Combat_Gorn_Outpost_Img",
+    "Weight": 1,
+    "id": "25"
+  },
+  "26": {
+    "CombatScenePool": "GornOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_GornOutpost_BrokenDoor_02",
+    "EnvironmentSection": "Environment01_GornOUTPOST_DoorBroken",
+    "PreviewImg": "Combat_Gorn_BrokenDoor_Img",
+    "Weight": 1,
+    "id": "26"
+  },
+  "27": {
+    "CombatScenePool": "GornOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_GornOutpost_Hallway_03",
+    "EnvironmentSection": "Environment01_GornOUTPOST_Hall",
+    "PreviewImg": "Combat_Gorn_Hallway_Img",
+    "Weight": 1,
+    "id": "27"
+  },
+  "28": {
+    "CombatScenePool": "FederationOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_FedOutpost",
+    "EnvironmentSection": "Environment01_Outpost_Int",
+    "PreviewImg": "Combat_FedOutpost_Img",
+    "Weight": 1,
+    "id": "28"
+  },
+  "29": {
+    "CombatScenePool": "FederationOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_FedOutpost_02",
+    "EnvironmentSection": "Environment01_Outpost_Warehouse",
+    "PreviewImg": "Combat_FedOutpost_CargoBay_Img",
+    "Weight": 1,
+    "id": "29"
+  },
+  "30": {
+    "CombatScenePool": "FederationOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_FedOutpost_03",
+    "EnvironmentSection": "Environment01_Outpost_Hallway",
+    "PreviewImg": "Combat_FedOutpost_Hallway_Img",
+    "Weight": 1,
+    "id": "30"
+  },
+  "31": {
+    "CombatScenePool": "FederationOutpost_CombatScenes",
+    "EnvironmentPreset": "Combat_FedOutpost_03_RedAlert",
+    "EnvironmentSection": "Environment01_Outpost_Hallway_RedAlert",
+    "PreviewImg": "Combat_FedOutpost_Hallway_RedAlert_IMG",
+    "Weight": 1,
+    "id": "31"
+  },
+  "32": {
+    "CombatScenePool": "FederationMedical_CombatScenes",
+    "EnvironmentPreset": "Combat_FedMedbay_CargoBay_01",
+    "EnvironmentSection": "Environment02_MedBay_CargoBay",
+    "PreviewImg": "Combat_FedMedBay_CargoBay_Img",
+    "Weight": 1,
+    "id": "32"
+  },
+  "33": {
+    "CombatScenePool": "FederationMedical_CombatScenes",
+    "EnvironmentPreset": "Combat_FedMedbay_Esplanade_01",
+    "EnvironmentSection": "Environment02_MedBay_Esplanade",
+    "PreviewImg": "Combat_FedMedbay_Esplanade_Img",
+    "Weight": 1,
+    "id": "33"
+  },
+  "34": {
+    "CombatScenePool": "FederationMedical_CombatScenes",
+    "EnvironmentPreset": "Combat_FedMedbay_Hallway_01",
+    "EnvironmentSection": "Environment02_MedBay_Hallway",
+    "PreviewImg": "Combat_FedMedBay_Hallway_Img",
+    "Weight": 1,
+    "id": "34"
+  },
+  "35": {
+    "CombatScenePool": "FederationMedical_CombatScenes",
+    "EnvironmentPreset": "Combat_FedMedbay_Main_01",
+    "EnvironmentSection": "Environment02_MedBay_Main",
+    "PreviewImg": "Combat_FedMedBay_Main_Img",
+    "Weight": 1,
+    "id": "35"
+  },
+  "36": {
+    "CombatScenePool": "NexusPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Nexus_DesertRuins",
+    "EnvironmentSection": "Environment01_Nexus_DesertRuins",
+    "PreviewImg": "Combat_Nexus_DesertRuins_Img",
+    "Weight": 1,
+    "id": "36"
+  },
+  "37": {
+    "CombatScenePool": "NexusPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Nexus_DesertRuins_02",
+    "EnvironmentSection": "Environment01_Nexus_DesertRuins_02",
+    "PreviewImg": "Combat_Nexus_DesertRuins02_Img",
+    "Weight": 1,
+    "id": "37"
+  },
+  "38": {
+    "CombatScenePool": "NexusPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Nexus_DesertRuins_03",
+    "EnvironmentSection": "Environment01_Nexus_DesertRuins_03",
+    "PreviewImg": "Combat_Nexus_DesertRuins03_Img",
+    "Weight": 1,
+    "id": "38"
+  },
+  "39": {
+    "CombatScenePool": "NexusPlanet_CombatScenes",
+    "EnvironmentPreset": "Combat_Nexus_DesertRuins_04",
+    "EnvironmentSection": "Environment01_Nexus_DesertRuins_04",
+    "PreviewImg": "Combat_Nexus_DesertRuins04_Img",
+    "Weight": 1,
+    "id": "39"
+  },
+  "40": {
+    "CombatScenePool": "RealityEngine_CombatScenes",
+    "EnvironmentPreset": "Combat_NexusMachineInterior_01",
+    "EnvironmentSection": "Environment01_NexusMachineInterior_01",
+    "PreviewImg": "Combat_NexusMachineInterior_01_Img",
+    "Weight": 1,
+    "id": "40"
+  },
+  "41": {
+    "CombatScenePool": "RealityEngine_CombatScenes",
+    "EnvironmentPreset": "Combat_NexusMachineInterior_02",
+    "EnvironmentSection": "Environment01_NexusMachineInterior_02",
+    "PreviewImg": "Combat_NexusMachineInterior_02_Img",
+    "Weight": 1,
+    "id": "41"
+  },
+  "42": {
+    "CombatScenePool": "RealityEngine_CombatScenes",
+    "EnvironmentPreset": "Combat_NexusMachineInterior_03",
+    "EnvironmentSection": "Environment01_NexusMachineInterior_03",
+    "PreviewImg": "Combat_NexusMachineInterior_03_Img",
+    "Weight": 1,
+    "id": "42"
+  }
+}

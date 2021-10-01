@@ -62,11 +62,11 @@
     "Name": "_News",
     "id": "News"
   },
-  "9": {
-    "Feature": 9,
+  "Dungeon": {
+    "Feature": "Dungeon",
     "Level": 15,
     "Icon": "",
     "Name": "",
-    "id": 9
+    "id": "Dungeon"
   }
 }

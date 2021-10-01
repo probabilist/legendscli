@@ -1,0 +1,429 @@
+{
+  "1": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_01",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 1
+  },
+  "2": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_02",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 2
+  },
+  "3": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_03",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 3
+  },
+  "4": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_04",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 4
+  },
+  "5": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_05",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 5
+  },
+  "6": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_06",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 6
+  },
+  "7": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_07",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 7
+  },
+  "8": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_08",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 8
+  },
+  "9": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_09",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 9
+  },
+  "10": {
+    "NodeMapPoolId": "Battle3_Path1",
+    "NodeMapId": "battle3_path1_10",
+    "Weight": 1,
+    "NodeList": "Battle3_Path1_NodeID",
+    "id": 10
+  },
+  "11": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_01",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 11
+  },
+  "12": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_02",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 12
+  },
+  "13": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_03",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 13
+  },
+  "14": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_04",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 14
+  },
+  "15": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_05",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 15
+  },
+  "16": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_06",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 16
+  },
+  "17": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_07",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 17
+  },
+  "18": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_08",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 18
+  },
+  "19": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_09",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 19
+  },
+  "20": {
+    "NodeMapPoolId": "Battle4_Path1",
+    "NodeMapId": "battle4_path1_10",
+    "Weight": 1,
+    "NodeList": "Battle4_Path1_NodeID",
+    "id": 20
+  },
+  "21": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_01",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 21
+  },
+  "22": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_02",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 22
+  },
+  "23": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_03",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 23
+  },
+  "24": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_04",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 24
+  },
+  "25": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_05",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 25
+  },
+  "26": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_06",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 26
+  },
+  "27": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_07",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 27
+  },
+  "28": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_08",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 28
+  },
+  "29": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_09",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 29
+  },
+  "30": {
+    "NodeMapPoolId": "Battle4_Path2",
+    "NodeMapId": "battle4_path2_10",
+    "Weight": 1,
+    "NodeList": "Battle4_Path2_NodeID",
+    "id": 30
+  },
+  "31": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_01",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 31
+  },
+  "32": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_02",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 32
+  },
+  "33": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_03",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 33
+  },
+  "34": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_04",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 34
+  },
+  "35": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_05",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 35
+  },
+  "36": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_06",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 36
+  },
+  "37": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_07",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 37
+  },
+  "38": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_08",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 38
+  },
+  "39": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_09",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 39
+  },
+  "40": {
+    "NodeMapPoolId": "Battle5_Path1",
+    "NodeMapId": "battle5_path1_10",
+    "Weight": 1,
+    "NodeList": "Battle5_Path1_NodeID",
+    "id": 40
+  },
+  "41": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_01",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 41
+  },
+  "42": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_02",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 42
+  },
+  "43": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_03",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 43
+  },
+  "44": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_04",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 44
+  },
+  "45": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_05",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 45
+  },
+  "46": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_06",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 46
+  },
+  "47": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_07",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 47
+  },
+  "48": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_08",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 48
+  },
+  "49": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_09",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 49
+  },
+  "50": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_10",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 50
+  },
+  "51": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_11",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 51
+  },
+  "52": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_12",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 52
+  },
+  "53": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_13",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 53
+  },
+  "54": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_14",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 54
+  },
+  "55": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_15",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 55
+  },
+  "56": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_16",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 56
+  },
+  "57": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_17",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 57
+  },
+  "58": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_18",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 58
+  },
+  "59": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_19",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 59
+  },
+  "60": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_20",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 60
+  },
+  "61": {
+    "NodeMapPoolId": "Battle5_Path2",
+    "NodeMapId": "battle5_path2_21",
+    "Weight": 1,
+    "NodeList": "Battle5_Path2_NodeID",
+    "id": 61
+  }
+}

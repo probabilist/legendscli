@@ -1,0 +1,2204 @@
+{
+  "1": {
+    "FactionPoolId": "Faction_Tier00_B3_P1",
+    "BattleNodes": "Tier00_B3_P1_Borg",
+    "Weight": 1,
+    "id": 1
+  },
+  "2": {
+    "FactionPoolId": "Faction_Tier01_B3_P1",
+    "BattleNodes": "Tier01_B3_P1_Borg",
+    "Weight": 1,
+    "id": 2
+  },
+  "3": {
+    "FactionPoolId": "Faction_Tier02_B4_P1",
+    "BattleNodes": "Tier02_B4_P1_Borg",
+    "Weight": 1,
+    "id": 3
+  },
+  "4": {
+    "FactionPoolId": "Faction_Tier03_B4_P1",
+    "BattleNodes": "Tier03_B4_P1_Borg",
+    "Weight": 1,
+    "id": 4
+  },
+  "5": {
+    "FactionPoolId": "Faction_Tier04_B4_P1",
+    "BattleNodes": "Tier04_B4_P1_Borg",
+    "Weight": 1,
+    "id": 5
+  },
+  "6": {
+    "FactionPoolId": "Faction_Tier05_B5_P1",
+    "BattleNodes": "Tier05_B5_P1_Borg",
+    "Weight": 1,
+    "id": 6
+  },
+  "7": {
+    "FactionPoolId": "Faction_Tier06_B5_P1",
+    "BattleNodes": "Tier06_B5_P1_Borg",
+    "Weight": 1,
+    "id": 7
+  },
+  "8": {
+    "FactionPoolId": "Faction_Tier07_B5_P1",
+    "BattleNodes": "Tier07_B5_P1_Borg",
+    "Weight": 1,
+    "id": 8
+  },
+  "9": {
+    "FactionPoolId": "Faction_Tier08_B5_P1",
+    "BattleNodes": "Tier08_B5_P1_Borg",
+    "Weight": 1,
+    "id": 9
+  },
+  "10": {
+    "FactionPoolId": "Faction_Tier09_B5_P1",
+    "BattleNodes": "Tier09_B5_P1_Borg",
+    "Weight": 1,
+    "id": 10
+  },
+  "11": {
+    "FactionPoolId": "Faction_Tier10_B5_P1",
+    "BattleNodes": "Tier10_B5_P1_Borg",
+    "Weight": 1,
+    "id": 11
+  },
+  "12": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_BorgCard",
+    "Weight": 1,
+    "id": 12
+  },
+  "13": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_BorgFed",
+    "Weight": 1,
+    "id": 13
+  },
+  "14": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_BorgKling",
+    "Weight": 1,
+    "id": 14
+  },
+  "15": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_BorgRomu",
+    "Weight": 1,
+    "id": 15
+  },
+  "16": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_BorgCard",
+    "Weight": 1,
+    "id": 16
+  },
+  "17": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_BorgFed",
+    "Weight": 1,
+    "id": 17
+  },
+  "18": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_BorgKling",
+    "Weight": 1,
+    "id": 18
+  },
+  "19": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 19
+  },
+  "20": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_BorgCard",
+    "Weight": 1,
+    "id": 20
+  },
+  "21": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_BorgFed",
+    "Weight": 1,
+    "id": 21
+  },
+  "22": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_BorgKling",
+    "Weight": 1,
+    "id": 22
+  },
+  "23": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_BorgRomu",
+    "Weight": 1,
+    "id": 23
+  },
+  "24": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_BorgCard",
+    "Weight": 1,
+    "id": 24
+  },
+  "25": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_BorgFed",
+    "Weight": 1,
+    "id": 25
+  },
+  "26": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_BorgKling",
+    "Weight": 1,
+    "id": 26
+  },
+  "27": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 27
+  },
+  "28": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 28
+  },
+  "29": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 29
+  },
+  "30": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 30
+  },
+  "31": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_BorgRomu",
+    "Weight": 1,
+    "id": 31
+  },
+  "32": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_BorgCard",
+    "Weight": 1,
+    "id": 32
+  },
+  "33": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_BorgFed",
+    "Weight": 1,
+    "id": 33
+  },
+  "34": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_BorgKling",
+    "Weight": 1,
+    "id": 34
+  },
+  "35": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 35
+  },
+  "36": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 36
+  },
+  "37": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 37
+  },
+  "38": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 38
+  },
+  "39": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_BorgRomu",
+    "Weight": 1,
+    "id": 39
+  },
+  "40": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_BorgCard",
+    "Weight": 1,
+    "id": 40
+  },
+  "41": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_BorgFed",
+    "Weight": 1,
+    "id": 41
+  },
+  "42": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_BorgKling",
+    "Weight": 1,
+    "id": 42
+  },
+  "43": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 43
+  },
+  "44": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 44
+  },
+  "45": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 45
+  },
+  "46": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 46
+  },
+  "47": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_BorgRomu",
+    "Weight": 1,
+    "id": 47
+  },
+  "48": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_BorgCard",
+    "Weight": 1,
+    "id": 48
+  },
+  "49": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_BorgFed",
+    "Weight": 1,
+    "id": 49
+  },
+  "50": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_BorgKling",
+    "Weight": 1,
+    "id": 50
+  },
+  "51": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 51
+  },
+  "52": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 52
+  },
+  "53": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 53
+  },
+  "54": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 54
+  },
+  "55": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_BorgRomu",
+    "Weight": 1,
+    "id": 55
+  },
+  "56": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_BorgCard",
+    "Weight": 1,
+    "id": 56
+  },
+  "57": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_BorgFed",
+    "Weight": 1,
+    "id": 57
+  },
+  "58": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_BorgKling",
+    "Weight": 1,
+    "id": 58
+  },
+  "59": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 59
+  },
+  "60": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 60
+  },
+  "61": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 61
+  },
+  "62": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 62
+  },
+  "63": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_BorgRomu",
+    "Weight": 1,
+    "id": 63
+  },
+  "64": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_BorgCard",
+    "Weight": 1,
+    "id": 64
+  },
+  "65": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_BorgFed",
+    "Weight": 1,
+    "id": 65
+  },
+  "66": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_BorgKling",
+    "Weight": 1,
+    "id": 66
+  },
+  "67": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_BorgRomu",
+    "Weight": 1,
+    "id": 67
+  },
+  "68": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_BorgCard",
+    "Weight": 1,
+    "id": 68
+  },
+  "69": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_BorgFed",
+    "Weight": 1,
+    "id": 69
+  },
+  "70": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_BorgKling",
+    "Weight": 1,
+    "id": 70
+  },
+  "71": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_BorgRomu",
+    "Weight": 4,
+    "id": 71
+  },
+  "72": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_BorgCard",
+    "Weight": 4,
+    "id": 72
+  },
+  "73": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_BorgFed",
+    "Weight": 4,
+    "id": 73
+  },
+  "74": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_BorgKling",
+    "Weight": 4,
+    "id": 74
+  },
+  "75": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_BorgRomu",
+    "Weight": 4,
+    "id": 75
+  },
+  "76": {
+    "FactionPoolId": "Faction_Tier00_B3_P1",
+    "BattleNodes": "Tier00_B3_P1_Card",
+    "Weight": 1,
+    "id": 76
+  },
+  "77": {
+    "FactionPoolId": "Faction_Tier01_B3_P1",
+    "BattleNodes": "Tier01_B3_P1_Card",
+    "Weight": 1,
+    "id": 77
+  },
+  "78": {
+    "FactionPoolId": "Faction_Tier02_B4_P1",
+    "BattleNodes": "Tier02_B4_P1_Card",
+    "Weight": 1,
+    "id": 78
+  },
+  "79": {
+    "FactionPoolId": "Faction_Tier03_B4_P1",
+    "BattleNodes": "Tier03_B4_P1_Card",
+    "Weight": 1,
+    "id": 79
+  },
+  "80": {
+    "FactionPoolId": "Faction_Tier04_B4_P1",
+    "BattleNodes": "Tier04_B4_P1_Card",
+    "Weight": 1,
+    "id": 80
+  },
+  "81": {
+    "FactionPoolId": "Faction_Tier05_B5_P1",
+    "BattleNodes": "Tier05_B5_P1_Card",
+    "Weight": 1,
+    "id": 81
+  },
+  "82": {
+    "FactionPoolId": "Faction_Tier06_B5_P1",
+    "BattleNodes": "Tier06_B5_P1_Card",
+    "Weight": 1,
+    "id": 82
+  },
+  "83": {
+    "FactionPoolId": "Faction_Tier07_B5_P1",
+    "BattleNodes": "Tier07_B5_P1_Card",
+    "Weight": 1,
+    "id": 83
+  },
+  "84": {
+    "FactionPoolId": "Faction_Tier08_B5_P1",
+    "BattleNodes": "Tier08_B5_P1_Card",
+    "Weight": 1,
+    "id": 84
+  },
+  "85": {
+    "FactionPoolId": "Faction_Tier09_B5_P1",
+    "BattleNodes": "Tier09_B5_P1_Card",
+    "Weight": 1,
+    "id": 85
+  },
+  "86": {
+    "FactionPoolId": "Faction_Tier10_B5_P1",
+    "BattleNodes": "Tier10_B5_P1_Card",
+    "Weight": 1,
+    "id": 86
+  },
+  "87": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_CardBorg",
+    "Weight": 1,
+    "id": 87
+  },
+  "88": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_CardFed",
+    "Weight": 1,
+    "id": 88
+  },
+  "89": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_CardKling",
+    "Weight": 1,
+    "id": 89
+  },
+  "90": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_CardRomu",
+    "Weight": 1,
+    "id": 90
+  },
+  "91": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_CardBorg",
+    "Weight": 1,
+    "id": 91
+  },
+  "92": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_CardFed",
+    "Weight": 1,
+    "id": 92
+  },
+  "93": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_CardKling",
+    "Weight": 1,
+    "id": 93
+  },
+  "94": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_CardRomu",
+    "Weight": 1,
+    "id": 94
+  },
+  "95": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_CardBorg",
+    "Weight": 1,
+    "id": 95
+  },
+  "96": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_CardFed",
+    "Weight": 1,
+    "id": 96
+  },
+  "97": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_CardKling",
+    "Weight": 1,
+    "id": 97
+  },
+  "98": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_CardRomu",
+    "Weight": 1,
+    "id": 98
+  },
+  "99": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_CardBorg",
+    "Weight": 1,
+    "id": 99
+  },
+  "100": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_CardFed",
+    "Weight": 1,
+    "id": 100
+  },
+  "101": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_CardKling",
+    "Weight": 1,
+    "id": 101
+  },
+  "102": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_CardRomu",
+    "Weight": 1,
+    "id": 102
+  },
+  "103": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 103
+  },
+  "104": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 104
+  },
+  "105": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 105
+  },
+  "106": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 106
+  },
+  "107": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_CardBorg",
+    "Weight": 1,
+    "id": 107
+  },
+  "108": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_CardFed",
+    "Weight": 1,
+    "id": 108
+  },
+  "109": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_CardKling",
+    "Weight": 1,
+    "id": 109
+  },
+  "110": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_CardRomu",
+    "Weight": 1,
+    "id": 110
+  },
+  "111": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 111
+  },
+  "112": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 112
+  },
+  "113": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 113
+  },
+  "114": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 114
+  },
+  "115": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_CardBorg",
+    "Weight": 1,
+    "id": 115
+  },
+  "116": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_CardFed",
+    "Weight": 1,
+    "id": 116
+  },
+  "117": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_CardKling",
+    "Weight": 1,
+    "id": 117
+  },
+  "118": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_CardRomu",
+    "Weight": 1,
+    "id": 118
+  },
+  "119": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 119
+  },
+  "120": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 120
+  },
+  "121": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 121
+  },
+  "122": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 122
+  },
+  "123": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_CardBorg",
+    "Weight": 1,
+    "id": 123
+  },
+  "124": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_CardFed",
+    "Weight": 1,
+    "id": 124
+  },
+  "125": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_CardKling",
+    "Weight": 1,
+    "id": 125
+  },
+  "126": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_CardRomu",
+    "Weight": 1,
+    "id": 126
+  },
+  "127": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 127
+  },
+  "128": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 128
+  },
+  "129": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 129
+  },
+  "130": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 130
+  },
+  "131": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_CardBorg",
+    "Weight": 1,
+    "id": 131
+  },
+  "132": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_CardFed",
+    "Weight": 1,
+    "id": 132
+  },
+  "133": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_CardKling",
+    "Weight": 1,
+    "id": 133
+  },
+  "134": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_CardRomu",
+    "Weight": 1,
+    "id": 134
+  },
+  "135": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 135
+  },
+  "136": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 136
+  },
+  "137": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 137
+  },
+  "138": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 138
+  },
+  "139": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_CardBorg",
+    "Weight": 1,
+    "id": 139
+  },
+  "140": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_CardFed",
+    "Weight": 1,
+    "id": 140
+  },
+  "141": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_CardKling",
+    "Weight": 1,
+    "id": 141
+  },
+  "142": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_CardRomu",
+    "Weight": 1,
+    "id": 142
+  },
+  "143": {
+    "FactionPoolId": "Faction_Tier00_B3_P1",
+    "BattleNodes": "Tier00_B3_P1_Fed",
+    "Weight": 1,
+    "id": 143
+  },
+  "144": {
+    "FactionPoolId": "Faction_Tier01_B3_P1",
+    "BattleNodes": "Tier01_B3_P1_Fed",
+    "Weight": 1,
+    "id": 144
+  },
+  "145": {
+    "FactionPoolId": "Faction_Tier02_B4_P1",
+    "BattleNodes": "Tier02_B4_P1_Fed",
+    "Weight": 1,
+    "id": 145
+  },
+  "146": {
+    "FactionPoolId": "Faction_Tier03_B4_P1",
+    "BattleNodes": "Tier03_B4_P1_Fed",
+    "Weight": 1,
+    "id": 146
+  },
+  "147": {
+    "FactionPoolId": "Faction_Tier04_B4_P1",
+    "BattleNodes": "Tier04_B4_P1_Fed",
+    "Weight": 1,
+    "id": 147
+  },
+  "148": {
+    "FactionPoolId": "Faction_Tier05_B5_P1",
+    "BattleNodes": "Tier05_B5_P1_Fed",
+    "Weight": 1,
+    "id": 148
+  },
+  "149": {
+    "FactionPoolId": "Faction_Tier06_B5_P1",
+    "BattleNodes": "Tier06_B5_P1_Fed",
+    "Weight": 1,
+    "id": 149
+  },
+  "150": {
+    "FactionPoolId": "Faction_Tier07_B5_P1",
+    "BattleNodes": "Tier07_B5_P1_Fed",
+    "Weight": 1,
+    "id": 150
+  },
+  "151": {
+    "FactionPoolId": "Faction_Tier08_B5_P1",
+    "BattleNodes": "Tier08_B5_P1_Fed",
+    "Weight": 1,
+    "id": 151
+  },
+  "152": {
+    "FactionPoolId": "Faction_Tier09_B5_P1",
+    "BattleNodes": "Tier09_B5_P1_Fed",
+    "Weight": 1,
+    "id": 152
+  },
+  "153": {
+    "FactionPoolId": "Faction_Tier10_B5_P1",
+    "BattleNodes": "Tier10_B5_P1_Fed",
+    "Weight": 1,
+    "id": 153
+  },
+  "154": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_FedCard",
+    "Weight": 1,
+    "id": 154
+  },
+  "155": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_FedBorg",
+    "Weight": 1,
+    "id": 155
+  },
+  "156": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_FedKling",
+    "Weight": 1,
+    "id": 156
+  },
+  "157": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_FedRomu",
+    "Weight": 1,
+    "id": 157
+  },
+  "158": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_FedCard",
+    "Weight": 1,
+    "id": 158
+  },
+  "159": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_FedBorg",
+    "Weight": 1,
+    "id": 159
+  },
+  "160": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_FedKling",
+    "Weight": 1,
+    "id": 160
+  },
+  "161": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_FedRomu",
+    "Weight": 1,
+    "id": 161
+  },
+  "162": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_FedCard",
+    "Weight": 1,
+    "id": 162
+  },
+  "163": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_FedBorg",
+    "Weight": 1,
+    "id": 163
+  },
+  "164": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_FedKling",
+    "Weight": 1,
+    "id": 164
+  },
+  "165": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_FedRomu",
+    "Weight": 1,
+    "id": 165
+  },
+  "166": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_FedCard",
+    "Weight": 1,
+    "id": 166
+  },
+  "167": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_FedBorg",
+    "Weight": 1,
+    "id": 167
+  },
+  "168": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_FedKling",
+    "Weight": 1,
+    "id": 168
+  },
+  "169": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_FedRomu",
+    "Weight": 1,
+    "id": 169
+  },
+  "170": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 170
+  },
+  "171": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 171
+  },
+  "172": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 172
+  },
+  "173": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 173
+  },
+  "174": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 174
+  },
+  "175": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 175
+  },
+  "176": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 176
+  },
+  "177": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 177
+  },
+  "178": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 178
+  },
+  "179": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 179
+  },
+  "180": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 180
+  },
+  "181": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 181
+  },
+  "182": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 182
+  },
+  "183": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 183
+  },
+  "184": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 184
+  },
+  "185": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 185
+  },
+  "186": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 186
+  },
+  "187": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 187
+  },
+  "188": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 188
+  },
+  "189": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 189
+  },
+  "190": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 190
+  },
+  "191": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 191
+  },
+  "192": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 192
+  },
+  "193": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 193
+  },
+  "194": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 194
+  },
+  "195": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 195
+  },
+  "196": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 196
+  },
+  "197": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 197
+  },
+  "198": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 198
+  },
+  "199": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 199
+  },
+  "200": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 200
+  },
+  "201": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 201
+  },
+  "202": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 202
+  },
+  "203": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 203
+  },
+  "204": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 204
+  },
+  "205": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 205
+  },
+  "206": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 206
+  },
+  "207": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 207
+  },
+  "208": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 208
+  },
+  "209": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 209
+  },
+  "210": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_FedCard",
+    "Weight": 1,
+    "id": 210
+  },
+  "211": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_FedBorg",
+    "Weight": 1,
+    "id": 211
+  },
+  "212": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_FedKling",
+    "Weight": 1,
+    "id": 212
+  },
+  "213": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_FedRomu",
+    "Weight": 1,
+    "id": 213
+  },
+  "214": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_FedCard",
+    "Weight": 1,
+    "id": 214
+  },
+  "215": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_FedBorg",
+    "Weight": 1,
+    "id": 215
+  },
+  "216": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_FedKling",
+    "Weight": 1,
+    "id": 216
+  },
+  "217": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_FedRomu",
+    "Weight": 1,
+    "id": 217
+  },
+  "218": {
+    "FactionPoolId": "Faction_Tier00_B3_P1",
+    "BattleNodes": "Tier00_B3_P1_Kling",
+    "Weight": 1,
+    "id": 218
+  },
+  "219": {
+    "FactionPoolId": "Faction_Tier01_B3_P1",
+    "BattleNodes": "Tier01_B3_P1_Kling",
+    "Weight": 1,
+    "id": 219
+  },
+  "220": {
+    "FactionPoolId": "Faction_Tier02_B4_P1",
+    "BattleNodes": "Tier02_B4_P1_Kling",
+    "Weight": 1,
+    "id": 220
+  },
+  "221": {
+    "FactionPoolId": "Faction_Tier03_B4_P1",
+    "BattleNodes": "Tier03_B4_P1_Kling",
+    "Weight": 1,
+    "id": 221
+  },
+  "222": {
+    "FactionPoolId": "Faction_Tier04_B4_P1",
+    "BattleNodes": "Tier04_B4_P1_Kling",
+    "Weight": 1,
+    "id": 222
+  },
+  "223": {
+    "FactionPoolId": "Faction_Tier05_B5_P1",
+    "BattleNodes": "Tier05_B5_P1_Kling",
+    "Weight": 1,
+    "id": 223
+  },
+  "224": {
+    "FactionPoolId": "Faction_Tier06_B5_P1",
+    "BattleNodes": "Tier06_B5_P1_Kling",
+    "Weight": 1,
+    "id": 224
+  },
+  "225": {
+    "FactionPoolId": "Faction_Tier07_B5_P1",
+    "BattleNodes": "Tier07_B5_P1_Kling",
+    "Weight": 1,
+    "id": 225
+  },
+  "226": {
+    "FactionPoolId": "Faction_Tier08_B5_P1",
+    "BattleNodes": "Tier08_B5_P1_Kling",
+    "Weight": 1,
+    "id": 226
+  },
+  "227": {
+    "FactionPoolId": "Faction_Tier09_B5_P1",
+    "BattleNodes": "Tier09_B5_P1_Kling",
+    "Weight": 1,
+    "id": 227
+  },
+  "228": {
+    "FactionPoolId": "Faction_Tier10_B5_P1",
+    "BattleNodes": "Tier10_B5_P1_Kling",
+    "Weight": 1,
+    "id": 228
+  },
+  "229": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_KlingCard",
+    "Weight": 1,
+    "id": 229
+  },
+  "230": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_KlingFed",
+    "Weight": 1,
+    "id": 230
+  },
+  "231": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_KlingBorg",
+    "Weight": 1,
+    "id": 231
+  },
+  "232": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_KlingRomu",
+    "Weight": 1,
+    "id": 232
+  },
+  "233": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_KlingCard",
+    "Weight": 1,
+    "id": 233
+  },
+  "234": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_KlingFed",
+    "Weight": 1,
+    "id": 234
+  },
+  "235": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 235
+  },
+  "236": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 236
+  },
+  "237": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_KlingCard",
+    "Weight": 1,
+    "id": 237
+  },
+  "238": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_KlingFed",
+    "Weight": 1,
+    "id": 238
+  },
+  "239": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_KlingBorg",
+    "Weight": 1,
+    "id": 239
+  },
+  "240": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_KlingRomu",
+    "Weight": 1,
+    "id": 240
+  },
+  "241": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_KlingCard",
+    "Weight": 1,
+    "id": 241
+  },
+  "242": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_KlingFed",
+    "Weight": 1,
+    "id": 242
+  },
+  "243": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 243
+  },
+  "244": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 244
+  },
+  "245": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 245
+  },
+  "246": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 246
+  },
+  "247": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 247
+  },
+  "248": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 248
+  },
+  "249": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 249
+  },
+  "250": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 250
+  },
+  "251": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 251
+  },
+  "252": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 252
+  },
+  "253": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 253
+  },
+  "254": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 254
+  },
+  "255": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 255
+  },
+  "256": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 256
+  },
+  "257": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 257
+  },
+  "258": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 258
+  },
+  "259": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 259
+  },
+  "260": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 260
+  },
+  "261": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 261
+  },
+  "262": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 262
+  },
+  "263": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 263
+  },
+  "264": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 264
+  },
+  "265": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 265
+  },
+  "266": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 266
+  },
+  "267": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 267
+  },
+  "268": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 268
+  },
+  "269": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 269
+  },
+  "270": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 270
+  },
+  "271": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 271
+  },
+  "272": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 272
+  },
+  "273": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 273
+  },
+  "274": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 274
+  },
+  "275": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 275
+  },
+  "276": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 276
+  },
+  "277": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 277
+  },
+  "278": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 278
+  },
+  "279": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 279
+  },
+  "280": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 280
+  },
+  "281": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 281
+  },
+  "282": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 282
+  },
+  "283": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 283
+  },
+  "284": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 284
+  },
+  "285": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_KlingCard",
+    "Weight": 1,
+    "id": 285
+  },
+  "286": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_KlingFed",
+    "Weight": 1,
+    "id": 286
+  },
+  "287": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_KlingBorg",
+    "Weight": 1,
+    "id": 287
+  },
+  "288": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_KlingRomu",
+    "Weight": 1,
+    "id": 288
+  },
+  "289": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_KlingCard",
+    "Weight": 1,
+    "id": 289
+  },
+  "290": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_KlingFed",
+    "Weight": 1,
+    "id": 290
+  },
+  "291": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_KlingBorg",
+    "Weight": 1,
+    "id": 291
+  },
+  "292": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_KlingRomu",
+    "Weight": 1,
+    "id": 292
+  },
+  "293": {
+    "FactionPoolId": "Faction_Tier00_B3_P1",
+    "BattleNodes": "Tier00_B3_P1_Romu",
+    "Weight": 1,
+    "id": 293
+  },
+  "294": {
+    "FactionPoolId": "Faction_Tier01_B3_P1",
+    "BattleNodes": "Tier01_B3_P1_Romu",
+    "Weight": 1,
+    "id": 294
+  },
+  "295": {
+    "FactionPoolId": "Faction_Tier02_B4_P1",
+    "BattleNodes": "Tier02_B4_P1_Romu",
+    "Weight": 1,
+    "id": 295
+  },
+  "296": {
+    "FactionPoolId": "Faction_Tier03_B4_P1",
+    "BattleNodes": "Tier03_B4_P1_Romu",
+    "Weight": 1,
+    "id": 296
+  },
+  "297": {
+    "FactionPoolId": "Faction_Tier04_B4_P1",
+    "BattleNodes": "Tier04_B4_P1_Romu",
+    "Weight": 1,
+    "id": 297
+  },
+  "298": {
+    "FactionPoolId": "Faction_Tier05_B5_P1",
+    "BattleNodes": "Tier05_B5_P1_Romu",
+    "Weight": 1,
+    "id": 298
+  },
+  "299": {
+    "FactionPoolId": "Faction_Tier06_B5_P1",
+    "BattleNodes": "Tier06_B5_P1_Romu",
+    "Weight": 1,
+    "id": 299
+  },
+  "300": {
+    "FactionPoolId": "Faction_Tier07_B5_P1",
+    "BattleNodes": "Tier07_B5_P1_Romu",
+    "Weight": 1,
+    "id": 300
+  },
+  "301": {
+    "FactionPoolId": "Faction_Tier08_B5_P1",
+    "BattleNodes": "Tier08_B5_P1_Romu",
+    "Weight": 1,
+    "id": 301
+  },
+  "302": {
+    "FactionPoolId": "Faction_Tier09_B5_P1",
+    "BattleNodes": "Tier09_B5_P1_Romu",
+    "Weight": 1,
+    "id": 302
+  },
+  "303": {
+    "FactionPoolId": "Faction_Tier10_B5_P1",
+    "BattleNodes": "Tier10_B5_P1_Romu",
+    "Weight": 1,
+    "id": 303
+  },
+  "304": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_RomuCard",
+    "Weight": 1,
+    "id": 304
+  },
+  "305": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_RomuFed",
+    "Weight": 1,
+    "id": 305
+  },
+  "306": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_RomuKling",
+    "Weight": 1,
+    "id": 306
+  },
+  "307": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2_RomuBorg",
+    "Weight": 1,
+    "id": 307
+  },
+  "308": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_RomuCard",
+    "Weight": 1,
+    "id": 308
+  },
+  "309": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_RomuFed",
+    "Weight": 1,
+    "id": 309
+  },
+  "310": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_RomuKling",
+    "Weight": 1,
+    "id": 310
+  },
+  "311": {
+    "FactionPoolId": "Faction_Tier03_B4_P2",
+    "BattleNodes": "Tier03_B4_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 311
+  },
+  "312": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_RomuCard",
+    "Weight": 1,
+    "id": 312
+  },
+  "313": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_RomuFed",
+    "Weight": 1,
+    "id": 313
+  },
+  "314": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_RomuKling",
+    "Weight": 1,
+    "id": 314
+  },
+  "315": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2_RomuBorg",
+    "Weight": 1,
+    "id": 315
+  },
+  "316": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_RomuCard",
+    "Weight": 1,
+    "id": 316
+  },
+  "317": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_RomuFed",
+    "Weight": 1,
+    "id": 317
+  },
+  "318": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_RomuKling",
+    "Weight": 1,
+    "id": 318
+  },
+  "319": {
+    "FactionPoolId": "Faction_Tier04_B4_P2",
+    "BattleNodes": "Tier04_B4_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 319
+  },
+  "320": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 320
+  },
+  "321": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 321
+  },
+  "322": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 322
+  },
+  "323": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 323
+  },
+  "324": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 324
+  },
+  "325": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 325
+  },
+  "326": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 326
+  },
+  "327": {
+    "FactionPoolId": "Faction_Tier05_B5_P2",
+    "BattleNodes": "Tier05_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 327
+  },
+  "328": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 328
+  },
+  "329": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 329
+  },
+  "330": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 330
+  },
+  "331": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 331
+  },
+  "332": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 332
+  },
+  "333": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 333
+  },
+  "334": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 334
+  },
+  "335": {
+    "FactionPoolId": "Faction_Tier06_B5_P2",
+    "BattleNodes": "Tier06_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 335
+  },
+  "336": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 336
+  },
+  "337": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 337
+  },
+  "338": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 338
+  },
+  "339": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 339
+  },
+  "340": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 340
+  },
+  "341": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 341
+  },
+  "342": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 342
+  },
+  "343": {
+    "FactionPoolId": "Faction_Tier07_B5_P2",
+    "BattleNodes": "Tier07_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 343
+  },
+  "344": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 344
+  },
+  "345": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 345
+  },
+  "346": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 346
+  },
+  "347": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 347
+  },
+  "348": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 348
+  },
+  "349": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 349
+  },
+  "350": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 350
+  },
+  "351": {
+    "FactionPoolId": "Faction_Tier08_B5_P2",
+    "BattleNodes": "Tier08_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 351
+  },
+  "352": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 352
+  },
+  "353": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 353
+  },
+  "354": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 354
+  },
+  "355": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 355
+  },
+  "356": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 356
+  },
+  "357": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 357
+  },
+  "358": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 358
+  },
+  "359": {
+    "FactionPoolId": "Faction_Tier09_B5_P2",
+    "BattleNodes": "Tier09_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 359
+  },
+  "360": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_RomuCard",
+    "Weight": 1,
+    "id": 360
+  },
+  "361": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_RomuFed",
+    "Weight": 1,
+    "id": 361
+  },
+  "362": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_RomuKling",
+    "Weight": 1,
+    "id": 362
+  },
+  "363": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2_RomuBorg",
+    "Weight": 1,
+    "id": 363
+  },
+  "364": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_RomuCard",
+    "Weight": 1,
+    "id": 364
+  },
+  "365": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_RomuFed",
+    "Weight": 1,
+    "id": 365
+  },
+  "366": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_RomuKling",
+    "Weight": 1,
+    "id": 366
+  },
+  "367": {
+    "FactionPoolId": "Faction_Tier10_B5_P2",
+    "BattleNodes": "Tier10_B5_P2A_RomuBorg",
+    "Weight": 1,
+    "id": 367
+  }
+}

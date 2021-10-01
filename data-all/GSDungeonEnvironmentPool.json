@@ -1,0 +1,134 @@
+{
+  "1": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Borg Cube",
+    "Weight": 1,
+    "id": 1
+  },
+  "2": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Cardassian Ship",
+    "Weight": 1,
+    "id": 2
+  },
+  "3": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Federation Ship",
+    "Weight": 1,
+    "id": 3
+  },
+  "4": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Klingon Ship",
+    "Weight": 1,
+    "id": 4
+  },
+  "5": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Ice Planet",
+    "Weight": 1,
+    "id": 5
+  },
+  "6": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Desert Planet",
+    "Weight": 1,
+    "id": 6
+  },
+  "7": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Forest Planet",
+    "Weight": 1,
+    "id": 7
+  },
+  "8": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Gorn Outpost",
+    "Weight": 1,
+    "id": 8
+  },
+  "9": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Federation Outpost",
+    "Weight": 1,
+    "id": 9
+  },
+  "10": {
+    "EnvironmentPoolId": "Environment_Core",
+    "EnvironmentId": "Federation Medical",
+    "Weight": 1,
+    "id": 10
+  },
+  "11": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Borg Cube",
+    "Weight": 1,
+    "id": 11
+  },
+  "12": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Cardassian Ship",
+    "Weight": 1,
+    "id": 12
+  },
+  "13": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Federation Ship",
+    "Weight": 1,
+    "id": 13
+  },
+  "14": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Klingon Ship",
+    "Weight": 1,
+    "id": 14
+  },
+  "15": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Ice Planet",
+    "Weight": 1,
+    "id": 15
+  },
+  "16": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Desert Planet",
+    "Weight": 1,
+    "id": 16
+  },
+  "17": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Forest Planet",
+    "Weight": 1,
+    "id": 17
+  },
+  "18": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Gorn Outpost",
+    "Weight": 1,
+    "id": 18
+  },
+  "19": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Federation Outpost",
+    "Weight": 1,
+    "id": 19
+  },
+  "20": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Federation Medical",
+    "Weight": 1,
+    "id": 20
+  },
+  "21": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Nexus Planet",
+    "Weight": 1,
+    "id": 21
+  },
+  "22": {
+    "EnvironmentPoolId": "Environment_All",
+    "EnvironmentId": "Reality Engine",
+    "Weight": 1,
+    "id": 22
+  }
+}

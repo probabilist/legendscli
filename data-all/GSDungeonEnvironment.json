@@ -1,0 +1,86 @@
+{
+  "Borg Cube": {
+    "EnvironmentId": "Borg Cube",
+    "MissionSelect": "MissionSelectPlanet_Desert_Normal",
+    "EnvironmentMap": "Map_Borg_Interior_Final",
+    "CombatScenePool": "BorgCube_CombatScenes",
+    "id": "Borg Cube"
+  },
+  "Cardassian Ship": {
+    "EnvironmentId": "Cardassian Ship",
+    "MissionSelect": "MissionSelectPlanet_NexusRuinsCardiassian",
+    "EnvironmentMap": "Map_Cardassian_Interior_Generator_Final",
+    "CombatScenePool": "CardassianShip_CombatScenes",
+    "id": "Cardassian Ship"
+  },
+  "Federation Ship": {
+    "EnvironmentId": "Federation Ship",
+    "MissionSelect": "MissionSelectPlanet_Pioneer",
+    "EnvironmentMap": "Map_FedShip_Interior_Final",
+    "CombatScenePool": "FederationShip_CombatScenes",
+    "id": "Federation Ship"
+  },
+  "Klingon Ship": {
+    "EnvironmentId": "Klingon Ship",
+    "MissionSelect": "MissionSelectPlanet_DesertBirdofPrey",
+    "EnvironmentMap": "Map_DesertPlanet_Final",
+    "CombatScenePool": "KlingonShip_CombatScenes",
+    "id": "Klingon Ship"
+  },
+  "Ice Planet": {
+    "EnvironmentId": "Ice Planet",
+    "MissionSelect": "MissionSelectPlanet_Ice_Normal",
+    "EnvironmentMap": "Map_IcePlanet_Final",
+    "CombatScenePool": "IcePlanet_CombatScenes",
+    "id": "Ice Planet"
+  },
+  "Desert Planet": {
+    "EnvironmentId": "Desert Planet",
+    "MissionSelect": "MissionSelectPlanet_Desert_Normal",
+    "EnvironmentMap": "Map_DesertPlanet_Final",
+    "CombatScenePool": "DesertPlanet_CombatScenes",
+    "id": "Desert Planet"
+  },
+  "Forest Planet": {
+    "EnvironmentId": "Forest Planet",
+    "MissionSelect": "MissionSelectPlanet_Forest_Normal",
+    "EnvironmentMap": "Map_ForestPlanet_Final",
+    "CombatScenePool": "ForestPlanet_CombatScenes",
+    "id": "Forest Planet"
+  },
+  "Gorn Outpost": {
+    "EnvironmentId": "Gorn Outpost",
+    "MissionSelect": "MissionSelectPlanet_Desert_Normal",
+    "EnvironmentMap": "Map_Gorn_Interior_Hallway_Final",
+    "CombatScenePool": "GornOutpost_CombatScenes",
+    "id": "Gorn Outpost"
+  },
+  "Federation Outpost": {
+    "EnvironmentId": "Federation Outpost",
+    "MissionSelect": "MissionSelectPlanet_Ice_Normal",
+    "EnvironmentMap": "Map_FedOutpost_Interior_Final",
+    "CombatScenePool": "FederationOutpost_CombatScenes",
+    "id": "Federation Outpost"
+  },
+  "Federation Medical": {
+    "EnvironmentId": "Federation Medical",
+    "MissionSelect": "MissionSelectPlanet_Forest_Normal",
+    "EnvironmentMap": "Map_FedOutpost_Interior_Final",
+    "CombatScenePool": "FederationMedical_CombatScenes",
+    "id": "Federation Medical"
+  },
+  "Nexus Planet": {
+    "EnvironmentId": "Nexus Planet",
+    "MissionSelect": "MissionSelectPlanet_NexusRuins_Normal",
+    "EnvironmentMap": "Map_NexusPlanet_Final",
+    "CombatScenePool": "NexusPlanet_CombatScenes",
+    "id": "Nexus Planet"
+  },
+  "Reality Engine": {
+    "EnvironmentId": "Reality Engine",
+    "MissionSelect": "MissionSelectPlanet_NexusMachine",
+    "EnvironmentMap": "Map_NexusMachineInterior_Final",
+    "CombatScenePool": "RealityEngine_CombatScenes",
+    "id": "Reality Engine"
+  }
+}

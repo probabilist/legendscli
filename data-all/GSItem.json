@@ -111,7 +111,7 @@
   },
   "Dungeon Stamina": {
     "category": "Currency",
-    "currencyType": 12,
+    "currencyType": "DungeonStamina",
     "name": "Common_DungeonStamina",
     "description": "Data_Item_Description_DungeonStamina",
     "icon": "Dungeon",
@@ -121,7 +121,7 @@
   },
   "Dungeon Currency": {
     "category": "Currency",
-    "currencyType": 13,
+    "currencyType": "DungeonCurrency",
     "name": "Common_DungeonCurrency",
     "description": "Data_Item_Description_DungeonCurrency",
     "icon": "DungeonCurrency",

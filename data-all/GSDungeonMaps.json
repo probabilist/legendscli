@@ -1,0 +1,135 @@
+{
+  "1": {
+    "MapPoolId": "Battle3_Tier0",
+    "NodeMapPool": "Battle3_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier00_B3_P1",
+    "id": 1
+  },
+  "2": {
+    "MapPoolId": "Battle3_Tier1",
+    "NodeMapPool": "Battle3_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier01_B3_P1",
+    "id": 2
+  },
+  "3": {
+    "MapPoolId": "Battle4_Tier2",
+    "NodeMapPool": "Battle4_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier02_B4_P1",
+    "id": 3
+  },
+  "4": {
+    "MapPoolId": "Battle4_Tier3",
+    "NodeMapPool": "Battle4_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier03_B4_P1",
+    "id": 4
+  },
+  "5": {
+    "MapPoolId": "Battle4_Tier3",
+    "NodeMapPool": "Battle4_Path2",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier03_B4_P2",
+    "id": 5
+  },
+  "6": {
+    "MapPoolId": "Battle4_Tier4",
+    "NodeMapPool": "Battle4_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier04_B4_P1",
+    "id": 6
+  },
+  "7": {
+    "MapPoolId": "Battle4_Tier4",
+    "NodeMapPool": "Battle4_Path2",
+    "NodePoolWeight": 2,
+    "FactionPool": "Faction_Tier04_B4_P2",
+    "id": 7
+  },
+  "8": {
+    "MapPoolId": "Battle5_Tier5",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier05_B5_P1",
+    "id": 8
+  },
+  "9": {
+    "MapPoolId": "Battle5_Tier5",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 2,
+    "FactionPool": "Faction_Tier05_B5_P2",
+    "id": 9
+  },
+  "10": {
+    "MapPoolId": "Battle5_Tier6",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier06_B5_P1",
+    "id": 10
+  },
+  "11": {
+    "MapPoolId": "Battle5_Tier6",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 3,
+    "FactionPool": "Faction_Tier06_B5_P2",
+    "id": 11
+  },
+  "12": {
+    "MapPoolId": "Battle5_Tier7",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier07_B5_P1",
+    "id": 12
+  },
+  "13": {
+    "MapPoolId": "Battle5_Tier7",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 4,
+    "FactionPool": "Faction_Tier07_B5_P2",
+    "id": 13
+  },
+  "14": {
+    "MapPoolId": "Battle5_Tier8",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier08_B5_P1",
+    "id": 14
+  },
+  "15": {
+    "MapPoolId": "Battle5_Tier8",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 5,
+    "FactionPool": "Faction_Tier08_B5_P2",
+    "id": 15
+  },
+  "16": {
+    "MapPoolId": "Battle5_Tier9",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier09_B5_P1",
+    "id": 16
+  },
+  "17": {
+    "MapPoolId": "Battle5_Tier9",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 7,
+    "FactionPool": "Faction_Tier09_B5_P2",
+    "id": 17
+  },
+  "18": {
+    "MapPoolId": "Battle5_Tier10",
+    "NodeMapPool": "Battle5_Path1",
+    "NodePoolWeight": 1,
+    "FactionPool": "Faction_Tier10_B5_P1",
+    "id": 18
+  },
+  "19": {
+    "MapPoolId": "Battle5_Tier10",
+    "NodeMapPool": "Battle5_Path2",
+    "NodePoolWeight": 9,
+    "FactionPool": "Faction_Tier10_B5_P2",
+    "id": 19
+  }
+}
