@@ -3617,8 +3617,8 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Garak_Portrait",
     "RarityIcon": "Token_Legendary",
     "id": "Garak",
