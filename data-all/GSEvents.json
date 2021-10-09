@@ -863,14 +863,41 @@
     ],
     "id": "Event_Solo_Shinzon_01"
   },
-  "Event_Solo_BorgQueen": {
+  "Event_Faction_FedKling_KirkChang_01": {
     "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
+    "dateStart": "2021-10-11T07:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "Event_Faction_FedKling_KirkChang",
+    "name": "Events_FactionEvent_FedKling_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedKling_Desc_Pre",
+      "Main": "Events_FactionEvent_FedKling_Desc_Main",
+      "Post": "Events_FactionEvent_FedKling_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FedKling_KirkChang_01"
+  },
+  "Event_Solo_Tuvok_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-10-18T07:00:00Z",
     "mainPeriodDuration": "7.00:00:00",
     "prePeriodDuration": "3.00:00:00",
     "postPeriodDuration": "4.00:00:00",
     "eventType": "Solo",
-    "eventTypeId": "SoloEvent_BorgQueen",
+    "eventTypeId": "SoloEvent_Tuvok",
     "name": "UI_Events_SoloEvent_Title",
     "descriptions": {
       "Pre": "UI_Events_SoloEvent_Desc_Pre",
@@ -880,7 +907,7 @@
     "isEnabled": true,
     "prefab": "EventTypeSolo",
     "operations": [
-      "Operation_Event_Solo_BorgQueen"
+      "Operation_Event_Solo_Tuvok"
     ],
     "goals": [],
     "conditions": [
@@ -890,45 +917,16 @@
         "operand": "MoreOrEqual"
       }
     ],
-    "id": "Event_Solo_BorgQueen"
+    "id": "Event_Solo_Tuvok_01"
   },
-  "Event_Solo_Burnham": {
+  "Event_Solo_PicardDixon_Halloween": {
     "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
+    "dateStart": "2021-10-25T07:00:00Z",
     "mainPeriodDuration": "7.00:00:00",
     "prePeriodDuration": "3.00:00:00",
     "postPeriodDuration": "4.00:00:00",
     "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Burnham",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Burnham"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Burnham"
-  },
-  "Event_Solo_Crusher": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Crusher",
+    "eventTypeId": "SoloEvent_PicardDixon",
     "name": "UI_Events_SoloEvent_Title",
     "descriptions": {
       "Pre": "UI_Events_SoloEvent_Desc_Pre",
@@ -938,7 +936,7 @@
     "isEnabled": true,
     "prefab": "EventTypeSolo",
     "operations": [
-      "Operation_Event_Solo_Crusher"
+      "Operation_Event_Solo_PicardDixon_Halloween"
     ],
     "goals": [],
     "conditions": [
@@ -948,45 +946,16 @@
         "operand": "MoreOrEqual"
       }
     ],
-    "id": "Event_Solo_Crusher"
+    "id": "Event_Solo_PicardDixon_Halloween"
   },
-  "Event_Solo_Doctor": {
+  "Event_Solo_JadziaDax_01": {
     "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
+    "dateStart": "2999-11-01T07:00:00Z",
     "mainPeriodDuration": "7.00:00:00",
     "prePeriodDuration": "3.00:00:00",
     "postPeriodDuration": "4.00:00:00",
     "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Doctor",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Doctor"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Doctor"
-  },
-  "Event_Solo_Geordi": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Geordi",
+    "eventTypeId": "SoloEvent_JadziaDax",
     "name": "UI_Events_SoloEvent_Title",
     "descriptions": {
       "Pre": "UI_Events_SoloEvent_Desc_Pre",
@@ -996,7 +965,7 @@
     "isEnabled": true,
     "prefab": "EventTypeSolo",
     "operations": [
-      "Operation_Event_Solo_Geordi"
+      "Operation_Event_Solo_JadziaDax"
     ],
     "goals": [],
     "conditions": [
@@ -1006,557 +975,6 @@
         "operand": "MoreOrEqual"
       }
     ],
-    "id": "Event_Solo_Geordi"
-  },
-  "Event_Solo_Georgiou": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Georgiou",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Georgiou"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Georgiou"
-  },
-  "Event_Solo_Janeway": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Janeway",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Janeway"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Janeway"
-  },
-  "Event_Solo_Khan": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Khan",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Khan"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Khan"
-  },
-  "Event_Solo_Nerys": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Nerys",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Nerys"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Nerys"
-  },
-  "Event_Solo_Odo": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Odo",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Odo"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Odo"
-  },
-  "Event_Solo_Picard": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Picard",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Picard"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Picard"
-  },
-  "Event_Solo_PicardOld": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_PicardOld",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_PicardOld"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_PicardOld"
-  },
-  "Event_Solo_Pike": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Pike",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Pike"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Pike"
-  },
-  "Event_Solo_Quark": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Quark",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Quark"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Quark"
-  },
-  "Event_Solo_Riker": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Riker",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Riker"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Riker"
-  },
-  "Event_Solo_Scott": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Scott",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Scott"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Scott"
-  },
-  "Event_Solo_Sela": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Sela",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Sela"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Sela"
-  },
-  "Event_Solo_Sisko": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Sisko",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Sisko"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Sisko"
-  },
-  "Event_Solo_Sutra": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Sutra",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Sutra"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Sutra"
-  },
-  "Event_Solo_Tomalak": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Tomalak",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Tomalak"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Tomalak"
-  },
-  "Event_Solo_Torres": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Torres",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Torres"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Torres"
-  },
-  "Event_Solo_TPol": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_TPol",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": false,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_TPol"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_TPol"
-  },
-  "Event_Solo_Uhura": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Uhura",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Uhura"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Uhura"
-  },
-  "Event_Solo_Worf": {
-    "hasDateStart": true,
-    "dateStart": "2999-12-30T08:00:00Z",
-    "mainPeriodDuration": "7.00:00:00",
-    "prePeriodDuration": "3.00:00:00",
-    "postPeriodDuration": "4.00:00:00",
-    "eventType": "Solo",
-    "eventTypeId": "SoloEvent_Worf",
-    "name": "UI_Events_SoloEvent_Title",
-    "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
-    },
-    "isEnabled": true,
-    "prefab": "EventTypeSolo",
-    "operations": [
-      "Operation_Event_Solo_Worf"
-    ],
-    "goals": [],
-    "conditions": [
-      {
-        "type": "PlayerLevel",
-        "parameter2": 7,
-        "operand": "MoreOrEqual"
-      }
-    ],
-    "id": "Event_Solo_Worf"
+    "id": "Event_Solo_JadziaDax_01"
   }
 }

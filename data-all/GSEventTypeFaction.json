@@ -26,5 +26,12 @@
       "Faction_FedBorg_BorgQueen"
     ],
     "id": "Event_Faction_FedBorg_DataBorgQueen"
+  },
+  "Event_Faction_FedKling_KirkChang": {
+    "factionIds": [
+      "Faction_FedKling_Kirk",
+      "Faction_FedKling_Chang"
+    ],
+    "id": "Event_Faction_FedKling_KirkChang"
   }
 }

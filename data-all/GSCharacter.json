@@ -3497,7 +3497,7 @@
     "Description": "Data_Character_Tuvok_description",
     "Rarity": "Epic",
     "Role": "Security",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Vulcan",
       "Starfleet"
@@ -3705,8 +3705,8 @@
       "Tactical"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Shinzon_Portrait",
     "RarityIcon": "Token_Epic",
     "id": "Shinzon",

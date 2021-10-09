@@ -166,5 +166,47 @@
       "Operations_Event_Faction_FedBorg_BorgQueen"
     ],
     "id": "Faction_FedBorg_BorgQueen"
+  },
+  "Faction_FedKling_Kirk": {
+    "name": "UI_Events_Faction_f1_name",
+    "rewardHero": "Kirk",
+    "reward": {
+      "Characters": [
+        "Kirk"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Kirk": 10,
+        "Shards Basic": 150
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "operations": [
+      "Operations_Event_Faction_FedKling_Kirk"
+    ],
+    "id": "Faction_FedKling_Kirk"
+  },
+  "Faction_FedKling_Chang": {
+    "name": "Common_Tag_Plural_Klingons",
+    "rewardHero": "Chang",
+    "reward": {
+      "Characters": [
+        "Chang"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {
+        "Chang": 10,
+        "Shards Basic": 150
+      },
+      "FirstAmount": 10,
+      "IsEmpty": false
+    },
+    "operations": [
+      "Operations_Event_Faction_FedKling_Chang"
+    ],
+    "id": "Faction_FedKling_Chang"
   }
 }

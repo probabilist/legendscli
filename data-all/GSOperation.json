@@ -645,5 +645,55 @@
     "dailyLimit": 5,
     "schedule": [],
     "id": "Operation_Event_Solo_Shinzon"
+  },
+  "Operations_Event_Faction_FedKling_Kirk": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Fed",
+    "description": "Operations_FactionEvent_Desc_Fed",
+    "icon": "Kirk",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedKling_Kirk"
+  },
+  "Operations_Event_Faction_FedKling_Chang": {
+    "operationType": "Hidden",
+    "name": "Operations_FactionEvent_TitleFull_Kling",
+    "description": "Operations_FactionEvent_Desc_Kling",
+    "icon": "Chang",
+    "uiIndex": 1,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operations_Event_Faction_FedKling_Chang"
+  },
+  "Operation_Event_Solo_Tuvok": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Tuvok",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Tuvok"
+  },
+  "Operation_Event_Solo_PicardDixon_Halloween": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "DixonHill",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_PicardDixon_Halloween"
+  },
+  "Operation_Event_Solo_JadziaDax": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "JadziaDax",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_JadziaDax"
   }
 }

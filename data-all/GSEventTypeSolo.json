@@ -569,5 +569,27 @@
       "solo_reward_Shinzon"
     ],
     "id": "SoloEvent_Shinzon"
+  },
+  "SoloEvent_Tuvok": {
+    "milestoneRewardsIds": [
+      "solo_reward_security_ms1",
+      "solo_reward_security_ms2",
+      "solo_reward_security_ms3",
+      "solo_reward_security_ms4",
+      "solo_reward_security_ms5",
+      "solo_reward_Tuvok"
+    ],
+    "id": "SoloEvent_Tuvok"
+  },
+  "SoloEvent_JadziaDax": {
+    "milestoneRewardsIds": [
+      "solo_reward_science_ms1",
+      "solo_reward_science_ms2",
+      "solo_reward_science_ms3",
+      "solo_reward_science_ms4",
+      "solo_reward_science_ms5",
+      "solo_reward_JadziaDax"
+    ],
+    "id": "SoloEvent_JadziaDax"
   }
 }

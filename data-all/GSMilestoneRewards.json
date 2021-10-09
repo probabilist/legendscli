@@ -1576,5 +1576,35 @@
       "IsEmpty": true
     },
     "id": "solo_reward_Shinzon"
+  },
+  "solo_reward_Tuvok": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Tuvok"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Tuvok"
+  },
+  "solo_reward_JadziaDax": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "JadziaDax"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_JadziaDax"
   }
 }

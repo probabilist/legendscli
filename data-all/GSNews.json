@@ -375,6 +375,78 @@
     "characterId": "Shinzon",
     "id": "SoloEvent_Shinzon"
   },
+  "FactionEvent_FedKling_KirkChang_01": {
+    "dateStart": "2021-10-11T07:00:00Z",
+    "dateEnd": "2021-10-18T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_FactionEvent_Generic_Headline",
+    "newsName": "Events_FactionEvent_FedKling_Title",
+    "newsShortDesc": "Events_FactionEvent_FedKling_Desc",
+    "backgroundPrefab": "FactionEvent_Background",
+    "thumbnailImage": "FactionEvent_Thumbnail",
+    "characterId": "Chang",
+    "id": "FactionEvent_FedKling_KirkChang_01"
+  },
+  "NewCharacter_Tuvok_01": {
+    "dateStart": "2021-10-18T07:00:00Z",
+    "dateEnd": "2021-10-25T07:00:00Z",
+    "newsType": "Character",
+    "newsHeadline": "News_Crew_Generic_Headline",
+    "newsName": "Common_Tuvok",
+    "newsShortDesc": "Data_Character_Tuvok_description",
+    "backgroundPrefab": "NewCharacter_Background",
+    "thumbnailImage": "NewCharacter_Tuvok",
+    "characterId": "Tuvok",
+    "id": "NewCharacter_Tuvok_01"
+  },
+  "SoloEvent_Tuvok_01": {
+    "dateStart": "2021-10-18T07:00:00Z",
+    "dateEnd": "2021-10-25T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Tuvok",
+    "characterId": "Tuvok",
+    "id": "SoloEvent_Tuvok_01"
+  },
+  "SoloEvent_PicardDixon_02": {
+    "dateStart": "2021-10-25T07:00:00Z",
+    "dateEnd": "2021-11-01T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_PicardDixon",
+    "characterId": "PicardDixon",
+    "id": "SoloEvent_PicardDixon_02"
+  },
+  "NewCharacter_JadziaDax_01": {
+    "dateStart": "2999-11-01T07:00:00Z",
+    "dateEnd": "2999-11-08T07:00:00Z",
+    "newsType": "Character",
+    "newsHeadline": "News_Crew_Generic_Headline",
+    "newsName": "Common_JadziaDax",
+    "newsShortDesc": "Data_Character_JadziaDax_description",
+    "backgroundPrefab": "NewCharacter_Background",
+    "thumbnailImage": "NewCharacter_JadziaDax",
+    "characterId": "JadziaDax",
+    "id": "NewCharacter_JadziaDax_01"
+  },
+  "SoloEvent_JadziaDax_01": {
+    "dateStart": "2999-11-01T07:00:00Z",
+    "dateEnd": "2999-11-08T07:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_JadziaDax",
+    "characterId": "JadziaDax",
+    "id": "SoloEvent_JadziaDax_01"
+  },
   "SeasonStart_01": {
     "dateStart": "2021-07-12T07:00:00Z",
     "dateEnd": "2021-07-26T07:00:00Z",
