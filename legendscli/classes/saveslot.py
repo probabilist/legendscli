@@ -1,16 +1,17 @@
+"""The `SaveSlot` class.
+
+"""
+
 from types import MappingProxyType
 from re import findall
 from datetime import datetime, timezone
-import webbrowser
 from os.path import abspath, dirname
 from json import load, loads, dump
 from pyperclip import paste
-from base64 import encode, b64decode
-from zlib import decompress
 from copy import deepcopy
 from legendscli.utils.printable import Printable
 from legendscli.constants import ITEMS
-from legendscli.functions import decryptSaveFile
+from legendscli.functions import decompressData, decryptSaveFile
 from legendscli.classes.particle import Particle
 from legendscli.classes.collections import Laboratory
 from legendscli.classes.gearpiece import GearPiece
@@ -185,7 +186,7 @@ class SaveSlot(Printable):
                     slot = int(slot[1])
                     char.addParticle(self.laboratory.items[particleID], slot)
             self.roster.addItem(char, update=False)
-        self.roster.makeStats()        
+        self.roster.makeStats()
 
     def extractFromFile(self, slot=0):
         """Extracts the save slot dictionary from the decrypted save
@@ -229,9 +230,7 @@ class SaveSlot(Printable):
         your save slot from the clipboard contents.
 
         """
-        b64data = paste().encode('utf-16')
-        compressedData = b64decode(b64data)
-        data = decompress(compressedData, -15)
+        data = decompressData(paste())
         self._saveDict = loads(data.decode('ascii'))
         self.build()
 
@@ -374,6 +373,3 @@ class SaveSlot(Printable):
 
         """
         self.setPartConfig(self.readPartConfig())
-
-
-

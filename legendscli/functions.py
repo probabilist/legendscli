@@ -2,6 +2,8 @@
 
 """
 
+from base64 import b64decode
+from zlib import decompress
 from os import getcwd
 from json import loads, dump
 from pathlib import Path
@@ -17,7 +19,8 @@ from legendscli.constants import (
 
 __all__ = [
     'powerDelta', 'power', 'maxParticleStats', 'exportConstants',
-    'saveFilePath', 'copySaveFile', 'decryptSaveFile', 'saveFileToJson'
+    'saveFilePath', 'copySaveFile', 'decompressData', 'decryptSaveFile',
+    'saveFileToJson'
 ]
 
 def powerDelta(stats):
@@ -76,7 +79,7 @@ def exportConstants():
     """Exports the constants in the `legendscli.constants` module to
     json files. Places them in a folder named 'constants' in the current
     working directory.
- 
+
     """
     Path(getcwd() + '/constants').mkdir(exist_ok=True)
     for name in dir(constants):
@@ -110,6 +113,40 @@ def copySaveFile(fileName='startrek'):
     """
     copyfile(saveFilePath(), getcwd() + '/' + fileName + '.plist')
 
+def decompressData(text):
+    """STL data is sometimes compressed in the following manner,
+    converting a dictionary-like data object into a text string. First,
+    it is serialized to a json string. Then, it is compressed with zlib
+    deflate to binary data. Finally, it is encoded to base-64 to make
+    the binary data text friendly.
+
+    This function does the reverse. It takes a text string, which is a
+    base-64 encoding of binary data, and converts it back to binary. It
+    then decompresses it, then encodes the resulting decompressed binary
+    data to plain text (typically a json string).
+
+    This kind of compression can be found in support emails in STL.
+    Also, since STL v1.0.13, it is sometimes used in the save file to
+    compress slot data before encrypting (in which case, the slot data
+    must first be decrypted, then decompressed).
+
+    NOTE: Since STL v1.0.13, the data in support emails may be
+    compressed twice. First, it is compressed in the manner described
+    above. The resulting compressed string may then prepended with
+    "compr-" and compressed once more.
+
+    Args:
+        text (str): The text data to be decompressed.
+
+    Returns:
+        str: The decompressed data, typically a json string.
+
+    """
+    b64data = text.encode('utf-16')
+    compressedData = b64decode(b64data)
+    data = decompress(compressedData, -15)
+    return data.decode('ascii')
+
 def decryptSaveFile():
     """Decrypts and parses the save file into a dictionary.
 
@@ -125,11 +162,14 @@ def decryptSaveFile():
         if len(saveFile.get(key, '')) == 0:
             saveFile[key] = {}
             continue
-        saveFile[key] = loads(AESdecrypt(
+        slotData = AESdecrypt(
             saveFile[key],
             'K1FjcmVkc2Vhc29u',
             'LH75Qxpyf0prVvImu4gqxg=='
-        ))
+        )
+        if slotData[:6] == 'compr-':
+            slotData = decompressData(slotData[6:])
+        saveFile[key] = loads(slotData)
     return saveFile
 
 def saveFileToJson(fileName='startrek'):
