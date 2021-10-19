@@ -466,7 +466,7 @@
   "51": {
     "NodeList": "Battle5_Path2_NodeID",
     "NodeID": "battle05",
-    "NextNodeID": "battle06",
+    "NextNodeID": "powerup02",
     "StartNode": false,
     "RewardPool": "BattleReward",
     "NodeType": "Battle",
