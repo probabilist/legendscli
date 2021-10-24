@@ -929,9 +929,9 @@
     "eventTypeId": "SoloEvent_PicardDixon",
     "name": "UI_Events_SoloEvent_Title",
     "descriptions": {
-      "Pre": "UI_Events_SoloEvent_Desc_Pre",
-      "Main": "UI_Events_SoloEvent_Desc_Main",
-      "Post": "UI_Events_SoloEvent_Desc_Post"
+      "Pre": "UI_Events_PicardDixonHalloween_Desc_Pre",
+      "Main": "UI_Events_PicardDixonHalloween_Desc_Main",
+      "Post": "UI_Events_PicardDixonHalloween_Desc_Post"
     },
     "isEnabled": true,
     "prefab": "EventTypeSolo",

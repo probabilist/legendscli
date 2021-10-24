@@ -417,7 +417,7 @@
     "newsType": "Event",
     "newsHeadline": "News_SoloEvent_Generic_Headline",
     "newsName": "UI_Events_SoloEvent_Title",
-    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "newsShortDesc": "UI_Events_PicardDixonHalloween_Desc",
     "backgroundPrefab": "SoloEvent_Background",
     "thumbnailImage": "SoloEvent_PicardDixon",
     "characterId": "PicardDixon",
