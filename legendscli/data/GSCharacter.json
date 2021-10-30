@@ -3530,8 +3530,8 @@
       "Operations"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "Tuvok_Portrait",
     "RarityIcon": "Token_Epic",
     "id": "Tuvok",
@@ -3717,7 +3717,7 @@
     "Description": "Data_Character_Gowron_description",
     "Rarity": "Epic",
     "Role": "Command",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Klingon"
     ],
@@ -3760,7 +3760,7 @@
     "Description": "Data_Character_JadziaDax_description",
     "Rarity": "VeryRare",
     "Role": "Science",
-    "Type": "Disabled",
+    "Type": "Normal",
     "Tags": [
       "Trill",
       "Starfleet"
@@ -3842,5 +3842,93 @@
     "RarityIcon": "Token_Legendary",
     "id": "JudgeQ",
     "RankupTokenId": "JudgeQ"
+  },
+  "Guinan": {
+    "Name": "Common_Guinan",
+    "Description": "Data_Character_Guinan_description",
+    "Rarity": "Legendary",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "ElAurian",
+      "Starfleet"
+    ],
+    "SkillIDs": [
+      "guinan_attack",
+      "guinan_skill1",
+      "guinan_skill2",
+      "guinan_skill3"
+    ],
+    "BridgeSkill": "guinan_bridge",
+    "Health": 0.5,
+    "Defense": 0.5,
+    "Attack": 0.5,
+    "Tech": 0.5,
+    "Speed": 0.5,
+    "GlancingChance": 0.5,
+    "GlancingDamage": 0.5,
+    "CritChance": 0.5,
+    "CritDamage": 0.5,
+    "Resolve": 0.5,
+    "ModelMenuPrefabName": "Guinan_Menu_Model",
+    "ModelBattlePrefabName": "Guinan_Battle_Model",
+    "MirrorModelBattlePrefabName": "Guinan_Battle_Mirror_Model",
+    "BattleAnimTreeName": "Guinan_BattleAnimTree",
+    "MenuAnimTreeName": "Guinan_MenuAnimTree",
+    "BridgeStations": [
+      "FirstOfficer",
+      "Operations"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "Guinan_Portrait",
+    "RarityIcon": "Token_Legendary",
+    "id": "Guinan",
+    "RankupTokenId": "Guinan"
+  },
+  "NumberOne": {
+    "Name": "Common_NumberOne",
+    "Description": "Data_Character_NumberOne_description",
+    "Rarity": "VeryRare",
+    "Role": "Command",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet"
+    ],
+    "SkillIDs": [
+      "numberone_attack",
+      "numberone_skill1",
+      "numberone_skill2",
+      "numberone_skill3"
+    ],
+    "BridgeSkill": "numberone_bridge",
+    "Health": 0.5,
+    "Defense": 0.5,
+    "Attack": 0.5,
+    "Tech": 0.5,
+    "Speed": 0.5,
+    "GlancingChance": 0.5,
+    "GlancingDamage": 0.5,
+    "CritChance": 0.5,
+    "CritDamage": 0.5,
+    "Resolve": 0.5,
+    "ModelMenuPrefabName": "NumberOne_Menu_Model",
+    "ModelBattlePrefabName": "NumberOne_Battle_Model",
+    "MirrorModelBattlePrefabName": "NumberOne_Battle_Mirror_Model",
+    "BattleAnimTreeName": "NumberOne_BattleAnimTree",
+    "MenuAnimTreeName": "NumberOne_MenuAnimTree",
+    "BridgeStations": [
+      "Conn",
+      "FirstOfficer"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "NumberOne_Portrait",
+    "RarityIcon": "Token_VeryRare",
+    "id": "NumberOne",
+    "RankupTokenId": "NumberOne"
   }
 }
