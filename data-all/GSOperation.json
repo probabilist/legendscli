@@ -326,16 +326,6 @@
     "schedule": [],
     "id": "Operation_Event_Solo_Saru"
   },
-  "Operation_Event_Solo_Scott": {
-    "operationType": "Hidden",
-    "name": "UI_Events_SoloEvent_Title",
-    "description": "UI_Events_SoloEvent_Desc",
-    "icon": "Kirk_FullBody",
-    "uiIndex": 10,
-    "dailyLimit": 5,
-    "schedule": [],
-    "id": "Operation_Event_Solo_Scott"
-  },
   "Operation_Event_Solo_Sela": {
     "operationType": "Hidden",
     "name": "UI_Events_SoloEvent_Title",
@@ -695,5 +685,25 @@
     "dailyLimit": 5,
     "schedule": [],
     "id": "Operation_Event_Solo_JadziaDax"
+  },
+  "Operation_Event_Solo_Gowron": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Gowron",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Gowron"
+  },
+  "Operation_Event_Solo_Scott": {
+    "operationType": "Hidden",
+    "name": "UI_Events_SoloEvent_Title",
+    "description": "UI_Events_SoloEvent_Desc",
+    "icon": "Scott",
+    "uiIndex": 10,
+    "dailyLimit": 5,
+    "schedule": [],
+    "id": "Operation_Event_Solo_Scott"
   }
 }

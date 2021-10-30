@@ -5833,5 +5833,185 @@
       "id": "judgeq_skill3",
       "level": 2
     }
+  },
+  "GSSkillKey(id = \"guinan_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"guinan_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"guinan_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"guinan_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"guinan_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"guinan_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "guinan_skill3",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"numberone_attack\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_attack",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"numberone_skill1\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_skill1",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"numberone_skill2\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_skill2",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"numberone_skill2\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_skill2",
+      "level": 2
+    }
+  },
+  "GSSkillKey(id = \"numberone_skill3\", level = \"1\")": {
+    "level": 1,
+    "price": {
+      "AllItems": {
+        "Latinum": 500,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 500,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_skill3",
+      "level": 1
+    }
+  },
+  "GSSkillKey(id = \"numberone_skill3\", level = \"2\")": {
+    "level": 2,
+    "price": {
+      "AllItems": {
+        "Latinum": 1000,
+        "Proto Command 01": 10
+      },
+      "FirstAmount": 1000,
+      "IsEmpty": false
+    },
+    "id": {
+      "id": "numberone_skill3",
+      "level": 2
+    }
   }
 }

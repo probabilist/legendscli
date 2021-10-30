@@ -1606,5 +1606,20 @@
       "IsEmpty": true
     },
     "id": "solo_reward_JadziaDax"
+  },
+  "solo_reward_Gowron": {
+    "pointsRequirement": 1500,
+    "tooltipId": "Events_Solo",
+    "reward": {
+      "Characters": [
+        "Gowron"
+      ],
+      "Accessories": {},
+      "Gears": {},
+      "AllItems": {},
+      "FirstAmount": 0,
+      "IsEmpty": true
+    },
+    "id": "solo_reward_Gowron"
   }
 }

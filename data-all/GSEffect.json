@@ -7675,6 +7675,28 @@
     "appliesNonSequenceEffects": false,
     "isPermanent": false
   },
+  "Red Alert (AND) (caster)": {
+    "statAffectedTarget": "Caster",
+    "statAffected": "None",
+    "statSourceTarget": "Caster",
+    "statSource": "None",
+    "resistanceType": "None",
+    "typeID": "AlliesInclusiveDistribute",
+    "coverInteraction": "Default",
+    "statSourceFraction": 1.0,
+    "statSourceSecondaryFraction": 1.0,
+    "chance": 1.0,
+    "duration": 0,
+    "effectID": "Red Alert",
+    "sequenceFraction": 1.0,
+    "stacksRequired": 0,
+    "chanceToResist": 0.0,
+    "property": "",
+    "isVisible": true,
+    "id": "Red Alert (AND) (caster)",
+    "appliesNonSequenceEffects": true,
+    "isPermanent": false
+  },
   "Red Alert & Cleanse": {
     "statAffectedTarget": "Target",
     "statAffected": "None",

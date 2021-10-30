@@ -591,5 +591,16 @@
       "solo_reward_JadziaDax"
     ],
     "id": "SoloEvent_JadziaDax"
+  },
+  "SoloEvent_Gowron": {
+    "milestoneRewardsIds": [
+      "solo_reward_command_ms1",
+      "solo_reward_command_ms2",
+      "solo_reward_command_ms3",
+      "solo_reward_command_ms4",
+      "solo_reward_command_ms5",
+      "solo_reward_Gowron"
+    ],
+    "id": "SoloEvent_Gowron"
   }
 }

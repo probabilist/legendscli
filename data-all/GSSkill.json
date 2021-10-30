@@ -25845,5 +25845,644 @@
     "isSingleTarget": false,
     "isMultiRandom": false,
     "isAOE": true
+  },
+  "GSSkillKey(id = \"guinan_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Guinan_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Down (10% Chance) (1 Turn)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_Guinan_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_attack\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Guinan_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.25
+      },
+      {
+        "effect": "Attack Down (25% Chance) (1 Turn)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_TNGPhaser",
+    "description": "Data_Skill_Guinan_Attack_description_level2",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_attack",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Guinan_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Up (Minor)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_Guinan_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_skill1\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Guinan_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up (2)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Defense Up",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_Guinan_Skill1_description_level2",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill1",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Guinan_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Purge (50% Chance)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_VulcanHello",
+    "description": "Data_Skill_Guinan_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill2",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"guinan_skill2\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Guinan_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 0,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.5
+      },
+      {
+        "effect": "Purge",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_VulcanHello",
+    "description": "Data_Skill_Guinan_Skill2_description_level2",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill2",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"guinan_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Guinan_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up (2)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Cleanse",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_MakeItSo",
+    "description": "Data_Skill_Guinan_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill3",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_skill3\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_Guinan_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up (3)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Cleanse",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_MakeItSo",
+    "description": "Data_Skill_Guinan_Skill3_description_level2",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_skill3",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"guinan_bridge\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_Guinan_Bridge_displayName",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [
+      {
+        "effect": "Resolve (3%) (Passive)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "",
+    "description": "Data_Skill_Guinan_Bridge_description",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "guinan_bridge",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_attack\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_NumberOne_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_DISCPhaserBurst",
+    "description": "Data_Skill_NumberOne_Attack_description_level1",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_attack",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_attack\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_NumberOne_Attack_displayName",
+    "hidden": false,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.5
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_DISCPhaserBurst",
+    "description": "Data_Skill_NumberOne_Attack_description_level2",
+    "controller": "Forced_Attack",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_attack",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_skill1\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_NumberOne_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_NumberOne_Skill1_description_level1",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill1",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_skill1\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_NumberOne_Skill1_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Morale Up (caster)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_Ethics",
+    "description": "Data_Skill_NumberOne_Skill1_description_level2",
+    "controller": "Forced_Skill1",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill1",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_skill2\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_NumberOne_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "1.5x Damage to Shield",
+        "fraction": 1.0
+      },
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 1.5
+      },
+      {
+        "effect": "Red Alert (AND) (caster)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_HeavyStrike",
+    "description": "Data_Skill_NumberOne_Skill2_description_level1",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill2",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_skill2\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_NumberOne_Skill2_displayName",
+    "hidden": false,
+    "cooldown": 3,
+    "startingCooldown": 1,
+    "numTargets": 1,
+    "targetType": "Enemies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "1.5x Damage to Shield",
+        "fraction": 1.0
+      },
+      {
+        "effect": "100% Damage (1 hit)",
+        "fraction": 2.0
+      },
+      {
+        "effect": "Red Alert (AND) (caster)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_HeavyStrike",
+    "description": "Data_Skill_NumberOne_Skill2_description_level2",
+    "controller": "Forced_Skill2",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill2",
+      "level": 2
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
+  },
+  "GSSkillKey(id = \"numberone_skill3\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_NumberOne_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Shield",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_RiskIsOurBusiness",
+    "description": "Data_Skill_NumberOne_Skill3_description_level1",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill3",
+      "level": 1
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"numberone_skill3\", level = \"2\")": {
+    "level": 2,
+    "name": "Data_Skill_NumberOne_Skill3_displayName",
+    "hidden": false,
+    "cooldown": 4,
+    "startingCooldown": 2,
+    "numTargets": 0,
+    "targetType": "Allies",
+    "targetState": "Alive",
+    "isPassive": false,
+    "effects": [
+      {
+        "effect": "Morale Up",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Attack Up (Major)",
+        "fraction": 1.0
+      },
+      {
+        "effect": "Shield (Major)",
+        "fraction": 1.0
+      }
+    ],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "Skill_RiskIsOurBusiness",
+    "description": "Data_Skill_NumberOne_Skill3_description_level2",
+    "controller": "Forced_Skill3",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_skill3",
+      "level": 2
+    },
+    "isSingleTarget": false,
+    "isMultiRandom": false,
+    "isAOE": true
+  },
+  "GSSkillKey(id = \"numberone_bridge\", level = \"1\")": {
+    "level": 1,
+    "name": "Data_Skill_NumberOne_Bridge_displayName",
+    "hidden": true,
+    "cooldown": 0,
+    "startingCooldown": 0,
+    "numTargets": 1,
+    "targetType": "Caster",
+    "targetState": "Alive",
+    "isPassive": true,
+    "effects": [],
+    "casterEffect": {
+      "fraction": 0.0
+    },
+    "sequenceID": "",
+    "img": "",
+    "description": "Data_Skill_NumberOne_Bridge_description",
+    "controller": "",
+    "aiUsable": true,
+    "id": {
+      "id": "numberone_bridge",
+      "level": 1
+    },
+    "isSingleTarget": true,
+    "isMultiRandom": false,
+    "isAOE": false
   }
 }

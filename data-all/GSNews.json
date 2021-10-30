@@ -424,8 +424,8 @@
     "id": "SoloEvent_PicardDixon_02"
   },
   "NewCharacter_JadziaDax_01": {
-    "dateStart": "2999-11-01T07:00:00Z",
-    "dateEnd": "2999-11-08T07:00:00Z",
+    "dateStart": "2021-11-01T07:00:00Z",
+    "dateEnd": "2021-11-08T07:00:00Z",
     "newsType": "Character",
     "newsHeadline": "News_Crew_Generic_Headline",
     "newsName": "Common_JadziaDax",
@@ -436,8 +436,8 @@
     "id": "NewCharacter_JadziaDax_01"
   },
   "SoloEvent_JadziaDax_01": {
-    "dateStart": "2999-11-01T07:00:00Z",
-    "dateEnd": "2999-11-08T07:00:00Z",
+    "dateStart": "2021-11-01T07:00:00Z",
+    "dateEnd": "2021-11-08T07:00:00Z",
     "newsType": "Event",
     "newsHeadline": "News_SoloEvent_Generic_Headline",
     "newsName": "UI_Events_SoloEvent_Title",
@@ -446,6 +446,55 @@
     "thumbnailImage": "SoloEvent_JadziaDax",
     "characterId": "JadziaDax",
     "id": "SoloEvent_JadziaDax_01"
+  },
+  "FactionEvent_FedRomu_PicardTomalak_02": {
+    "dateStart": "2021-11-08T08:00:00Z",
+    "dateEnd": "2021-11-15T08:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_FactionEvent_Generic_Headline",
+    "newsName": "Events_FactionEvent_FedRomu_Title",
+    "newsShortDesc": "Events_FactionEvent_FedRomu_Desc",
+    "backgroundPrefab": "FactionEvent_Background",
+    "thumbnailImage": "FactionEvent_Thumbnail",
+    "characterId": "Picard",
+    "characterId2": "Tomalak",
+    "id": "FactionEvent_FedRomu_PicardTomalak_02"
+  },
+  "NewCharacter_Gowron_01": {
+    "dateStart": "2021-11-15T08:00:00Z",
+    "dateEnd": "2021-11-22T08:00:00Z",
+    "newsType": "Character",
+    "newsHeadline": "News_Crew_Generic_Headline",
+    "newsName": "Common_Gowron",
+    "newsShortDesc": "Data_Character_Gowron_description",
+    "backgroundPrefab": "NewCharacter_Background",
+    "thumbnailImage": "NewCharacter_Gowron",
+    "characterId": "Gowron",
+    "id": "NewCharacter_Gowron_01"
+  },
+  "SoloEvent_Gowron_01": {
+    "dateStart": "2021-11-15T08:00:00Z",
+    "dateEnd": "2021-11-22T08:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Gowron",
+    "characterId": "Gowron",
+    "id": "SoloEvent_Gowron_01"
+  },
+  "SoloEvent_Scott_01": {
+    "dateStart": "2021-11-22T08:00:00Z",
+    "dateEnd": "2021-11-29T08:00:00Z",
+    "newsType": "Event",
+    "newsHeadline": "News_SoloEvent_Generic_Headline",
+    "newsName": "UI_Events_SoloEvent_Title",
+    "newsShortDesc": "UI_Events_SoloEvent_Desc",
+    "backgroundPrefab": "SoloEvent_Background",
+    "thumbnailImage": "SoloEvent_Scott",
+    "characterId": "Scott",
+    "id": "SoloEvent_Scott_01"
   },
   "SeasonStart_01": {
     "dateStart": "2021-07-12T07:00:00Z",
@@ -578,5 +627,16 @@
     "backgroundPrefab": "Seasons_Background",
     "thumbnailImage": "BG_PVP_Seasons_07_Small",
     "id": "SeasonStart_12"
+  },
+  "Episode_TEST01": {
+    "dateStart": "2999-10-25T07:00:00Z",
+    "dateEnd": "2999-11-01T07:00:00Z",
+    "newsType": "Mission",
+    "newsHeadline": "News_Episode_Generic_Headline",
+    "newsName": "UI_Common_Missions_EpisodeIdentifier_08",
+    "newsShortDesc": "Data_GSEpisodes_displayName_Episode8",
+    "backgroundPrefab": "Episode7_Background",
+    "thumbnailImage": "FactionEvent_Thumbnail",
+    "id": "Episode_TEST01"
   }
 }

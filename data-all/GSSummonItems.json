@@ -3277,7 +3277,7 @@
   },
   "235": {
     "summonID": "235",
-    "itemID": "GenCardSec01M",
+    "itemID": "Tuvok",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3291,7 +3291,7 @@
   },
   "236": {
     "summonID": "236",
-    "itemID": "GenCardMed01M",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3305,7 +3305,7 @@
   },
   "237": {
     "summonID": "237",
-    "itemID": "GenCardSci01F",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3319,7 +3319,7 @@
   },
   "238": {
     "summonID": "238",
-    "itemID": "GenCardEng01F",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3333,7 +3333,7 @@
   },
   "239": {
     "summonID": "239",
-    "itemID": "GenCardCom01M",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3347,7 +3347,7 @@
   },
   "240": {
     "summonID": "240",
-    "itemID": "GenHumanSec01M",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3361,7 +3361,7 @@
   },
   "241": {
     "summonID": "241",
-    "itemID": "GenHumanMed01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3375,7 +3375,7 @@
   },
   "242": {
     "summonID": "242",
-    "itemID": "GenHumanSci01F",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3389,7 +3389,7 @@
   },
   "243": {
     "summonID": "243",
-    "itemID": "GenHumanEng01F",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3403,7 +3403,7 @@
   },
   "244": {
     "summonID": "244",
-    "itemID": "GenHumanCom01M",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3417,7 +3417,7 @@
   },
   "245": {
     "summonID": "245",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3431,7 +3431,7 @@
   },
   "246": {
     "summonID": "246",
-    "itemID": "GenRomuMed01M",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3445,7 +3445,7 @@
   },
   "247": {
     "summonID": "247",
-    "itemID": "GenRomuSci01F",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3459,7 +3459,7 @@
   },
   "248": {
     "summonID": "248",
-    "itemID": "GenRomuEng01F",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3473,7 +3473,7 @@
   },
   "249": {
     "summonID": "249",
-    "itemID": "GenRomuCom01M",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3487,7 +3487,7 @@
   },
   "250": {
     "summonID": "250",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3501,7 +3501,7 @@
   },
   "251": {
     "summonID": "251",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3515,7 +3515,7 @@
   },
   "252": {
     "summonID": "252",
-    "itemID": "GenBorgSci01M",
+    "itemID": "GenBorgMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3529,7 +3529,7 @@
   },
   "253": {
     "summonID": "253",
-    "itemID": "GenBorgEng01M",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3543,7 +3543,7 @@
   },
   "254": {
     "summonID": "254",
-    "itemID": "GenKlingSec01M",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3557,7 +3557,7 @@
   },
   "255": {
     "summonID": "255",
-    "itemID": "GenKlingMed01M",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3571,7 +3571,7 @@
   },
   "256": {
     "summonID": "256",
-    "itemID": "GenKlingSci01F",
+    "itemID": "GenKlingMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3585,7 +3585,7 @@
   },
   "257": {
     "summonID": "257",
-    "itemID": "GenKlingEng01F",
+    "itemID": "GenKlingSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3599,7 +3599,7 @@
   },
   "258": {
     "summonID": "258",
-    "itemID": "GenKlingCom01M",
+    "itemID": "GenKlingEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_06"
@@ -3613,10 +3613,10 @@
   },
   "259": {
     "summonID": "259",
-    "itemID": "Worf",
+    "itemID": "GenKlingCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Core_07"
+      "Core_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -3627,7 +3627,7 @@
   },
   "260": {
     "summonID": "260",
-    "itemID": "Burnham",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3641,7 +3641,7 @@
   },
   "261": {
     "summonID": "261",
-    "itemID": "Riker",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3655,7 +3655,7 @@
   },
   "262": {
     "summonID": "262",
-    "itemID": "McCoy",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3669,7 +3669,7 @@
   },
   "263": {
     "summonID": "263",
-    "itemID": "Dukat",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3683,7 +3683,7 @@
   },
   "264": {
     "summonID": "264",
-    "itemID": "Janeway",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3697,7 +3697,7 @@
   },
   "265": {
     "summonID": "265",
-    "itemID": "Sela",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3711,7 +3711,7 @@
   },
   "266": {
     "summonID": "266",
-    "itemID": "Tomalak",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3725,7 +3725,7 @@
   },
   "267": {
     "summonID": "267",
-    "itemID": "Data",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3739,7 +3739,7 @@
   },
   "268": {
     "summonID": "268",
-    "itemID": "Gorn",
+    "itemID": "Data",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3753,7 +3753,7 @@
   },
   "269": {
     "summonID": "269",
-    "itemID": "Geordi",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3767,7 +3767,7 @@
   },
   "270": {
     "summonID": "270",
-    "itemID": "Odo",
+    "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3781,7 +3781,7 @@
   },
   "271": {
     "summonID": "271",
-    "itemID": "Sisko",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3795,7 +3795,7 @@
   },
   "272": {
     "summonID": "272",
-    "itemID": "Crusher",
+    "itemID": "Sisko",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3809,7 +3809,7 @@
   },
   "273": {
     "summonID": "273",
-    "itemID": "Martok",
+    "itemID": "Crusher",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3823,7 +3823,7 @@
   },
   "274": {
     "summonID": "274",
-    "itemID": "Khan",
+    "itemID": "Martok",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3837,7 +3837,7 @@
   },
   "275": {
     "summonID": "275",
-    "itemID": "Nine",
+    "itemID": "Khan",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3851,7 +3851,7 @@
   },
   "276": {
     "summonID": "276",
-    "itemID": "BorgQueen",
+    "itemID": "Nine",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3865,7 +3865,7 @@
   },
   "277": {
     "summonID": "277",
-    "itemID": "Locutus",
+    "itemID": "BorgQueen",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3879,7 +3879,7 @@
   },
   "278": {
     "summonID": "278",
-    "itemID": "Culber",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3893,7 +3893,7 @@
   },
   "279": {
     "summonID": "279",
-    "itemID": "Nerys",
+    "itemID": "Culber",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3907,7 +3907,7 @@
   },
   "280": {
     "summonID": "280",
-    "itemID": "TPol",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3921,7 +3921,7 @@
   },
   "281": {
     "summonID": "281",
-    "itemID": "Uhura",
+    "itemID": "TPol",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3935,7 +3935,7 @@
   },
   "282": {
     "summonID": "282",
-    "itemID": "Pike",
+    "itemID": "Uhura",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3949,7 +3949,7 @@
   },
   "283": {
     "summonID": "283",
-    "itemID": "Sulu",
+    "itemID": "Pike",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3963,7 +3963,7 @@
   },
   "284": {
     "summonID": "284",
-    "itemID": "Torres",
+    "itemID": "Sulu",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3977,7 +3977,7 @@
   },
   "285": {
     "summonID": "285",
-    "itemID": "Doctor",
+    "itemID": "Torres",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -3991,7 +3991,7 @@
   },
   "286": {
     "summonID": "286",
-    "itemID": "Saru",
+    "itemID": "Doctor",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4005,7 +4005,7 @@
   },
   "287": {
     "summonID": "287",
-    "itemID": "Picard",
+    "itemID": "Saru",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4019,7 +4019,7 @@
   },
   "288": {
     "summonID": "288",
-    "itemID": "Sutra",
+    "itemID": "Picard",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4033,7 +4033,7 @@
   },
   "289": {
     "summonID": "289",
-    "itemID": "Quark",
+    "itemID": "Sutra",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4047,7 +4047,7 @@
   },
   "290": {
     "summonID": "290",
-    "itemID": "Kirk",
+    "itemID": "Quark",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4061,7 +4061,7 @@
   },
   "291": {
     "summonID": "291",
-    "itemID": "Scott",
+    "itemID": "Kirk",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4075,7 +4075,7 @@
   },
   "292": {
     "summonID": "292",
-    "itemID": "Spock",
+    "itemID": "Scott",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4089,7 +4089,7 @@
   },
   "293": {
     "summonID": "293",
-    "itemID": "Soji",
+    "itemID": "Spock",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4103,7 +4103,7 @@
   },
   "294": {
     "summonID": "294",
-    "itemID": "Phlox",
+    "itemID": "Soji",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4117,7 +4117,7 @@
   },
   "295": {
     "summonID": "295",
-    "itemID": "Georgiou",
+    "itemID": "Phlox",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4131,7 +4131,7 @@
   },
   "296": {
     "summonID": "296",
-    "itemID": "PicardDixon",
+    "itemID": "Georgiou",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4145,7 +4145,7 @@
   },
   "297": {
     "summonID": "297",
-    "itemID": "Torchbearer",
+    "itemID": "PicardDixon",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4159,7 +4159,7 @@
   },
   "298": {
     "summonID": "298",
-    "itemID": "Stamets",
+    "itemID": "Torchbearer",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4173,7 +4173,7 @@
   },
   "299": {
     "summonID": "299",
-    "itemID": "Tilly",
+    "itemID": "Stamets",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4187,7 +4187,7 @@
   },
   "300": {
     "summonID": "300",
-    "itemID": "Chang",
+    "itemID": "Tilly",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4201,7 +4201,7 @@
   },
   "301": {
     "summonID": "301",
-    "itemID": "Elnor",
+    "itemID": "Chang",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4215,7 +4215,7 @@
   },
   "302": {
     "summonID": "302",
-    "itemID": "Troi",
+    "itemID": "Elnor",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4229,7 +4229,7 @@
   },
   "303": {
     "summonID": "303",
-    "itemID": "Chekov",
+    "itemID": "Troi",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4243,7 +4243,7 @@
   },
   "304": {
     "summonID": "304",
-    "itemID": "Garak",
+    "itemID": "Chekov",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4257,7 +4257,7 @@
   },
   "305": {
     "summonID": "305",
-    "itemID": "Shinzon",
+    "itemID": "Garak",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4271,7 +4271,7 @@
   },
   "306": {
     "summonID": "306",
-    "itemID": "GenCardSec01M",
+    "itemID": "Shinzon",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4285,7 +4285,7 @@
   },
   "307": {
     "summonID": "307",
-    "itemID": "GenCardMed01M",
+    "itemID": "Tuvok",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4299,7 +4299,7 @@
   },
   "308": {
     "summonID": "308",
-    "itemID": "GenCardSci01F",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4313,7 +4313,7 @@
   },
   "309": {
     "summonID": "309",
-    "itemID": "GenCardEng01F",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4327,7 +4327,7 @@
   },
   "310": {
     "summonID": "310",
-    "itemID": "GenCardCom01M",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4341,7 +4341,7 @@
   },
   "311": {
     "summonID": "311",
-    "itemID": "GenHumanSec01M",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4355,7 +4355,7 @@
   },
   "312": {
     "summonID": "312",
-    "itemID": "GenHumanMed01M",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4369,7 +4369,7 @@
   },
   "313": {
     "summonID": "313",
-    "itemID": "GenHumanSci01F",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4383,7 +4383,7 @@
   },
   "314": {
     "summonID": "314",
-    "itemID": "GenHumanEng01F",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4397,7 +4397,7 @@
   },
   "315": {
     "summonID": "315",
-    "itemID": "GenHumanCom01M",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4411,7 +4411,7 @@
   },
   "316": {
     "summonID": "316",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4425,7 +4425,7 @@
   },
   "317": {
     "summonID": "317",
-    "itemID": "GenRomuMed01M",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4439,7 +4439,7 @@
   },
   "318": {
     "summonID": "318",
-    "itemID": "GenRomuSci01F",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4453,7 +4453,7 @@
   },
   "319": {
     "summonID": "319",
-    "itemID": "GenRomuEng01F",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4467,7 +4467,7 @@
   },
   "320": {
     "summonID": "320",
-    "itemID": "GenRomuCom01M",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4481,7 +4481,7 @@
   },
   "321": {
     "summonID": "321",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4495,7 +4495,7 @@
   },
   "322": {
     "summonID": "322",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4509,7 +4509,7 @@
   },
   "323": {
     "summonID": "323",
-    "itemID": "GenBorgSci01M",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4523,7 +4523,7 @@
   },
   "324": {
     "summonID": "324",
-    "itemID": "GenBorgEng01M",
+    "itemID": "GenBorgMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4537,7 +4537,7 @@
   },
   "325": {
     "summonID": "325",
-    "itemID": "GenKlingSec01M",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4551,7 +4551,7 @@
   },
   "326": {
     "summonID": "326",
-    "itemID": "GenKlingMed01M",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4565,7 +4565,7 @@
   },
   "327": {
     "summonID": "327",
-    "itemID": "GenKlingSci01F",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4579,7 +4579,7 @@
   },
   "328": {
     "summonID": "328",
-    "itemID": "GenKlingEng01F",
+    "itemID": "GenKlingMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4593,7 +4593,7 @@
   },
   "329": {
     "summonID": "329",
-    "itemID": "GenKlingCom01M",
+    "itemID": "GenKlingSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Core_07"
@@ -4607,10 +4607,10 @@
   },
   "330": {
     "summonID": "330",
-    "itemID": "Worf",
+    "itemID": "GenKlingEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_01"
+      "Core_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4621,10 +4621,10 @@
   },
   "331": {
     "summonID": "331",
-    "itemID": "GenHumanSec01M",
+    "itemID": "GenKlingCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_01"
+      "Core_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4635,7 +4635,7 @@
   },
   "332": {
     "summonID": "332",
-    "itemID": "GenCardSec01M",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_01"
@@ -4649,7 +4649,7 @@
   },
   "333": {
     "summonID": "333",
-    "itemID": "Odo",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_01"
@@ -4663,10 +4663,10 @@
   },
   "334": {
     "summonID": "334",
-    "itemID": "Worf",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_02"
+      "Summon_Security_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4677,10 +4677,10 @@
   },
   "335": {
     "summonID": "335",
-    "itemID": "Sela",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_02"
+      "Summon_Security_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4691,7 +4691,7 @@
   },
   "336": {
     "summonID": "336",
-    "itemID": "Gorn",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_02"
@@ -4705,7 +4705,7 @@
   },
   "337": {
     "summonID": "337",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_02"
@@ -4719,7 +4719,7 @@
   },
   "338": {
     "summonID": "338",
-    "itemID": "GenCardSec01M",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_02"
@@ -4733,7 +4733,7 @@
   },
   "339": {
     "summonID": "339",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_02"
@@ -4747,10 +4747,10 @@
   },
   "340": {
     "summonID": "340",
-    "itemID": "Worf",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_03"
+      "Summon_Security_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4761,10 +4761,10 @@
   },
   "341": {
     "summonID": "341",
-    "itemID": "Sela",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_03"
+      "Summon_Security_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4775,7 +4775,7 @@
   },
   "342": {
     "summonID": "342",
-    "itemID": "Gorn",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4789,7 +4789,7 @@
   },
   "343": {
     "summonID": "343",
-    "itemID": "Locutus",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4803,7 +4803,7 @@
   },
   "344": {
     "summonID": "344",
-    "itemID": "Nerys",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4817,7 +4817,7 @@
   },
   "345": {
     "summonID": "345",
-    "itemID": "Odo",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4831,7 +4831,7 @@
   },
   "346": {
     "summonID": "346",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4845,7 +4845,7 @@
   },
   "347": {
     "summonID": "347",
-    "itemID": "GenCardSec01M",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4859,7 +4859,7 @@
   },
   "348": {
     "summonID": "348",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4873,7 +4873,7 @@
   },
   "349": {
     "summonID": "349",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_03"
@@ -4887,10 +4887,10 @@
   },
   "350": {
     "summonID": "350",
-    "itemID": "Worf",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_04"
+      "Summon_Security_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4901,10 +4901,10 @@
   },
   "351": {
     "summonID": "351",
-    "itemID": "Sela",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_04"
+      "Summon_Security_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -4915,7 +4915,7 @@
   },
   "352": {
     "summonID": "352",
-    "itemID": "Gorn",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4929,7 +4929,7 @@
   },
   "353": {
     "summonID": "353",
-    "itemID": "Locutus",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4943,7 +4943,7 @@
   },
   "354": {
     "summonID": "354",
-    "itemID": "Nerys",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4957,7 +4957,7 @@
   },
   "355": {
     "summonID": "355",
-    "itemID": "Odo",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4971,7 +4971,7 @@
   },
   "356": {
     "summonID": "356",
-    "itemID": "Martok",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4985,7 +4985,7 @@
   },
   "357": {
     "summonID": "357",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -4999,7 +4999,7 @@
   },
   "358": {
     "summonID": "358",
-    "itemID": "GenCardSec01M",
+    "itemID": "Martok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -5013,7 +5013,7 @@
   },
   "359": {
     "summonID": "359",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -5027,7 +5027,7 @@
   },
   "360": {
     "summonID": "360",
-    "itemID": "GenKlingSec01M",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -5041,7 +5041,7 @@
   },
   "361": {
     "summonID": "361",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_04"
@@ -5055,10 +5055,10 @@
   },
   "362": {
     "summonID": "362",
-    "itemID": "Worf",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_05"
+      "Summon_Security_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5069,10 +5069,10 @@
   },
   "363": {
     "summonID": "363",
-    "itemID": "Sela",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_05"
+      "Summon_Security_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5083,7 +5083,7 @@
   },
   "364": {
     "summonID": "364",
-    "itemID": "Gorn",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5097,7 +5097,7 @@
   },
   "365": {
     "summonID": "365",
-    "itemID": "Locutus",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5111,7 +5111,7 @@
   },
   "366": {
     "summonID": "366",
-    "itemID": "Nerys",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5125,7 +5125,7 @@
   },
   "367": {
     "summonID": "367",
-    "itemID": "Odo",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5139,7 +5139,7 @@
   },
   "368": {
     "summonID": "368",
-    "itemID": "Martok",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5153,7 +5153,7 @@
   },
   "369": {
     "summonID": "369",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5167,7 +5167,7 @@
   },
   "370": {
     "summonID": "370",
-    "itemID": "GenCardSec01M",
+    "itemID": "Martok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5181,7 +5181,7 @@
   },
   "371": {
     "summonID": "371",
-    "itemID": "GenRomuSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5195,7 +5195,7 @@
   },
   "372": {
     "summonID": "372",
-    "itemID": "GenKlingSec01M",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5209,7 +5209,7 @@
   },
   "373": {
     "summonID": "373",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_05"
@@ -5223,10 +5223,10 @@
   },
   "374": {
     "summonID": "374",
-    "itemID": "Worf",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_06"
+      "Summon_Security_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5237,10 +5237,10 @@
   },
   "375": {
     "summonID": "375",
-    "itemID": "Sela",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_06"
+      "Summon_Security_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5251,7 +5251,7 @@
   },
   "376": {
     "summonID": "376",
-    "itemID": "Gorn",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5265,7 +5265,7 @@
   },
   "377": {
     "summonID": "377",
-    "itemID": "Odo",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5279,7 +5279,7 @@
   },
   "378": {
     "summonID": "378",
-    "itemID": "Nerys",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5293,7 +5293,7 @@
   },
   "379": {
     "summonID": "379",
-    "itemID": "Locutus",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5307,7 +5307,7 @@
   },
   "380": {
     "summonID": "380",
-    "itemID": "Martok",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5321,7 +5321,7 @@
   },
   "381": {
     "summonID": "381",
-    "itemID": "Elnor",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5335,7 +5335,7 @@
   },
   "382": {
     "summonID": "382",
-    "itemID": "Chekov",
+    "itemID": "Martok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5349,7 +5349,7 @@
   },
   "383": {
     "summonID": "383",
-    "itemID": "Garak",
+    "itemID": "Elnor",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5363,7 +5363,7 @@
   },
   "384": {
     "summonID": "384",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Chekov",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5377,7 +5377,7 @@
   },
   "385": {
     "summonID": "385",
-    "itemID": "GenCardSec01M",
+    "itemID": "Garak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5391,7 +5391,7 @@
   },
   "386": {
     "summonID": "386",
-    "itemID": "GenRomuSec01M",
+    "itemID": "Tuvok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5405,7 +5405,7 @@
   },
   "387": {
     "summonID": "387",
-    "itemID": "GenKlingSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5419,7 +5419,7 @@
   },
   "388": {
     "summonID": "388",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_06"
@@ -5433,10 +5433,10 @@
   },
   "389": {
     "summonID": "389",
-    "itemID": "Worf",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_07"
+      "Summon_Security_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5447,10 +5447,10 @@
   },
   "390": {
     "summonID": "390",
-    "itemID": "Sela",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_07"
+      "Summon_Security_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5461,10 +5461,10 @@
   },
   "391": {
     "summonID": "391",
-    "itemID": "Gorn",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Security_07"
+      "Summon_Security_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5475,7 +5475,7 @@
   },
   "392": {
     "summonID": "392",
-    "itemID": "Odo",
+    "itemID": "Worf",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5489,7 +5489,7 @@
   },
   "393": {
     "summonID": "393",
-    "itemID": "Nerys",
+    "itemID": "Sela",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5503,7 +5503,7 @@
   },
   "394": {
     "summonID": "394",
-    "itemID": "Locutus",
+    "itemID": "Gorn",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5517,7 +5517,7 @@
   },
   "395": {
     "summonID": "395",
-    "itemID": "Martok",
+    "itemID": "Odo",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5531,7 +5531,7 @@
   },
   "396": {
     "summonID": "396",
-    "itemID": "Torchbearer",
+    "itemID": "Nerys",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5545,7 +5545,7 @@
   },
   "397": {
     "summonID": "397",
-    "itemID": "Elnor",
+    "itemID": "Locutus",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5559,7 +5559,7 @@
   },
   "398": {
     "summonID": "398",
-    "itemID": "Chekov",
+    "itemID": "Martok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5573,7 +5573,7 @@
   },
   "399": {
     "summonID": "399",
-    "itemID": "Garak",
+    "itemID": "Torchbearer",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5587,7 +5587,7 @@
   },
   "400": {
     "summonID": "400",
-    "itemID": "GenHumanSec01M",
+    "itemID": "Elnor",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5601,7 +5601,7 @@
   },
   "401": {
     "summonID": "401",
-    "itemID": "GenCardSec01M",
+    "itemID": "Chekov",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5615,7 +5615,7 @@
   },
   "402": {
     "summonID": "402",
-    "itemID": "GenRomuSec01M",
+    "itemID": "Garak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5629,7 +5629,7 @@
   },
   "403": {
     "summonID": "403",
-    "itemID": "GenKlingSec01M",
+    "itemID": "Tuvok",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5643,7 +5643,7 @@
   },
   "404": {
     "summonID": "404",
-    "itemID": "GenBorgSec01M",
+    "itemID": "GenHumanSec01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Security_07"
@@ -5657,10 +5657,10 @@
   },
   "405": {
     "summonID": "405",
-    "itemID": "Riker",
+    "itemID": "GenCardSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_01"
+      "Summon_Security_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5671,10 +5671,10 @@
   },
   "406": {
     "summonID": "406",
-    "itemID": "Dukat",
+    "itemID": "GenRomuSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_01"
+      "Summon_Security_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5685,10 +5685,10 @@
   },
   "407": {
     "summonID": "407",
-    "itemID": "Janeway",
+    "itemID": "GenKlingSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_01"
+      "Summon_Security_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5699,10 +5699,10 @@
   },
   "408": {
     "summonID": "408",
-    "itemID": "GenCardCom01M",
+    "itemID": "GenBorgSec01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_01"
+      "Summon_Security_07"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5713,7 +5713,7 @@
   },
   "409": {
     "summonID": "409",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_01"
@@ -5727,10 +5727,10 @@
   },
   "410": {
     "summonID": "410",
-    "itemID": "Riker",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_02"
+      "Summon_Command_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5741,10 +5741,10 @@
   },
   "411": {
     "summonID": "411",
-    "itemID": "Dukat",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_02"
+      "Summon_Command_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5755,10 +5755,10 @@
   },
   "412": {
     "summonID": "412",
-    "itemID": "Janeway",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_02"
+      "Summon_Command_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5769,10 +5769,10 @@
   },
   "413": {
     "summonID": "413",
-    "itemID": "Tomalak",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_02"
+      "Summon_Command_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5783,7 +5783,7 @@
   },
   "414": {
     "summonID": "414",
-    "itemID": "GenCardCom01M",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_02"
@@ -5797,7 +5797,7 @@
   },
   "415": {
     "summonID": "415",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_02"
@@ -5811,7 +5811,7 @@
   },
   "416": {
     "summonID": "416",
-    "itemID": "GenRomuCom01M",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_02"
@@ -5825,10 +5825,10 @@
   },
   "417": {
     "summonID": "417",
-    "itemID": "Riker",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_03"
+      "Summon_Command_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5839,10 +5839,10 @@
   },
   "418": {
     "summonID": "418",
-    "itemID": "Dukat",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_03"
+      "Summon_Command_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5853,10 +5853,10 @@
   },
   "419": {
     "summonID": "419",
-    "itemID": "Janeway",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_03"
+      "Summon_Command_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5867,10 +5867,10 @@
   },
   "420": {
     "summonID": "420",
-    "itemID": "Tomalak",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_03"
+      "Summon_Command_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5881,7 +5881,7 @@
   },
   "421": {
     "summonID": "421",
-    "itemID": "BorgQueen",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_03"
@@ -5895,7 +5895,7 @@
   },
   "422": {
     "summonID": "422",
-    "itemID": "GenCardCom01M",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_03"
@@ -5909,7 +5909,7 @@
   },
   "423": {
     "summonID": "423",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_03"
@@ -5923,7 +5923,7 @@
   },
   "424": {
     "summonID": "424",
-    "itemID": "GenRomuCom01M",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_03"
@@ -5937,10 +5937,10 @@
   },
   "425": {
     "summonID": "425",
-    "itemID": "Riker",
+    "itemID": "BorgQueen",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_04"
+      "Summon_Command_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5951,10 +5951,10 @@
   },
   "426": {
     "summonID": "426",
-    "itemID": "Dukat",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_04"
+      "Summon_Command_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5965,10 +5965,10 @@
   },
   "427": {
     "summonID": "427",
-    "itemID": "Janeway",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_04"
+      "Summon_Command_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5979,10 +5979,10 @@
   },
   "428": {
     "summonID": "428",
-    "itemID": "Tomalak",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_04"
+      "Summon_Command_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -5993,7 +5993,7 @@
   },
   "429": {
     "summonID": "429",
-    "itemID": "Sisko",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6007,7 +6007,7 @@
   },
   "430": {
     "summonID": "430",
-    "itemID": "Pike",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6021,7 +6021,7 @@
   },
   "431": {
     "summonID": "431",
-    "itemID": "Sulu",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6035,7 +6035,7 @@
   },
   "432": {
     "summonID": "432",
-    "itemID": "BorgQueen",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6049,7 +6049,7 @@
   },
   "433": {
     "summonID": "433",
-    "itemID": "GenCardCom01M",
+    "itemID": "Sisko",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6063,7 +6063,7 @@
   },
   "434": {
     "summonID": "434",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Pike",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6077,7 +6077,7 @@
   },
   "435": {
     "summonID": "435",
-    "itemID": "GenRomuCom01M",
+    "itemID": "Sulu",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6091,7 +6091,7 @@
   },
   "436": {
     "summonID": "436",
-    "itemID": "GenKlingCom01M",
+    "itemID": "BorgQueen",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_04"
@@ -6105,10 +6105,10 @@
   },
   "437": {
     "summonID": "437",
-    "itemID": "Riker",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_05"
+      "Summon_Command_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6119,10 +6119,10 @@
   },
   "438": {
     "summonID": "438",
-    "itemID": "Dukat",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_05"
+      "Summon_Command_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6133,10 +6133,10 @@
   },
   "439": {
     "summonID": "439",
-    "itemID": "Janeway",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_05"
+      "Summon_Command_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6147,10 +6147,10 @@
   },
   "440": {
     "summonID": "440",
-    "itemID": "Tomalak",
+    "itemID": "GenKlingCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_05"
+      "Summon_Command_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6161,7 +6161,7 @@
   },
   "441": {
     "summonID": "441",
-    "itemID": "Sisko",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6175,7 +6175,7 @@
   },
   "442": {
     "summonID": "442",
-    "itemID": "Pike",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6189,7 +6189,7 @@
   },
   "443": {
     "summonID": "443",
-    "itemID": "Sulu",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6203,7 +6203,7 @@
   },
   "444": {
     "summonID": "444",
-    "itemID": "Picard",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6217,7 +6217,7 @@
   },
   "445": {
     "summonID": "445",
-    "itemID": "Quark",
+    "itemID": "Sisko",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6231,7 +6231,7 @@
   },
   "446": {
     "summonID": "446",
-    "itemID": "GenCardCom01M",
+    "itemID": "Pike",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6245,7 +6245,7 @@
   },
   "447": {
     "summonID": "447",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Sulu",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6259,7 +6259,7 @@
   },
   "448": {
     "summonID": "448",
-    "itemID": "GenRomuCom01M",
+    "itemID": "Picard",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6273,7 +6273,7 @@
   },
   "449": {
     "summonID": "449",
-    "itemID": "GenKlingCom01M",
+    "itemID": "Quark",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_05"
@@ -6287,10 +6287,10 @@
   },
   "450": {
     "summonID": "450",
-    "itemID": "Riker",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_06"
+      "Summon_Command_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6301,10 +6301,10 @@
   },
   "451": {
     "summonID": "451",
-    "itemID": "Dukat",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_06"
+      "Summon_Command_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6315,10 +6315,10 @@
   },
   "452": {
     "summonID": "452",
-    "itemID": "Janeway",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_06"
+      "Summon_Command_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6329,10 +6329,10 @@
   },
   "453": {
     "summonID": "453",
-    "itemID": "Tomalak",
+    "itemID": "GenKlingCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Command_06"
+      "Summon_Command_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6343,7 +6343,7 @@
   },
   "454": {
     "summonID": "454",
-    "itemID": "Sisko",
+    "itemID": "Riker",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6357,7 +6357,7 @@
   },
   "455": {
     "summonID": "455",
-    "itemID": "Khan",
+    "itemID": "Dukat",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6371,7 +6371,7 @@
   },
   "456": {
     "summonID": "456",
-    "itemID": "BorgQueen",
+    "itemID": "Janeway",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6385,7 +6385,7 @@
   },
   "457": {
     "summonID": "457",
-    "itemID": "Pike",
+    "itemID": "Tomalak",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6399,7 +6399,7 @@
   },
   "458": {
     "summonID": "458",
-    "itemID": "Sulu",
+    "itemID": "Sisko",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6413,7 +6413,7 @@
   },
   "459": {
     "summonID": "459",
-    "itemID": "Picard",
+    "itemID": "Khan",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6427,7 +6427,7 @@
   },
   "460": {
     "summonID": "460",
-    "itemID": "Quark",
+    "itemID": "BorgQueen",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6441,7 +6441,7 @@
   },
   "461": {
     "summonID": "461",
-    "itemID": "Kirk",
+    "itemID": "Pike",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6455,7 +6455,7 @@
   },
   "462": {
     "summonID": "462",
-    "itemID": "Georgiou",
+    "itemID": "Sulu",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6469,7 +6469,7 @@
   },
   "463": {
     "summonID": "463",
-    "itemID": "PicardDixon",
+    "itemID": "Picard",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6483,7 +6483,7 @@
   },
   "464": {
     "summonID": "464",
-    "itemID": "Chang",
+    "itemID": "Quark",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6497,7 +6497,7 @@
   },
   "465": {
     "summonID": "465",
-    "itemID": "Troi",
+    "itemID": "Kirk",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6511,7 +6511,7 @@
   },
   "466": {
     "summonID": "466",
-    "itemID": "Shinzon",
+    "itemID": "Georgiou",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6525,7 +6525,7 @@
   },
   "467": {
     "summonID": "467",
-    "itemID": "GenCardCom01M",
+    "itemID": "PicardDixon",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6539,7 +6539,7 @@
   },
   "468": {
     "summonID": "468",
-    "itemID": "GenHumanCom01M",
+    "itemID": "Chang",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6553,7 +6553,7 @@
   },
   "469": {
     "summonID": "469",
-    "itemID": "GenRomuCom01M",
+    "itemID": "Troi",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6567,7 +6567,7 @@
   },
   "470": {
     "summonID": "470",
-    "itemID": "GenKlingCom01M",
+    "itemID": "Shinzon",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Command_06"
@@ -6581,10 +6581,10 @@
   },
   "471": {
     "summonID": "471",
-    "itemID": "Burnham",
+    "itemID": "GenCardCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_01"
+      "Summon_Command_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6595,10 +6595,10 @@
   },
   "472": {
     "summonID": "472",
-    "itemID": "GenCardSci01F",
+    "itemID": "GenHumanCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_01"
+      "Summon_Command_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6609,10 +6609,10 @@
   },
   "473": {
     "summonID": "473",
-    "itemID": "GenHumanSci01F",
+    "itemID": "GenRomuCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_01"
+      "Summon_Command_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6623,10 +6623,10 @@
   },
   "474": {
     "summonID": "474",
-    "itemID": "Burnham",
+    "itemID": "GenKlingCom01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_02"
+      "Summon_Command_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6637,10 +6637,10 @@
   },
   "475": {
     "summonID": "475",
-    "itemID": "GenCardSci01F",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_02"
+      "Summon_Science_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6651,10 +6651,10 @@
   },
   "476": {
     "summonID": "476",
-    "itemID": "GenHumanSci01F",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_02"
+      "Summon_Science_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6665,10 +6665,10 @@
   },
   "477": {
     "summonID": "477",
-    "itemID": "GenRomuSci01F",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_02"
+      "Summon_Science_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6682,7 +6682,7 @@
     "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_03"
+      "Summon_Science_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6693,10 +6693,10 @@
   },
   "479": {
     "summonID": "479",
-    "itemID": "Uhura",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_03"
+      "Summon_Science_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6707,10 +6707,10 @@
   },
   "480": {
     "summonID": "480",
-    "itemID": "TPol",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_03"
+      "Summon_Science_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6721,10 +6721,10 @@
   },
   "481": {
     "summonID": "481",
-    "itemID": "Data",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_03"
+      "Summon_Science_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6735,7 +6735,7 @@
   },
   "482": {
     "summonID": "482",
-    "itemID": "GenCardSci01F",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_03"
@@ -6749,7 +6749,7 @@
   },
   "483": {
     "summonID": "483",
-    "itemID": "GenHumanSci01F",
+    "itemID": "Uhura",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_03"
@@ -6763,7 +6763,7 @@
   },
   "484": {
     "summonID": "484",
-    "itemID": "GenRomuSci01F",
+    "itemID": "TPol",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_03"
@@ -6777,7 +6777,7 @@
   },
   "485": {
     "summonID": "485",
-    "itemID": "GenBorgSci01M",
+    "itemID": "Data",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_03"
@@ -6791,10 +6791,10 @@
   },
   "486": {
     "summonID": "486",
-    "itemID": "Burnham",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_04"
+      "Summon_Science_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6805,10 +6805,10 @@
   },
   "487": {
     "summonID": "487",
-    "itemID": "Uhura",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_04"
+      "Summon_Science_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6819,10 +6819,10 @@
   },
   "488": {
     "summonID": "488",
-    "itemID": "TPol",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_04"
+      "Summon_Science_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6833,10 +6833,10 @@
   },
   "489": {
     "summonID": "489",
-    "itemID": "Data",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_04"
+      "Summon_Science_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6847,7 +6847,7 @@
   },
   "490": {
     "summonID": "490",
-    "itemID": "GenCardSci01F",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_04"
@@ -6861,7 +6861,7 @@
   },
   "491": {
     "summonID": "491",
-    "itemID": "GenHumanSci01F",
+    "itemID": "Uhura",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_04"
@@ -6875,7 +6875,7 @@
   },
   "492": {
     "summonID": "492",
-    "itemID": "GenRomuSci01F",
+    "itemID": "TPol",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_04"
@@ -6889,7 +6889,7 @@
   },
   "493": {
     "summonID": "493",
-    "itemID": "GenKlingSci01F",
+    "itemID": "Data",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_04"
@@ -6903,7 +6903,7 @@
   },
   "494": {
     "summonID": "494",
-    "itemID": "GenBorgSci01M",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_04"
@@ -6917,10 +6917,10 @@
   },
   "495": {
     "summonID": "495",
-    "itemID": "Burnham",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_05"
+      "Summon_Science_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6931,10 +6931,10 @@
   },
   "496": {
     "summonID": "496",
-    "itemID": "Uhura",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_05"
+      "Summon_Science_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6945,10 +6945,10 @@
   },
   "497": {
     "summonID": "497",
-    "itemID": "TPol",
+    "itemID": "GenKlingSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_05"
+      "Summon_Science_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6959,10 +6959,10 @@
   },
   "498": {
     "summonID": "498",
-    "itemID": "Data",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_05"
+      "Summon_Science_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -6973,7 +6973,7 @@
   },
   "499": {
     "summonID": "499",
-    "itemID": "Saru",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -6987,7 +6987,7 @@
   },
   "500": {
     "summonID": "500",
-    "itemID": "Sutra",
+    "itemID": "Uhura",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7001,7 +7001,7 @@
   },
   "501": {
     "summonID": "501",
-    "itemID": "GenCardSci01F",
+    "itemID": "TPol",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7015,7 +7015,7 @@
   },
   "502": {
     "summonID": "502",
-    "itemID": "GenHumanSci01F",
+    "itemID": "Data",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7029,7 +7029,7 @@
   },
   "503": {
     "summonID": "503",
-    "itemID": "GenRomuSci01F",
+    "itemID": "Saru",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7043,7 +7043,7 @@
   },
   "504": {
     "summonID": "504",
-    "itemID": "GenKlingSci01F",
+    "itemID": "Sutra",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7057,7 +7057,7 @@
   },
   "505": {
     "summonID": "505",
-    "itemID": "GenBorgSci01M",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_05"
@@ -7071,10 +7071,10 @@
   },
   "506": {
     "summonID": "506",
-    "itemID": "Burnham",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_06"
+      "Summon_Science_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7085,10 +7085,10 @@
   },
   "507": {
     "summonID": "507",
-    "itemID": "TPol",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_06"
+      "Summon_Science_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7099,10 +7099,10 @@
   },
   "508": {
     "summonID": "508",
-    "itemID": "Uhura",
+    "itemID": "GenKlingSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_06"
+      "Summon_Science_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7113,10 +7113,10 @@
   },
   "509": {
     "summonID": "509",
-    "itemID": "Data",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Science_06"
+      "Summon_Science_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7127,7 +7127,7 @@
   },
   "510": {
     "summonID": "510",
-    "itemID": "Saru",
+    "itemID": "Burnham",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7141,7 +7141,7 @@
   },
   "511": {
     "summonID": "511",
-    "itemID": "Sutra",
+    "itemID": "TPol",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7155,7 +7155,7 @@
   },
   "512": {
     "summonID": "512",
-    "itemID": "Spock",
+    "itemID": "Uhura",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7169,7 +7169,7 @@
   },
   "513": {
     "summonID": "513",
-    "itemID": "Soji",
+    "itemID": "Data",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7183,7 +7183,7 @@
   },
   "514": {
     "summonID": "514",
-    "itemID": "GenCardSci01F",
+    "itemID": "Saru",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7197,7 +7197,7 @@
   },
   "515": {
     "summonID": "515",
-    "itemID": "GenHumanSci01F",
+    "itemID": "Sutra",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7211,7 +7211,7 @@
   },
   "516": {
     "summonID": "516",
-    "itemID": "GenRomuSci01F",
+    "itemID": "Spock",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7225,7 +7225,7 @@
   },
   "517": {
     "summonID": "517",
-    "itemID": "GenKlingSci01F",
+    "itemID": "Soji",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7239,7 +7239,7 @@
   },
   "518": {
     "summonID": "518",
-    "itemID": "GenBorgSci01M",
+    "itemID": "GenCardSci01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Science_06"
@@ -7253,10 +7253,10 @@
   },
   "519": {
     "summonID": "519",
-    "itemID": "GenCardEng01F",
+    "itemID": "GenHumanSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_01"
+      "Summon_Science_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7267,10 +7267,10 @@
   },
   "520": {
     "summonID": "520",
-    "itemID": "GenHumanEng01F",
+    "itemID": "GenRomuSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_01"
+      "Summon_Science_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7281,10 +7281,10 @@
   },
   "521": {
     "summonID": "521",
-    "itemID": "GenRomuEng01F",
+    "itemID": "GenKlingSci01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_01"
+      "Summon_Science_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7295,10 +7295,10 @@
   },
   "522": {
     "summonID": "522",
-    "itemID": "Geordi",
+    "itemID": "GenBorgSci01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_02"
+      "Summon_Science_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7312,7 +7312,7 @@
     "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_02"
+      "Summon_Engineer_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7326,7 +7326,7 @@
     "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_02"
+      "Summon_Engineer_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7340,7 +7340,7 @@
     "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_02"
+      "Summon_Engineer_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7354,7 +7354,7 @@
     "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_03"
+      "Summon_Engineer_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7368,7 +7368,7 @@
     "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_03"
+      "Summon_Engineer_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7382,7 +7382,7 @@
     "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_03"
+      "Summon_Engineer_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7396,7 +7396,7 @@
     "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_03"
+      "Summon_Engineer_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7407,7 +7407,7 @@
   },
   "530": {
     "summonID": "530",
-    "itemID": "GenBorgEng01M",
+    "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_03"
@@ -7421,10 +7421,10 @@
   },
   "531": {
     "summonID": "531",
-    "itemID": "Geordi",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_04"
+      "Summon_Engineer_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7435,10 +7435,10 @@
   },
   "532": {
     "summonID": "532",
-    "itemID": "Torres",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_04"
+      "Summon_Engineer_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7449,10 +7449,10 @@
   },
   "533": {
     "summonID": "533",
-    "itemID": "GenCardEng01F",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_04"
+      "Summon_Engineer_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7463,10 +7463,10 @@
   },
   "534": {
     "summonID": "534",
-    "itemID": "GenHumanEng01F",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_04"
+      "Summon_Engineer_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7477,7 +7477,7 @@
   },
   "535": {
     "summonID": "535",
-    "itemID": "GenRomuEng01F",
+    "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_04"
@@ -7491,7 +7491,7 @@
   },
   "536": {
     "summonID": "536",
-    "itemID": "GenKlingEng01F",
+    "itemID": "Torres",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_04"
@@ -7505,7 +7505,7 @@
   },
   "537": {
     "summonID": "537",
-    "itemID": "GenBorgEng01M",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_04"
@@ -7519,10 +7519,10 @@
   },
   "538": {
     "summonID": "538",
-    "itemID": "Geordi",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_05"
+      "Summon_Engineer_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7533,10 +7533,10 @@
   },
   "539": {
     "summonID": "539",
-    "itemID": "Torres",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_05"
+      "Summon_Engineer_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7547,10 +7547,10 @@
   },
   "540": {
     "summonID": "540",
-    "itemID": "Nine",
+    "itemID": "GenKlingEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_05"
+      "Summon_Engineer_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7561,10 +7561,10 @@
   },
   "541": {
     "summonID": "541",
-    "itemID": "GenCardEng01F",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_05"
+      "Summon_Engineer_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7575,7 +7575,7 @@
   },
   "542": {
     "summonID": "542",
-    "itemID": "GenHumanEng01F",
+    "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_05"
@@ -7589,7 +7589,7 @@
   },
   "543": {
     "summonID": "543",
-    "itemID": "GenRomuEng01F",
+    "itemID": "Torres",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_05"
@@ -7603,7 +7603,7 @@
   },
   "544": {
     "summonID": "544",
-    "itemID": "GenKlingEng01F",
+    "itemID": "Nine",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_05"
@@ -7617,7 +7617,7 @@
   },
   "545": {
     "summonID": "545",
-    "itemID": "GenBorgEng01M",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_05"
@@ -7631,10 +7631,10 @@
   },
   "546": {
     "summonID": "546",
-    "itemID": "Nine",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_06"
+      "Summon_Engineer_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7645,10 +7645,10 @@
   },
   "547": {
     "summonID": "547",
-    "itemID": "Geordi",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_06"
+      "Summon_Engineer_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7659,10 +7659,10 @@
   },
   "548": {
     "summonID": "548",
-    "itemID": "Torres",
+    "itemID": "GenKlingEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_06"
+      "Summon_Engineer_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7673,10 +7673,10 @@
   },
   "549": {
     "summonID": "549",
-    "itemID": "Scott",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Engineer_06"
+      "Summon_Engineer_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7687,7 +7687,7 @@
   },
   "550": {
     "summonID": "550",
-    "itemID": "Stamets",
+    "itemID": "Nine",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7701,7 +7701,7 @@
   },
   "551": {
     "summonID": "551",
-    "itemID": "Tilly",
+    "itemID": "Geordi",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7715,7 +7715,7 @@
   },
   "552": {
     "summonID": "552",
-    "itemID": "GenCardEng01F",
+    "itemID": "Torres",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7729,7 +7729,7 @@
   },
   "553": {
     "summonID": "553",
-    "itemID": "GenHumanEng01F",
+    "itemID": "Scott",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7743,7 +7743,7 @@
   },
   "554": {
     "summonID": "554",
-    "itemID": "GenRomuEng01F",
+    "itemID": "Stamets",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7757,7 +7757,7 @@
   },
   "555": {
     "summonID": "555",
-    "itemID": "GenKlingEng01F",
+    "itemID": "Tilly",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7771,7 +7771,7 @@
   },
   "556": {
     "summonID": "556",
-    "itemID": "GenBorgEng01M",
+    "itemID": "GenCardEng01F",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Engineer_06"
@@ -7785,10 +7785,10 @@
   },
   "557": {
     "summonID": "557",
-    "itemID": "McCoy",
+    "itemID": "GenHumanEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_01"
+      "Summon_Engineer_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7799,10 +7799,10 @@
   },
   "558": {
     "summonID": "558",
-    "itemID": "GenHumanMed01M",
+    "itemID": "GenRomuEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_01"
+      "Summon_Engineer_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7813,10 +7813,10 @@
   },
   "559": {
     "summonID": "559",
-    "itemID": "GenCardMed01M",
+    "itemID": "GenKlingEng01F",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_01"
+      "Summon_Engineer_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7827,10 +7827,10 @@
   },
   "560": {
     "summonID": "560",
-    "itemID": "McCoy",
+    "itemID": "GenBorgEng01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_02"
+      "Summon_Engineer_06"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7841,10 +7841,10 @@
   },
   "561": {
     "summonID": "561",
-    "itemID": "GenRomuMed01M",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_02"
+      "Summon_Medic_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7858,7 +7858,7 @@
     "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_02"
+      "Summon_Medic_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7872,7 +7872,7 @@
     "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_02"
+      "Summon_Medic_01"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7886,7 +7886,7 @@
     "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_03"
+      "Summon_Medic_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7897,10 +7897,10 @@
   },
   "565": {
     "summonID": "565",
-    "itemID": "Culber",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_03"
+      "Summon_Medic_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7911,10 +7911,10 @@
   },
   "566": {
     "summonID": "566",
-    "itemID": "GenCardMed01M",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_03"
+      "Summon_Medic_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7925,10 +7925,10 @@
   },
   "567": {
     "summonID": "567",
-    "itemID": "GenRomuMed01M",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_03"
+      "Summon_Medic_02"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7939,7 +7939,7 @@
   },
   "568": {
     "summonID": "568",
-    "itemID": "GenHumanMed01M",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_03"
@@ -7953,7 +7953,7 @@
   },
   "569": {
     "summonID": "569",
-    "itemID": "GenKlingMed01M",
+    "itemID": "Culber",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_03"
@@ -7967,7 +7967,7 @@
   },
   "570": {
     "summonID": "570",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_03"
@@ -7981,10 +7981,10 @@
   },
   "571": {
     "summonID": "571",
-    "itemID": "McCoy",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_04"
+      "Summon_Medic_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -7995,10 +7995,10 @@
   },
   "572": {
     "summonID": "572",
-    "itemID": "Culber",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_04"
+      "Summon_Medic_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8009,10 +8009,10 @@
   },
   "573": {
     "summonID": "573",
-    "itemID": "Crusher",
+    "itemID": "GenKlingMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_04"
+      "Summon_Medic_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8023,10 +8023,10 @@
   },
   "574": {
     "summonID": "574",
-    "itemID": "GenCardMed01M",
+    "itemID": "GenBorgMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_04"
+      "Summon_Medic_03"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8037,7 +8037,7 @@
   },
   "575": {
     "summonID": "575",
-    "itemID": "GenRomuMed01M",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_04"
@@ -8051,7 +8051,7 @@
   },
   "576": {
     "summonID": "576",
-    "itemID": "GenHumanMed01M",
+    "itemID": "Culber",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_04"
@@ -8065,7 +8065,7 @@
   },
   "577": {
     "summonID": "577",
-    "itemID": "GenKlingMed01M",
+    "itemID": "Crusher",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_04"
@@ -8079,7 +8079,7 @@
   },
   "578": {
     "summonID": "578",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_04"
@@ -8093,10 +8093,10 @@
   },
   "579": {
     "summonID": "579",
-    "itemID": "McCoy",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_05"
+      "Summon_Medic_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8107,10 +8107,10 @@
   },
   "580": {
     "summonID": "580",
-    "itemID": "Culber",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_05"
+      "Summon_Medic_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8121,10 +8121,10 @@
   },
   "581": {
     "summonID": "581",
-    "itemID": "Crusher",
+    "itemID": "GenKlingMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_05"
+      "Summon_Medic_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8135,10 +8135,10 @@
   },
   "582": {
     "summonID": "582",
-    "itemID": "Doctor",
+    "itemID": "GenBorgMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_05"
+      "Summon_Medic_04"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8149,7 +8149,7 @@
   },
   "583": {
     "summonID": "583",
-    "itemID": "GenCardMed01M",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_05"
@@ -8163,7 +8163,7 @@
   },
   "584": {
     "summonID": "584",
-    "itemID": "GenRomuMed01M",
+    "itemID": "Culber",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_05"
@@ -8177,7 +8177,7 @@
   },
   "585": {
     "summonID": "585",
-    "itemID": "GenHumanMed01M",
+    "itemID": "Crusher",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_05"
@@ -8191,7 +8191,7 @@
   },
   "586": {
     "summonID": "586",
-    "itemID": "GenKlingMed01M",
+    "itemID": "Doctor",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_05"
@@ -8205,7 +8205,7 @@
   },
   "587": {
     "summonID": "587",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_05"
@@ -8219,10 +8219,10 @@
   },
   "588": {
     "summonID": "588",
-    "itemID": "McCoy",
+    "itemID": "GenRomuMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_06"
+      "Summon_Medic_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8233,10 +8233,10 @@
   },
   "589": {
     "summonID": "589",
-    "itemID": "Crusher",
+    "itemID": "GenHumanMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_06"
+      "Summon_Medic_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8247,10 +8247,10 @@
   },
   "590": {
     "summonID": "590",
-    "itemID": "Culber",
+    "itemID": "GenKlingMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_06"
+      "Summon_Medic_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8261,10 +8261,10 @@
   },
   "591": {
     "summonID": "591",
-    "itemID": "Doctor",
+    "itemID": "GenBorgMed01M",
     "itemType": "Character",
     "filterGroups": [
-      "Summon_Medic_06"
+      "Summon_Medic_05"
     ],
     "weight": 100.0,
     "min": 1,
@@ -8275,7 +8275,7 @@
   },
   "592": {
     "summonID": "592",
-    "itemID": "Phlox",
+    "itemID": "McCoy",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8289,7 +8289,7 @@
   },
   "593": {
     "summonID": "593",
-    "itemID": "GenCardMed01M",
+    "itemID": "Crusher",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8303,7 +8303,7 @@
   },
   "594": {
     "summonID": "594",
-    "itemID": "GenRomuMed01M",
+    "itemID": "Culber",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8317,7 +8317,7 @@
   },
   "595": {
     "summonID": "595",
-    "itemID": "GenHumanMed01M",
+    "itemID": "Doctor",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8331,7 +8331,7 @@
   },
   "596": {
     "summonID": "596",
-    "itemID": "GenKlingMed01M",
+    "itemID": "Phlox",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8345,7 +8345,7 @@
   },
   "597": {
     "summonID": "597",
-    "itemID": "GenBorgMed01M",
+    "itemID": "GenCardMed01M",
     "itemType": "Character",
     "filterGroups": [
       "Summon_Medic_06"
@@ -8356,5 +8356,61 @@
     "owningCondition": false,
     "tutorialMustGive": false,
     "id": "597"
+  },
+  "598": {
+    "summonID": "598",
+    "itemID": "GenRomuMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "598"
+  },
+  "599": {
+    "summonID": "599",
+    "itemID": "GenHumanMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "599"
+  },
+  "600": {
+    "summonID": "600",
+    "itemID": "GenKlingMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "600"
+  },
+  "601": {
+    "summonID": "601",
+    "itemID": "GenBorgMed01M",
+    "itemType": "Character",
+    "filterGroups": [
+      "Summon_Medic_06"
+    ],
+    "weight": 100.0,
+    "min": 1,
+    "max": 1,
+    "owningCondition": false,
+    "tutorialMustGive": false,
+    "id": "601"
   }
 }

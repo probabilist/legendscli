@@ -950,7 +950,7 @@
   },
   "Event_Solo_JadziaDax_01": {
     "hasDateStart": true,
-    "dateStart": "2999-11-01T07:00:00Z",
+    "dateStart": "2021-11-01T07:00:00Z",
     "mainPeriodDuration": "7.00:00:00",
     "prePeriodDuration": "3.00:00:00",
     "postPeriodDuration": "4.00:00:00",
@@ -976,5 +976,90 @@
       }
     ],
     "id": "Event_Solo_JadziaDax_01"
+  },
+  "Event_Faction_FedRomu_PicardTomalak_02": {
+    "hasDateStart": true,
+    "dateStart": "2021-11-08T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Faction",
+    "eventTypeId": "Event_Faction_FedRomu_PicardTomalak",
+    "name": "Events_FactionEvent_FedRomu_Title",
+    "descriptions": {
+      "Pre": "Events_FactionEvent_FedRomu_Desc_Pre",
+      "Main": "Events_FactionEvent_FedRomu_Desc_Main",
+      "Post": "Events_FactionEvent_FedRomu_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeFaction",
+    "operations": [],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Faction_FedRomu_PicardTomalak_02"
+  },
+  "Event_Solo_Gowron_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-11-15T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Gowron",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Gowron"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Gowron_01"
+  },
+  "Event_Solo_Scott_01": {
+    "hasDateStart": true,
+    "dateStart": "2021-11-22T08:00:00Z",
+    "mainPeriodDuration": "7.00:00:00",
+    "prePeriodDuration": "3.00:00:00",
+    "postPeriodDuration": "4.00:00:00",
+    "eventType": "Solo",
+    "eventTypeId": "SoloEvent_Scott",
+    "name": "UI_Events_SoloEvent_Title",
+    "descriptions": {
+      "Pre": "UI_Events_SoloEvent_Desc_Pre",
+      "Main": "UI_Events_SoloEvent_Desc_Main",
+      "Post": "UI_Events_SoloEvent_Desc_Post"
+    },
+    "isEnabled": true,
+    "prefab": "EventTypeSolo",
+    "operations": [
+      "Operation_Event_Solo_Scott"
+    ],
+    "goals": [],
+    "conditions": [
+      {
+        "type": "PlayerLevel",
+        "parameter2": 7,
+        "operand": "MoreOrEqual"
+      }
+    ],
+    "id": "Event_Solo_Scott_01"
   }
 }
