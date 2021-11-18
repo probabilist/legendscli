@@ -3793,8 +3793,8 @@
       "Conn"
     ],
     "AIProfile": "default-smart",
-    "DailyTokenVisible": false,
-    "DailyTokenWeight": 0,
+    "DailyTokenVisible": true,
+    "DailyTokenWeight": 100,
     "Icon": "JadziaDax_Portrait",
     "RarityIcon": "Token_VeryRare",
     "id": "JadziaDax",
@@ -3930,5 +3930,49 @@
     "RarityIcon": "Token_VeryRare",
     "id": "NumberOne",
     "RankupTokenId": "NumberOne"
+  },
+  "Bashir": {
+    "Name": "Common_Bashir",
+    "Description": "Data_Character_Bashir_description",
+    "Rarity": "VeryRare",
+    "Role": "Medical",
+    "Type": "Disabled",
+    "Tags": [
+      "Human",
+      "Starfleet"
+    ],
+    "SkillIDs": [
+      "bashir_attack",
+      "bashir_skill1",
+      "bashir_skill2",
+      "bashir_skill3"
+    ],
+    "BridgeSkill": "bashir_bridge",
+    "Health": 0.5,
+    "Defense": 0.5,
+    "Attack": 0.5,
+    "Tech": 0.5,
+    "Speed": 0.5,
+    "GlancingChance": 0.5,
+    "GlancingDamage": 0.5,
+    "CritChance": 0.5,
+    "CritDamage": 0.5,
+    "Resolve": 0.5,
+    "ModelMenuPrefabName": "Bashir_Menu_Model",
+    "ModelBattlePrefabName": "Bashir_Battle_Model",
+    "MirrorModelBattlePrefabName": "Bashir_Battle_Mirror_Model",
+    "BattleAnimTreeName": "Bashir_BattleAnimTree",
+    "MenuAnimTreeName": "Bashir_MenuAnimTree",
+    "BridgeStations": [
+      "Medical",
+      "Operations"
+    ],
+    "AIProfile": "default-smart",
+    "DailyTokenVisible": false,
+    "DailyTokenWeight": 0,
+    "Icon": "Bashir_Portrait",
+    "RarityIcon": "Token_VeryRare",
+    "id": "Bashir",
+    "RankupTokenId": "Bashir"
   }
 }
